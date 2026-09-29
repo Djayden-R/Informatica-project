@@ -11,6 +11,7 @@ body{
   background-color: #639546;
   overflow-x: hidden;
   padding-top: 20px;
+  padding-left: 15px;
 }
 
 .topnav {
@@ -56,8 +57,31 @@ body{
     background-color: #e4e1e1;
 }
 
-.plantcard1{
+.plant_image{
     width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.plant_card{
     height: 200px;
-    border-radius: 20px;    
+    width: 160px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    border-width: 2px;
+    background-color: #c6d67e;
+    padding: 5px;
+}
+
+.plant_title{
+    font-size: large;
+}
+
+.sidebar_icons{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
 }
