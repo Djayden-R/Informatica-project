@@ -1,0 +1,39 @@
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #639546;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.topnav {
+    background-color: #92bf7f;
+    overflow: hidden;
+    height: 100px;
+    width: 100%;
+    padding-left: 180px;
+}
+
+.profilepicture{
+    margin: auto;
+    border-radius: 100%;
+}
+
+.main{
+    padding-left: 160px;
+    width: 100%
+}
+
+.userinfo{
+    display: flex;
+    align-items: right;
+    gap: 20px;
+}
+
+.plantcard{
+    
+}
