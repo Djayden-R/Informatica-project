@@ -15,14 +15,13 @@ body{
 }
 
 .topnav {
-    background-color: #92bf7f;
-    overflow: hidden;
     height: 100px;
     width: 100%;
     box-sizing: border-box;
     padding-left: 180px;
     top: 0;
     left: 0;
+    background-color: #92bf7f;
 }
 
 .profilepicture{
@@ -32,8 +31,6 @@ body{
 
 .userinfo{
     display: flex;
-    align-items: right;
-    gap: 20px;
 }
 
 .main{
