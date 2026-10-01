@@ -27,6 +27,7 @@ body{
     top: 0;
     left: 0;
     background-color: #92bf7f;
+    position: fixed;
 }
 
 .profilepicture{
@@ -40,29 +41,34 @@ body{
     gap: 10px;
     height: 64px;
     /* Voor een of andere reden moet dit de helft zijn van de topnav*/
+    /* Anders is de naam niet gecentreerd*/
     line-height: 32px;
 }
 
 .main{
-    margin-left: 160px;
-    display: flex;
+    width: calc(100vw - 190px);
     flex-direction: column;
-    height: calc(100vh - 70px);
+    overflow-y: scroll;
     overflow-x: hidden;
-    overflow-y: auto;
     gap: 20px;
+    margin-top: 70px;
+    flex-shrink: 0;
+    position: absolute;
+    right:0;
 }
 
 .plantcardrow{
     display: flex;
     align-items: center;
     padding-left: 30px;
-    gap: 20px;
+    gap: 30px;
     width: 100%;
     height: 270px;
     overflow-x: auto;
     overflow-y: hidden;
     background-color: #e4e1e1;
+    /*Zorg ervoor dat de plantcard rows niet krimpen vanwege gebrek aan ruimte */
+    flex-shrink: 0;
 }
 
 .plant_image{
@@ -103,4 +109,18 @@ body{
 h1{
     margin-left: 30px;
     margin-bottom: 0px;
+}
+
+.add_plant_button{
+    position: fixed;
+    width: 130px;
+    height: 50px;
+    z-index: 9999;
+    background-color: #4a7532;
+    border-radius: 12px;
+    right: 20px;
+    bottom: 20px;
+    color: white;
+    font-size: large;
+    font-weight: 600;
 }
