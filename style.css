@@ -13,7 +13,8 @@ body{
   padding-top: 20px;
   padding-left: 15px;
   display: flex;
-  flex-direction: column
+  flex-direction: column;
+  z-index: 101;
 }
 
 .topnav {
@@ -25,9 +26,10 @@ body{
     padding-left: 180px;
     padding-right: 20px;
     top: 0;
-    left: 0;
+    right: 0;
     background-color: #92bf7f;
     position: fixed;
+    z-index: 100;
 }
 
 .profilepicture{
