@@ -2,6 +2,10 @@ body{
     margin: 0;
 }
 
+html {
+    scrollbar-width: none;
+}
+
 .sidenav {
   height: 100%;
   width: 160px;
@@ -48,25 +52,28 @@ body{
 }
 
 .main{
-    width: calc(100vw - 190px);
+    width: calc(100vw - 175px);
+    min-height: calc(100vh - 70px);
     flex-direction: column;
-    overflow-y: scroll;
     overflow-x: hidden;
     gap: 40px;
     margin-top: 70px;
     flex-shrink: 0;
     position: absolute;
     right:0;
+    background-color: #e4e1e1;
 }
 
 .plantcardrow{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     padding-left: 30px;
     width: 100%;
+    box-sizing: border-box;
     height: auto;
-    overflow-x: auto;
-    overflow-y: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
     background-color: #e4e1e1;
     /*Zorg ervoor dat de plantcard rows niet krimpen vanwege gebrek aan ruimte */
     flex-shrink: 0;
@@ -84,7 +91,7 @@ body{
 }
 
 .plant_card{
-    height: 180px;
+    height: 200px;
     width: 160px;
     border-style: solid;
     border-radius: 5px;
@@ -96,7 +103,12 @@ body{
 }
 
 .plant_title{
-    font-size: large;
+    color: #111;
+    font-size: 17px;
+    font-weight: 550;
+    text-align: center;
+    margin-top: 10px;
+    overflow-wrap: anywhere;
 }
 
 .sidebar_icons{
