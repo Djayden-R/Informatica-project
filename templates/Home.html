@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+{% block content %}
+<!--Hoofd content van de website-->
+    <div class="main">
+
+        <h1>My Plants</h1>
+
+        <div class="single_plantcardrow">
+            <div class="plant_card">
+                <img class="plant_image" 
+                    src="{{ url_for('static', filename='/images/planten/blauwe-bloem.webp') }}">
+                <p class="plant_title">Plant 1</p>
+            </div>
+            <div class="plant_card">
+                <img class="plant_image" 
+                    src="{{ url_for('static', filename='/images/planten/random-bloemen.jpeg') }}">
+                <p class="plant_title">Plant 2</p>
+            </div>
+            <div class="plant_card">
+                <img class="plant_image" 
+                    src="{{ url_for('static', filename='/images/planten/roze-bloem.webp') }}">
+                <p class="plant_title">Dahlia</p>
+            </div>
+            <div class="plant_card">
+                <img class="plant_image" 
+                    src="{{ url_for('static', filename='/images/planten/pannenkoekenplant.jpg') }}">
+                <p class="plant_title">Chinese Money Plant</p>
+            </div>
+            <div class="plant_card">
+                <img class="plant_image" 
+                    src="{{ url_for('static', filename='/images/planten/roze-bloem.webp') }}">
+                <p class="plant_title">Dahlia</p>
+            </div>
+            <div class="plant_card">
+                <img class="plant_image" 
+                    src="{{ url_for('static', filename='/images/planten/pannenkoekenplant.jpg') }}">
+                <p class="plant_title">Chinese Money Plant</p>
+            </div>
+        </div>
+
+    </div>
+
+    <button class="add_plant_button">+ Add Plant</button>
+{% endblock %}
