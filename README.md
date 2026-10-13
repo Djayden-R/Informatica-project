@@ -12,3 +12,11 @@
 2. Elementen maken
 3. CSS toevoegen
 4. Django implementeren
+
+## Runnen van site
+
+### Windows
+
+`python -m venv .venv`
+`.venv\Scripts\activate.bat`
+`pip install -r requirements.txt`
