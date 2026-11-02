@@ -72,8 +72,26 @@ html {
     width: 100%;
     box-sizing: border-box;
     height: auto;
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+    background-color: #e4e1e1;
+    /*Zorg ervoor dat de plantcard rows niet krimpen vanwege gebrek aan ruimte */
+    flex-shrink: 0;
+    padding: 20px 30px 20px 30px;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.single_plantcardrow{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 30px;
+    width: 100%;
+    box-sizing: border-box;
+    height: auto;
+    overflow-x: show;
+    overflow-y: show;
     background-color: #e4e1e1;
     /*Zorg ervoor dat de plantcard rows niet krimpen vanwege gebrek aan ruimte */
     flex-shrink: 0;
