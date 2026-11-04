@@ -64,9 +64,10 @@ def update_db(tries=3):
             except FileNotFoundError:
                 continue
             plant = PlantCare(
-                id=plant_info['id'], name=plant_info['commonName'], image_path=plant_info.get('featuredImage', None))
+                id=plant_info['id'], name=plant_info['commonName'], image_path=plant_info.get('featuredImage', None))  # pyright: ignore[reportCallIssue]
             db.session.merge(plant)
         db.session.commit()
+
 
 @app.route("/plants")
 def plants():
