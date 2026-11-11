@@ -6,9 +6,21 @@
 2. Rechtermuisklik op site.html
 3. Ga naar Live Share in linkerbalk en share server en deel de poort
 
-## Stappenplan
+## Bronnen
 
-1. Opdelen van site in elementen
-2. Elementen maken
-3. CSS toevoegen
-4. Django implementeren
+- [Flask](https://flask.palletsprojects.com/en/stable/quickstart/)
+- [SQLAlchemy](https://flask-sqlalchemy.readthedocs.io/en/stable/quickstart/#check-the-sqlalchemy-documentation)
+
+## Runnen van site
+
+### Opstellen venv
+
+`python -m venv .venv`
+
+`.venv\Scripts\activate.bat` of `. .venv/bin/activate`
+
+`pip install -r requirements.txt`
+
+### Starten van site
+
+`flask --app hello run --debug`

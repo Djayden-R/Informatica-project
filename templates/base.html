@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plants</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="topnav">
+
+        <div class="userinfo">
+            <img class = "profilepicture" 
+            src="{{ url_for('static', filename='/images/profilepicture.png') }}" 
+            width="40">
+            <p>{{test}}</p>
+        </div>
+
+    </div>
+
+    <div class="sidenav">
+
+        <div class="sidebar_element">
+            <img src="{{ url_for('static', filename='/images/home.png') }}" class="sidebar_icons">
+            <a href="{{ url_for('home') }}">Home</a>
+        </div>
+        
+        <div class="settings">
+            <img src="{{ url_for('static', filename='/images/settings.png') }}" class="sidebar_icons">
+            <a href="settings">
+                Settings</a>
+        </div>
+
+    </div>
+
+    {% block content %}
+    {% endblock %}
+    
+</body>
+</html>
