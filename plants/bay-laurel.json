@@ -1,0 +1,272 @@
+{
+    "quickAnswer": "Bay Laurel (Laurus nobilis) needs bright light, a fast-draining gritty potting mix, and infrequent watering. Let the top few inches of soil dry before rewatering, roughly every 7-10 days indoors. Overwatering and heavy, water-retentive soil are the most common causes of root rot in container-grown bay laurel, so drainage matters more than watering frequency.",
+    "summary": "Bay Laurel is a slow-growing, aromatic Mediterranean evergreen prized for both its ornamental form and culinary leaves. As a container plant, it adapts well to pruning and can be shaped into topiary standards, but its Mediterranean origin means it strongly prefers dry-between-waterings conditions over consistently moist soil.\n\nSuccess with bay laurel comes down to mimicking its native rocky, well-drained hillside habitat: bright light, a gritty fast-draining mix, and restraint with the watering can. Established plants tolerate short dry spells far better than soggy roots, making underwatering the safer mistake of the two.",
+    "keyTakeaways": [
+        "Use a gritty, fast-draining potting mix to protect roots from sitting water.",
+        "Water only after the top few inches of soil have dried out.",
+        "Provide bright light for compact, aromatic, healthy foliage growth.",
+        "Avoid saucers holding standing water, which causes root suffocation.",
+        "Prune to shape; bay laurel tolerates trimming well as a topiary or hedge."
+    ],
+    "readingTime": 4,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "bay-laurel",
+    "featuredImage": "/assets/images/bay-laurel.webp",
+    "seoTitle": "Bay Laurel Care Guide: Light, Water and Pruning Tips",
+    "commonName": "Bay Laurel",
+    "facts": {
+        "family": "Lauraceae",
+        "genus": "Laurus",
+        "species": "nobilis",
+        "nativeRange": "Mediterranean Region",
+        "growthHabit": "Aromatic Evergreen Tree"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Standard terrestrial tree requirements. Prefers loamy, well-draining soil.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9013",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Leathery leaves reduce water loss, but it is not a succulent. Consistently dry soil will cause crisp, brown leaf edges.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9014",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Moderate root fragility. Handles repotting well but does not like excessive root pruning.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9015",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Dislikes 'wet feet' strongly. Will show yellowing leaves if drainage is insufficient.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9016",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Noticeably more adaptable indoors than Olive or Citrus. Usually survives the indoor-outdoor transition without dropping all its leaves.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9017",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": -5,
+                "unit": "\u00b0C",
+                "confidence": 0.9,
+                "editorReasoning": "Frost hardy to about -5\u00b0C if planted in the ground, slightly less in a container.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9018",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "bay-laurel",
+    "entityType": "plant",
+    "status": "published",
+    "metaDescription": "Grow a healthy bay laurel indoors or in containers with the right light, watering schedule and pruning to prevent leaf drop and pests.",
+    "shortDesc": "An aromatic, slow-growing evergreen tree commonly kept as a culinary container plant.",
+    "content": "<h2>Overview: The Timeless Culinary Herb</h2><p>Bay Laurel (<em>Laurus nobilis</em>) is an aromatic evergreen shrub or small tree native to the Mediterranean basin. Celebrated for centuries as both an indispensable culinary herb and an ornamental landscape staple, it produces glossy, leathery leaves rich in fragrant essential oils. In our nursery experience, Bay Laurels adapt exceptionally well to container life, making them ideal for sunny patios, balconies, and doorstep herb collections.</p><h2>Sunlight & Climate Requirements</h2><p>Bay Laurels thrive best in <strong>full sun to partial shade</strong>, ideally receiving at least 4 to 6 hours of direct sunlight each day. While established trees are hardy down to USDA Zone 8 (tolerating short cold snaps around -5\u00b0C / 23\u00b0F), potted root systems are more vulnerable to freeze damage. Move containers indoors to a bright, cool room before hard frosts set in. In scorching tropical or dry summer climates, providing light afternoon shade helps prevent leaf scorch and keeps the root zone cool.</p><h2>Ideal Potting Mix & Drainage</h2><p>The single most critical factor in keeping Bay Laurel healthy in containers is aeration. Dense, water-retentive garden soils lead directly to root asphyxiation and rot. Use a gritty, open potting medium\u2014such as a blend of 50% premium potting mix, 30% coarse perlite or pumice, and 20% well-aged compost or coco peat. Maintain a slightly acidic to neutral pH between 6.0 and 7.0, and always use terracotta or fabric pots with unobstructed drainage holes.</p><h2>Watering Routine & Moisture Control</h2><p>Bay Laurels are moderately drought-tolerant once settled, but container plants require a consistent soak-and-dry routine. Water thoroughly until moisture runs freely from the drainage holes, then discard any runoff sitting in saucers immediately. A practical nursery rule of thumb: wait roughly 48 to 72 hours after the top 2 inches of potting mix feel dry before irrigating again. Cut back watering significantly during the slow-growing winter months.</p><h2>Fertilization & Nutrition</h2><p>Because slow-growing potted plants gradually deplete soil nutrients, feed your Bay Laurel during the active growing season (spring through mid-summer). Apply a balanced, slow-release organic fertilizer or a diluted liquid seaweed/fish emulsion blend every 3 to 4 weeks. Avoid heavy nitrogen fertilizers in late autumn to prevent tender, cold-sensitive new growth.</p><h2>Pruning, Shaping & Repotting</h2><p>Bay Laurel responds remarkably well to shearing, making it a classic candidate for topiaries, standards (lollipop forms), or dense decorative shrubs. Prune in late spring or mid-summer using clean bypass pruners, cutting back to an outward-facing bud. Repot every 2 to 3 years into a pot 2 inches wider, or refresh the top 2 inches of soil annually with fresh organic compost if maintaining a fixed container size.</p><h2>Harvesting & Curing Leaves</h2><p>Mature leaves harvested in mid-to-late summer contain the highest concentration of flavorful volatile oils. Pick larger, deep-green leaves as needed. While fresh leaves can be used directly in cooking, drying them for 1 to 2 weeks in a warm, shaded, well-ventilated spot mellows any raw bitterness and concentrates their classic woodsy aroma. Store dried whole leaves in an airtight glass container away from direct sunlight.</p><h2>Pest Control & Common Problems</h2><p>Watch for scale insects, bay suckers (psyllids), and spider mites, particularly on the undersides of leaves and along tender stems. Treat early infestations with regular applications of cold-pressed neem oil spray or horticultural soap. If leaves turn yellow and drop easily, inspect root health immediately to rule out overwatering or compacted, poorly draining soil.</p>",
+    "comparisonTable": {
+        "title": "Bay Laurel Growing Methods Compared",
+        "headers": [
+            "Growing Method",
+            "Space Requirements",
+            "Growth Rate",
+            "Recommended for"
+        ],
+        "rows": [
+            [
+                "Outdoor in Ground",
+                "Minimum 6 feet wide",
+                "Moderate",
+                "Mediterranean climates"
+            ],
+            [
+                "Container (Terracotta)",
+                "Minimum 12 inches diameter",
+                "Slow",
+                "Indoor/Balcony growing"
+            ],
+            [
+                "Topiary/Standard",
+                "Minimum 10 inches diameter",
+                "Slow",
+                "Formal gardens and patios"
+            ]
+        ]
+    },
+    "faq": [
+        {
+            "question": "Why are my Bay Laurel leaves turning yellow?",
+            "answer": "Yellowing leaves on a Bay Laurel are most commonly a symptom of overwatering or poor soil drainage, which starves the roots of oxygen."
+        },
+        {
+            "question": "Can I grow Bay Laurel indoors?",
+            "answer": "Yes, but it requires a very bright, sunny window and careful attention to watering, as indoor evaporation rates are much slower."
+        }
+    ],
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are my Bay Laurel leaves turning yellow?",
+            "diagnosis": "Overwatering or poor drainage",
+            "treatment": "Check soil moisture; allow the top 2 inches to dry before watering. If drainage is poor, repot in a well-draining soil mix.",
+            "prevention": "Use well-draining soil and water only when the top inch feels dry.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "h1": "Bay Laurel Care Guide",
+    "breadcrumbName": "Bay Laurel",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Evergreen tree/shrub",
+        "difficulty": "intermediate",
+        "light": "Full sun to partial shade",
+        "lightMin": "medium",
+        "lightMax": "full",
+        "water": "Moderate",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": true,
+        "humidity": "40-60%",
+        "temperature": "50\u00b0F - 75\u00b0F (10\u00b0C - 24\u00b0C)",
+        "matureSize": "4-8 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer in spring and mid-summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Spring",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Mediterranean",
+        "usdaZones": "8-10",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel"
+        ]
+    },
+    "taxonomy": {
+        "sciName": "Laurus nobilis",
+        "family": "Lauraceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/bay-laurel/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Bay Laurel is well adapted to typical indoor and Mediterranean climates, displaying strong tolerance for average to low household humidity. It does not require supplemental misting or elevated moisture levels, provided it receives ample light and steady airflow."
+        }
+    ],
+    "parameters": {
+        "temperature": {
+            "recommended": "60\u00b0F - 75\u00b0F (15\u00b0C - 24\u00b0C)",
+            "survivable": "20\u00b0F - 90\u00b0F (-7\u00b0C - 32\u00b0C)"
+        }
+    },
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bay-laurel"
+        ]
+    },
+    "contentText": "Overview: The Timeless Culinary Herb Bay Laurel ( Laurus nobilis ) is an aromatic evergreen shrub or small tree native to the Mediterranean basin. Celebrated for centuries as both an indispensable culinary herb and an ornamental landscape staple, it produces glossy, leathery leaves rich in fragrant essential oils. In our nursery experience, Bay Laurels adapt exceptionally well to container life, making them ideal for sunny patios, balconies, and doorstep herb collections. Sunlight & Climate Requirements Bay Laurels thrive best in full sun to partial shade , ideally receiving at least 4 to 6 hours of direct sunlight each day. While established trees are hardy down to USDA Zone 8 (tolerating short cold snaps around -5\u00b0C / 23\u00b0F), potted root systems are more vulnerable to freeze damage. Move containers indoors to a bright, cool room before hard frosts set in. In scorching tropical or dry summer climates, providing light afternoon shade helps prevent leaf scorch and keeps the root zone cool. Ideal Potting Mix & Drainage The single most critical factor in keeping Bay Laurel healthy in containers is aeration. Dense, water-retentive garden soils lead directly to root asphyxiation and rot. Use a gritty, open potting medium\u2014such as a blend of 50% premium potting mix, 30% coarse perlite or pumice, and 20% well-aged compost or coco peat. Maintain a slightly acidic to neutral pH between 6.0 and 7.0, and always use terracotta or fabric pots with unobstructed drainage holes. Watering Routine & Moisture Control Bay Laurels are moderately drought-tolerant once settled, but container plants require a consistent soak-and-dry routine. Water thoroughly until moisture runs freely from the drainage holes, then discard any runoff sitting in saucers immediately. A practical nursery rule of thumb: wait roughly 48 to 72 hours after the top 2 inches of potting mix feel dry before irrigating again. Cut back watering significantly during the slow-growing winter months. Fertilization & Nutrition Because slow-growing potted plants gradually deplete soil nutrients, feed your Bay Laurel during the active growing season (spring through mid-summer). Apply a balanced, slow-release organic fertilizer or a diluted liquid seaweed/fish emulsion blend every 3 to 4 weeks. Avoid heavy nitrogen fertilizers in late autumn to prevent tender, cold-sensitive new growth. Pruning, Shaping & Repotting Bay Laurel responds remarkably well to shearing, making it a classic candidate for topiaries, standards (lollipop forms), or dense decorative shrubs. Prune in late spring or mid-summer using clean bypass pruners, cutting back to an outward-facing bud. Repot every 2 to 3 years into a pot 2 inches wider, or refresh the top 2 inches of soil annually with fresh organic compost if maintaining a fixed container size. Harvesting & Curing Leaves Mature leaves harvested in mid-to-late summer contain the highest concentration of flavorful volatile oils. Pick larger, deep-green leaves as needed. While fresh leaves can be used directly in cooking, drying them for 1 to 2 weeks in a warm, shaded, well-ventilated spot mellows any raw bitterness and concentrates their classic woodsy aroma. Store dried whole leaves in an airtight glass container away from direct sunlight. Pest Control & Common Problems Watch for scale insects, bay suckers (psyllids), and spider mites, particularly on the undersides of leaves and along tender stems. Treat early infestations with regular applications of cold-pressed neem oil spray or horticultural soap. If leaves turn yellow and drop easily, inspect root health immediately to rule out overwatering or compacted, poorly draining soil.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/bay-laurel/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

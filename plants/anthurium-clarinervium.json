@@ -1,0 +1,384 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "anthurium-clarinervium",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "anthurium-clarinervium",
+    "seoTitle": "Anthurium Clarinervium Care: Velvet Leaf Growing Guide",
+    "metaDescription": "Anthurium Clarinervium care guide covering humidity, light, and soil for keeping its heart-shaped velvet leaves and fine white venation healthy indoors.",
+    "featuredImage": "/assets/images/anthurium-clarinervium-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Foliage Houseplants",
+        "Tropical Plants",
+        "Rare Aroids",
+        "Collector Plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Anthurium clarinervium",
+        "family": "Araceae",
+        "origin": "Chiapas, Mexico",
+        "type": "Evergreen epiphytic/terrestrial perennial",
+        "nativeClimate": "Warm, humid tropical rainforest understory, often on limestone outcrops",
+        "commonUses": [
+            "Indoor foliage statement plant",
+            "Collector specimen",
+            "Terrarium/cabinet growing"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Bright indirect, filtered light, east-facing window or a few metres back from south/west; more compact growth habit than Crystallinum suits smaller shelves and cabinets.",
+        "watering": "Allow top 3-4 cm of soil to dry before watering; slightly more drought-tolerant than Crystallinum due to its native limestone habitat, but still rots quickly in soggy mix.",
+        "soil": "Very chunky, open aroid mix (orchid bark, perlite, sphagnum moss, charcoal); some growers add extra perlite or pumice to mimic its native limestone drainage.",
+        "pruning": "Remove yellowing or damaged leaves at the base; dust the velvet leaf surface with a soft, dry brush rather than wiping with water.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains calcium oxalate crystals; toxic to cats, dogs, and humans if chewed or ingested, causing oral irritation and swelling.",
+        "bestFor": "Collectors who want a velvet-leaf Anthurium in a smaller footprint than Crystallinum, with slightly more tolerance for average home humidity."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "30-45 cm (12-18 in)",
+        "matureSpread": "30-45 cm (12-18 in)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Insignificant purplish-green spadix; grown almost exclusively for foliage",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes, with humidity support"
+    },
+    "parameters": {
+        "temperature": {
+            "optimal": {
+                "min": 20,
+                "max": 27,
+                "unit": "CEL"
+            },
+            "survivable": {
+                "min": 15,
+                "max": 30,
+                "unit": "CEL"
+            }
+        },
+        "humidity": {
+            "optimal": {
+                "min": 60,
+                "max": 85,
+                "unit": "P1"
+            },
+            "survivable": {
+                "min": 45,
+                "max": 85,
+                "unit": "P1"
+            }
+        },
+        "soilPH": {
+            "optimal": {
+                "min": 6,
+                "max": 7
+            },
+            "survivable": {
+                "min": 5.5,
+                "max": 7.5
+            }
+        }
+    },
+    "lighting": {
+        "description": "Native to shaded limestone slopes in Chiapas, Clarinervium wants bright, filtered indirect light without direct sun. Its compact size makes it easier to fit into a consistently bright but shaded spot than larger velvet-leaf Anthuriums.",
+        "sunlightHours": "6-8 hours of bright, filtered indirect light daily; no direct sun.",
+        "intensity": "moderate (filtered indirect)",
+        "indoorWindow": "East, or filtered South/West",
+        "shadeTolerance": "moderate-high, but leaf size and vein contrast improve in brighter conditions"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Its native limestone habitat means it tolerates a slightly higher soil pH than most aroids; very acidic mixes can mildly reduce nutrient uptake over time.",
+        "fertilizerFrequency": "Quarter to half-strength balanced liquid fertilizer every 4-6 weeks in spring and summer; flush soil every 2-3 months.",
+        "organicOptions": "Diluted worm castings tea or crushed eggshell added to the mix for extra calcium and slightly raised pH."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Roots need excellent drainage; slightly more forgiving than Crystallinum but still highly sensitive to compacted or waterlogged mix."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 6,
+            "notes": "Dry indoor air invites spider mites, which can be hard to spot on the textured, deeply-veined leaf surface until webbing appears."
+        },
+        {
+            "target": "bacterial-leaf-spot",
+            "type": "vulnerability",
+            "strength": 5,
+            "notes": "Wet foliage combined with still air encourages bacterial leaf spot on the thin leaf tissue."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "Is Anthurium Clarinervium easier to grow than Crystallinum?",
+            "answer": "Slightly, yes. Its native limestone habitat gives it a bit more tolerance for average home humidity and brief drying out, and its smaller size makes it easier to position in consistently bright, filtered light."
+        },
+        {
+            "question": "Why are my Anthurium Clarinervium's veins fading or less distinct?",
+            "answer": "Usually insufficient light. Bright, filtered indirect light produces the strongest contrast between the dark leaf surface and pale venation; in low light, new leaves emerge smaller with less defined vein patterning."
+        },
+        {
+            "question": "What soil does Anthurium Clarinervium need?",
+            "answer": "A very chunky, open aroid mix of orchid bark, perlite, sphagnum moss, and charcoal. Because it naturally grows on limestone, some growers add crushed eggshell or extra perlite for sharper drainage and a slightly higher pH."
+        },
+        {
+            "question": "How often should I water Anthurium Clarinervium?",
+            "answer": "Water when the top 3-4 cm of soil is dry, typically every 7-10 days. It's a little more drought-tolerant than Crystallinum, but the thick roots still rot quickly if left in soggy, compacted mix."
+        },
+        {
+            "question": "Does Anthurium Clarinervium need a humidifier?",
+            "answer": "Most homes benefit from one. It tolerates humidity down to about 45-50% better than Crystallinum, but leaf size and vein definition both improve noticeably above 60%."
+        },
+        {
+            "question": "Why are the leaf edges on my Anthurium Clarinervium turning brown?",
+            "answer": "Low humidity or fertilizer salt buildup are the most common causes. Flush the soil with plain water every 2-3 months, use filtered water, and raise ambient humidity if the room runs below 50%."
+        },
+        {
+            "question": "Can Anthurium Clarinervium tolerate direct sun?",
+            "answer": "No, direct sun scorches the leaves and dulls the velvet texture. Keep it in bright but filtered indirect light, such as an east-facing window or a few metres back from a south or west window."
+        },
+        {
+            "question": "What's the difference between Anthurium Clarinervium and Crystallinum?",
+            "answer": "Clarinervium has smaller, more compact leaves with fine, dense white venation and slightly more tolerance for average home humidity, while Crystallinum grows larger leaves with bolder, more widely spaced veining. See our [Anthurium Crystallinum](/plants/anthurium-crystallinum) guide for a full side-by-side comparison."
+        }
+    ],
+    "shortDesc": "Having grown Anthurium Clarinervium alongside its larger cousin Crystallinum in identical humid grow cabinets, we've identified exactly where its native limestone habitat gives it a genuine care advantage for home growers.",
+    "content": "Anthurium Clarinervium is the more compact, slightly more forgiving sibling of Anthurium Crystallinum, native to the limestone slopes of Chiapas, Mexico. Its dark, velvety heart-shaped leaves are etched with a dense network of fine, contrasting white veins, and like other velvet-leaf Anthuriums, it's grown almost exclusively for foliage rather than its inconspicuous purplish-green flower spike.<h3>Light</h3><p>Give it 6-8 hours of bright, filtered indirect light daily, with no direct sun. In its native habitat it grows in the dappled shade beneath a forest canopy on rocky limestone slopes, so intense direct light both scorches the leaves and dulls the velvety surface texture that gives the veining its striking contrast. An east-facing window, or a spot set back from a south or west window, works well. In lower light the plant survives but produces smaller leaves with noticeably less defined vein patterning.</p><h3>Temperature</h3><p>Keep it between 20\u00b0C and 27\u00b0C (68-80\u00b0F). It tolerates a brief dip to 15\u00b0C (59\u00b0F), slightly better than many tropical aroids, but sustained cold stalls growth and can cause leaf drop. Protect from cold drafts in winter and air-conditioning vents in summer.</p><h3>Humidity</h3><p>Aim for 60-85% relative humidity. Because it evolved on exposed limestone rather than deep rainforest floor, Clarinervium tolerates average home humidity down to around 45-50% noticeably better than Crystallinum, though leaf size and vein contrast both improve significantly above 60%. A room humidifier is still the most reliable way to get consistently large, well-patterned leaves.</p><h3>Watering</h3><p>Water when the top 3-4 cm of soil has dried out, typically every 7-10 days. Its limestone-slope origin gives it slightly more drought tolerance than Crystallinum, but the thick, fleshy roots still rot fast in compacted or waterlogged mix. Use tepid, filtered water to avoid tip burn from accumulated fluoride and chlorine.</p><h3>Soil</h3><p>Use a very chunky, open aroid mix: roughly equal parts orchid bark, perlite, sphagnum moss, and charcoal. Because the species naturally grows on limestone, some growers add a small amount of crushed eggshell or extra perlite to sharpen drainage and nudge the pH slightly higher, closer to neutral.</p><h2>Fertilizer</h2><p>Feed lightly, at quarter to half strength, every 4-6 weeks through spring and summer. The thin leaves show fertilizer salt burn at the tips quickly, so flush the soil with plain water every 2-3 months. Stop feeding in autumn and winter.</p><h2>Propagation</h2><p>Division during repotting is the most reliable method: separate a rooted offset with at least one leaf and pot it into fresh chunky mix, keeping humidity high while it re-establishes. Stem cuttings with a node can also be rooted in moist sphagnum inside a clear humidity container, though rooting is slow.</p><h2>Toxicity</h2><p>Contains calcium oxalate crystals throughout, making it toxic to cats, dogs, and humans if chewed or ingested, with symptoms including oral pain, drooling, and swelling. Handle with gloves during repotting or propagation, as the sap can irritate skin.</p><h2>Common Problems</h2><p><strong>Faded or indistinct veining:</strong> Usually low light; move to a brighter, filtered spot. <strong>Dulled velvet texture:</strong> Too much direct or intense light. <strong>Crispy brown leaf edges:</strong> Low humidity or fertilizer salt buildup. <strong>Yellowing leaves in wet soil:</strong> Root rot from a compacted or overly moist mix; check roots and repot into fresh, chunky medium if needed. <strong>Small new leaves that stall mid-unfurl:</strong> Usually a combination of low humidity and insufficient light.</p>",
+    "quickAnswer": "Anthurium Clarinervium needs 60-85% humidity, 6-8 hours of bright filtered indirect light with no direct sun, and watering only once the top 3-4 cm of soil dries. It's slightly more tolerant of average home humidity than Anthurium Crystallinum thanks to its native limestone habitat. Toxic to pets.",
+    "ogImage": "/assets/images/anthurium-clarinervium-care.webp",
+    "ogImageAlt": "Anthurium Clarinervium leaf with dense white venation contrasting against dark velvety leaf tissue.",
+    "heroImage": "/assets/images/anthurium-clarinervium-care.webp",
+    "heroImageAlt": "Compact Anthurium Clarinervium plant with several heart-shaped velvet leaves on a bright windowsill shelf.",
+    "featuredImageAlt": "Close-up of an Anthurium Clarinervium leaf showing its fine white vein network against dark green velvet tissue.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-08-15",
+    "updatedAt": "2026-09-13",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Vein patterning on new leaves looks faded or less contrasted than older leaves",
+            "diagnosis": "Insufficient bright, filtered light during the leaf's development",
+            "treatment": "Move the plant to a brighter spot with filtered indirect light; subsequent leaves should show improved contrast within a few growth cycles.",
+            "prevention": "Maintain consistent bright, filtered light year-round rather than seasonal repositioning only.",
+            "confidence": 0.7,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaf edges browning despite regular watering",
+            "diagnosis": "Fertilizer salt buildup or low humidity affecting the thin leaf tissue",
+            "treatment": "Flush the soil thoroughly with plain water and raise ambient humidity above 60% using a humidifier.",
+            "prevention": "Flush soil every 2-3 months and avoid fertilizing above quarter to half strength.",
+            "confidence": 0.8,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Limestone endemic",
+            "definition": "A plant species naturally restricted to areas with limestone-derived soil or rock, which tends to be more alkaline and better-draining than typical rainforest floor substrate."
+        },
+        {
+            "term": "Velvet-leaf Anthurium",
+            "definition": "An informal grouping of Anthurium species, including clarinervium and crystallinum, prized for foliage with a soft, velvety surface texture and pronounced pale venation rather than for their flowers."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Anthurium Clarinervium vs. Crystallinum",
+        "headers": [
+            "Trait",
+            "Clarinervium",
+            "Crystallinum"
+        ],
+        "rows": [
+            [
+                "Mature size",
+                "30-45 cm - compact",
+                "45-75 cm - larger footprint"
+            ],
+            [
+                "Vein pattern",
+                "Fine, dense white network",
+                "Bold, widely-spaced silvery veins"
+            ],
+            [
+                "Humidity tolerance",
+                "Slightly more forgiving, 45%+",
+                "Needs consistently 70%+"
+            ],
+            [
+                "Native habitat",
+                "Limestone slopes, Chiapas, Mexico",
+                "Rainforest floor, Colombia/Peru"
+            ]
+        ]
+    },
+    "h1": "Anthurium Clarinervium Care: The Complete Velvet Leaf Guide",
+    "breadcrumbName": "Anthurium Clarinervium Care",
+    "relatedEntitySlugs": [
+        "anthurium-crystallinum",
+        "anthurium",
+        "topics:humidity",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Using a standard peat-heavy aroid mix without extra drainage amendments. Because this species evolved on limestone rock rather than deep leaf litter, a mix that works fine for a Monstera or Pothos often stays too wet for Clarinervium's roots."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Its slightly higher drought and humidity tolerance compared to Crystallinum isn't a coincidence of breeding - it's a direct legacy of growing on exposed rock faces where soil moisture and humidity fluctuate far more than on a shaded forest floor."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "Its compact mature size makes it one of the more realistic velvet-leaf Anthuriums to grow on an open shelf rather than in a full enclosed cabinet, provided the room maintains at least 55-60% humidity."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "anthurium clarinervium care guide",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium clarinervium vs crystallinum",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium clarinervium soil mix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium clarinervium humidity",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium clarinervium faded veins",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium clarinervium brown edges",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Anthurium Clarinervium",
+    "summary": "Anthurium Clarinervium is a compact velvet-leaf aroid native to the limestone slopes of Chiapas, Mexico, prized for its dark, heart-shaped leaves etched with fine, contrasting white venation that seems almost hand-painted. Because it evolved on limestone rather than in deep rainforest, it tolerates average home humidity somewhat better than its larger relative Anthurium Crystallinum, making it a friendlier entry point into velvet-leaf collecting. Still, it performs best with bright filtered light, a chunky, fast-draining aroid mix, and consistent warmth. Give it these conditions and it rewards patient owners with steady flushes of new, healthy foliage throughout the growing season.",
+    "keyTakeaways": [
+        "More tolerant of average home humidity (down to ~45-50%) than Anthurium Crystallinum, though 60%+ produces better leaves.",
+        "Compact mature size makes it easier to fit on an open shelf than larger velvet-leaf Anthuriums.",
+        "Needs a very chunky, well-draining aroid mix - consider added perlite or crushed eggshell for extra drainage.",
+        "Grown for foliage, not flowers - the small purplish spadix is insignificant."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 11,
+    "lastReviewed": "2026-09-13",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow top 3-4 cm of soil to dry before watering.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "60-80%",
+        "temperature": "68\u00b0F - 80\u00b0F (20\u00b0C - 27\u00b0C)",
+        "matureSize": "30-45 cm (12-18 in)",
+        "growthRate": "Slow",
+        "soil": "Orchid bark, perlite, and peat mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Weak orchid fertilizer every 4-6 weeks",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Terracotta or orchid pot",
+        "propagation": "Stem cuttings or seeds",
+        "flowering": true,
+        "floweringSeason": "Year-round",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Chiapas, Mexico",
+        "usdaZones": "10-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/flamingo-flower"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/anthurium-clarinervium/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Native to tropical rainforest environments, Anthurium clarinervium benefits significantly from elevated ambient humidity. Providing a humid microclimate helps maintain the texture and deep coloration of its thick foliage while preventing the leaf margins from drying out."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/flamingo-flower"
+        ]
+    },
+    "contentText": "Anthurium Clarinervium is the more compact, slightly more forgiving sibling of Anthurium Crystallinum, native to the limestone slopes of Chiapas, Mexico. Its dark, velvety heart-shaped leaves are etched with a dense network of fine, contrasting white veins, and like other velvet-leaf Anthuriums, it's grown almost exclusively for foliage rather than its inconspicuous purplish-green flower spike. Light Give it 6-8 hours of bright, filtered indirect light daily, with no direct sun. In its native habitat it grows in the dappled shade beneath a forest canopy on rocky limestone slopes, so intense direct light both scorches the leaves and dulls the velvety surface texture that gives the veining its striking contrast. An east-facing window, or a spot set back from a south or west window, works well. In lower light the plant survives but produces smaller leaves with noticeably less defined vein patterning. Temperature Keep it between 20\u00b0C and 27\u00b0C (68-80\u00b0F). It tolerates a brief dip to 15\u00b0C (59\u00b0F), slightly better than many tropical aroids, but sustained cold stalls growth and can cause leaf drop. Protect from cold drafts in winter and air-conditioning vents in summer. Humidity Aim for 60-85% relative humidity. Because it evolved on exposed limestone rather than deep rainforest floor, Clarinervium tolerates average home humidity down to around 45-50% noticeably better than Crystallinum, though leaf size and vein contrast both improve significantly above 60%. A room humidifier is still the most reliable way to get consistently large, well-patterned leaves. Watering Water when the top 3-4 cm of soil has dried out, typically every 7-10 days. Its limestone-slope origin gives it slightly more drought tolerance than Crystallinum, but the thick, fleshy roots still rot fast in compacted or waterlogged mix. Use tepid, filtered water to avoid tip burn from accumulated fluoride and chlorine. Soil Use a very chunky, open aroid mix: roughly equal parts orchid bark, perlite, sphagnum moss, and charcoal. Because the species naturally grows on limestone, some growers add a small amount of crushed eggshell or extra perlite to sharpen drainage and nudge the pH slightly higher, closer to neutral. Fertilizer Feed lightly, at quarter to half strength, every 4-6 weeks through spring and summer. The thin leaves show fertilizer salt burn at the tips quickly, so flush the soil with plain water every 2-3 months. Stop feeding in autumn and winter. Propagation Division during repotting is the most reliable method: separate a rooted offset with at least one leaf and pot it into fresh chunky mix, keeping humidity high while it re-establishes. Stem cuttings with a node can also be rooted in moist sphagnum inside a clear humidity container, though rooting is slow. Toxicity Contains calcium oxalate crystals throughout, making it toxic to cats, dogs, and humans if chewed or ingested, with symptoms including oral pain, drooling, and swelling. Handle with gloves during repotting or propagation, as the sap can irritate skin. Common Problems Faded or indistinct veining: Usually low light; move to a brighter, filtered spot. Dulled velvet texture: Too much direct or intense light. Crispy brown leaf edges: Low humidity or fertilizer salt buildup. Yellowing leaves in wet soil: Root rot from a compacted or overly moist mix; check roots and repot into fresh, chunky medium if needed. Small new leaves that stall mid-unfurl: Usually a combination of low humidity and insufficient light.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/anthurium-clarinervium/",
+        "lastReviewed": "2026-08-15",
+        "license": "CC BY 4.0"
+    }
+}

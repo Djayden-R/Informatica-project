@@ -1,0 +1,661 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-pinguicula-moranensis",
+    "entityType": "plant",
+    "primaryDomain": "carnivorous",
+    "status": "published",
+    "slug": "pinguicula-moranensis",
+    "seoTitle": "Pinguicula moranensis (Mexican Butterwort) Care Guide",
+    "metaDescription": "Pinguicula moranensis (Mexican butterwort) care: pumice mix or rock mount, RO water under 30 ppm TDS, winter rosette, flowering and leaf pulling.",
+    "featuredImage": "/assets/images/pinguicula-moranensis.webp",
+    "heroImage": "/assets/images/pinguicula-moranensis.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "carnivorous-plants",
+        "butterworts",
+        "mexican-pinguicula",
+        "heterophyllous",
+        "windowsill",
+        "fungus-gnat-control",
+        "rock-mounts"
+    ],
+    "references": [
+        {
+            "title": "Carnivorous Plant Cultivation: Pinguicula",
+            "url": "https://www.carnivorousplants.org/",
+            "doi": ""
+        },
+        {
+            "title": "Pinguicula: Butterworts of the Genus",
+            "url": "https://www.kew.org/",
+            "doi": ""
+        },
+        {
+            "title": "Plant Finder: Pinguicula moranensis",
+            "url": "https://www.missouribotanicalgarden.org/",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Pinguicula moranensis",
+        "family": "Lentibulariaceae",
+        "origin": "Mexico and Guatemala (limestone bluffs and cloud forest rock faces)",
+        "type": "Carnivorous Herb",
+        "nativeClimate": "Seasonally humid montane and cloud forest with a cool, drier winter",
+        "commonUses": [
+            "Windowsill carnivorous plant",
+            "Rock mount display",
+            "Fungus gnat control",
+            "Terrarium accent"
+        ],
+        "taxonType": "species"
+    },
+    "scientificName": "Pinguicula moranensis",
+    "commonNames": [
+        "Mexican Butterwort",
+        "Moran Butterwort"
+    ],
+    "family": "Lentibulariaceae",
+    "genus": "Pinguicula",
+    "origin": "Mexico and Guatemala (limestone bluffs and cloud forest rock faces)",
+    "growthHabit": "Rosette-forming lithophyte / epiphyte with heterophyllous seasonal dimorphism",
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Bright windowsill or under grow lights, in a pumice-based pot or mounted on porous feather rock",
+        "watering": "Summer: bottom-water with a 1-2 cm capillary dish of RO, distilled or rain water. Winter: let the substrate run dry to near-dry and mist sparingly every 10-14 days in the morning.",
+        "soil": "60% volcanic pumice, 20% coarse silica sand, 20% perlite, or a wicking feather rock mount. Avoid dense peat bog mixes.",
+        "pruning": "Remove dead or rotting leaves at the base to keep the crown dry and airy",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Pinguicula moranensis is not known to be toxic to cats, dogs or people, but it is a delicate plant and should be kept out of reach of curious pets.",
+        "bestFor": "Pinguicula moranensis is best for growers who want a compact, attractive windowsill carnivore that doubles as a living flypaper for fungus gnats, and who can supply RO or distilled water."
+    },
+    "vastu": {
+        "enabled": false,
+        "directions": [],
+        "rooms": [],
+        "light": [],
+        "purposes": [],
+        "difficulty": "none",
+        "petFriendly": true,
+        "indoorSuitable": true,
+        "notes": "Not applicable to this carnivorous plant profile.",
+        "sourceUrl": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate in summer, slow in winter",
+        "matureHeight": "2-4 inches (rosette); flower stalks 10-15 cm",
+        "matureSpread": "4-6 inches",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Late winter to spring",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "Summer 20-28\u00b0C (68-82\u00b0F); winter 10-18\u00b0C (50-64\u00b0F)",
+            "survivable": "5-35\u00b0C (41-95\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "40-70%",
+            "survivable": "30-90% with good airflow"
+        },
+        "soilPH": {
+            "recommended": "5.5-7.0 (mineral-free medium)",
+            "survivable": "5.0-7.5"
+        }
+    },
+    "lighting": {
+        "description": "Bright indirect to moderate light, about 120-200 PPFD at the leaves. Morning sun or strong LED grow lights suit it, and hot afternoon sun on bare rock should be avoided.",
+        "sunlightHours": "12-14 hours in summer; 8-10 hours in winter",
+        "intensity": "medium",
+        "indoorWindow": "East or bright south window, or grow lights 20-40 cm above the plant",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Gets its nutrients from prey digested on its sticky leaves. Salts in the substrate and water harm the roots.",
+        "fertilizerFrequency": "None. Do not fertilize the substrate or reservoir.",
+        "organicOptions": "Live or crushed tiny insects such as fungus gnats or fruit flies during the summer carnivorous phase only."
+    },
+    "relationships": [
+        {
+            "target": "water-quality",
+            "type": "requirement",
+            "strength": 10,
+            "notes": "Needs RO, distilled or rain water under 30 ppm TDS, because evaporating minerals clog capillary pores and burn roots."
+        },
+        {
+            "target": "winter-dryness",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "The winter succulent phase needs a near-dry substrate and sparing morning mist to prevent crown rot."
+        },
+        {
+            "target": "substrate-drainage",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "Pumice, sand and perlite or a wicking rock keep the crown drier than dense peat does."
+        },
+        {
+            "target": "fungus-gnats",
+            "type": "benefit",
+            "strength": 7,
+            "notes": "Sticky summer leaves catch adult fungus gnats, but the plant does not kill larvae in soil."
+        },
+        {
+            "target": "crown-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Wet crowns in cool, still winter air lead quickly to rot."
+        }
+    ],
+    "calculatorReferences": [
+        "carnivorous-water-tds-calculator"
+    ],
+    "referenceTables": [
+        {
+            "id": "seasonal-care-morphological-comparison",
+            "title": "Seasonal Care & Morphological Comparison: Summer Carnivorous vs Winter Succulent",
+            "columns": [
+                "Attribute",
+                "Summer Carnivorous Phase",
+                "Winter Succulent Phase"
+            ],
+            "rows": [
+                [
+                    "Foliage",
+                    "Broad, flat, flexible leaves covered in glistening mucilage glands that carry digestive enzymes",
+                    "Tight, compact, thick, non-sticky succulent rosette with small leaves"
+                ],
+                [
+                    "Watering",
+                    "Bottom-watering with a constant 1-2 cm capillary dish of RO, distilled or rain water",
+                    "Substrate dry to near-dry; dish emptied or only topped up when the medium is bone dry; mist sparingly every 10-14 days in the morning"
+                ],
+                [
+                    "Light",
+                    "120-200 PPFD for 12-14 hours; bright indirect light or morning sun",
+                    "Bright, cool light for 8-10 hours with good airflow"
+                ],
+                [
+                    "Feeding",
+                    "Catches gnats and tiny insects on its own; supplement with a few crushed or thawed insects if prey is scarce",
+                    "None; the plant is not digesting prey"
+                ],
+                [
+                    "Crown Rot Risk",
+                    "Low to moderate; rises if the crown sits in standing water or air is still",
+                    "High if the substrate stays wet; this is the season when most plants are lost"
+                ]
+            ]
+        },
+        {
+            "id": "growing-parameters-specification",
+            "title": "Growing Parameters Specification",
+            "columns": [
+                "Parameter",
+                "Target Range",
+                "Tolerance Limit",
+                "Monitoring Protocol"
+            ],
+            "rows": [
+                [
+                    "Water TDS",
+                    "Under 30 ppm (RO, distilled or rain water)",
+                    "Up to 50 ppm briefly with regular flushing; avoid anything higher",
+                    "Check reservoir and runoff monthly with a TDS pen; use the carnivorous water TDS calculator for blends"
+                ],
+                [
+                    "Light intensity",
+                    "120-200 PPFD",
+                    "80-250 PPFD; very low light stops sticky leaf production and strong heat on bare rock dries pockets",
+                    "Check leaf colour and stickiness; use a PAR meter or app for grow lights"
+                ],
+                [
+                    "Photoperiod",
+                    "12-14 hours in summer; 8-10 hours in winter",
+                    "10-16 hours",
+                    "Use a timer and shorten days gradually over 2-3 weeks in autumn"
+                ],
+                [
+                    "Summer temperature",
+                    "20-28\u00b0C (68-82\u00b0F)",
+                    "Up to about 35\u00b0C (95\u00b0F) with airflow",
+                    "Place a thermometer at plant level"
+                ],
+                [
+                    "Winter temperature",
+                    "10-18\u00b0C (50-64\u00b0F)",
+                    "Down to about 5\u00b0C (41\u00b0F); avoid frost",
+                    "Keep away from heaters and cold glass at night"
+                ],
+                [
+                    "Reservoir depth",
+                    "1-2 cm in summer; empty to a few millimetres in winter",
+                    "Up to 3 cm briefly in hot weather",
+                    "Check weekly in summer and every few days in winter"
+                ],
+                [
+                    "Substrate",
+                    "60% pumice, 20% coarse silica sand, 20% perlite, or wicking feather rock",
+                    "Peat and sand can work if it stays gritty and free-draining",
+                    "Inspect for compaction, algae and white crust at each repot"
+                ],
+                [
+                    "Humidity",
+                    "40-70%",
+                    "30-90% with good airflow",
+                    "Use a hygrometer and add a small fan if the air is still"
+                ]
+            ]
+        }
+    ],
+    "faq": [
+        {
+            "question": "How do I propagate Pinguicula moranensis from leaf pullings?",
+            "answer": "Pull healthy, plump leaves from the outer edge of the rosette, ideally the thick succulent leaves of the winter rosette or early spring leaves. Grip each leaf close to the base and pull it sideways with a gentle rocking motion so the white base comes away clean. Lay the leaves flat on a moist, gritty mix of pumice, sand and perlite without burying them, keep them in bright light and high humidity, and use only RO or distilled water. Tiny plantlets usually appear at the base in four to eight weeks, and not every leaf will take."
+        },
+        {
+            "question": "Why are the leaves of my Mexican butterwort turning pink or red?",
+            "answer": "Pink or reddish leaves are usually a healthy response to strong light and cool temperatures. They are a pigment, not a disease, and show the plant is getting enough light. The leaves should still be firm and have a glistening surface. If they are pale, soft or stuck in a rosette that is not growing, light is probably too low. If they turn crispy at the tips, check for salt build-up and heat."
+        },
+        {
+            "question": "How do I get Pinguicula moranensis to flower?",
+            "answer": "Pinguicula moranensis flowers are small, pink to purple blooms held singly on slender stalks about 10-15 cm tall. To get them, give the plant a proper winter rest with a drier substrate, cooler temperatures of about 10-18\u00b0C and a shorter photoperiod. In late winter or early spring, as light and temperature rise, healthy mature plants send up the stalks. Plants that stay warm and wet all year, or that are grown in low light, rarely flower. Avoid fertilizer, because feeding the substrate harms the roots."
+        },
+        {
+            "question": "What PPFD does Pinguicula moranensis need?",
+            "answer": "Aim for about 120-200 PPFD at the leaves, with 12-14 hours of light in summer and 8-10 hours in winter. The plant tolerates roughly 80-250 PPFD. Measure at leaf level with a PAR meter or phone app, and set grow lights 20-40 cm above the rosette. If the leaves stay flat, pale and not sticky in summer, the light is probably too low. If the tips go crisp or the rock dries out fast, there is too much light or heat."
+        },
+        {
+            "question": "Is Pinguicula moranensis a tropical or temperate butterwort?",
+            "answer": "It is usually grouped with the tropical or Mexican butterworts, which switch between sticky carnivorous leaves in summer and a compact succulent rosette in winter. Temperate species such as Pinguicula vulgaris instead die back to a winter bud (hibernaculum) and need a cold dormant rest. Pinguicula moranensis does not form a hibernaculum, so it does not need a cold dormancy. It needs a cooler, drier winter rest with a near-dry substrate. The word tropical is only a horticultural label, because the plant grows in cool, humid mountain habitats in the wild."
+        },
+        {
+            "question": "How is Pinguicula moranensis different from other Mexican butterworts?",
+            "answer": "Pinguicula moranensis is a widespread, variable species, and it is one of several Mexican butterworts that share the summer carnivorous and winter succulent cycle. Plants and hybrids are sold under many names, and colour or leaf-shape forms (sometimes labelled with terms such as alba) differ mainly in flower colour, leaf width or size. The care on this page applies to the species and to most of its forms. Buy from a specialist carnivorous plant grower, and check the label, because names are not always consistent."
+        },
+        {
+            "question": "How many fungus gnats can a Pinguicula moranensis catch?",
+            "answer": "There is no precise figure, but a healthy plant in summer can hold dozens of gnats on its leaves at once, and a mature rosette can accumulate hundreds over a season. The plant digests them slowly, and old leaves covered in carcasses wither while new sticky leaves form. It only catches adult gnats and does not kill the larvae in nearby soil, so pair it with BTI or a dry-down of the host plants. See the guide on carnivorous plants for fungus gnats for a full plan."
+        },
+        {
+            "question": "What are the most common winter watering mistakes?",
+            "answer": "The most common mistake is keeping the summer water dish full in winter, which leaves the substrate wet while the plant is cool and the leaves are succulent and barely growing. This invites crown rot. Others are misting in the evening so the crown stays wet overnight, using a pot with no drainage, and confusing the compact succulent rosette with a dying plant. Let the substrate dry nearly out, mist sparingly every 10-14 days in the morning and keep air moving."
+        },
+        {
+            "question": "Does Pinguicula moranensis go dormant like a Venus flytrap?",
+            "answer": "No. It does not need a cold, frosty rest. It switches from sticky carnivorous leaves to a compact, non-sticky succulent rosette in the cooler, shorter, drier months, which is called heterophylly. It keeps its roots and rosette through the winter and needs a drier substrate, not a cold fridge rest. The dormancy requirements guide compares the winter care of different carnivorous plants."
+        },
+        {
+            "question": "Can I use tap water on a Mexican butterwort?",
+            "answer": "No. Tap water carries dissolved minerals that build up as water evaporates from the substrate, clog the pores of a wicking rock and burn the fine roots. Use RO, distilled or rain water under 30 ppm TDS and check it with a TDS pen. The carnivorous water TDS calculator shows how to blend water and how fast minerals concentrate in a small pot."
+        },
+        {
+            "question": "Can I grow Pinguicula moranensis on a rock?",
+            "answer": "Yes, and it suits the plant well. Porous volcanic rock such as feather rock or pumice stands in a shallow dish and wicks water upward, while the carved pockets keep the crown drier than a pot would. Dense basalt, granite and calcite-dense limestone are poor choices. The Pinguicula rock setup guide covers choosing, carving and mounting."
+        },
+        {
+            "question": "Why are the leaves no longer sticky?",
+            "answer": "In autumn and winter this is normal, because the plant switches to non-sticky succulent leaves. In summer, loss of stickiness usually points to low light, a dry substrate, mineral build-up or heat stress. Raise light to 120-200 PPFD for 12-14 hours, keep the reservoir at 1-2 cm and flush the pot with RO water."
+        },
+        {
+            "question": "Can I grow Pinguicula moranensis with sundews?",
+            "answer": "Yes, with some care. Cape sundew (Drosera capensis) tolerates the same mineral-free water and bright light, and can sit in the wetter lower zone of a rock or tray. Keep the butterwort on a drier ledge in winter, because it needs the substrate to dry out when the sundew still wants moisture."
+        },
+        {
+            "question": "Is Pinguicula moranensis safe around pets?",
+            "answer": "It is not known to be toxic to cats, dogs or people, but the sticky leaves are delicate and a curious pet can easily damage the plant. Keep it on a shelf or in a terrarium, and avoid insecticides on or near it."
+        }
+    ],
+    "shortDesc": "Pinguicula moranensis is a compact Mexican butterwort that switches between sticky carnivorous leaves in summer and a tight succulent rosette in winter, and thrives in pumice or on wicking rock.",
+    "content": "<h2>Pinguicula moranensis Care at a Glance</h2><ul><li><strong>Light:</strong> Bright indirect to moderate light, about 120-200 PPFD, for 12-14 hours in summer and 8-10 hours in winter.</li><li><strong>Substrate:</strong> 60% pumice, 20% coarse silica sand and 20% perlite, or a wicking feather rock mount. Avoid dense peat bog mixes.</li><li><strong>Water:</strong> RO, distilled or rain water under 30 ppm TDS only.</li><li><strong>Summer:</strong> sticky carnivorous leaves, with a constant 1-2 cm bottom-watering dish.</li><li><strong>Winter:</strong> compact succulent rosette, near-dry substrate and sparing morning misting every 10-14 days.</li><li><strong>Flowers:</strong> pink to purple, on slender stalks in late winter to spring, after a cool, drier winter.</li><li><strong>Propagation:</strong> leaf pullings from the plump rosette.</li></ul><h2>What Is Pinguicula moranensis?</h2><p>Pinguicula moranensis, the Mexican butterwort or Moran butterwort, is a rosette-forming carnivorous plant in the family Lentibulariaceae. It grows on limestone bluffs and cloud forest rock faces in Mexico and Guatemala, where it clings to damp, mineral-poor rock rather than rooting in deep soil. Its broad leaves are covered in tiny glands that produce sticky mucilage, which traps small insects, and digestive enzymes that break them down. The plant is a lithophyte and sometimes an epiphyte, so a free-draining, airy medium suits it better than a wet peat bog.</p><p>It is one of the easiest Mexican butterworts for a windowsill, and it makes an effective living flypaper for houseplants. It is a variable species, so plants sold under different names or colour forms can look a little different, but the care is the same. For a comparison with sundews, see <a href=\"/plants/drosera-capensis\">Drosera capensis</a>, which tolerates wetter conditions all year.</p><h2>Seasonal Heterophylly: Two Plants in One</h2><p>Mexican Pinguicula are <strong>heterophyllous</strong>, meaning they produce two different kinds of leaves during the year. Care must follow this cycle, and the first reference table above summarises it.</p><h3>Summer Carnivorous Phase</h3><p>In warm, bright months the plant forms broad, flat leaves that glisten with mucilage and digest trapped insects. Give it 12-14 hours of bright light at about 120-200 PPFD and keep the base reservoir at a constant 1-2 cm. The substrate should stay evenly damp through capillary action, and misting is rarely needed.</p><h3>Winter Non-Carnivorous Succulent Phase</h3><p>As light and temperature fall, the plant makes tight, compact, non-sticky succulent leaves that store water. This is the phase in which plants are most often lost, because a wet substrate and cool, still air rot the crown. Let the substrate dry to near-dry, empty the dish or fill it only when the medium is bone dry, and mist sparingly every 10-14 days in the morning so the surface dries before night. Keep the light bright for 8-10 hours and keep air moving. The seasonal cycle of the rock mount is covered in the <a href=\"/topics/pinguicula-rock-setup\">Pinguicula rock setup guide</a>, and the <a href=\"/topics/dormancy-requirements-carnivorous-plants\">dormancy requirements guide</a> explains how this differs from the cold rest of Venus flytraps and Sarracenia.</p><h3>Transitions</h3><p>Change the water level and light gradually over two to three weeks in each direction. A sudden switch, especially into a wet winter, is a common cause of failure.</p><h2>Tropical (Mexican) vs Temperate Butterworts</h2><p>Growers often split butterworts into two groups. <strong>Temperate</strong> species such as Pinguicula vulgaris die back to a tight winter bud called a hibernaculum and need a true cold dormant rest. <strong>Tropical or Mexican</strong> species such as Pinguicula moranensis never form a hibernaculum. They keep a rosette all year and swap sticky leaves for succulent ones in the cool season, so they need a drier, cooler winter rather than a cold rest. The word tropical is only a horticultural label, because wild plants grow in cool, humid mountain habitats. Do not give this plant the fridge rest used for Venus flytraps or temperate butterworts.</p><h2>Substrate and Planting</h2><p>The best medium is open and mineral-based: <strong>60% volcanic pumice, 20% coarse silica sand and 20% perlite</strong>. It drains quickly, holds a little moisture and keeps the crown dry. Rinse the pumice and sand in RO water before use to remove dust and soluble minerals. Plant the rosette so the crown sits at or just above the surface, never buried, and press the roots into the mix without compacting it.</p><p>Alternatively, mount the plant on a Pinguicula rock of porous feather rock or pumice that stands in a shallow dish, so the stone wicks water upward while the crown stays drier than it would in a pot. The <a href=\"/topics/pinguicula-rock-setup\">Pinguicula rock setup guide</a> explains rock choice, carving shallow pockets and securing the roots. For a broader look at media for carnivorous plants, and why dense peat mixes work against this species, see the <a href=\"/topics/carnivorous-plant-substrate-guide\">carnivorous plant substrate guide</a>.</p><h2>Light</h2><p>Aim for <strong>120-200 PPFD</strong> at the leaves. In a window, that means bright indirect light or a few hours of gentle morning sun. Under grow lights, place the fixture 20-40 cm above the plant and check the reading at leaf level with a PAR meter or app, then raise or lower the light until it falls in range. Use 12-14 hours in summer and 8-10 hours in winter. A rosette that stays flat and pale in summer needs more light, and leaves that curl or go crisp indicate too much heat or light on bare rock. A pink or reddish tint in strong light is normal.</p><h2>Water Quality: Zero Minerals</h2><p>Use <strong>RO, distilled or rain water, kept under 30 ppm TDS</strong>. Dissolved minerals in tap water concentrate as water evaporates from the substrate and the rock face. They form a white crust, block the capillary channels and burn the fine roots. Test the reservoir and runoff monthly with a TDS pen. The <a href=\"/calculators/carnivorous-water-tds-calculator\">carnivorous water TDS calculator</a> helps you check blends and estimate how quickly minerals build up in your pot. Flush the substrate from the top with RO water every few months, and never use fertilizer.</p><h2>Feeding and Fungus Gnat Control</h2><p>The plant catches its own food. In a room with fungus gnats or fruit flies, the sticky summer leaves will usually feed it, and old leaves covered in carcasses wither and are replaced by new ones. If prey is scarce, place a few thawed or crushed tiny insects on a leaf in summer. Do not feed in winter, and never feed the substrate.</p><p>Mexican butterworts make useful flypaper beside houseplants, but they only catch adult gnats and do not kill the larvae in damp soil. Combine them with BTI and a dry-down cycle on the host plants, as described in <a href=\"/topics/carnivorous-plants-for-fungus-gnats\">carnivorous plants for fungus gnats</a>. Trapping drops in winter, when the leaves are non-sticky.</p><h2>Temperature, Humidity and Airflow</h2><p>The plant grows well at 20-28\u00b0C in summer and 10-18\u00b0C in winter, and survives short dips to about 5\u00b0C. Moderate humidity of 40-70% is enough, and airflow matters more than high humidity. For an enclosed display, use ventilation so the surface does not stay saturated. The <a href=\"/topics/carnivorous-plant-terrarium-build\">carnivorous plant terrarium build guide</a> explains how to ventilate a terrarium and separate plants with different winter needs.</p><h2>Propagation by Leaf Pullings</h2><ol><li><strong>Choose healthy leaves.</strong> Select plump, firm leaves from the outside of the rosette, ideally the thick succulent leaves from the winter rosette or early spring.</li><li><strong>Pull cleanly.</strong> Grip the leaf at its base and pull sideways with a gentle rocking motion so the white base comes away with the leaf. A torn leaf rarely roots.</li><li><strong>Lay the leaves flat.</strong> Place them on a damp, gritty mix of pumice, sand and perlite, base touching the medium. Do not bury them.</li><li><strong>Keep them humid and bright.</strong> Use RO water, bright light and a loosely covered container with some airflow.</li><li><strong>Wait for plantlets.</strong> Tiny plantlets form at the base in four to eight weeks. Remove old leaf remnants once they rot, and move plantlets to their own pots when they have a few leaves.</li></ol><p>Not every leaf will take, so pull several. Mature plants also produce offsets that can be divided in spring.</p><h2>Flowering</h2><p>Healthy mature plants produce small pink to purple flowers, held singly on slender stalks about 10-15 cm tall, in late winter and spring. They follow a cool, drier winter rest with a shorter photoperiod. Strong light and a clean root zone encourage flowering. Do not fertilize to force blooms.</p><h2>Maintenance Routine</h2><ul><li><strong>Weekly:</strong> check the water dish in summer, remove dead leaves and look for algae or white crust.</li><li><strong>Monthly:</strong> check TDS of the reservoir and runoff, and rinse the surface with RO water.</li><li><strong>Every 6-12 months:</strong> flush the substrate with RO water, and repot in fresh pumice mix in early spring before rapid growth.</li></ul><h2>Troubleshooting Summary</h2><table><thead><tr><th>Symptom</th><th>Likely cause</th><th>Quick fix</th></tr></thead><tbody><tr><td>Crown turns soft, brown or black in winter</td><td>Wet substrate and still air in the succulent phase</td><td>Let the substrate dry, remove rotted leaves and improve airflow</td></tr><tr><td>Leaves not sticky in summer</td><td>Low light, dry substrate or mineral build-up</td><td>Raise light, keep the dish at 1-2 cm and flush with RO water</td></tr><tr><td>Leaf tips brown and crisp</td><td>Mineral salts or heat</td><td>Flush with RO water and move out of hot sun</td></tr><tr><td>White crust on the substrate</td><td>Evaporating minerals from tap water</td><td>Flush the pot and switch to RO or distilled water</td></tr><tr><td>Green film on the surface</td><td>Constant wetness with strong light</td><td>Lower the water level, shade the surface and add airflow</td></tr></tbody></table><h2>Related Resources</h2><p>Mount the plant with the <a href=\"/topics/pinguicula-rock-setup\">Pinguicula rock setup guide</a>, choose a medium with the <a href=\"/topics/carnivorous-plant-substrate-guide\">carnivorous plant substrate guide</a>, plan an enclosure with the <a href=\"/topics/carnivorous-plant-terrarium-build\">carnivorous plant terrarium build guide</a>, use it for pest control with <a href=\"/topics/carnivorous-plants-for-fungus-gnats\">carnivorous plants for fungus gnats</a>, compare winter care in the <a href=\"/topics/dormancy-requirements-carnivorous-plants\">dormancy requirements guide</a>, check your water with the <a href=\"/calculators/carnivorous-water-tds-calculator\">carnivorous water TDS calculator</a>, and meet a companion in the profile for <a href=\"/plants/drosera-capensis\">Drosera capensis</a>.</p>",
+    "quickAnswer": "Pinguicula moranensis is a Mexican butterwort that needs RO, distilled or rain water under 30 ppm TDS, a gritty 60/20/20 mix of pumice, coarse silica sand and perlite (or a wicking feather rock mount), and bright indirect light of about 120-200 PPFD. In summer it makes sticky carnivorous leaves and likes a 1-2 cm bottom-watering dish. In winter it forms a compact, non-sticky succulent rosette and needs a near-dry substrate with sparing morning misting every 10-14 days to prevent crown rot.",
+    "ogImage": "/assets/images/pinguicula-moranensis.webp",
+    "ogImageAlt": "Pinguicula moranensis with glistening sticky leaves in a pumice mix",
+    "heroImageAlt": "Pinguicula moranensis with glistening sticky leaves in a pumice mix",
+    "featuredImageAlt": "Pinguicula moranensis with glistening sticky leaves in a pumice mix",
+    "category": "Carnivorous Plants",
+    "publishedAt": "2026-10-03",
+    "updatedAt": "2026-10-23",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Crown turns soft, brown or black in winter",
+            "diagnosis": "Wet substrate with cool, still air during the succulent phase",
+            "cause": "Wet substrate with cool, still air during the succulent phase",
+            "treatment": "Let the substrate dry nearly out, cut away rotted leaves with clean scissors, improve airflow and mist only sparingly in the morning.",
+            "prevention": "Lower the water level gradually in autumn and keep the dish dry through winter.",
+            "confidence": 0.88,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaves stay small and not sticky in summer",
+            "diagnosis": "Low light, a dry substrate or mineral build-up",
+            "cause": "Low light, a dry substrate or mineral build-up",
+            "treatment": "Raise light to 120-200 PPFD for 12-14 hours, keep a 1-2 cm reservoir and flush the pot with RO water.",
+            "prevention": "Use RO or distilled water and keep the plant in bright light.",
+            "confidence": 0.82,
+            "evidence": []
+        },
+        {
+            "symptom": "White or grey crust on the substrate surface or rock",
+            "diagnosis": "Dissolved minerals concentrating as water evaporates",
+            "cause": "Dissolved minerals concentrating as water evaporates",
+            "treatment": "Flush slowly from the top with RO water, brush off surface crust and check runoff TDS.",
+            "prevention": "Use water under 30 ppm TDS and flush every few months.",
+            "confidence": 0.87,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaf tips brown or crisp",
+            "diagnosis": "Salt stress or heat from bare rock in direct sun",
+            "cause": "Salt stress or heat from bare rock in direct sun",
+            "treatment": "Flush with RO water, move to bright indirect light and add airflow.",
+            "prevention": "Avoid hot afternoon sun and tap water.",
+            "confidence": 0.78,
+            "evidence": []
+        },
+        {
+            "symptom": "Green algae or slime on the substrate surface",
+            "diagnosis": "Constant surface wetness combined with strong light",
+            "cause": "Constant surface wetness combined with strong light",
+            "treatment": "Lower the water level, shade the surface, brush gently under RO water and increase airflow.",
+            "prevention": "Let the surface dry slightly between top-ups and keep light off the reservoir.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Fungus gnats hover around the plant",
+            "diagnosis": "Constantly wet organic material such as sphagnum or dead leaves",
+            "cause": "Constantly wet organic material such as sphagnum or dead leaves",
+            "treatment": "Remove dead leaves, let the surface dry slightly and top with a thin layer of perlite or sand. Sticky leaves will catch adults.",
+            "prevention": "Keep the medium mineral-based and clear dead tissue promptly.",
+            "confidence": 0.76,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaf pullings rot without forming plantlets",
+            "diagnosis": "Medium too wet, leaves torn or buried, or still air",
+            "cause": "Medium too wet, leaves torn or buried, or still air",
+            "treatment": "Remove rotting leaves, use fresh gritty mix kept damp but not soggy and pull more leaves cleanly from the base.",
+            "prevention": "Lay leaves flat on the surface with some airflow and pull several for better odds.",
+            "confidence": 0.74,
+            "evidence": []
+        },
+        {
+            "symptom": "Plant does not flower",
+            "diagnosis": "No cool, drier winter rest, or too little light",
+            "cause": "No cool, drier winter rest, or too little light",
+            "treatment": "Provide a cooler, drier winter with 8-10 hours of bright light and increase light gradually in spring.",
+            "prevention": "Follow the seasonal cycle and avoid fertilizer.",
+            "confidence": 0.72,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Heterophylly",
+            "definition": "The production of two different leaf forms on one plant. Mexican Pinguicula make sticky carnivorous leaves in summer and compact succulent leaves in winter."
+        },
+        {
+            "term": "Mucilage",
+            "definition": "The sticky, sugary secretion produced by glands on butterwort leaves that traps small insects."
+        },
+        {
+            "term": "Lithophyte",
+            "definition": "A plant that grows on rock surfaces rather than in deep soil."
+        },
+        {
+            "term": "Capillary Wicking",
+            "definition": "The upward movement of water through the connected pores of a porous medium, such as pumice or feather rock, from a shallow reservoir."
+        },
+        {
+            "term": "TDS (Total Dissolved Solids)",
+            "definition": "The concentration of dissolved minerals in water, measured in ppm. Pinguicula moranensis needs water under 30 ppm."
+        },
+        {
+            "term": "Hibernaculum",
+            "definition": "The tight winter bud that temperate butterworts such as Pinguicula vulgaris form to survive a cold dormant rest. Pinguicula moranensis does not form one."
+        },
+        {
+            "term": "PPFD",
+            "definition": "Photosynthetic photon flux density, the amount of usable light reaching the leaves, measured in micromoles per square metre per second. Pinguicula moranensis does well at about 120-200 PPFD."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Mexican Butterwort vs Other Common Carnivorous Plants",
+        "headers": [
+            "Plant",
+            "Winter Pattern",
+            "Water Regime",
+            "Gnat Capture"
+        ],
+        "rows": [
+            [
+                "Pinguicula moranensis",
+                "Succulent rosette, no cold rest",
+                "Damp in summer, near-dry in winter",
+                "Excellent in summer"
+            ],
+            [
+                "Pinguicula vulgaris (temperate butterwort)",
+                "Winter bud (hibernaculum) after a cold rest",
+                "Constantly damp in the growing season",
+                "Good in summer"
+            ],
+            [
+                "Drosera capensis",
+                "No dormancy; slows slightly",
+                "Moist, tolerates standing water",
+                "Excellent all year"
+            ],
+            [
+                "Dionaea muscipula",
+                "Cold dormancy for 3-4 months",
+                "Barely damp in winter",
+                "Poor"
+            ],
+            [
+                "Nepenthes ventrata",
+                "No dormancy; keep warm",
+                "Consistently moist",
+                "Poor"
+            ]
+        ]
+    },
+    "h1": "Pinguicula moranensis Care Guide: Mexican Butterwort in Summer and Winter",
+    "breadcrumbName": "Pinguicula moranensis",
+    "relatedEntitySlugs": [
+        "calculators:carnivorous-water-tds-calculator",
+        "plants:drosera-capensis",
+        "topics:carnivorous-plant-substrate-guide",
+        "topics:carnivorous-plant-terrarium-build",
+        "topics:fungus-gnats",
+        "topics:pinguicula-rock-setup",
+        "topics:water-quality"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Treating the winter succulent rosette as a dying plant and keeping the water dish full. The compact, non-sticky rosette is normal, and a wet substrate in cool, still air is what rots the crown."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "A butterwort catches only adult gnats. The larvae stay in the damp soil of your other houseplants, so the plant works best as part of a plan with BTI or a dry-down cycle."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "Most losses come from tap water minerals building up in the pot or rock, so measuring TDS and flushing the substrate matter more than any other care step."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "pinguicula moranensis",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "mexican butterwort pinguicula moranensis",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "pinguicula moranensis care",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "mexican butterwort care",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "pinguicula winter care",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "pinguicula leaf pulling",
+            "type": "faq_candidate",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "pinguicula moranensis flower",
+            "type": "faq_candidate",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "pinguicula ppfd",
+            "type": "faq_candidate",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "tropical pinguicula",
+            "type": "faq_candidate",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "temperate pinguicula",
+            "type": "faq_candidate",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "butterwort fungus gnats",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "pinguicula substrate pumice",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Mexican Butterwort",
+    "aliases": [
+        "Moran Butterwort",
+        "Mexican Butterwort",
+        "Pinguicula moranensis",
+        "Mexican Pinguicula",
+        "P. moranensis"
+    ],
+    "summary": "Pinguicula moranensis is a Mexican butterwort that alternates between sticky carnivorous leaves in summer and a compact succulent rosette in winter. Learn the pumice substrate, RO water rule, seasonal watering, flowering, leaf pulling and gnat control.",
+    "keyTakeaways": [
+        "Grow it in a gritty mix of 60% pumice, 20% coarse silica sand and 20% perlite, or on wicking feather rock, rather than dense peat.",
+        "Use only RO, distilled or rain water under 30 ppm TDS, because evaporating minerals clog pores and burn roots.",
+        "Summer needs bright light of 120-200 PPFD for 12-14 hours and a constant 1-2 cm bottom-watering dish for sticky carnivorous leaves.",
+        "Winter needs a compact succulent rosette kept near-dry, with sparing morning misting every 10-14 days and 8-10 hours of light to prevent crown rot.",
+        "Propagate by pulling plump leaves cleanly from the rosette and laying them flat on a damp, gritty mix, and use the plant as a living trap for adult fungus gnats only."
+    ],
+    "confidenceLevel": "high",
+    "readingTime": 9,
+    "lastReviewed": "2026-10-03",
+    "plantHero": {
+        "plantType": "Carnivorous Herb",
+        "difficulty": "intermediate",
+        "light": "Bright indirect to moderate light",
+        "lightMin": "medium",
+        "lightMax": "high",
+        "water": "Summer: 1-2 cm bottom-watering dish of RO water. Winter: near-dry substrate, sparing morning mist.",
+        "drynessThreshold": "Allow near-dry in winter",
+        "droughtTolerance": "moderate",
+        "dormancyShift": true,
+        "humidity": "40-70%",
+        "temperature": "Summer 20-28\u00b0C; winter 10-18\u00b0C",
+        "matureSize": "2-4 inches",
+        "growthRate": "Moderate in summer, slow in winter",
+        "soil": "60/20/20 pumice, coarse silica sand and perlite, or wicking feather rock",
+        "soilDrainage": "excellent",
+        "fertilizer": "None",
+        "repottingFrequency": "Every 1-2 years in early spring",
+        "potPreference": "Small pot with drainage, or rock mount in a shallow dish",
+        "propagation": "Leaf pullings",
+        "flowering": true,
+        "floweringSeason": "Late winter to spring",
+        "petSafety": "safe",
+        "petSafetyNote": "Not known to be toxic, but delicate.",
+        "nativeRegion": "Mexico and Guatemala",
+        "usdaZones": "Indoor plant; frost-tender",
+        "seasonality": "heterophyllous (summer carnivorous, winter succulent)",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "Pinguicula moranensis",
+            "Carnivorous plant",
+            "Heterophylly",
+            "Total dissolved solids"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/pinguicula-moranensis/",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": [],
+        "note": "Not known to be toxic, but no definitive ASPCA listing was confirmed for this species. Keep out of reach of pets, since the delicate sticky leaves are easily damaged."
+    },
+    "contentText": "Pinguicula moranensis Care at a Glance Light: Bright indirect to moderate light, about 120-200 PPFD, for 12-14 hours in summer and 8-10 hours in winter. Substrate: 60% pumice, 20% coarse silica sand and 20% perlite, or a wicking feather rock mount. Avoid dense peat bog mixes. Water: RO, distilled or rain water under 30 ppm TDS only. Summer: sticky carnivorous leaves, with a constant 1-2 cm bottom-watering dish. Winter: compact succulent rosette, near-dry substrate and sparing morning misting every 10-14 days. Flowers: pink to purple, on slender stalks in late winter to spring, after a cool, drier winter. Propagation: leaf pullings from the plump rosette. What Is Pinguicula moranensis? Pinguicula moranensis, the Mexican butterwort or Moran butterwort, is a rosette-forming carnivorous plant in the family Lentibulariaceae. It grows on limestone bluffs and cloud forest rock faces in Mexico and Guatemala, where it clings to damp, mineral-poor rock rather than rooting in deep soil. Its broad leaves are covered in tiny glands that produce sticky mucilage, which traps small insects, and digestive enzymes that break them down. The plant is a lithophyte and sometimes an epiphyte, so a free-draining, airy medium suits it better than a wet peat bog. It is one of the easiest Mexican butterworts for a windowsill, and it makes an effective living flypaper for houseplants. It is a variable species, so plants sold under different names or colour forms can look a little different, but the care is the same. For a comparison with sundews, see Drosera capensis , which tolerates wetter conditions all year. Seasonal Heterophylly: Two Plants in One Mexican Pinguicula are heterophyllous , meaning they produce two different kinds of leaves during the year. Care must follow this cycle, and the first reference table above summarises it. Summer Carnivorous Phase In warm, bright months the plant forms broad, flat leaves that glisten with mucilage and digest trapped insects. Give it 12-14 hours of bright light at about 120-200 PPFD and keep the base reservoir at a constant 1-2 cm. The substrate should stay evenly damp through capillary action, and misting is rarely needed. Winter Non-Carnivorous Succulent Phase As light and temperature fall, the plant makes tight, compact, non-sticky succulent leaves that store water. This is the phase in which plants are most often lost, because a wet substrate and cool, still air rot the crown. Let the substrate dry to near-dry, empty the dish or fill it only when the medium is bone dry, and mist sparingly every 10-14 days in the morning so the surface dries before night. Keep the light bright for 8-10 hours and keep air moving. The seasonal cycle of the rock mount is covered in the Pinguicula rock setup guide , and the dormancy requirements guide explains how this differs from the cold rest of Venus flytraps and Sarracenia. Transitions Change the water level and light gradually over two to three weeks in each direction. A sudden switch, especially into a wet winter, is a common cause of failure. Tropical (Mexican) vs Temperate Butterworts Growers often split butterworts into two groups. Temperate species such as Pinguicula vulgaris die back to a tight winter bud called a hibernaculum and need a true cold dormant rest. Tropical or Mexican species such as Pinguicula moranensis never form a hibernaculum. They keep a rosette all year and swap sticky leaves for succulent ones in the cool season, so they need a drier, cooler winter rather than a cold rest. The word tropical is only a horticultural label, because wild plants grow in cool, humid mountain habitats. Do not give this plant the fridge rest used for Venus flytraps or temperate butterworts. Substrate and Planting The best medium is open and mineral-based: 60% volcanic pumice, 20% coarse silica sand and 20% perlite . It drains quickly, holds a little moisture and keeps the crown dry. Rinse the pumice and sand in RO water before use to remove dust and soluble minerals. Plant the rosette so the crown sits at or just above the surface, never buried, and press the roots into the mix without compacting it. Alternatively, mount the plant on a Pinguicula rock of porous feather rock or pumice that stands in a shallow dish, so the stone wicks water upward while the crown stays drier than it would in a pot. The Pinguicula rock setup guide explains rock choice, carving shallow pockets and securing the roots. For a broader look at media for carnivorous plants, and why dense peat mixes work against this species, see the carnivorous plant substrate guide . Light Aim for 120-200 PPFD at the leaves. In a window, that means bright indirect light or a few hours of gentle morning sun. Under grow lights, place the fixture 20-40 cm above the plant and check the reading at leaf level with a PAR meter or app, then raise or lower the light until it falls in range. Use 12-14 hours in summer and 8-10 hours in winter. A rosette that stays flat and pale in summer needs more light, and leaves that curl or go crisp indicate too much heat or light on bare rock. A pink or reddish tint in strong light is normal. Water Quality: Zero Minerals Use RO, distilled or rain water, kept under 30 ppm TDS . Dissolved minerals in tap water concentrate as water evaporates from the substrate and the rock face. They form a white crust, block the capillary channels and burn the fine roots. Test the reservoir and runoff monthly with a TDS pen. The carnivorous water TDS calculator helps you check blends and estimate how quickly minerals build up in your pot. Flush the substrate from the top with RO water every few months, and never use fertilizer. Feeding and Fungus Gnat Control The plant catches its own food. In a room with fungus gnats or fruit flies, the sticky summer leaves will usually feed it, and old leaves covered in carcasses wither and are replaced by new ones. If prey is scarce, place a few thawed or crushed tiny insects on a leaf in summer. Do not feed in winter, and never feed the substrate. Mexican butterworts make useful flypaper beside houseplants, but they only catch adult gnats and do not kill the larvae in damp soil. Combine them with BTI and a dry-down cycle on the host plants, as described in carnivorous plants for fungus gnats . Trapping drops in winter, when the leaves are non-sticky. Temperature, Humidity and Airflow The plant grows well at 20-28\u00b0C in summer and 10-18\u00b0C in winter, and survives short dips to about 5\u00b0C. Moderate humidity of 40-70% is enough, and airflow matters more than high humidity. For an enclosed display, use ventilation so the surface does not stay saturated. The carnivorous plant terrarium build guide explains how to ventilate a terrarium and separate plants with different winter needs. Propagation by Leaf Pullings Choose healthy leaves. Select plump, firm leaves from the outside of the rosette, ideally the thick succulent leaves from the winter rosette or early spring. Pull cleanly. Grip the leaf at its base and pull sideways with a gentle rocking motion so the white base comes away with the leaf. A torn leaf rarely roots. Lay the leaves flat. Place them on a damp, gritty mix of pumice, sand and perlite, base touching the medium. Do not bury them. Keep them humid and bright. Use RO water, bright light and a loosely covered container with some airflow. Wait for plantlets. Tiny plantlets form at the base in four to eight weeks. Remove old leaf remnants once they rot, and move plantlets to their own pots when they have a few leaves. Not every leaf will take, so pull several. Mature plants also produce offsets that can be divided in spring. Flowering Healthy mature plants produce small pink to purple flowers, held singly on slender stalks about 10-15 cm tall, in late winter and spring. They follow a cool, drier winter rest with a shorter photoperiod. Strong light and a clean root zone encourage flowering. Do not fertilize to force blooms. Maintenance Routine Weekly: check the water dish in summer, remove dead leaves and look for algae or white crust. Monthly: check TDS of the reservoir and runoff, and rinse the surface with RO water. Every 6-12 months: flush the substrate with RO water, and repot in fresh pumice mix in early spring before rapid growth. Troubleshooting Summary Symptom Likely cause Quick fix Crown turns soft, brown or black in winter Wet substrate and still air in the succulent phase Let the substrate dry, remove rotted leaves and improve airflow Leaves not sticky in summer Low light, dry substrate or mineral build-up Raise light, keep the dish at 1-2 cm and flush with RO water Leaf tips brown and crisp Mineral salts or heat Flush with RO water and move out of hot sun White crust on the substrate Evaporating minerals from tap water Flush the pot and switch to RO or distilled water Green film on the surface Constant wetness with strong light Lower the water level, shade the surface and add airflow Related Resources Mount the plant with the Pinguicula rock setup guide , choose a medium with the carnivorous plant substrate guide , plan an enclosure with the carnivorous plant terrarium build guide , use it for pest control with carnivorous plants for fungus gnats , compare winter care in the dormancy requirements guide , check your water with the carnivorous water TDS calculator , and meet a companion in the profile for Drosera capensis .",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/pinguicula-moranensis/",
+        "lastReviewed": "2026-10-03",
+        "license": "CC BY 4.0"
+    }
+}

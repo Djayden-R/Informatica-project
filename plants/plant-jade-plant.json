@@ -1,0 +1,411 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-jade-plant",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "jade-plant",
+    "seoTitle": "Jade Plant Care: Light, Water & Soil for Long Life",
+    "metaDescription": "Jade Plant care ensures decades of growth. Learn soak-and-dry watering, bright sun, gritty soil, and how to keep this lucky succulent thriving indoors.",
+    "featuredImage": "/assets/images/jade-plant.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "succulent",
+        "indoor-plants",
+        "beginner-friendly",
+        "low-maintenance",
+        "air-purifying",
+        "vastu"
+    ],
+    "references": [
+        {
+            "title": "Crassula ovata - Royal Horticultural Society",
+            "url": "https://www.rhs.org.uk/plants/crassula",
+            "doi": ""
+        },
+        {
+            "title": "Growing Jade Plants - University of Wisconsin-Madison Extension",
+            "url": "https://hort.extension.wisc.edu/articles/jade-plant-crassula-ovata/",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Crassula ovata",
+        "family": "Crassulaceae",
+        "origin": "South Africa",
+        "type": "Succulent Shrub",
+        "nativeClimate": "Arid and semi-arid",
+        "commonUses": [
+            "Indoor ornamental",
+            "Bonsai",
+            "Feng Shui / Vastu"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright indirect to direct morning sun",
+        "watering": "Low. Use the 'soak and dry' method. Allow the soil to dry out completely before watering deeply.",
+        "soil": "Gritty, fast-draining cactus or succulent mix.",
+        "pruning": "Prune in spring to maintain shape, encourage thick trunk growth, and prevent the plant from becoming top-heavy.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Jade plants are toxic to cats and dogs. Ingestion can cause vomiting, lethargy, and a lack of coordination. Keep out of reach of pets.",
+        "bestFor": "Beginners, busy plant parents, and those looking to add a long-living, architectural succulent to their home or office."
+    },
+    "vastu": {
+        "enabled": true,
+        "directions": [
+            "south-east",
+            "east"
+        ],
+        "rooms": [
+            "entrance",
+            "living-room",
+            "office"
+        ],
+        "light": [
+            "bright-indirect",
+            "morning-sun"
+        ],
+        "purposes": [
+            "wealth",
+            "prosperity",
+            "positive-energy"
+        ],
+        "difficulty": "beginner",
+        "petFriendly": false,
+        "indoorSuitable": true,
+        "notes": "In Vastu Shastra, the Jade Plant is celebrated as a 'wealth magnet'. Placing it in the South-East direction (the wealth and Venus zone) or near the entrance attracts financial stability, business success, and positive energy.",
+        "sourceUrl": "https://www.rhs.org.uk/plants/crassula"
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "3-6 feet (indoors typically 1-3 feet)",
+        "matureSpread": "2-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Winter to early spring (rare indoors)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "18-24\u00b0C (65-75\u00b0F)",
+            "survivable": "10-35\u00b0C (50-95\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "30-50%",
+            "survivable": "20-60%"
+        },
+        "soilPH": {
+            "recommended": "6.0-6.5",
+            "survivable": "5.5-7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires ample bright light to maintain compact growth and prevent stretching.",
+        "sunlightHours": "4-6 hours of bright, indirect or direct morning sunlight",
+        "intensity": "high",
+        "indoorWindow": "south or east-facing",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Requires very little feeding. Over-fertilizing can cause leggy, weak growth.",
+        "fertilizerFrequency": "Feed once every 2-3 months during the active growing season (spring and summer) with a diluted succulent fertilizer.",
+        "organicOptions": "Worm castings mixed lightly into the topsoil annually."
+    },
+    "relationships": [
+        {
+            "target": "sunlight",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "Insufficient light causes etiolation (stretching) and weak, drooping stems."
+        },
+        {
+            "target": "overwatering",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "The primary cause of death. Sitting in wet soil rapidly leads to root and stem rot."
+        },
+        {
+            "target": "mealybugs",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Prone to mealybug infestations in the crevices between leaves and stems."
+        }
+    ],
+    "calculatorReferences": [
+        "succulent-watering-calculator",
+        "sunlight-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Are Jade Plants toxic to pets?",
+            "answer": "Yes, Jade Plants (Crassula ovata) are toxic to cats and dogs. Ingestion can cause vomiting, lethargy, and a lack of coordination. It is best to keep them entirely out of reach of curious pets."
+        },
+        {
+            "question": "Can I put my Jade Plant in direct sunlight?",
+            "answer": "Yes, but with caution. Jade plants love morning sun, but intense, scorching afternoon sun can burn the leaves, causing brown scorched patches. Acclimate them gradually to direct sun over a few weeks."
+        },
+        {
+            "question": "How do I get my Jade Plant to develop a thick trunk?",
+            "answer": "Patience, proper pruning, and appropriate pot size. Don't over-pot the plant. Pruning the tips encourages branching, which in turn causes the main stem to thicken and become woody to support the new weight."
+        },
+        {
+            "question": "How do I propagate a Jade Plant?",
+            "answer": "They are incredibly easy to propagate. Use a stem cutting or a single healthy leaf. Let the cut end callus for a few days, then place it on slightly moist succulent soil until roots form."
+        },
+        {
+            "question": "Why are the leaves on my Jade Plant falling off?",
+            "answer": "Leaf drop is almost always related to watering. If the dropped leaves are yellow and mushy, you are overwatering. If the leaves are shriveled and dry before falling, the plant is severely underwatered."
+        },
+        {
+            "question": "Why are my Jade Plant's leaves wrinkly and soft?",
+            "answer": "Wrinkled, soft, and deflated leaves indicate severe dehydration. The plant is using up its stored water reserves. Give the plant a deep, thorough watering, and the leaves should plump back up quickly."
+        },
+        {
+            "question": "Why is my Jade Plant growing tall and floppy?",
+            "answer": "This is called etiolation. When a Jade Plant doesn't get enough light, it stretches toward the light source, resulting in weak stems. Move it to a brighter window and prune the leggy growth."
+        },
+        {
+            "question": "How do I know the exact watering schedule for my indoor Jade Plant?",
+            "answer": "Because Jade Plants store water, their watering schedule changes drastically based on your room's temperature and sunlight. To calculate the exact days between watering for your specific setup, use our Watering Calculator."
+        }
+    ],
+    "shortDesc": "A compact, long-lived succulent known for its fleshy leaves, luck-bringing symbolism, and beginner-friendly care requirements.",
+    "content": "<h2>Overview</h2><p>The Jade Plant (<em>Crassula ovata</em>) is a beloved succulent houseplant recognized by its thick, woody stems and fleshy, oval-shaped green leaves. Native to the dry regions of South Africa, it has adapted to store water in its foliage, making it incredibly resilient and forgiving of occasional neglect.</p><p>Often referred to as the 'Money Plant' or 'Lucky Plant', it holds a prominent place in Vastu Shastra and Feng Shui, where it is traditionally gifted to bring prosperity and financial success to new businesses and homes.</p><h2>Light and Placement</h2><p>Jade Plants require bright light to thrive. Indoors, a south or east-facing window is ideal. They enjoy direct morning sunlight but should be protected from the harsh, scorching rays of the afternoon summer sun, which can cause leaf burn.</p><p>If your Jade Plant begins to develop a red tinge around the edges of its leaves, this is a natural and healthy response to high light levels. Conversely, if it starts stretching and looking 'leggy', it desperately needs more light.</p><h2>Watering Strategy</h2><p>The golden rule for Jade Plants is the <strong>'Soak and Dry'</strong> method. Because they store water in their leaves, they do not need constant moisture. Water the plant thoroughly until water drains from the bottom of the pot, then empty the saucer. <em>Do not water again until the soil is 100% dry.</em></p><p>During the winter months, the plant's growth slows down significantly, and it may only need watering once every 4 to 6 weeks.</p><h2>Soil and Potting Mix</h2><p>Excellent drainage is non-negotiable. Standard potting soil will hold too much moisture and rot the roots. Use a specialized cactus or succulent mix, or create your own by mixing regular potting soil with equal parts perlite, coarse sand, or pumice.</p><p>Because Jade Plants can become top-heavy as they grow, planting them in a heavy, unglazed terracotta pot is highly recommended. The terracotta also wicks away excess moisture, providing a safeguard against overwatering.</p><h2>Common Problems and Troubleshooting</h2><p>The majority of issues stem from overwatering. If the leaves turn yellow, become translucent, and fall off easily, stop watering immediately and check the roots for rot. </p><p>Pest-wise, keep an eye out for mealybugs\u2014tiny, white, cotton-like masses that hide in the joints where leaves meet the stem. Wipe them away with a cotton swab dipped in rubbing alcohol.</p>",
+    "quickAnswer": "Jade Plants require bright light including some direct sun for compact growth and the red leaf edging that indicates optimal health. Water only after soil fully dries, using a fast-draining succulent mix to prevent root and stem rot. Prune regularly to shape this long-lived species, which can survive for decades and develop thick woody trunks resembling small trees.",
+    "ogImage": "/assets/images/jade-plant.webp",
+    "ogImageAlt": "Lush Jade Plant with thick stems and glossy green leaves",
+    "heroImage": "/assets/images/jade-plant.webp",
+    "heroImageAlt": "Lush, healthy Jade Plant (Crassula ovata) in a terracotta pot bathed in morning sunlight",
+    "featuredImageAlt": "Lush, healthy Jade Plant (Crassula ovata) in a terracotta pot bathed in morning sunlight",
+    "category": "Succulents",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Yellow, mushy leaves falling off",
+            "diagnosis": "Overwatering or poor soil drainage",
+            "treatment": "Stop watering immediately. Allow the soil to dry completely. If the stem is black/squishy, take cuttings from the healthy top to propagate and discard the rotted base.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Wrinkled, shriveled leaves",
+            "diagnosis": "Underwatering",
+            "treatment": "Give the plant a deep, thorough watering. The leaves should plump up within 24-48 hours.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Leggy, stretched stems",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move the plant to a brighter location. Prune the stretched stems to encourage compact, bushy regrowth.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "White, cottony fuzz on stems",
+            "diagnosis": "Mealybugs",
+            "treatment": "Dab the bugs with a cotton swab soaked in isopropyl alcohol, or spray the plant with neem oil.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Brown, dry spots on leaves",
+            "diagnosis": "Sunburn",
+            "treatment": "Move the plant slightly away from intense, direct afternoon sunlight.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Etiolation",
+            "definition": "The process where a plant grows weak, spindly, and pale due to lack of sufficient light, stretching toward the nearest light source."
+        },
+        {
+            "term": "Callus",
+            "definition": "The hardened, dry tissue that forms over a wound or cut on a plant (like a stem cutting), helping to prevent infection and rot before planting."
+        },
+        {
+            "term": "Succulent",
+            "definition": "Plants that have thickened, fleshy parts adapted to retain water in arid climates or soil conditions."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Jade Plant Growing Environment Comparison",
+        "headers": [
+            "Placement",
+            "Light Level",
+            "Watering Need",
+            "Growth Habit"
+        ],
+        "rows": [
+            [
+                "South-Facing Window",
+                "High (Direct Morning Sun)",
+                "Moderate",
+                "Compact, sturdy, red-tinged leaves"
+            ],
+            [
+                "East-Facing Window",
+                "Medium-High (Bright Indirect)",
+                "Low",
+                "Healthy, deep green, steady growth"
+            ],
+            [
+                "Office Desk / Deep Indoors",
+                "Low",
+                "Very Low",
+                "Leggy, weak stems, drooping leaves"
+            ]
+        ]
+    },
+    "h1": "Jade Plant Care Guide: The Complete Succulent and Vastu Placement Manual",
+    "breadcrumbName": "Jade Plant Care Guide",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "sunlight",
+        "ultimate-root-rot-rescue-guide",
+        "string-of-pearls-care-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the dense, tree-like form looks substantial and owners assume it needs proportionally large amounts of water\u2014but the thick trunk and leaves store months of water, and soggy soil causes root rot that travels up the trunk invisibly. Wait until the leaves feel slightly soft and less firm before watering."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Red edges along the leaves are caused by light stress and indicate the plant is getting the optimal amount of bright light\u2014this is a sign of health, not damage. Solid green leaves on a jade plant are actually a signal that it wants more sun."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light, the branches grow long and thin without thickening\u2014unable to support their own weight, they droop and the plant loses its classic tree shape. A very sunny south- or west-facing window is non-negotiable for the compact, woody form jade plants are known for."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "Crassula ovata care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "money plant succulent",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to grow jade plant",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "jade plant watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "jade plant vastu",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Jade Plant",
+    "summary": "Crassula ovata is a classic succulent known for longevity, with specimens living over fifty years and developing impressive bonsai-like forms. Its thick oval leaves store water efficiently, and under stress it develops attractive red margins. This guide covers the bright light requirements for compact growth, precise watering to prevent the rot that claims most Jade Plants, pruning for shape, and the cultural significance of this plant as a symbol of prosperity.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for compact growth.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Use a fast-draining succulent mix to prevent root and stem rot.",
+        "Prune to shape as desired, since Jade Plant tolerates trimming well."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Succulent Shrub",
+        "difficulty": "beginner",
+        "light": "Full sun to bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Use the 'soak and dry' method. Allow the soil to dry out completely before watering deeply.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "18-24\u00b0C (65-75\u00b0F)",
+        "matureSize": "3-6 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Succulent or cactus gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring",
+        "repottingFrequency": "Every 3-4 years",
+        "potPreference": "Heavy terracotta pot",
+        "propagation": "Leaf or stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Winter",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "South Africa",
+        "usdaZones": "11-12",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jade-plant"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/jade-plant/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jade-plant"
+        ]
+    },
+    "contentText": "Overview The Jade Plant ( Crassula ovata ) is a beloved succulent houseplant recognized by its thick, woody stems and fleshy, oval-shaped green leaves. Native to the dry regions of South Africa, it has adapted to store water in its foliage, making it incredibly resilient and forgiving of occasional neglect. Often referred to as the 'Money Plant' or 'Lucky Plant', it holds a prominent place in Vastu Shastra and Feng Shui, where it is traditionally gifted to bring prosperity and financial success to new businesses and homes. Light and Placement Jade Plants require bright light to thrive. Indoors, a south or east-facing window is ideal. They enjoy direct morning sunlight but should be protected from the harsh, scorching rays of the afternoon summer sun, which can cause leaf burn. If your Jade Plant begins to develop a red tinge around the edges of its leaves, this is a natural and healthy response to high light levels. Conversely, if it starts stretching and looking 'leggy', it desperately needs more light. Watering Strategy The golden rule for Jade Plants is the 'Soak and Dry' method. Because they store water in their leaves, they do not need constant moisture. Water the plant thoroughly until water drains from the bottom of the pot, then empty the saucer. Do not water again until the soil is 100% dry. During the winter months, the plant's growth slows down significantly, and it may only need watering once every 4 to 6 weeks. Soil and Potting Mix Excellent drainage is non-negotiable. Standard potting soil will hold too much moisture and rot the roots. Use a specialized cactus or succulent mix, or create your own by mixing regular potting soil with equal parts perlite, coarse sand, or pumice. Because Jade Plants can become top-heavy as they grow, planting them in a heavy, unglazed terracotta pot is highly recommended. The terracotta also wicks away excess moisture, providing a safeguard against overwatering. Common Problems and Troubleshooting The majority of issues stem from overwatering. If the leaves turn yellow, become translucent, and fall off easily, stop watering immediately and check the roots for rot. Pest-wise, keep an eye out for mealybugs\u2014tiny, white, cotton-like masses that hide in the joints where leaves meet the stem. Wipe them away with a cotton swab dipped in rubbing alcohol.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/jade-plant/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

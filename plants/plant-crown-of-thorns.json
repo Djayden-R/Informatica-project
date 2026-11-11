@@ -1,0 +1,329 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-crown-of-thorns",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "crown-of-thorns",
+    "seoTitle": "Crown of Thorns Care: Blooms & Toxicity Warning",
+    "metaDescription": "Crown of Thorns drops yellow leaves without enough sun. Find out Euphorbia milii's watering needs, light requirements, and important toxicity warnings.",
+    "featuredImage": "/assets/images/crown-of-thorns.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "flowering",
+        "toxic-to-pets",
+        "sun-loving"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Euphorbia milii",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Euphorbia",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Euphorbia milii",
+        "family": "Euphorbiaceae",
+        "origin": "Madagascar",
+        "type": "Evergreen succulent shrub",
+        "nativeClimate": "Semi-desert / Tropical dry forest",
+        "commonUses": [
+            "Sunny windowsills",
+            "Drought-tolerant displays"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Requires the brightest, hottest window in your home (south or west-facing).",
+        "watering": "Water thoroughly when the top 50% of the soil is dry. Unlike most succulents, it will drop its leaves if allowed to stay bone-dry for too long.",
+        "soil": "A fast-draining cactus and succulent mix.",
+        "pruning": "Wear thick gloves to prune back leggy stems; avoid contact with the toxic white sap.",
+        "toxicity": "toxic",
+        "toxicityNote": "Highly toxic. The white sap causes severe skin irritation, and ingestion causes violent vomiting in pets and humans.",
+        "bestFor": "Sunny rooms without children or pets, looking for year-round blooms."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "2-3 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Year-round (if given enough light)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 90\u00b0F (18\u00b0C - 32\u00b0C)",
+            "survivable": "50\u00b0F - 100\u00b0F (10\u00b0C - 38\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires full, direct sunlight to bloom. If placed in indirect light, it will survive but will grow weak, leggy stems and refuse to produce flowers.",
+        "sunlightHours": "4-8 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or west-facing window is mandatory.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires more fertilizer than a typical succulent to support continuous blooming.",
+        "fertilizerFrequency": "Once a month during spring and summer with a blooming houseplant fertilizer diluted to half strength.",
+        "organicOptions": "Bone meal mixed into the topsoil in spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Susceptible to root rot if placed in heavy soil or if the pot lacks drainage holes."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Crown of Thorns dropping its leaves?",
+            "answer": "While it is a succulent, Euphorbia milii is not a desert cactus. If you let the soil stay completely bone-dry for weeks, it will drop its leaves to conserve water. Cold drafts can also cause sudden leaf drop."
+        },
+        {
+            "question": "How do I get my Crown of Thorns to bloom indoors?",
+            "answer": "Light is the only trigger. It requires at least 4 to 6 hours of direct, blazing sunlight every day to produce its colorful bracts. Without direct sun, it will remain green and leafy."
+        },
+        {
+            "question": "Is the Crown of Thorns plant toxic?",
+            "answer": "Yes, highly toxic. Like all Euphorbias, it bleeds a sticky white sap when cut. This sap causes severe contact dermatitis (skin rash) and is dangerous if it gets in your eyes or is ingested by pets."
+        },
+        {
+            "question": "How often should I water a Crown of Thorns?",
+            "answer": "Water when the top 50% to 75% of the soil is dry. Do not wait for it to become completely bone-dry, but do ensure the pot drains fully and never sits in a saucer of water."
+        },
+        {
+            "question": "Why are the leaves turning yellow?",
+            "answer": "Yellowing leaves at the bottom of the plant are usually a sign of overwatering and impending root rot. Ensure the soil is drying out significantly between waterings."
+        }
+    ],
+    "shortDesc": "The Crown of Thorns (Euphorbia milii) is a rugged, sun-loving succulent that rewards bright windowsills with year-round colorful blooms. However, its toxic sap requires careful handling.",
+    "content": "<h2>Overview</h2><p>The Crown of Thorns (<em>Euphorbia milii</em>) is a fascinating, semi-succulent shrub native to Madagascar. It features thick, water-storing stems completely covered in sharp, formidable spines. Despite its rugged, intimidating appearance, it produces delicate, teardrop-shaped green leaves and stunning, colorful blooms (which are technically modified leaves called bracts) in shades of red, pink, yellow, and white.</p><p>It is one of the few indoor plants capable of blooming year-round, making it highly prized for sunny windowsills. However, this is not a plant for everyone. It comes with two major warnings: first, its spines are sharp enough to draw blood, and second, it bleeds a highly toxic white latex sap when damaged. It must be handled with care and kept away from children and pets.</p><h3>Light Requirements: Full Sun is Mandatory</h3><p>If you want a Crown of Thorns to bloom, you must provide it with the brightest light possible. It requires a minimum of four to six hours of direct, unfiltered sunlight every day. A south-facing or west-facing window is non-negotiable. If you place it in a dim room or a north-facing window, the plant will survive, but it will grow weak, \"leggy\" stems, drop its lower leaves, and refuse to produce a single flower.</p><h3>Watering Strategy</h3><p>This is where many indoor gardeners fail. Because it looks like a cactus, people treat it like a cactus, withholding water for months at a time. While the Crown of Thorns is drought-tolerant, it will respond to extreme drought by dropping all of its leaves to survive. To keep it lush and blooming, water the plant thoroughly when the top 50% to 75% of the soil feels dry. During the heat of summer, this might be once a week. In winter, reduce watering significantly, allowing the soil to dry out almost completely.</p><h3>Temperature and Humidity</h3><p>Being native to Madagascar, this plant loves heat. Typical indoor temperatures between 65\u00b0F and 90\u00b0F (18\u00b0C - 32\u00b0C) are perfect. It is highly sensitive to cold; temperatures below 50\u00b0F (10\u00b0C) or exposure to a freezing window draft will cause it to drop its leaves immediately. It prefers dry air and has zero need for a humidifier, making it perfectly suited for centrally heated Western homes.</p><h3>Soil and Potting</h3><p>Excellent drainage is required to prevent root rot. Use a high-quality commercial cactus and succulent mix, or amend standard potting soil with 50% perlite or pumice. Always use a pot with a large drainage hole. Terracotta pots are excellent for Euphorbias because they breathe, allowing the soil to dry out faster.</p><h2>Fertilizing</h2><p>To support its continuous blooming cycle, the Crown of Thorns requires slightly more fertilizer than a typical succulent. Feed it once a month during the spring and summer using a liquid houseplant fertilizer diluted to half-strength. Look for a fertilizer slightly higher in phosphorus to encourage blooming. Do not fertilize during the winter.</p><h2>Pruning and Toxicity Warning</h2><p>Over time, the plant can become leggy and unruly. You can prune it back to encourage branching, but you must take extreme precautions. <strong>Like all Euphorbias, the Crown of Thorns contains a milky white latex sap that is highly toxic and severely irritating.</strong></p><p>If this sap touches your skin, it can cause a painful rash or blistering. If it gets in your eyes, it can cause temporary blindness and severe pain. If ingested by cats, dogs, or humans, it causes intense vomiting and gastrointestinal distress. Always wear thick, leather gardening gloves and protective eyewear when pruning this plant. Wash your tools immediately afterward.</p><h2>Common Problems</h2><p><strong>Leaves Dropping Suddenly:</strong> Usually caused by one of two things: letting the soil stay bone-dry for too long, or exposing the plant to a cold draft. Adjust your watering or move it away from the drafty window.</p><p><strong>Yellowing Bottom Leaves:</strong> This is the classic sign of overwatering. Ensure the soil is drying out halfway down before watering again, and never let the pot sit in a saucer of standing water.</p><p><strong>No Flowers:</strong> The plant is not receiving enough direct sunlight. Move it to a brighter window.</p>",
+    "quickAnswer": "Crown of Thorns is a succulent euphorbia that demands bright light including direct sun for prolific blooming, and tolerates drought by storing water in its thick stems. Water only after soil dries completely, handle carefully due to sharp thorns and irritating milky sap, and use a fast-draining succulent mix to prevent root rot. This Madagascar native blooms year-round in adequate light.",
+    "ogImage": "/assets/images/crown-of-thorns.webp",
+    "ogImageAlt": "Bright red blooms on a thorny Euphorbia milii plant",
+    "heroImage": "/assets/images/crown-of-thorns.webp",
+    "heroImageAlt": "Close up of the colorful bracts and sharp spines of the Crown of Thorns",
+    "featuredImageAlt": "Crown of Thorns blooming in a sunny terracotta pot",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Crown of Thorns dropping its leaves?",
+            "diagnosis": "Underwatering (soil too dry) or cold drafts",
+            "treatment": "If soil is bone dry, water deeply; if cold, move to a warmer spot; ensure no drafts.",
+            "prevention": "Water when the top inch of soil is dry; maintain temperatures above 15\u00b0C.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning yellow?",
+            "diagnosis": "Overwatering or poor drainage leading to root rot",
+            "treatment": "Allow soil to dry out; if rot is advanced, repot in dry, well-draining soil.",
+            "prevention": "Water sparingly; use cactus/succulent mix.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Bract",
+            "definition": "A modified or specialized leaf, especially one associated with a reproductive structure such as a flower. In the Crown of Thorns, the 'petals' are actually bracts."
+        },
+        {
+            "term": "Latex",
+            "definition": "A milky fluid found in many plants, such as Euphorbias, which exudes when the plant is cut and coagulates on exposure to the air. Often highly irritating or toxic."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Blooming Succulent Comparison",
+        "headers": [
+            "Plant",
+            "Bloom Trigger",
+            "Toxicity"
+        ],
+        "rows": [
+            [
+                "Crown of Thorns",
+                "Direct Sun",
+                "Highly Toxic"
+            ],
+            [
+                "Christmas Cactus",
+                "Long Dark Nights",
+                "Non-Toxic"
+            ],
+            [
+                "Kalanchoe",
+                "Long Dark Nights",
+                "Toxic"
+            ]
+        ]
+    },
+    "h1": "Crown of Thorns Care: Blooms, Spines, and Toxic Sap",
+    "breadcrumbName": "Crown of Thorns Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the thick, fleshy stems look tropical and thirsty\u2014but it's a succulent that stores substantial water in its stems, and wet soil causes root rot that spreads upward invisibly until the stems collapse. Let the soil dry out completely between waterings."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The milky white sap that bleeds from any cut is a skin and eye irritant that can cause temporary vision loss if rubbed into the eyes\u2014always wash hands thoroughly after any pruning. Despite this, it's one of the easiest succulents to keep blooming indoors year-round."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light rooms it stops blooming entirely and produces long, weakly-attached stems that drop leaves at the base. It needs a very sunny window\u2014ideally south-facing\u2014to sustain the continuous flower cycle that makes it worth growing."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "euphorbia milii care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for crown of thorns plant",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "euphorbia indoor care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "blooming indoor succulent",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Crown Of Thorns",
+    "summary": "Euphorbia milii produces clusters of small, colorful bracts above thorny, succulent stems, creating a striking contrast that brightens any sunny windowsill or patio corner. Despite its common name, it is not a true cactus at all but a drought-adapted euphorbia originally from Madagascar, built to handle intense light and infrequent watering. This guide walks through how to maximize flowering by giving it the right light exposure, how to manage its toxic sap safely when pruning or repotting, how to set up a watering schedule that avoids root rot, and how to propagate healthy new plants from simple stem cuttings.",
+    "keyTakeaways": [
+        "Provide bright light, including direct sun, for the best blooming.",
+        "Water only after soil has dried out; this succulent tolerates drought well.",
+        "Handle carefully, since stems have sharp thorns and irritant sap.",
+        "Use a fast-draining succulent mix to help prevent root rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent shrub",
+        "difficulty": "beginner",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water thoroughly when the top 50% of the soil is dry. Unlike most succulents, it will drop its leaves if allowed to stay bone-dry for too long.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": true,
+        "humidity": "30% - 50%",
+        "temperature": "65\u00b0F - 90\u00b0F (18\u00b0C - 32\u00b0C)",
+        "matureSize": "2-3 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Cactus or succulent potting mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Diluted succulent fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Year-round",
+        "petSafety": "toxic",
+        "petSafetyNote": "The sap is a skin irritant and toxic if ingested.",
+        "nativeRegion": "Madagascar",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://plants.ces.ncsu.edu/plants/euphorbia-milii/common-name/crown-of-thorns/"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/crown-of-thorns/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water thoroughly and allow the potting medium to dry out thoroughly between applications. Euphorbia milii stores moisture within its succulent stems and thrives under a cycle of deep soaking followed by significant drying between waterings."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://plants.ces.ncsu.edu/plants/euphorbia-milii/common-name/crown-of-thorns/"
+        ]
+    },
+    "contentText": "Overview The Crown of Thorns ( Euphorbia milii ) is a fascinating, semi-succulent shrub native to Madagascar. It features thick, water-storing stems completely covered in sharp, formidable spines. Despite its rugged, intimidating appearance, it produces delicate, teardrop-shaped green leaves and stunning, colorful blooms (which are technically modified leaves called bracts) in shades of red, pink, yellow, and white. It is one of the few indoor plants capable of blooming year-round, making it highly prized for sunny windowsills. However, this is not a plant for everyone. It comes with two major warnings: first, its spines are sharp enough to draw blood, and second, it bleeds a highly toxic white latex sap when damaged. It must be handled with care and kept away from children and pets. Light Requirements: Full Sun is Mandatory If you want a Crown of Thorns to bloom, you must provide it with the brightest light possible. It requires a minimum of four to six hours of direct, unfiltered sunlight every day. A south-facing or west-facing window is non-negotiable. If you place it in a dim room or a north-facing window, the plant will survive, but it will grow weak, \"leggy\" stems, drop its lower leaves, and refuse to produce a single flower. Watering Strategy This is where many indoor gardeners fail. Because it looks like a cactus, people treat it like a cactus, withholding water for months at a time. While the Crown of Thorns is drought-tolerant, it will respond to extreme drought by dropping all of its leaves to survive. To keep it lush and blooming, water the plant thoroughly when the top 50% to 75% of the soil feels dry. During the heat of summer, this might be once a week. In winter, reduce watering significantly, allowing the soil to dry out almost completely. Temperature and Humidity Being native to Madagascar, this plant loves heat. Typical indoor temperatures between 65\u00b0F and 90\u00b0F (18\u00b0C - 32\u00b0C) are perfect. It is highly sensitive to cold; temperatures below 50\u00b0F (10\u00b0C) or exposure to a freezing window draft will cause it to drop its leaves immediately. It prefers dry air and has zero need for a humidifier, making it perfectly suited for centrally heated Western homes. Soil and Potting Excellent drainage is required to prevent root rot. Use a high-quality commercial cactus and succulent mix, or amend standard potting soil with 50% perlite or pumice. Always use a pot with a large drainage hole. Terracotta pots are excellent for Euphorbias because they breathe, allowing the soil to dry out faster. Fertilizing To support its continuous blooming cycle, the Crown of Thorns requires slightly more fertilizer than a typical succulent. Feed it once a month during the spring and summer using a liquid houseplant fertilizer diluted to half-strength. Look for a fertilizer slightly higher in phosphorus to encourage blooming. Do not fertilize during the winter. Pruning and Toxicity Warning Over time, the plant can become leggy and unruly. You can prune it back to encourage branching, but you must take extreme precautions. Like all Euphorbias, the Crown of Thorns contains a milky white latex sap that is highly toxic and severely irritating. If this sap touches your skin, it can cause a painful rash or blistering. If it gets in your eyes, it can cause temporary blindness and severe pain. If ingested by cats, dogs, or humans, it causes intense vomiting and gastrointestinal distress. Always wear thick, leather gardening gloves and protective eyewear when pruning this plant. Wash your tools immediately afterward. Common Problems Leaves Dropping Suddenly: Usually caused by one of two things: letting the soil stay bone-dry for too long, or exposing the plant to a cold draft. Adjust your watering or move it away from the drafty window. Yellowing Bottom Leaves: This is the classic sign of overwatering. Ensure the soil is drying out halfway down before watering again, and never let the pot sit in a saucer of standing water. No Flowers: The plant is not receiving enough direct sunlight. Move it to a brighter window.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/crown-of-thorns/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

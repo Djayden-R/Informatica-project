@@ -1,0 +1,407 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-pothos",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "golden-pothos-care",
+    "seoTitle": "Golden Pothos Care: Watering, Light & Propagation",
+    "metaDescription": "Golden Pothos is one of the easiest houseplants to grow indoors. Find out Money Plant's watering needs, bright indirect light requirements, and how to.",
+    "featuredImage": "/assets/images/golden-pothos.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "traits": [
+        "epiphyte",
+        "aroid"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "beginner-friendly",
+        "air-purifying",
+        "trailing-vine",
+        "low-light",
+        "vastu"
+    ],
+    "references": [
+        {
+            "title": "Epipremnum aureum - Royal Horticultural Society",
+            "url": "https://www.rhs.org.uk/plants/epipremnum",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Epipremnum aureum",
+        "family": "Araceae",
+        "origin": "Moorea, French Polynesia",
+        "type": "Tropical Evergreen Vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Hanging baskets",
+            "Indoor trailing plant",
+            "Office plant",
+            "Feng Shui / Vastu"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Indoor Bright Indirect Light (Adapts to Low Light)",
+        "watering": "Moderate: Allow the top 2 inches of soil to dry out completely before watering deeply.",
+        "soil": "Well-draining, standard indoor potting mix. Can also be grown hydroponically in water.",
+        "pruning": "Prune leggy vines just above a leaf node to encourage bushier, denser growth.",
+        "toxicity": "toxic to pets and humans",
+        "toxicityNote": "Golden Pothos (Money Plant) leaves contain insoluble calcium oxalate crystals. Chewing or ingesting the leaves can cause severe mouth irritation, swelling, and vomiting in cats, dogs, and small children.",
+        "bestFor": "First-time plant owners, low-light apartments, offices, and anyone looking for a fast-growing, cascading vine."
+    },
+    "vastu": {
+        "enabled": true,
+        "directions": [
+            "north",
+            "east",
+            "south-east"
+        ],
+        "rooms": [
+            "living-room",
+            "study",
+            "entrance",
+            "office"
+        ],
+        "light": [
+            "low",
+            "medium",
+            "bright-indirect"
+        ],
+        "purposes": [
+            "wealth",
+            "air-purification",
+            "peace",
+            "productivity"
+        ],
+        "difficulty": "beginner",
+        "petFriendly": false,
+        "indoorSuitable": true,
+        "notes": "In Vastu and Feng Shui, the Golden Pothos (Money Plant) is strongly associated with attracting financial luck and prosperity. The North zone is governed by Kuber, the deity of wealth, making it an excellent placement. Train the vines to grow upwards (using a moss pole or trellis) rather than trailing downwards to symbolize upward growth and rising wealth.",
+        "sourceUrl": "https://www.rhs.org.uk/plants/epipremnum"
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Vines can trail 10-15 feet indoors (up to 40+ feet outdoors)",
+        "matureSpread": "2-3 feet (container width)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65-85\u00b0F (18-29\u00b0C)",
+            "survivable": "50-95\u00b0F (10-35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40-60%",
+            "survivable": "20-80%"
+        },
+        "soilPH": {
+            "recommended": "6.0-6.5",
+            "survivable": "5.5-7.5"
+        }
+    },
+    "lighting": {
+        "description": "Highly adaptable. It thrives in bright, indirect light but will happily survive in low-light environments.",
+        "sunlightHours": "4-8 hours of indirect or artificial light",
+        "intensity": "low to medium",
+        "indoorWindow": "east, north, or slightly pulled back from south/west",
+        "shadeTolerance": "very high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "medium",
+        "phosphateDemand": "low",
+        "potassiumDemand": "medium",
+        "micronutrientNotes": "Not a heavy feeder. If the plant is growing in water, use a highly diluted liquid fertilizer to prevent nutrient burn.",
+        "fertilizerFrequency": "Feed monthly during the spring and summer with a balanced liquid houseplant fertilizer.",
+        "organicOptions": "Worm castings mixed into the top layer of soil annually."
+    },
+    "relationships": [
+        {
+            "target": "low-light",
+            "type": "requirement",
+            "strength": 8,
+            "notes": "While it survives low light, heavily variegated varieties (like Golden or Marble Queen) will revert to solid green if they don't get enough light."
+        },
+        {
+            "target": "overwatering",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "The fastest way to kill a Golden Pothos is keeping the soil constantly wet, which leads to root rot."
+        }
+    ],
+    "calculatorReferences": [
+        "indoor-plant-watering-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Is the Golden Pothos (Money Plant) toxic to cats and dogs?",
+            "answer": "Yes. The leaves contain calcium oxalate crystals. If chewed, they cause immediate mouth pain, swelling, and drooling in pets and small children. Keep trailing vines trimmed or hung completely out of reach."
+        },
+        {
+            "question": "How often should I water my Golden Pothos (Money Plant)?",
+            "answer": "Wait until the top 2 inches of soil are completely dry. In summer, this might be every 7-10 days, but in winter, it may only need water every 2-3 weeks. Always check the soil rather than sticking to a strict schedule."
+        },
+        {
+            "question": "Can I grow a Golden Pothos in water forever?",
+            "answer": "Yes! Golden Pothos plants are fantastic candidates for hydroponic growing. Take a cutting with a node, place it in water, and change the water every 1-2 weeks. Add a drop of liquid fertilizer monthly for long-term health."
+        },
+        {
+            "question": "How do I make my Golden Pothos bushier?",
+            "answer": "If your plant looks like one long, bare string, you need to prune it. Cut the vine just above a leaf node. This forces the plant to branch out and create new, denser growth from the top of the pot."
+        },
+        {
+            "question": "Why are the leaves on my Golden Pothos turning yellow?",
+            "answer": "Yellowing leaves are the classic sign of overwatering and root rot. If the soil is soggy, let it dry out immediately. Occasionally, a single older leaf near the base will turn yellow due to old age, which is normal."
+        },
+        {
+            "question": "Why has my Golden Pothos lost its variegation (yellow/white stripes)?",
+            "answer": "Variegated plants need more light than solid green plants. If your Pothos is placed in a very dark corner, it produces solid green leaves to maximize photosynthesis. Move it closer to a window to bring variegation back."
+        },
+        {
+            "question": "Why are the tips of the leaves turning brown and crispy?",
+            "answer": "Crispy brown tips usually indicate the air is too dry or the plant is being underwatered. While they tolerate standard indoor humidity, heating or AC vents blowing directly on the plant will dry out the leaves quickly."
+        },
+        {
+            "question": "How do I know the exact watering frequency for my indoor setup?",
+            "answer": "Because Golden Pothos adapts to various light levels, its water consumption varies drastically based on placement and your home's temperature. To calculate the exact watering frequency for your space, use our Watering Calculator."
+        }
+    ],
+    "shortDesc": "The ultimate beginner-friendly trailing vine. Valued for its air-purifying qualities, rapid growth, and ability to thrive in almost any indoor environment.",
+    "content": "<h2>Overview</h2><p>If there is one plant that can survive almost anything, it is the Golden Pothos (universally known in South Asia as the Money Plant). Native to French Polynesia, this resilient tropical vine has become a staple in homes and offices across the globe. It earned the nickname \"Devil's Ivy\" because it is nearly impossible to kill and stays vibrantly green even when kept in the dark.</p><p>Whether you let it cascade from a hanging basket, train it to climb a moss pole, or simply let it trail across a bookshelf, the Golden Pothos is the ultimate confidence-builder for new gardeners.</p><h2>Light and Placement</h2><p>One of the best traits of the Golden Pothos is its adaptability. It genuinely thrives in bright, indirect sunlight\u2014which helps maintain the beautiful yellow or white variegation on its leaves\u2014but it will happily adapt to low-light corners, bathrooms, and fluorescent-lit cubicles.</p><p>The only lighting condition it despises is harsh, direct midday sun, which will scorch its leaves and bleach out the color.</p><h2>Watering Strategy</h2><p>The Golden Pothos is much more tolerant of being underwatered than overwatered. Let the soil dry out significantly between watering sessions. When the plant is thirsty, its leaves will start to droop slightly\u2014this is your cue to give it a thorough soaking. Once you water it, the leaves will perk right back up within a few hours. If the leaves are turning yellow and the soil feels wet, you are watering too frequently.</p><h2>Soil and Propagation</h2><p>Any standard, well-draining indoor potting mix will work perfectly. They aren't fussy about soil.</p><p>Where this plant truly shines is in propagation. It is famously easy to clone. Simply cut a piece of the vine right below a 'node' (the little brown bump on the stem where the leaf attaches) and stick that node directly into a glass of water. Within a week or two, you will see fresh white roots sprouting. You can either transfer it to soil or let it live in the water permanently!</p><h2>Pruning and Maintenance</h2><p>Over time, Golden Pothos can grow incredibly long vines. If you notice the vines are getting \"leggy\" (large gaps of bare stem between leaves), don't be afraid to give the plant a haircut. Pruning actually stimulates the plant to push out new growth from the top of the pot, resulting in a much bushier, fuller plant.</p><p>Keep the leaves dust-free by wiping them down with a damp cloth every few months, which helps the plant photosynthesize more efficiently and keeps it looking glossy.</p>",
+    "quickAnswer": "The Golden Pothos (Money Plant) is incredibly easy to care for. Place it in low to bright indirect light, and only water it when the top two inches of soil feel completely dry. It can easily be propagated by placing stem cuttings in water.",
+    "ogImage": "/assets/images/golden-pothos.webp",
+    "ogImageAlt": "Lush, trailing Golden Pothos (Money Plant) cascading from a white hanging planter indoors",
+    "heroImage": "/assets/images/golden-pothos.webp",
+    "heroImageAlt": "Lush, trailing Golden Pothos (Money Plant) cascading from a white hanging planter indoors",
+    "featuredImageAlt": "Lush, trailing Golden Pothos (Money Plant) cascading from a white hanging planter indoors",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Yellow leaves near the base",
+            "diagnosis": "Overwatering, resulting in root rot",
+            "treatment": "Allow the soil to dry completely before the next watering. Ensure the pot has drainage holes.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Brown, crispy leaf edges",
+            "diagnosis": "Underwatering or extremely dry air",
+            "treatment": "Water more thoroughly when dry, and move away from direct heating or AC vents.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Loss of variegation (leaves turning solid green)",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move the plant to a brighter location with indirect sunlight to encourage the patterns to return.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Leggy vines with few leaves",
+            "diagnosis": "Not enough light, or the vine needs pruning",
+            "treatment": "Prune the vine back to encourage bushier growth and move the plant to a brighter spot.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Node",
+            "definition": "The joint on the stem where leaves and aerial roots emerge. When propagating, the node must be submerged in water or buried in soil to grow new roots."
+        },
+        {
+            "term": "Variegation",
+            "definition": "The appearance of differently colored zones in the leaves (like yellow, white, or cream stripes). In Golden Pothos, this is driven by genetics and light exposure."
+        },
+        {
+            "term": "Aerial Roots",
+            "definition": "Small brown nubs growing along the stem. In the wild, the plant uses these to climb up trees. In your home, they are the starting point for propagation."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Golden Pothos Growing Setup Comparison",
+        "headers": [
+            "Setup Method",
+            "Light Level",
+            "Watering Strategy",
+            "Difficulty"
+        ],
+        "rows": [
+            [
+                "Hanging Basket (Soil)",
+                "Bright Indirect",
+                "Dry out between watering",
+                "Easy"
+            ],
+            [
+                "Water Jar / Hydroponic",
+                "Low to Medium",
+                "Top-up & change bi-weekly",
+                "Very Easy"
+            ],
+            [
+                "Moss Pole / Climbing",
+                "Bright Indirect",
+                "Mist pole & water soil",
+                "Moderate"
+            ]
+        ]
+    },
+    "h1": "Golden Pothos (Money Plant) Care: Watering, Light, Propagation and Vastu Tips",
+    "breadcrumbName": "Golden Pothos (Money Plant) Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "sunlight",
+        "houseplant-leaves-turning-yellow",
+        "topics:humidity"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because its tropical appearance suggests it wants consistent moisture\u2014but pothos stores water in its thick leaves and stems, making it extremely drought-tolerant. Waiting until the leaves show the very first sign of wilting (slight softening) before watering results in a far healthier plant than watering on a schedule."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The golden-yellow variegation is produced by a pigment that only activates under adequate light\u2014in dim conditions, the chlorophyll dominates and leaves come in solid green. Bright indirect light not only maintains the yellow pattern but actually intensifies it on new leaves."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In genuinely dark corners it survives indefinitely but stops producing new leaves and loses all variegation, becoming an unremarkable green vine. Even moving it to a spot with some ambient indirect light makes a visible difference within weeks."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "pothos care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "golden pothos",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "devil's ivy",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to propagate money plant",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "golden pothos turning yellow",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "indoor trailing plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Golden Pothos",
+    "summary": "Epipremnum aureum is one of the most versatile and resilient indoor climbing vines, featuring heart-shaped leaves flecked with golden-yellow variegation. Discover light adaptability, proper watering intervals, and simple water propagation.",
+    "keyTakeaways": [
+        "Provide bright, indirect light, though low light is well tolerated.",
+        "Allow the top 2 inches of soil to dry completely before watering thoroughly.",
+        "Prune trailing vines above leaf nodes to encourage fuller, bushier container growth.",
+        "Propagate easily by rooting single-node stem cuttings in water."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 11,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Tropical Evergreen Vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Allow the top 2 inches of soil to dry out completely before watering deeply.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65-85\u00b0F (18-29\u00b0C)",
+        "matureSize": "Trailing up to 10 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Standard commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer every 4 weeks in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Moorea, French Polynesia",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://en.wikipedia.org/wiki/Epipremnum_aureum"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering",
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/golden-pothos-care/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/golden-pothos"
+        ]
+    },
+    "contentText": "Overview If there is one plant that can survive almost anything, it is the Golden Pothos (universally known in South Asia as the Money Plant). Native to French Polynesia, this resilient tropical vine has become a staple in homes and offices across the globe. It earned the nickname \"Devil's Ivy\" because it is nearly impossible to kill and stays vibrantly green even when kept in the dark. Whether you let it cascade from a hanging basket, train it to climb a moss pole, or simply let it trail across a bookshelf, the Golden Pothos is the ultimate confidence-builder for new gardeners. Light and Placement One of the best traits of the Golden Pothos is its adaptability. It genuinely thrives in bright, indirect sunlight\u2014which helps maintain the beautiful yellow or white variegation on its leaves\u2014but it will happily adapt to low-light corners, bathrooms, and fluorescent-lit cubicles. The only lighting condition it despises is harsh, direct midday sun, which will scorch its leaves and bleach out the color. Watering Strategy The Golden Pothos is much more tolerant of being underwatered than overwatered. Let the soil dry out significantly between watering sessions. When the plant is thirsty, its leaves will start to droop slightly\u2014this is your cue to give it a thorough soaking. Once you water it, the leaves will perk right back up within a few hours. If the leaves are turning yellow and the soil feels wet, you are watering too frequently. Soil and Propagation Any standard, well-draining indoor potting mix will work perfectly. They aren't fussy about soil. Where this plant truly shines is in propagation. It is famously easy to clone. Simply cut a piece of the vine right below a 'node' (the little brown bump on the stem where the leaf attaches) and stick that node directly into a glass of water. Within a week or two, you will see fresh white roots sprouting. You can either transfer it to soil or let it live in the water permanently! Pruning and Maintenance Over time, Golden Pothos can grow incredibly long vines. If you notice the vines are getting \"leggy\" (large gaps of bare stem between leaves), don't be afraid to give the plant a haircut. Pruning actually stimulates the plant to push out new growth from the top of the pot, resulting in a much bushier, fuller plant. Keep the leaves dust-free by wiping them down with a damp cloth every few months, which helps the plant photosynthesize more efficiently and keeps it looking glossy.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/golden-pothos-care/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

@@ -1,0 +1,427 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "epipremnum-aureum",
+    "slug": "pothos",
+    "seoTitle": "Golden Pothos (Epipremnum aureum) Care Guide",
+    "commonName": "Pothos",
+    "heroImage": "/assets/images/hero-pothos.webp",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Epipremnum",
+        "species": "aureum",
+        "nativeRange": "Mo'orea (French Polynesia)",
+        "growthHabit": "Climbing tropical vine"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "characteristicId": "CHAR_0001",
+                "confidence": 0.95,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1001",
+                        "weight": 0.95,
+                        "source": "Aroid care literature",
+                        "summary": "Thrives in coarse, oxygen-rich mixes; roots require good aeration."
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "characteristicId": "CHAR_0002",
+                "confidence": 0.9,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.9,
+                        "source": "General horticultural knowledge",
+                        "summary": "Moderate drought tolerance due to succulent-like leaves, but not a true succulent."
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "characteristicId": "CHAR_0003",
+                "confidence": 0.9,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1002",
+                        "weight": 0.9,
+                        "source": "Propagation experience",
+                        "summary": "Roots are resilient; plants recover quickly after repotting or cutting."
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "rootHypoxiaTolerance": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "characteristicId": "CHAR_0004",
+                "confidence": 0.9,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1003",
+                        "weight": 0.9,
+                        "source": "Common care observations",
+                        "summary": "Sensitive to waterlogging; root rot is a primary issue if overwatered."
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "characteristicId": "CHAR_0005",
+                "confidence": 0.95,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1004",
+                        "weight": 0.95,
+                        "source": "Widespread cultivation",
+                        "summary": "Exceptionally adaptable to various indoor conditions, though sudden changes can cause leaf drop."
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 15,
+                "unit": "C",
+                "characteristicId": "CHAR_0006",
+                "confidence": 0.9,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1005",
+                        "weight": 0.9,
+                        "source": "Growing guidelines",
+                        "summary": "Tolerates brief drops to 15\u00b0C; prolonged exposure below that may cause damage."
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            }
+        }
+    },
+    "shortDesc": "Golden Pothos (Epipremnum aureum) is a popular, easy\u2011care climbing vine with heart\u2011shaped, variegated leaves. It thrives in bright indirect light, tolerates lower light, and is perfect for hanging baskets or training up a moss pole.",
+    "quickAnswer": "Place your Pothos in bright, indirect light and water when the top 2\u20133 cm of soil feels dry \u2014 typically every 1\u20132 weeks, depending on conditions, light levels, and the season of the year. For best results, we suggest keeping an eye on the plant's response throughout the active growing season.",
+    "faq": [
+        {
+            "question": "How often should I water my Pothos?",
+            "answer": "Water when the top 2\u20133 cm of soil is dry. This is typically every 7\u201314 days, but always check the soil rather than following a strict schedule."
+        },
+        {
+            "question": "Can Pothos grow in low light?",
+            "answer": "Yes, it tolerates low light, but growth will slow and the leaves may lose their golden variegation. For best colour, place in bright indirect light."
+        },
+        {
+            "question": "Is Pothos toxic to pets?",
+            "answer": "Yes, it contains calcium oxalate crystals and is toxic to cats and dogs. Keep it out of reach of curious pets."
+        },
+        {
+            "question": "How do I propagate Pothos?",
+            "answer": "Cut a stem with at least one node and a few leaves, remove the bottom leaf, and place the node in water or moist soil. Roots will appear in 2\u20133 weeks."
+        },
+        {
+            "question": "Why are my Pothos leaves curling?",
+            "answer": "Leaf curling usually signals underwatering, low humidity, or heat stress. Check the soil; if it's dry, give it a thorough soak. If the air is very dry, increase humidity with a pebble tray or misting."
+        },
+        {
+            "question": "Why does my Pothos have brown spots on the leaves?",
+            "answer": "Brown spots with yellow halos often indicate overwatering or fungal issues. Let the soil dry out more between waterings. Spots that are dry and crispy can be sunburn from direct sunlight \u2013 move the plant to a shadier spot."
+        },
+        {
+            "question": "How do I treat pests on my Pothos?",
+            "answer": "Common pests include mealybugs and spider mites. Wipe leaves with a damp cloth, spray with a neem oil solution or insecticidal soap, and isolate the plant to prevent spreading. Repeat weekly until pests are gone."
+        },
+        {
+            "question": "When should I repot my Pothos?",
+            "answer": "Repot every 1\u20132 years in spring, or when you see roots circling the pot or growing out of the drainage hole. Choose a pot only 2\u20135 cm larger in diameter and use fresh aroid mix."
+        },
+        {
+            "question": "Why is my Pothos leggy with few leaves?",
+            "answer": "Leggy growth is almost always caused by insufficient light. Move it to a brighter spot with indirect light. You can also prune the long vines back to encourage bushier growth from the base."
+        },
+        {
+            "question": "Can I grow Pothos in water permanently?",
+            "answer": "Yes, Pothos can live permanently in water, but you'll need to add a diluted liquid fertiliser every 4\u20136 weeks to provide nutrients. Change the water every 1\u20132 weeks to keep it oxygenated and prevent algae."
+        },
+        {
+            "question": "How can I make my Pothos leaves bigger?",
+            "answer": "To grow larger, mature leaves, give your Pothos a support to climb (like a moss pole), provide bright indirect light, keep humidity above 50%, and feed regularly during the growing season."
+        },
+        {
+            "question": "Are pothos native to the US?",
+            "answer": "No. Pothos (Epipremnum aureum) is native to Mo'orea in French Polynesia and parts of Southeast Asia. It is not native to the US, though it has naturalised in some warm, frost-free regions like Florida and Hawaii."
+        },
+        {
+            "question": "Is pothos called devil's ivy?",
+            "answer": "Yes, 'Devil's Ivy' is one of its most common nicknames. The name comes from its reputation for being nearly impossible to kill and its ability to stay green even in very low light."
+        },
+        {
+            "question": "What is another name for pothos?",
+            "answer": "Common synonyms include Devil's Ivy, Golden Pothos, Money Plant (in some regions), Ceylon Creeper, and Hunter's Robe. The botanical name is Epipremnum aureum."
+        },
+        {
+            "question": "How poisonous are pothos plants?",
+            "answer": "Pothos is mildly to moderately toxic. It contains calcium oxalate raphides that cause intense oral irritation, drooling, and vomiting if ingested by pets or humans. Severe reactions are rare, but keep it out of reach of children and animals."
+        },
+        {
+            "question": "Which pothos are illegal to propagate?",
+            "answer": "No common pothos variety is outright illegal to propagate for personal use. However, some cultivars (e.g., 'Global Green', 'Manjula') are protected by plant patents, meaning commercial propagation without a licence is restricted. Home propagation is rarely, if ever, enforced."
+        },
+        {
+            "question": "What plants are illegal to propagate in the US?",
+            "answer": "Illegality generally applies to invasive species (e.g., kudzu, purple loosestrife) that are regulated by state or federal laws, or to patented plant varieties protected under the Plant Patent Act. For common houseplants like pothos, there is no blanket ban on propagation."
+        }
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Yellow leaves",
+            "diagnosis": "Overwatering",
+            "treatment": "Check soil moisture. If the soil is wet, allow it to dry out completely before watering again. Ensure the pot has proper drainage.",
+            "prevention": "Water only when the top 2-3 cm of soil is dry."
+        },
+        {
+            "symptom": "Brown crispy leaf tips",
+            "diagnosis": "Dry air or inconsistent watering",
+            "treatment": "Give the plant a thorough soak if the soil is bone dry. If the soil is moist, increase humidity around the plant.",
+            "prevention": "Keep watering consistent and avoid placing the plant near heating or AC vents."
+        },
+        {
+            "symptom": "Loss of variegation (leaves turning solid green)",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move the plant to a brighter location with more indirect sunlight. New growth should emerge with better variegation.",
+            "prevention": "Ensure the plant receives bright, indirect light consistently."
+        },
+        {
+            "symptom": "Leaves curling inward",
+            "diagnosis": "Underwatering, low humidity, or heat stress",
+            "treatment": "Check the soil; if dry, water thoroughly. If the air is very dry, increase humidity using a pebble tray or humidifier.",
+            "prevention": "Maintain a consistent watering schedule and keep ambient humidity comfortable."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Pothos Growth Options",
+        "headers": [
+            "Method",
+            "Growth Rate",
+            "Best For"
+        ],
+        "rows": [
+            [
+                "Hanging basket",
+                "Moderate\u2013Fast",
+                "Trailing displays"
+            ],
+            [
+                "Moss pole",
+                "Fast",
+                "Large, mature leaves"
+            ],
+            [
+                "Tabletop pot",
+                "Moderate",
+                "Compact spaces"
+            ]
+        ]
+    },
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "metaDescription": "Complete care guide for Golden Pothos (Epipremnum aureum). Learn about light, water, soil, propagation, troubleshooting, and more.",
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "araceae"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "philodendron"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "monstera"
+        },
+        {
+            "type": "recommendedSoil",
+            "target": "aroid-mix"
+        },
+        {
+            "type": "wateringProfile",
+            "target": "tropical-aroid"
+        }
+    ],
+    "editorReasoning": "Profile updated to correctly represent the common houseplant 'Pothos' as Epipremnum aureum. Taxonomy and native range corrected. Characteristic scores adjusted based on biological traits and empirical care knowledge (e.g., higher air demand, lower root fragility). Added relationships to enable knowledge graph queries. Editorial content replaced with accurate, detailed care instructions. Evidence metadata enriched with sources and rationales to improve traceability. Expanded FAQ to 17 entries, now including common Google search queries about US native status, naming, toxicity, propagation legality, and related regulatory concerns.",
+    "summary": "",
+    "keyTakeaways": [
+        "Water when the top 1-2 inches of soil feel dry.",
+        "Provide bright indirect light, though low light is well tolerated.",
+        "Prune trailing vines regularly to encourage bushier, fuller growth throughout the active growing season for best results.",
+        "Propagate easily from healthy stem cuttings in water or soil."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 8,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Tropical trailing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Allow the top 2-3 inches of soil to dry before watering thoroughly.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "65\u00b0F - 86\u00b0F (18\u00b0C - 30\u00b0C)",
+        "matureSize": "6-20+ feet indoors",
+        "growthRate": "Fast",
+        "soil": "Standard well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer every 4 weeks during spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "French Polynesia",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Pothos (Epipremnum aureum) is a vigorous tropical vine valued for its heart-shaped foliage, trailing growth habit, and ability to adapt to a wide range of indoor conditions. It grows well in bright indirect light but can tolerate lower light than many tropical houseplants. Its main care challenges are avoiding consistently wet soil, maintaining attractive variegation in variegated cultivars, and managing long vines as they mature."
+        },
+        {
+            "id": "watering",
+            "content": "Water Pothos when the upper portion of the growing medium has dried, then water thoroughly until excess drains from the container. Avoid keeping the root zone continuously wet, as prolonged saturation can contribute to root problems. Pothos tolerates occasional drying better than consistently waterlogged soil. Watering frequency varies with light, temperature, humidity, pot size, and growing medium, so check the soil rather than following a rigid schedule."
+        },
+        {
+            "id": "light",
+            "content": "Provide bright indirect light for the strongest growth and, in variegated cultivars, better maintenance of leaf coloration. Green Pothos can tolerate lower light, although growth may become slower and more elongated. Strong direct afternoon sunlight can scorch the leaves. When moving a plant from low light to a brighter position, increase exposure gradually."
+        },
+        {
+            "id": "soil",
+            "content": "Use a loose, well-draining houseplant medium that retains some moisture while allowing adequate airflow around the roots (<a href=\"/calculators/potting-mix-calculator/pothos/\">calculate potting mix ratios for Pothos</a>). A general tropical houseplant mix amended with perlite or another drainage component can work well. Avoid dense soil that stays saturated for long periods and always use a container with drainage holes."
+        },
+        {
+            "id": "temperature",
+            "content": "Pothos prefers warm conditions and generally grows well around 18\u201330\u00b0C (65\u201386\u00b0F). Protect it from cold drafts and prolonged exposure to temperatures below about 13\u00b0C (55\u00b0F), which can cause stress and damage. Keep the plant away from strong heating or cooling vents that produce rapid temperature changes."
+        },
+        {
+            "id": "humidity",
+            "content": "Pothos adapts well to average household humidity but generally grows more vigorously in moderate humidity around 50\u201370%. Very dry air can contribute to brown leaf edges, particularly when combined with inconsistent watering. A humidifier can help when indoor air is exceptionally dry, although routine misting is not essential."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Pothos during active growth with a balanced houseplant fertilizer according to the product instructions, or use our <a href=\"/calculators/fertilizer/pothos/\">Pothos fertilizer dosage calculator</a> to determine safe feeding quantities. Regular moderate feeding can support vigorous vine and leaf production. Avoid excessive fertilizer, which can cause salt accumulation and root stress. Reduce or pause feeding when growth slows because of low light or cooler temperatures."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Pothos when roots have substantially filled the container, the plant dries out unusually quickly, growth slows because of root restriction, or the growing medium has broken down. Move the plant into a container only moderately larger than the existing one and use fresh, well-draining mix. Pothos generally tolerates root disturbance well and can recover quickly when repotted during active growth."
+        },
+        {
+            "id": "growth",
+            "content": "Pothos produces long, flexible vines that naturally trail or climb when given support. Under strong growing conditions, stems can become several feet long indoors. Leaves may become larger as the plant matures and climbs, while unsupported vines tend to produce smaller foliage and longer spaces between leaves. Warm temperatures, adequate light, and regular moisture support the fastest growth."
+        },
+        {
+            "id": "support",
+            "content": "Pothos can be grown as a trailing plant from a hanging basket, shelf, or elevated container, or trained upward on a moss pole, coir pole, trellis, or similar support. Climbing can encourage a more upright growth habit and, under suitable conditions, larger mature leaves. Support is optional rather than necessary for healthy growth."
+        },
+        {
+            "id": "pruning",
+            "content": "Pruning Pothos helps control vine length, encourage a fuller appearance, and remove damaged or unwanted growth. Use clean, sharp scissors to cut just above a node. Regularly trimming long vines can stimulate new shoots from lower nodes and make the plant appear bushier. Healthy cuttings containing nodes can be used for propagation."
+        },
+        {
+            "id": "propagation",
+            "content": "Pothos is one of the easier houseplants to propagate from stem cuttings. Take a cutting containing at least one healthy node and place the node in water, sphagnum, perlite, or another suitable propagation medium. Keep the cutting warm and in bright indirect light while roots develop. Once a healthy root system has formed, the cutting can be transferred to a well-draining potting mix."
+        },
+        {
+            "id": "variegation",
+            "content": "Variegated Pothos cultivars require more light than predominantly green forms to maintain their characteristic patterns. Low light can encourage new growth with less variegation, while brighter indirect light generally supports stronger expression of existing coloration. Increased light cannot guarantee a specific pattern because variegation is genetically determined and varies between cultivars and individual leaves."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Yellow leaves are commonly associated with excessive moisture, although individual older leaves may naturally yellow and decline. Brown edges can result from dry air, inconsistent watering, strong direct sunlight, or fertilizer salt buildup. Long spaces between leaves and small foliage often indicate insufficient light or a lack of climbing support. Persistent problems should be assessed by checking the roots, soil moisture, drainage, and light conditions together."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Pothos generally grows most actively during warm, bright periods and slows when temperatures and light levels decline. During active growth, the plant may require more frequent watering and regular feeding. In winter or other low-light periods, allow the growing medium to dry further between waterings and reduce or pause fertilizer. Protect the plant from cold drafts."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Pothos can be grown outdoors year-round in warm, frost-free climates with bright filtered light or partial shade. Plants moved outdoors from indoor conditions should be acclimated gradually to stronger light. Protect foliage from intense direct sunlight, strong winds, and cold temperatures. In cooler climates, container-grown Pothos should be brought indoors before temperatures become unsuitable."
+        },
+        {
+            "id": "toxicity",
+            "content": "Pothos contains insoluble calcium oxalate crystals and is toxic if chewed or ingested. Contact with plant tissue can cause irritation, while ingestion may cause oral discomfort and other symptoms. Keep Pothos away from pets and children who may chew the leaves or stems."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Epipremnum aureum",
+        "family": "Araceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/pothos/",
+    "breadcrumbName": "Pothos",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "h1": "Golden Pothos (Epipremnum aureum) Care Guide: Light & Watering",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/pothos/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

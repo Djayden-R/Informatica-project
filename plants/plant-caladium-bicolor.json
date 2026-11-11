@@ -1,0 +1,342 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-caladium-bicolor",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "caladium-bicolor",
+    "seoTitle": "Caladium Indoor Guide: Survive Winter Dormancy Indoors",
+    "metaDescription": "Caladium care means managing winter dormancy. Learn why Angel Wings drop leaves in cold months, how to store bulbs, and keep colors bright indoors.",
+    "featuredImage": "/assets/images/caladium-bicolor.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "traits": [
+        "tropical"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "statement-foliage",
+        "toxic-to-pets",
+        "tuberous",
+        "seasonal"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Caladium bicolor",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Caladiums for the Home Landscape",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Caladium bicolor",
+        "family": "Araceae",
+        "origin": "Central and South America",
+        "type": "Tuberous perennial",
+        "nativeClimate": "Tropical rainforest clearings",
+        "commonUses": [
+            "Summer patio planters",
+            "Bright windowsills",
+            "Statement centerpieces"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Bright, indirect light. Needs heat and will die back to the soil in winter.",
+        "watering": "Keep the soil evenly moist during the summer. Stop watering completely when it goes dormant in winter.",
+        "soil": "A rich, moisture-retaining, well-draining peat-based mix.",
+        "pruning": "Cut dead leaves off at the base as the plant enters dormancy in autumn.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Contains calcium oxalate crystals; causes severe oral pain and swelling.",
+        "bestFor": "Plant owners who understand seasonal dormancy and don't panic when the plant \"dies\" every winter."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "1-2 feet indoors",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial (with winter dormancy)",
+        "floweringSeason": "Summer (produces a spathe and spadix, but grown for foliage)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "70\u00b0F - 85\u00b0F (21\u00b0C - 29\u00b0C)",
+            "survivable": "65\u00b0F - 95\u00b0F (18\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50% - 70%",
+            "survivable": "40% - 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to produce intensely colored red, pink, and white leaves. However, the paper-thin leaves will scorch instantly in direct afternoon sun.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires regular feeding during the summer to fuel its rapid, massive leaf growth.",
+        "fertilizerFrequency": "Every two weeks during the active summer growing season with a liquid fertilizer.",
+        "organicOptions": "Heavy top-dressing of worm castings when planting the bulb."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "The underground bulb will rot into mush if watered during its winter dormancy."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Caladium drooping and dying in the fall?",
+            "answer": "Do not panic! Caladiums are tuberous plants that naturally go dormant in the winter. As the days get shorter and cooler in autumn, the plant will intentionally drop all its leaves and die back to the soil. The bulb is simply sleeping and will resprout in the spring."
+        },
+        {
+            "question": "How do I care for my Caladium during winter?",
+            "answer": "When the leaves die back in autumn, stop watering completely. Cut off the dead leaves. You can either leave the bulb in the dry soil and put the pot in a dark closet, or dig the bulb up and store it in a paper bag. Do not water it again until spring."
+        },
+        {
+            "question": "Why are the leaves on my Caladium turning pale and losing their red color?",
+            "answer": "Loss of vibrant color is caused by a lack of light. The plant needs significant bright, indirect sunlight to produce its famous neon pinks, reds, and whites. Move it closer to a window."
+        },
+        {
+            "question": "Why are the leaves getting crispy brown spots?",
+            "answer": "The leaves are paper-thin and highly delicate. Brown, crispy spots are usually sunburn caused by direct, hot afternoon sunlight hitting the foliage. Move the plant to a spot with filtered light."
+        },
+        {
+            "question": "Is the Caladium toxic to pets?",
+            "answer": "Yes. Like all members of the Araceae family, it contains calcium oxalate crystals. Chewing on it will cause severe burning, drooling, and swelling in the mouths of cats and dogs."
+        }
+    ],
+    "shortDesc": "The Caladium (Angel Wings) produces massive, paper-thin leaves painted in neon reds, pinks, and whites. It is famous for dying back to the soil every winter and resurrecting from its bulb every spring.",
+    "content": "<h2>Overview</h2><p>The Caladium, commonly known as Angel Wings or the Heart of Jesus, produces some of the most spectacularly colorful foliage in the entire plant kingdom. Native to the tropical rainforests of South America, it grows massive, paper-thin, arrow-shaped leaves that look like stained glass. The leaves are wildly painted in intense shades of neon pink, deep ruby red, brilliant white, and dark green.</p><p>While they are frequently grown outdoors in summer shade gardens, they make breathtaking indoor statement plants. However, growing a Caladium indoors requires understanding a critical aspect of their biology: <strong>they are not evergreen.</strong> They grow from an underground tuber (bulb). They put on a massive, explosive show of color all summer long, and then completely die back to the soil to sleep all winter. You must understand this dormancy cycle, or you will accidentally throw a perfectly healthy sleeping bulb into the trash.</p><h3>The Winter Dormancy Panic</h3><p>Every autumn, thousands of new Caladium owners panic. As the days grow shorter and temperatures drop slightly, the massive, beautiful leaves will begin to droop, turn yellow, and die one by one. The plant looks like it is failing. </p><p><strong>Do not water it more. Do not fertilize it. The plant is simply going to sleep.</strong></p><p>This is a natural, unavoidable dormancy. Once all the leaves have died, cut them off at the soil line. <strong>Stop watering completely.</strong> If you water the dormant bulb in the winter, it will rot and turn to mush. Store the dry pot in a warm, dark closet (above 65\u00b0F). In the spring, bring the pot back to a bright window, begin watering again, and within a few weeks, brand new spears will shoot up from the soil to start the cycle over.</p><h3>Light Requirements: Fueling the Color</h3><p>To produce their shocking neon colors, Caladiums require very bright, indirect light. An east-facing window is ideal. If you place the plant in a dark room, the leaves will emerge mostly green and leggy.</p><p>However, the leaves are literally paper-thin. They have absolutely zero protection against harsh heat. If you place a Caladium in a west or south-facing window with direct afternoon sun, the leaves will instantly scorch, bleach out, and develop massive, crispy brown burn holes.</p><h3>Watering and Humidity (During Summer)</h3><p>During their active summer growing phase, Caladiums are incredibly thirsty. The massive leaves transpire water rapidly. You must keep the soil evenly moist at all times. Water thoroughly the moment the top inch of the soil feels dry. If the soil dries out completely, the plant will collapse dramatically onto the floor.</p><p>They also require high humidity. If the indoor air drops below 50% humidity, the delicate edges of the leaves will crisp up. Keep the plant near a room humidifier or in a bright, humid bathroom.</p><h3>Soil and Potting</h3><p>Because they need to stay moist but rot easily, the soil must be rich but well-draining. A high-quality potting mix heavily amended with peat moss for moisture retention and perlite for drainage is perfect. Because they grow from bulbs, they prefer a wide, shallow pot rather than a deep one.</p><h2>Toxicity</h2><p>Caladiums belong to the Araceae family and are packed with insoluble calcium oxalate crystals. They are highly toxic to cats, dogs, and humans. If a pet bites into a leaf or stem, the microscopic crystals embed in the mouth and throat, causing immediate, excruciating pain, severe swelling, and vomiting. Keep them safely out of reach.</p>",
+    "quickAnswer": "The Caladium requires bright, indirect light and constantly moist soil during the summer. In autumn, it will naturally drop all its leaves and go dormant; stop watering completely and store the dry bulb until spring returns. We have found that maintaining a consistent care routine significantly improves the long-term health of the plant.",
+    "ogImage": "/assets/images/caladium-bicolor.webp",
+    "ogImageAlt": "Vibrant Caladium Bicolor with pink and green heart-shaped leaves",
+    "heroImage": "/assets/images/caladium-bicolor.webp",
+    "heroImageAlt": "Close up of the translucent, stained-glass appearance of a Caladium leaf",
+    "featuredImageAlt": "A vibrant pink Caladium sitting in a bright, modern living room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Caladium drooping and dying in the fall?",
+            "diagnosis": "Natural dormancy \u2013 the plant enters winter rest",
+            "treatment": "Stop watering, allow the foliage to die back, and store the tubers in a dry, cool place until spring. Do not throw the plant away.",
+            "prevention": "Ensure proper dormancy period; resume watering in spring when new growth appears.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves on my Caladium turning pale and losing their red color?",
+            "diagnosis": "Insufficient light \u2013 lack of pigmentation",
+            "treatment": "Move the plant to a brighter location with bright indirect light; direct sun can scorch, so filtered light is best.",
+            "prevention": "Provide bright indirect light for at least 6 hours daily.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves getting crispy brown spots?",
+            "diagnosis": "Sunburn from direct sunlight",
+            "treatment": "Move to a spot with filtered or indirect light; trim severely damaged leaves.",
+            "prevention": "Avoid direct afternoon sun; use sheer curtains to diffuse light.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Dormancy",
+            "definition": "A period in a plant's life cycle when growth temporarily stops. Caladiums drop all their leaves and \"sleep\" underground as a bulb for the entire winter."
+        },
+        {
+            "term": "Tuber/Bulb",
+            "definition": "A thickened underground part of a stem that stores nutrients and energy, allowing the plant to survive its winter dormancy without leaves."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Caladium Cultivar Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Color",
+            "Pattern"
+        ],
+        "rows": [
+            [
+                "Carolyn Whorton",
+                "Neon pink center",
+                "Green margins, red veins"
+            ],
+            [
+                "Candidum",
+                "Pure white",
+                "Dark green veins"
+            ],
+            [
+                "Florida Sweetheart",
+                "Rosy red",
+                "Ruffled green edges"
+            ]
+        ]
+    },
+    "h1": "Caladium Care: Surviving the Winter Dormancy",
+    "breadcrumbName": "Caladium Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "houseplant-leaves-turning-yellow",
+        "wilting-houseplants-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Continuing to water when the plant dies back in autumn\u2014caladiums naturally go fully dormant in winter even indoors, and watering a resting tuber causes it to rot. Many owners throw out a perfectly healthy tuber thinking the plant has died."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The more bright (but indirect) light it receives, the more translucent and 'stained glass' the paper-thin leaves become\u2014this is the plant at its most beautiful. However, direct sun burns the delicate leaves within a single afternoon."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In air-conditioned rooms below 65\u00b0F, leaves droop and colors fade rapidly because caladiums need warmth above 70\u00b0F to hold their leaves upright. High humidity is equally important\u2014without it, the thin leaves dry out from the edges inward."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "angel wings plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "heart of jesus plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "caladium dropping leaves winter",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "elephant ear caladium",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to store caladium bulbs",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Caladium Bicolor",
+    "summary": "Caladium bicolor features delicate, paper-thin leaves patterned in vibrant combinations of pink, red, white, and green. Discover indirect lighting needs, consistent moisture practices, and seasonal tuber dormancy management.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to maintain intense pink, red, and white leaf colors.",
+        "Keep the substrate consistently moist throughout the warm summer growing season.",
+        "Maintain high humidity and shield delicate, paper-thin leaves from direct sun.",
+        "Withhold water in autumn to allow tubers to enter their natural winter dormancy."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Tuberous perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Moderate",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "50-70%",
+        "temperature": "70\u00b0F - 85\u00b0F (21\u00b0C - 29\u00b0C)",
+        "matureSize": "1-2 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Rich, moist, well-draining mix",
+        "soilDrainage": "good",
+        "fertilizer": "Liquid fertilizer every two weeks",
+        "repottingFrequency": "Annually (from tubers)",
+        "potPreference": "Standard",
+        "propagation": "Tuber division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Central and South America",
+        "usdaZones": "9-11",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/caladium-bicolor/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list"
+        ]
+    },
+    "contentText": "Overview The Caladium, commonly known as Angel Wings or the Heart of Jesus, produces some of the most spectacularly colorful foliage in the entire plant kingdom. Native to the tropical rainforests of South America, it grows massive, paper-thin, arrow-shaped leaves that look like stained glass. The leaves are wildly painted in intense shades of neon pink, deep ruby red, brilliant white, and dark green. While they are frequently grown outdoors in summer shade gardens, they make breathtaking indoor statement plants. However, growing a Caladium indoors requires understanding a critical aspect of their biology: they are not evergreen. They grow from an underground tuber (bulb). They put on a massive, explosive show of color all summer long, and then completely die back to the soil to sleep all winter. You must understand this dormancy cycle, or you will accidentally throw a perfectly healthy sleeping bulb into the trash. The Winter Dormancy Panic Every autumn, thousands of new Caladium owners panic. As the days grow shorter and temperatures drop slightly, the massive, beautiful leaves will begin to droop, turn yellow, and die one by one. The plant looks like it is failing. Do not water it more. Do not fertilize it. The plant is simply going to sleep. This is a natural, unavoidable dormancy. Once all the leaves have died, cut them off at the soil line. Stop watering completely. If you water the dormant bulb in the winter, it will rot and turn to mush. Store the dry pot in a warm, dark closet (above 65\u00b0F). In the spring, bring the pot back to a bright window, begin watering again, and within a few weeks, brand new spears will shoot up from the soil to start the cycle over. Light Requirements: Fueling the Color To produce their shocking neon colors, Caladiums require very bright, indirect light. An east-facing window is ideal. If you place the plant in a dark room, the leaves will emerge mostly green and leggy. However, the leaves are literally paper-thin. They have absolutely zero protection against harsh heat. If you place a Caladium in a west or south-facing window with direct afternoon sun, the leaves will instantly scorch, bleach out, and develop massive, crispy brown burn holes. Watering and Humidity (During Summer) During their active summer growing phase, Caladiums are incredibly thirsty. The massive leaves transpire water rapidly. You must keep the soil evenly moist at all times. Water thoroughly the moment the top inch of the soil feels dry. If the soil dries out completely, the plant will collapse dramatically onto the floor. They also require high humidity. If the indoor air drops below 50% humidity, the delicate edges of the leaves will crisp up. Keep the plant near a room humidifier or in a bright, humid bathroom. Soil and Potting Because they need to stay moist but rot easily, the soil must be rich but well-draining. A high-quality potting mix heavily amended with peat moss for moisture retention and perlite for drainage is perfect. Because they grow from bulbs, they prefer a wide, shallow pot rather than a deep one. Toxicity Caladiums belong to the Araceae family and are packed with insoluble calcium oxalate crystals. They are highly toxic to cats, dogs, and humans. If a pet bites into a leaf or stem, the microscopic crystals embed in the mouth and throat, causing immediate, excruciating pain, severe swelling, and vomiting. Keep them safely out of reach.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/caladium-bicolor/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

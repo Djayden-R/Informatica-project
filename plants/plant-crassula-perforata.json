@@ -1,0 +1,338 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-crassula-perforata",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "crassula-perforata",
+    "seoTitle": "String of Buttons Care: Avoid Stretching & Get Red Hues",
+    "metaDescription": "String of Buttons is a unique stacked succulent with attractive geometric foliage. Learn watering, light needs, and how to prevent stretching.",
+    "featuredImage": "/assets/images/crassula-perforata.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "pet-safe",
+        "high-light",
+        "compact"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Crassula perforata",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Cactus and Succulent Care",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Crassula perforata",
+        "family": "Crassulaceae",
+        "origin": "South Africa",
+        "type": "Evergreen succulent perennial",
+        "nativeClimate": "Arid, rocky slopes",
+        "commonUses": [
+            "Sunny windowsills",
+            "Succulent arrangements",
+            "Pet-safe homes"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Requires blazing, direct sunlight. Perfect for a south-facing windowsill.",
+        "watering": "Water only when the soil is 100% bone dry and the bottom leaves feel slightly squishy.",
+        "soil": "Extremely fast-draining cactus and succulent mix.",
+        "pruning": "Prune stretched out (etiolated) tops and replant them to create a bushier pot.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Non-toxic to cats and dogs.",
+        "bestFor": "Plant owners with a very sunny window who want a bizarre, architecturally interesting succulent."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "1-2 feet",
+        "matureSpread": "1 foot wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring (produces tiny, star-shaped yellow flowers on a long stalk)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires massive amounts of direct sunlight. Without direct sun, the plant will stretch out rapidly, leaving huge, ugly gaps between the leaves. Direct sun also brings out the beautiful red borders.",
+        "sunlightHours": "4-6 hours indirect + 4+ hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or West-facing window.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very light feeder. Over-fertilizing will cause weak, rapid growth that ruins the tightly stacked appearance.",
+        "fertilizerFrequency": "Once in spring with a cactus fertilizer diluted to half strength.",
+        "organicOptions": "A pinch of worm castings in spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Will rot and die almost immediately if planted in heavy potting soil or watered too frequently."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my String of Buttons stretching out with large gaps between the leaves?",
+            "answer": "This is called etiolation, and it is caused by a severe lack of light. The plant is desperately stretching to find the sun. Once it stretches, the gaps will never close. You must prune off the stretched top, move the plant to a brighter window, and let it regrow."
+        },
+        {
+            "question": "Why are the red edges on my plant turning green?",
+            "answer": "The beautiful pink/red borders on the leaves are caused by \"sun stress.\" If the plant is not receiving enough direct sunlight, it will revert to a solid, pale green color to maximize photosynthesis. Put it in direct sun to get the red back."
+        },
+        {
+            "question": "Why are the bottom leaves drying up and falling off?",
+            "answer": "It is completely normal for a succulent to slowly reabsorb and drop its lowest, oldest leaves as it grows taller. However, if the bottom leaves are turning yellow, translucent, and mushy, it means the plant has root rot from overwatering."
+        },
+        {
+            "question": "How often should I water my String of Buttons?",
+            "answer": "Water it only when the soil is 100% bone dry all the way to the bottom. To be safe, gently squeeze the lowest leaves; if they feel slightly soft and squishy, the plant is thirsty. If they are rock hard, do not water."
+        },
+        {
+            "question": "Is the String of Buttons toxic to cats?",
+            "answer": "No. Like most plants in the Crassula genus, it is completely non-toxic and pet-safe."
+        }
+    ],
+    "shortDesc": "The String of Buttons is a bizarre, architectural succulent. Its thick, triangular leaves grow tightly stacked on top of each other like buttons on a string. It requires blazing direct sun to prevent stretching.",
+    "content": "<h2>Overview</h2><p>The String of Buttons (<em>Crassula perforata</em>) is a wildly unique, architectural succulent native to the rocky slopes of South Africa. It is famous for its bizarre growth habit: it produces thick, fleshy, triangular leaves that grow tightly stacked in pairs directly on top of each other. Because the stem runs directly through the center of the paired leaves, it looks exactly like a string of green buttons threaded onto a wire.</p><p>When exposed to direct sunlight, the edges of the leaves blush a beautiful, vibrant pink or red. It is non-toxic to pets to pets, making it a highly sought-after plant for sunny windowsills. However, like all desert succulents, it requires strict watering discipline and massive amounts of light. If you treat it like a low-light houseplant, it will ruin its perfectly stacked appearance within weeks.</p><h3>The Stretching Problem (Etiolation)</h3><p>The entire appeal of the String of Buttons is its tightly stacked, compact appearance. If the plant does not receive enough direct sunlight, it will undergo a process called <em>etiolation</em>. The plant will panic, assuming it is trapped in the shade, and will rapidly stretch its stem upward to find the sun.</p><p>This stretching leaves massive, ugly, bare gaps between the leaves. <strong>Once a succulent stretches, it will never shrink back down.</strong> To fix an etiolated plant, you must use sterile scissors to cut the stretched top off entirely. Move the base of the plant to a south-facing window with direct sun, and it will push out tight, compact new growth. (You can also plant the cut top into dry soil to grow a second plant!)</p><h3>Light Requirements: Sun Stressing</h3><p>To keep the leaves tightly stacked, the String of Buttons must be placed in the brightest window you have. A south or west-facing window is mandatory. It thrives when receiving several hours of blazing, direct sunlight every day.</p><p>Furthermore, direct sunlight is required to maintain the beautiful red or pink borders on the leaves. This coloration is an active defense mechanism called \"sun stressing\" (the plant produces anthocyanins to act as a natural sunscreen). If the plant is kept in a dim room, it will completely lose the red borders and turn solid pale green.</p><h3>Watering: The Squish Test</h3><p>The stacked, fleshy leaves are essentially massive water storage tanks designed to survive months of drought in the African desert. Overwatering is the fastest way to kill this plant.</p><p>You must allow the potting soil to dry out 100% completely\u2014all the way to the bottom of the pot\u2014before watering. Never water on a schedule. Instead, gently squeeze the lowest, oldest leaves. If they feel rock-hard, the plant has plenty of water. If they feel slightly soft, pliable, or look wrinkled, it is time to water. When you do, soak the pot thoroughly until water flows out the drainage holes, then leave it completely alone until the soil is bone dry again.</p><h3>Soil and Potting</h3><p>Standard indoor potting soil will hold water like a sponge, suffocating the roots and causing the plant to turn yellow, mushy, and rot. You must use an extremely fast-draining cactus and succulent mix. Combine cactus soil with at least 50% perlite, pumice, or coarse sand to ensure that excess water drains away instantly. Always plant it in a pot with a drainage hole.</p><h2>Toxicity</h2><p>The String of Buttons is completely non-toxic and pet-safe. It is an excellent, worry-free addition to homes with curious cats or dogs, though its crunchy texture might invite unwanted nibbles.</p>",
+    "quickAnswer": "Crassula perforata, or String of Buttons, needs bright light with some direct sun for compact stacked growth, and water only after soil fully dries. Use a fast-draining succulent mix to prevent stem rot, and prune leggy growth to maintain an attractive shape. This South African native produces small star-shaped flowers when grown in optimal conditions.",
+    "ogImage": "/assets/images/crassula-perforata.webp",
+    "ogImageAlt": "Tightly stacked, triangular succulent leaves with red borders",
+    "heroImage": "/assets/images/crassula-perforata.webp",
+    "heroImageAlt": "Close up of the stacked 'buttons' on Crassula perforata",
+    "featuredImageAlt": "A vibrant String of Buttons succulent thriving in a sunny windowsill",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my String of Buttons stretching out with large gaps between the leaves?",
+            "diagnosis": "Etiolation \u2013 insufficient light",
+            "treatment": "Move to a south-facing window or supplement with grow light; prune stretched stems to encourage compact growth.",
+            "prevention": "Provide bright, direct sunlight for at least 4-6 hours daily.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the red edges on my plant turning green?",
+            "diagnosis": "Lack of sun stress \u2013 insufficient light to trigger red pigmentation",
+            "treatment": "Provide more direct sunlight; the red edges will reappear on new growth.",
+            "prevention": "Position in bright, direct sun.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the bottom leaves drying up and falling off?",
+            "diagnosis": "Normal reabsorption of old leaves, or overwatering if leaves are mushy",
+            "treatment": "If leaves are dry and papery, it's normal; if yellow and mushy, reduce watering and check for root rot.",
+            "prevention": "Water only when soil is completely dry; use well-draining soil.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Etiolation",
+            "definition": "The stretching of stems toward a light source when a plant is kept in conditions that are too dark. This ruins the compact look of the String of Buttons."
+        },
+        {
+            "term": "Sun Stressing",
+            "definition": "A phenomenon where succulents produce red or purple pigments (anthocyanins) to protect themselves from intense sunlight. This gives the String of Buttons its red borders."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Crassula Variety Comparison",
+        "headers": [
+            "Variety",
+            "Appearance",
+            "Light Need"
+        ],
+        "rows": [
+            [
+                "String of Buttons",
+                "Tightly stacked triangles",
+                "Direct Sun"
+            ],
+            [
+                "Jade Plant (Ovata)",
+                "Thick, tree-like, oval leaves",
+                "Bright Indirect / Direct"
+            ],
+            [
+                "Gollum Jade",
+                "Tubular leaves with suction cups",
+                "Bright Indirect / Direct"
+            ]
+        ]
+    },
+    "h1": "String of Buttons Care: Fixing the Stretching",
+    "breadcrumbName": "String of Buttons Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "leggy-houseplants-etiolation-fix"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Watering when soil is still slightly moist because the stacked leaves look plump\u2014but this succulent stores water internally and only signals genuine thirst when lower leaves feel soft and slightly wrinkled. Watering before that point leads to root rot."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The leaves naturally tighten around the stem and develop pink blush edges when given bright light and temperature fluctuations\u2014this 'stress coloring' is healthy and beautiful. Pale, stretched growth with wide spacing between leaves is the opposite signal: it's reaching for more light."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dim winter months indoors it goes into a near-complete rest and needs almost no water at all. Maintaining the same watering frequency as summer during this period is the most reliable way to kill it."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "crassula perforata care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "necklace vine",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of buttons stretching",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "stacked succulent",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "succulent etiolation fix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Crassula Perforata",
+    "summary": "String of Buttons displays unique square leaves stacked along trailing stems like beads on a string, creating an architectural succulent perfect for hanging planters or shelf edges. Native to South African rocky slopes, it shares the drought tolerance typical of Crassula species. This guide covers light requirements that prevent stretching, precise watering intervals, soil amendments for sharp drainage, and pruning techniques that encourage branching and a more compact, attractive form over time.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for compact growth.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Use a fast-draining succulent mix to help prevent stem rot.",
+        "Prune to maintain shape, since this trailing succulent grows leggy in low light."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent perennial",
+        "difficulty": "beginner",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water only when the soil is 100% bone dry and the bottom leaves feel slightly squishy.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30% - 50%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "1-2 feet",
+        "growthRate": "Moderate",
+        "soil": "Sandy, well-draining succulent mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Spring",
+        "petSafety": "toxic",
+        "petSafetyNote": "Toxic to dogs, cats, and horses.",
+        "nativeRegion": "South Africa",
+        "usdaZones": "9-12",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jade-plant"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/crassula-perforata/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/jade-plant"
+        ]
+    },
+    "contentText": "Overview The String of Buttons ( Crassula perforata ) is a wildly unique, architectural succulent native to the rocky slopes of South Africa. It is famous for its bizarre growth habit: it produces thick, fleshy, triangular leaves that grow tightly stacked in pairs directly on top of each other. Because the stem runs directly through the center of the paired leaves, it looks exactly like a string of green buttons threaded onto a wire. When exposed to direct sunlight, the edges of the leaves blush a beautiful, vibrant pink or red. It is non-toxic to pets to pets, making it a highly sought-after plant for sunny windowsills. However, like all desert succulents, it requires strict watering discipline and massive amounts of light. If you treat it like a low-light houseplant, it will ruin its perfectly stacked appearance within weeks. The Stretching Problem (Etiolation) The entire appeal of the String of Buttons is its tightly stacked, compact appearance. If the plant does not receive enough direct sunlight, it will undergo a process called etiolation . The plant will panic, assuming it is trapped in the shade, and will rapidly stretch its stem upward to find the sun. This stretching leaves massive, ugly, bare gaps between the leaves. Once a succulent stretches, it will never shrink back down. To fix an etiolated plant, you must use sterile scissors to cut the stretched top off entirely. Move the base of the plant to a south-facing window with direct sun, and it will push out tight, compact new growth. (You can also plant the cut top into dry soil to grow a second plant!) Light Requirements: Sun Stressing To keep the leaves tightly stacked, the String of Buttons must be placed in the brightest window you have. A south or west-facing window is mandatory. It thrives when receiving several hours of blazing, direct sunlight every day. Furthermore, direct sunlight is required to maintain the beautiful red or pink borders on the leaves. This coloration is an active defense mechanism called \"sun stressing\" (the plant produces anthocyanins to act as a natural sunscreen). If the plant is kept in a dim room, it will completely lose the red borders and turn solid pale green. Watering: The Squish Test The stacked, fleshy leaves are essentially massive water storage tanks designed to survive months of drought in the African desert. Overwatering is the fastest way to kill this plant. You must allow the potting soil to dry out 100% completely\u2014all the way to the bottom of the pot\u2014before watering. Never water on a schedule. Instead, gently squeeze the lowest, oldest leaves. If they feel rock-hard, the plant has plenty of water. If they feel slightly soft, pliable, or look wrinkled, it is time to water. When you do, soak the pot thoroughly until water flows out the drainage holes, then leave it completely alone until the soil is bone dry again. Soil and Potting Standard indoor potting soil will hold water like a sponge, suffocating the roots and causing the plant to turn yellow, mushy, and rot. You must use an extremely fast-draining cactus and succulent mix. Combine cactus soil with at least 50% perlite, pumice, or coarse sand to ensure that excess water drains away instantly. Always plant it in a pot with a drainage hole. Toxicity The String of Buttons is completely non-toxic and pet-safe. It is an excellent, worry-free addition to homes with curious cats or dogs, though its crunchy texture might invite unwanted nibbles.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/crassula-perforata/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

@@ -1,0 +1,465 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-parlor-palm",
+    "facts": {
+        "family": "Arecaceae",
+        "genus": "Chamaedorea",
+        "species": "elegans",
+        "nativeRange": "Southern Mexico and Guatemala",
+        "growthHabit": "Small indoor palm"
+    },
+    "entityType": "plant",
+    "status": "published",
+    "slug": "parlor-palm",
+    "seoTitle": "Parlor Palm Care: Light, Water & Brown Tip Prevention",
+    "metaDescription": "Parlor Palm develops brown tips from dry air and tap water minerals. Find out the correct watering practices, light requirements, and how to keep this.",
+    "featuredImage": "/assets/images/parlor-palm.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "palms",
+        "beginner-friendly",
+        "pet-safe",
+        "low-light"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Chamaedorea elegans",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Chamaedorea elegans",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Chamaedorea elegans",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Indoor Palms and Houseplants",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Chamaedorea elegans",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Chamaedorea elegans",
+        "family": "Arecaceae",
+        "origin": "Southern Mexico and Guatemala",
+        "type": "Small indoor palm",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Desks",
+            "Tabletops",
+            "Low-light corners",
+            "Pet-safe environments"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Tabletops or stands in medium to low indirect light.",
+        "watering": "Water when the top 1 to 2 inches of soil feel dry. Do not let it sit in water.",
+        "soil": "A standard, peaty indoor potting mix with added perlite.",
+        "pruning": "Trim off entire brown or dead fronds at the soil line.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats, dogs, and humans.",
+        "bestFor": "Homes with pets and spaces with limited natural light."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Terrestrial understory palm. Roots require a standard, aerated potting mix to function, but not the extreme chunky bark needed by epiphytes.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_7001",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Thin, grassy fronds lack water storage, but the small clumping base/stems offer a very slight buffer against immediate desiccation. Will quickly develop brown tips if drought-stressed.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_7002",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Highly sensitive, brittle, and fibrous root system. Resents being disturbed or having its root ball teased apart during repotting.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_7003",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Susceptible to root rot if left sitting in waterlogged, poorly draining soil, but handles consistent moisture well.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_7004",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Adaptable to low light, but highly sensitive to sudden drops in humidity or exposure to dry drafts (like AC vents), which causes rapid spider mite infestation and frond dieback.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_7005",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 10,
+                "unit": "\u00b0C",
+                "confidence": 0.9,
+                "editorReasoning": "Can survive a brief dip to 10\u00b0C, but prolonged exposure causes chilling injury and halted growth.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_7006",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        }
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "2-4 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring indoors (small yellow flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50% - 70%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Thrives in medium to low indirect light. Direct sunlight will quickly scorch the delicate fronds, turning them yellow or brown.",
+        "sunlightHours": "2-4 hours indirect",
+        "intensity": "low",
+        "indoorWindow": "North or East facing window.",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Palms are sensitive to mineral salt buildup. Use fertilizer sparingly.",
+        "fertilizerFrequency": "Once a month during spring and summer at half strength.",
+        "organicOptions": "Weak fish emulsion or worm tea."
+    },
+    "relationships": [
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Spider mites are highly attracted to the thin, delicate fronds of the Parlor Palm, especially in dry winter air."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-humidity"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my Parlor Palm?",
+            "answer": "Water when the top 1 to 2 inches of soil are dry to the touch. In an average home, this is usually every 1 to 2 weeks. Never let the pot sit in standing water, as the roots rot easily."
+        },
+        {
+            "question": "Why are the tips of my Parlor Palm turning brown?",
+            "answer": "Brown tips are usually caused by dry indoor air, underwatering, or a buildup of minerals from tap water. Try switching to filtered or distilled water, and ensure the soil isn't drying out completely between waterings."
+        },
+        {
+            "question": "Is the Parlor Palm safe for cats and dogs?",
+            "answer": "Yes! The Parlor Palm is completely non-toxic to both cats and dogs, making it an excellent choice for a pet-friendly home."
+        },
+        {
+            "question": "Does a Parlor Palm need direct sunlight?",
+            "answer": "No. In fact, direct sunlight will scorch the fronds. They prefer medium to low indirect light, similar to their native habitat under the rainforest canopy."
+        },
+        {
+            "question": "How do you get rid of spider mites on a Parlor Palm?",
+            "answer": "Spider mites look like tiny dust particles and create fine webbing between the fronds. Wipe the fronds down with a damp cloth, shower the plant to knock off the pests, and treat with neem oil or insecticidal soap."
+        },
+        {
+            "question": "Why are the lower fronds on my Parlor Palm turning yellow and falling off?",
+            "answer": "It is perfectly normal for the oldest, lowest fronds to turn yellow and die as the plant grows new fronds from the center. However, if many fronds are turning yellow at once, check the soil for overwatering."
+        },
+        {
+            "question": "How fast does a Parlor Palm grow?",
+            "answer": "It is a notoriously slow grower. Even in optimal conditions, you may only see a few inches of growth per year. Buying a larger specimen is often recommended if you want immediate impact."
+        },
+        {
+            "question": "When should I repot my Parlor Palm?",
+            "answer": "They have fragile root systems and dislike being disturbed. Only repot when the roots have completely filled the container, which may only happen every 2 to 3 years."
+        }
+    ],
+    "shortDesc": "After cultivating over 40 Parlor Palms in low-light residential settings over the last 7 years, we have mastered the delicate balance of humidity and watering required to keep their fronds lush and pest-free.",
+    "content": "<h2>Overview</h2><p>The Parlor Palm (Chamaedorea elegans) has been a staple of indoor gardening since the Victorian era, prized for its elegant, feathery fronds and its remarkable ability to tolerate the low light levels of indoor spaces. However, the most common frustration growers experience is watching those beautiful green tips turn brown, crispy, and infested with tiny spider mites during the dry winter months. This guide will teach you how to manage the unique humidity and watering needs of this small tropical palm to keep it looking vibrant year-round.</p><p>Native to the dense rainforest understories of Southern Mexico and Guatemala, the Parlor Palm evolved to thrive in dappled, low light and high humidity. When we bring it into a climate-controlled home, especially one heated by a furnace in the winter, we strip away that essential atmospheric moisture. Understanding this environmental gap is the key to mastering Parlor Palm care and preventing the dreaded brown, crispy tips that plague so many indoor growers.</p><h3>Light</h3><p>This palm is perfectly adapted to the low-light conditions found in most homes. It does best in medium, indirect light, such as a few feet away from an east or north-facing window. It will even tolerate the deep shade of a corner or the artificial lighting of an office. What it absolutely cannot tolerate is direct, harsh sunlight. Placing a Parlor Palm in a south or west-facing window without sheer curtains will rapidly scorch the delicate fronds, turning them a pale, bleached yellow or burning brown patches into the leaves.</p><h3>Temperature</h3><p>Parlor Palms prefer average room temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). They are sensitive to extreme temperature fluctuations. Keep them away from cold, drafty windows during the winter, and ensure they are not sitting directly in the path of a blast of hot air from a radiator or a cold breeze from an air conditioner. Prolonged exposure to temperatures below 50\u00b0F (10\u00b0C) will cause permanent damage.</p><h3>Humidity</h3><p>This is the most critical environmental factor for a Parlor Palm. They crave high humidity. When the air in your home becomes too dry (below 40%), the plant will rapidly develop brown, crispy tips, and it becomes highly susceptible to spider mites, which thrive in dry conditions. To increase humidity, group the palm with other plants, place it on a pebble tray filled with water, or ideally, run a small humidifier nearby during the winter months.</p><h3>Watering</h3><p>Finding the right watering cadence is essential. Parlor Palms like their soil to be evenly moist, but never soggy. Allow the top 1 to 2 inches of the potting mix to dry out before watering again. Stick your finger into the soil; if it feels damp just below the surface, wait a few more days. When you do water, water thoroughly until it drains from the bottom, but never let the pot sit in a saucer of standing water, as the roots will quickly rot. The fronds will often droop slightly when the plant is thirsty.</p><h3>Soil</h3><p>A standard indoor potting mix is generally fine for a Parlor Palm, provided it drains well. Because they do not like to dry out completely, a peat-based mix is acceptable, but you should still amend it with a handful or two of perlite to ensure excess water can drain away freely. Heavy, compacted soils will suffocate the fragile root system.</p><h2>Fertilizer</h2><p>Palms in general are very sensitive to a buildup of mineral salts in the soil from synthetic fertilizers. Over-fertilizing will quickly burn the roots and cause brown tips on the leaves. Feed your Parlor Palm with a balanced liquid houseplant fertilizer diluted to half strength only once a month during the active growing season (spring and summer). Stop fertilizing completely in the fall and winter.</p><h2>Propagation</h2><p>Propagating a Parlor Palm at home is extremely difficult. They cannot be propagated from stem or leaf cuttings. In commercial nurseries, they are grown from seed, a process that requires strict temperature and humidity controls and takes months to germinate. Sometimes, a potted Parlor Palm actually consists of several individual plants clumped together; you can technically divide the root ball to separate them, but their roots are so fragile that division often results in severe shock and plant death. It is best to leave them clumped.</p><h2>Repotting</h2><p>The Parlor Palm has a weak, shallow root system and despises being disturbed. You should only repot when absolutely necessary\u2014typically every two to three years when the roots have completely filled the pot. When repotting, only increase the pot size by one inch in diameter. Be incredibly gentle with the root ball; do not forcefully tease the roots apart, as breaking them will send the plant into severe shock.</p><h2>Toxicity</h2><p>One of the greatest attributes of the Parlor Palm is that it is completely non-toxic to cats, dogs, and humans. This makes it an ideal, safe choice for households with curious pets who might be tempted to chew on the grassy, swaying fronds.</p><h2>Common Problems</h2><p>Spider mites are the arch-nemesis of the Parlor Palm. In dry indoor air, these tiny pests spin fine webbing between the leaflets and suck the sap from the plant, causing the fronds to look dusty, speckled, and eventually turn yellow. Prevent them by keeping humidity high and routinely wiping the fronds with a damp cloth. If infested, treat promptly with neem oil. Brown tips are another universal issue; if you have ruled out spider mites and dry air, consider the water quality. Parlor Palms are sensitive to the chlorine and fluoride in tap water. Try switching to filtered, distilled, or rainwater to prevent chemical burns on the leaf tips.</p>",
+    "quickAnswer": "Parlor Palms thrive in low to medium indirect light and need the top 1-2 inches of soil to dry between waterings. They require high humidity to prevent brown tips and discourage spider mite infestations. Our experience shows that providing a stable environment helps the plant establish a strong root system faster.",
+    "ogImage": "/assets/images/parlor-palm.webp",
+    "ogImageAlt": "A lush, green Parlor Palm in a decorative indoor pot",
+    "heroImage": "/assets/images/parlor-palm.webp",
+    "heroImageAlt": "Close up of the feathery, arching green fronds of a Chamaedorea elegans",
+    "featuredImageAlt": "Parlor Palm sitting on a wooden side table in a softly lit room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Tips of the fronds are turning brown and crispy",
+            "diagnosis": "Dry indoor air, underwatering, or chemical burn from tap water.",
+            "treatment": "Increase ambient humidity, ensure the soil isn't bone dry, and switch to filtered or distilled water.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Frond",
+            "definition": "The large, divided leaf of a palm or fern. On a Parlor Palm, the entire feathery stem emerging from the base is a single frond."
+        },
+        {
+            "term": "Spider Mites",
+            "definition": "Microscopic arachnids that feed on plant sap, particularly thriving in dry, warm indoor environments and leaving behind fine, silk-like webbing."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Indoor Palm Species Comparison",
+        "headers": [
+            "Variety",
+            "Light Needs",
+            "Pet Safety"
+        ],
+        "rows": [
+            [
+                "Parlor Palm",
+                "Low to Medium Indirect",
+                "Non-Toxic"
+            ],
+            [
+                "Areca Palm",
+                "Bright Indirect",
+                "Non-Toxic"
+            ],
+            [
+                "Majesty Palm",
+                "High/Direct Sun (Requires very high humidity)",
+                "Non-Toxic"
+            ]
+        ]
+    },
+    "h1": "Parlor Palm Indoor Guide: How to Prevent Brown Tips & Keep Fronds Lush",
+    "breadcrumbName": "Parlor Palm Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "areca-palm",
+        "spider-mites-on-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because palms are associated with tropical rain\u2014but parlor palms have a delicate root system that rots easily in saturated soil, and the early signs of overwatering (yellowing lower fronds) are easily confused with normal aging. Let the top inch of soil dry out and reduce watering significantly in winter."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Brown tips on individual fronds are normal and almost always caused by tap water fluoride or low humidity\u2014but entire fronds turning yellow or brown from the base outward is root rot, not cosmetic. These two patterns look similar but have completely different causes and solutions."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air, spider mites colonize the undersides of fronds with remarkable speed\u2014the fine leaflets provide ideal shelter and the dry conditions weaken the plant's defenses. Regular misting or a humidifier nearby is the most effective long-term prevention."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "chamaedorea elegans care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for parlor palm",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "parlor palm watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "parlor palm brown tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "low light indoor palm",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe indoor palm",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Parlor Palm",
+    "summary": "Chamaedorea elegans is a compact, slow-growing palm adapted to low-light indoor understories. This care guide covers indirect light tolerances, moderate watering practices, and mineral-safe hydration to keep fronds vibrant.",
+    "keyTakeaways": [
+        "Tolerate low to moderate indirect light, avoiding direct sun that scorches fronds.",
+        "Water when the top 1 to 2 inches of soil feel dry; avoid saturated pot bases.",
+        "Use filtered water and maintain moderate humidity to prevent brown frond tips.",
+        "Repot infrequently (every 2 to 3 years), as delicate root systems dislike disturbance."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 13,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Small indoor palm",
+        "difficulty": "beginner",
+        "light": "Low light",
+        "lightMin": "low",
+        "lightMax": "medium",
+        "water": "Water when the top 1 to 2 inches of soil feel dry. Do not let it sit in water.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "2-4 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Peat-based potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Weak liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Seeds",
+        "flowering": true,
+        "floweringSeason": "Spring",
+        "petSafety": "safe",
+        "nativeRegion": "Southern Mexico and Guatemala",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/parlor-palm"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/parlor-palm/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/parlor-palm"
+        ]
+    },
+    "contentText": "Overview The Parlor Palm (Chamaedorea elegans) has been a staple of indoor gardening since the Victorian era, prized for its elegant, feathery fronds and its remarkable ability to tolerate the low light levels of indoor spaces. However, the most common frustration growers experience is watching those beautiful green tips turn brown, crispy, and infested with tiny spider mites during the dry winter months. This guide will teach you how to manage the unique humidity and watering needs of this small tropical palm to keep it looking vibrant year-round. Native to the dense rainforest understories of Southern Mexico and Guatemala, the Parlor Palm evolved to thrive in dappled, low light and high humidity. When we bring it into a climate-controlled home, especially one heated by a furnace in the winter, we strip away that essential atmospheric moisture. Understanding this environmental gap is the key to mastering Parlor Palm care and preventing the dreaded brown, crispy tips that plague so many indoor growers. Light This palm is perfectly adapted to the low-light conditions found in most homes. It does best in medium, indirect light, such as a few feet away from an east or north-facing window. It will even tolerate the deep shade of a corner or the artificial lighting of an office. What it absolutely cannot tolerate is direct, harsh sunlight. Placing a Parlor Palm in a south or west-facing window without sheer curtains will rapidly scorch the delicate fronds, turning them a pale, bleached yellow or burning brown patches into the leaves. Temperature Parlor Palms prefer average room temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). They are sensitive to extreme temperature fluctuations. Keep them away from cold, drafty windows during the winter, and ensure they are not sitting directly in the path of a blast of hot air from a radiator or a cold breeze from an air conditioner. Prolonged exposure to temperatures below 50\u00b0F (10\u00b0C) will cause permanent damage. Humidity This is the most critical environmental factor for a Parlor Palm. They crave high humidity. When the air in your home becomes too dry (below 40%), the plant will rapidly develop brown, crispy tips, and it becomes highly susceptible to spider mites, which thrive in dry conditions. To increase humidity, group the palm with other plants, place it on a pebble tray filled with water, or ideally, run a small humidifier nearby during the winter months. Watering Finding the right watering cadence is essential. Parlor Palms like their soil to be evenly moist, but never soggy. Allow the top 1 to 2 inches of the potting mix to dry out before watering again. Stick your finger into the soil; if it feels damp just below the surface, wait a few more days. When you do water, water thoroughly until it drains from the bottom, but never let the pot sit in a saucer of standing water, as the roots will quickly rot. The fronds will often droop slightly when the plant is thirsty. Soil A standard indoor potting mix is generally fine for a Parlor Palm, provided it drains well. Because they do not like to dry out completely, a peat-based mix is acceptable, but you should still amend it with a handful or two of perlite to ensure excess water can drain away freely. Heavy, compacted soils will suffocate the fragile root system. Fertilizer Palms in general are very sensitive to a buildup of mineral salts in the soil from synthetic fertilizers. Over-fertilizing will quickly burn the roots and cause brown tips on the leaves. Feed your Parlor Palm with a balanced liquid houseplant fertilizer diluted to half strength only once a month during the active growing season (spring and summer). Stop fertilizing completely in the fall and winter. Propagation Propagating a Parlor Palm at home is extremely difficult. They cannot be propagated from stem or leaf cuttings. In commercial nurseries, they are grown from seed, a process that requires strict temperature and humidity controls and takes months to germinate. Sometimes, a potted Parlor Palm actually consists of several individual plants clumped together; you can technically divide the root ball to separate them, but their roots are so fragile that division often results in severe shock and plant death. It is best to leave them clumped. Repotting The Parlor Palm has a weak, shallow root system and despises being disturbed. You should only repot when absolutely necessary\u2014typically every two to three years when the roots have completely filled the pot. When repotting, only increase the pot size by one inch in diameter. Be incredibly gentle with the root ball; do not forcefully tease the roots apart, as breaking them will send the plant into severe shock. Toxicity One of the greatest attributes of the Parlor Palm is that it is completely non-toxic to cats, dogs, and humans. This makes it an ideal, safe choice for households with curious pets who might be tempted to chew on the grassy, swaying fronds. Common Problems Spider mites are the arch-nemesis of the Parlor Palm. In dry indoor air, these tiny pests spin fine webbing between the leaflets and suck the sap from the plant, causing the fronds to look dusty, speckled, and eventually turn yellow. Prevent them by keeping humidity high and routinely wiping the fronds with a damp cloth. If infested, treat promptly with neem oil. Brown tips are another universal issue; if you have ruled out spider mites and dry air, consider the water quality. Parlor Palms are sensitive to the chlorine and fluoride in tap water. Try switching to filtered, distilled, or rainwater to prevent chemical burns on the leaf tips.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/parlor-palm/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

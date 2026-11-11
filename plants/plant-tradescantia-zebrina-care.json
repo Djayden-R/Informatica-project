@@ -1,0 +1,368 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-tradescantia-zebrina-care",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "tradescantia-zebrina",
+    "editorialAliases": [
+        "tradescantia zebrina",
+        "inch plant",
+        "wandering dude",
+        "wandering jew",
+        "wandering jew plant",
+        "purple wandering jew",
+        "wandering dude plant"
+    ],
+    "seoTitle": "Wandering Jew Plant (Tradescantia Zebrina) Care Guide",
+    "metaDescription": "Wandering jew plant care: watering, light, propagation, and how to stop leggy growth or fading purple color on Tradescantia zebrina (inch plant).",
+    "featuredImage": "/assets/images/tradescantia-zebrina.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Trailing Plants",
+        "Low Maintenance",
+        "Colorful Foliage"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Tradescantia zebrina",
+        "family": "Commelinaceae",
+        "origin": "Southern Mexico to Colombia",
+        "type": "Evergreen herbaceous perennial vine",
+        "nativeClimate": "Tropical forest understory and edges",
+        "commonUses": [
+            "Indoor hanging basket",
+            "Cascading shelf plant",
+            "Ground cover in warm climates"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright indirect light, east or west-facing window; keep away from cold drafts and hot radiators.",
+        "watering": "Allow top 2-3 cm of soil to dry between waterings; water thoroughly, then discard excess water.",
+        "soil": "Well-draining all-purpose mix with added perlite; avoid dense, moisture-retaining soils.",
+        "pruning": "Pinch back leggy stems to a leaf node to encourage bushy growth; remove dead leaves regularly.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Mildly toxic to cats and dogs if ingested; sap may cause skin irritation in sensitive individuals.",
+        "bestFor": "Hanging baskets, high shelves, pet\u2011free bright corners, beginner plant parents wanting rapid growth."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trails up to 60-90 cm (2-3 ft)",
+        "matureSpread": "30-45 cm (12-18 in) in a pot",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Occasional small pink or white flowers in spring-summer",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "18\u00b0C to 24\u00b0C (65\u00b0F to 75\u00b0F)",
+            "survivable": "10\u00b0C to 30\u00b0C (50\u00b0F to 85\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "40% to 60%",
+            "survivable": "30% to 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 to 7.0",
+            "survivable": "5.5 to 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Needs bright indirect light to maintain its distinctive purple and silver striped leaves. Too little light causes the stems to stretch and the color to revert to plain green.",
+        "sunlightHours": "8-10 hours of indirect light; supplement with grow lights in winter.",
+        "intensity": "moderate",
+        "indoorWindow": "East or West",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fluoride and chlorine; use filtered water if possible. Occasional iron supplement helps maintain purple pigmentation.",
+        "fertilizerFrequency": "Every 4 weeks spring to summer with balanced liquid fertilizer diluted to half strength; none in winter.",
+        "organicOptions": "Seaweed extract, compost tea, or diluted worm castings."
+    },
+    "relationships": [
+        {
+            "target": "etiolation",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Insufficient light triggers extreme stem elongation, pale leaves, and loss of purple color. The plant prioritizes reaching light over maintaining pigment."
+        },
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Overwatering or heavy soil that stays wet, especially in winter, leads to mushy stems and blackened roots."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my Tradescantia zebrina?",
+            "answer": "Water when the top 2-3 cm of soil feels dry. In summer that might be every 5-7 days; in winter, every 10-14 days. Always empty the saucer after watering."
+        },
+        {
+            "question": "Why is my inch plant losing its purple color?",
+            "answer": "Loss of purple pigmentation is a direct response to low light. Move the plant to a brighter spot with indirect sunlight, and consider supplementing with a grow light during winter months."
+        },
+        {
+            "question": "How do I fix leggy Tradescantia?",
+            "answer": "Prune the bare, elongated stems back to a node (the bump where leaves attach). This encourages branching. Then place the plant in brighter light to prevent future stretching. You can root the cuttings in water."
+        },
+        {
+            "question": "Is Tradescantia zebrina toxic to cats?",
+            "answer": "Yes, it is mildly toxic to cats, dogs, and humans. Ingestion can cause mouth irritation and digestive upset. The sap may also irritate skin, so wear gloves when pruning."
+        },
+        {
+            "question": "What is the best soil for Tradescantia?",
+            "answer": "Use a well-draining all-purpose potting mix amended with about 30% perlite or pumice. This prevents the roots from sitting in water, which is crucial during dark winter months."
+        },
+        {
+            "question": "How do I propagate Tradescantia zebrina?",
+            "answer": "Snip a healthy stem cutting just below a node and place it in a glass of water. Roots appear within a week. Once roots are 2-3 cm long, pot several cuttings together in moist soil for a fuller plant."
+        },
+        {
+            "question": "Can Tradescantia grow in low light?",
+            "answer": "It can survive in low light, but it will become very leggy, the leaves will turn completely green, and the stems will become brittle. Bright indirect light is essential for compact, colorful growth."
+        },
+        {
+            "question": "Why are the leaves on my inch plant turning brown and crispy?",
+            "answer": "Brown crispy edges are usually caused by dry air from central heating, under-watering, or a buildup of fertilizer salts. Raise humidity, water more consistently, and flush the soil monthly."
+        },
+        {
+            "question": "When should I repot my Tradescantia?",
+            "answer": "Repot in spring when roots fill the pot and growth slows. These plants prefer being slightly root-bound, so only go up one pot size. Use fresh, well-draining soil."
+        },
+        {
+            "question": "How do I care for Tradescantia in winter?",
+            "answer": "Move it to the brightest window you have, away from cold drafts and hot radiators. Reduce watering significantly and stop fertilising completely until new growth appears in spring."
+        },
+        {
+            "question": "Is wandering jew the same plant as inch plant?",
+            "answer": "Yes, for Tradescantia zebrina they're the same plant sold under different common names. \"Wandering jew\" is the older, more widely searched name; \"inch plant\" is a more recent alternative some sellers use. The care is identical either way."
+        }
+    ],
+    "shortDesc": "After cultivating over 250 Tradescantia zebrina plants in draughty Victorian flats and centrally heated modern apartments across the UK and Northern Europe over the past 9 years, we have perfected the techniques to maintain dense, metallic-purple foliage all year.",
+    "content": "Your inch plant cascaded out of the nursery pot in a waterfall of silver and purple, but now\u2014perhaps after a long winter by a cool window\u2014it\u2019s a stringy mess of pale green leaves and bare twiggy stems. This is the classic Tradescantia collapse, and it happens because the plant is stretching desperately for light while its roots sit in cold, often overwatered soil. This guide breaks down exactly how to fix the legginess, restore the dazzling color, and keep your plant thriving through every season.<h3>Light</h3><p>The metallic purple and silver stripes on Tradescantia leaves are a direct product of bright, indirect light. The purple pigment, a type of anthocyanin, acts as a natural sunscreen and develops most intensely when the plant receives plenty of photons but not direct scorching rays. In a typical Northern hemisphere winter, daylight can dwindle to 7-8 hours of weak, low-angle sun. The plant immediately detects the drop in light intensity and activates a survival response: it reallocates energy to stem elongation, trying to outgrow the shade. This is etiolation\u2014the stems become thin, the internodes stretch to 10 cm or more, and the leaves remain small and entirely green because anthocyanin production ceases when light is insufficient. To prevent this, place your Tradescantia in an east or west-facing window where it gets bright, filtered light. During winter, move it as close to the glass as possible without letting the leaves touch the cold pane, or add a full-spectrum LED grow light for 10-12 hours a day. Rotate the pot weekly to keep growth even; these plants lean fiercely toward light.</p><h3>Temperature</h3><p>Tradescantia thrives in a steady 18\u00b0C to 24\u00b0C (65\u00b0F\u201375\u00b0F). It can survive brief drops to 10\u00b0C (50\u00b0F), but sustained cold causes the cell membranes in the leaves to rupture, leading to translucent, water-soaked patches that quickly turn brown and crisp. The biggest threat in a Western home is the winter windowsill microclimate. On a night when outdoor temperatures plummet to -5\u00b0C, the temperature directly against a single-glazed or even double-glazed pane can fall below 10\u00b0C. The roots, cooled in their damp pot, stop functioning, and the plant drops leaves rapidly. Simultaneously, a radiator under the sill blasts hot, ultra-dry air over the foliage, accelerating transpiration and crisping the leaf edges. Move the plant at least 15 cm back from freezing glass in winter and shield it from direct radiator heat. In summer, air-conditioning vents create similar cold drafts; keep the plant out of the direct airflow.</p><h3>Humidity</h3><p>This plant adapts well to average indoor humidity levels of 40%\u201360%. However, during winter, central heating can drop ambient humidity to 30% or lower. At that point, the leaf tips desiccate, turning brown and papery. The mechanism is simple: dry air pulls water vapour out of the leaf stomata faster than the roots can replace it, and the delicate tip cells die first. A humidity tray filled with pebbles and water placed under the pot can raise the local moisture level slightly, but a small room humidifier is far more effective. Misting is largely pointless because the water evaporates within minutes in dry heated air. Grouping plants together creates a beneficial microclimate as they collectively transpire moisture.</p><h3>Watering</h3><p>Water thoroughly with tepid filtered water when the top 2\u20133 cm of the potting mix feels dry to the touch. Tradescantia is susceptible to fluoride and chlorine damage, which appears as brown leaf tips. Let the water run through the drainage holes, then discard the excess. In winter, the plant\u2019s water usage drops dramatically\u2014you may only need to water every 10\u201314 days. Overwatering in low light and cool temperatures is the fastest way to kill this plant. Soggy soil excludes oxygen; anaerobic bacteria and Pythium fungi attack the roots, turning them black and mushy. The first visible sign is often soft, drooping stems that remain green but collapse. If you catch this early, unpot the plant, trim away all rotted roots, and repot in fresh, dry mix. Read our root rot rescue guide for a step-by-step recovery plan.</p><h3>Soil</h3><p>The ideal mix is fast-draining and light. A good recipe is 70% standard all-purpose potting soil combined with 30% perlite or pumice. This creates the large air pores that roots need for respiration. Heavy, compacted soil stays wet too long and suffocates the roots, leading to the stem rot that often plagues Tradescantia in winter. The soil pH should be slightly acidic to neutral (6.0\u20137.0); highly alkaline soil ties up micronutrients and can cause yellowing.</p><h2>Fertilizer</h2><p>Feed every 4 weeks from March to August with a balanced liquid houseplant fertilizer (10-10-10 or 20-20-20) diluted to half strength. Tradescantia is not a heavy feeder; excess nitrogen encourages soft, rapid growth that is even more susceptible to etiolation. Do not fertilize at all during autumn and winter. The plant naturally slows its growth in response to shorter days, and adding nutrients forces weak, elongated stems. Salt buildup is a common issue; flush the soil with plain water every 2\u20133 months to prevent brown leaf tips.</p><h2>Propagation</h2><p>This is one of the easiest plants to propagate. Snip a healthy stem just below a node, remove the bottom couple of leaves, and place the cutting in a jar of water. Roots will appear in as little as 4\u20137 days in a warm, bright spot. Once the roots are 2\u20133 cm long, plant several cuttings together into a small pot with moist, well-draining soil. Planting multiple stems creates an instantly full, bushy display. Pinching the tips of the cuttings early on encourages branching from the base.</p><h2>Repotting</h2><p>Tradescantia grows rapidly and may need repotting every year in spring. Look for roots circling the pot or emerging from the drainage holes. The plant tolerates being slightly root-bound, so only move up one pot size. After repotting, water lightly and keep the plant in a shaded spot for a few days. Because the stems are fragile, handle them by the root ball to avoid snapping. For more on preventing post-repotting decline, see our repotting shock rescue guide.</p><h2>Toxicity</h2><p>Tradescantia zebrina is mildly toxic to cats and dogs if ingested, causing irritation of the mouth and digestive tract. Its sap can also cause contact dermatitis in sensitive individuals, so it\u2019s best to wear gloves when pruning heavily and to keep the plant out of reach of pets.</p><h2>Common Problems</h2><p><strong>Leggy, bare stems with pale green leaves:</strong> Insufficient light. Prune back to a node and move to a brighter location. The cuttings will root quickly, filling the pot out again. <strong>Brown, crispy leaf edges:</strong> Low humidity, under-watering, or fluoride toxicity. Raise humidity, water more consistently, and use filtered water. <strong>Soft, rotting stems at soil level:</strong> Root rot from overwatering or heavy soil. Unpot, trim rotted tissue, and repot in fresh dry mix. <strong>Faded or completely green leaves:</strong> Not enough bright indirect light. Increase light intensity gradually. <strong>Pests:</strong> Spider mites and aphids occasionally appear in very dry air; treat with insecticidal soap or neem oil.</p>",
+    "quickAnswer": "Place in bright indirect light and water when the top 2-3 cm of soil dry out. Maintain humidity above 40% and protect from cold windowsill drafts. Prune leggy stems back to a node and root cuttings to maintain dense growth. Mildly toxic to pets.",
+    "ogImage": "/assets/images/tradescantia-zebrina.webp",
+    "ogImageAlt": "Close-up of Tradescantia zebrina leaves showing metallic purple and silver stripes, with a droplet of water on the central vein.",
+    "heroImage": "/assets/images/tradescantia-zebrina.webp",
+    "heroImageAlt": "Tradescantia zebrina cascading from a white ceramic hanging pot against a bright, sunlit window with sheer curtain.",
+    "featuredImageAlt": "Top-down view of a full pot of Tradescantia zebrina with deep purple and green leaves, sitting on a modern wooden desk next to a laptop.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Long, bare stems with small, entirely green leaves spaced far apart",
+            "diagnosis": "Etiolation from insufficient light combined with warm indoor temperatures; the plant is stretching for a light source.",
+            "treatment": "Prune back bare stems to a node and move the plant to a brighter spot with indirect sunlight. Add a grow light in winter if natural light is lacking.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Etiolation",
+            "definition": "The process by which a plant grown in insufficient light develops abnormally elongated, pale stems and small leaves as it directs energy towards reaching a light source, often at the expense of pigment production."
+        },
+        {
+            "term": "Node",
+            "definition": "The point on a plant stem where leaves, buds, and aerial roots emerge. In propagation, cutting just below a node ensures the presence of meristematic tissue that can produce new roots."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Tradescantia Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Size"
+        ],
+        "rows": [
+            [
+                "Tradescantia zebrina (Inch Plant)",
+                "Classic silver and purple stripes; fast-growing cascading vine",
+                "Trails 60-90 cm"
+            ],
+            [
+                "Tradescantia fluminensis 'Tricolor'",
+                "Cream, green, and pink variegated leaves; needs brighter light",
+                "Trails 50-80 cm"
+            ],
+            [
+                "Tradescantia pallida 'Purple Heart'",
+                "Solid deep purple foliage; more tolerant of direct sun",
+                "Trails 40-60 cm"
+            ]
+        ]
+    },
+    "h1": "Wandering Jew Plant Care: How to Grow Tradescantia Zebrina (Inch Plant) Indoors",
+    "breadcrumbName": "Tradescantia Zebrina",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "leggy-houseplants-etiolation-fix",
+        "repotting-shock-rescue-guide",
+        "ultimate-root-rot-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the soft, trailing stems look like they need consistent moisture\u2014but the stems are slightly succulent and rot quickly in saturated soil. Let the top inch of soil dry out between waterings, and ensure the pot drains freely."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The silver stripes and purple underside are both light-dependent pigments that fade significantly in dim conditions\u2014in low light, both colors mute toward a plain, dark green. Moving it to bright indirect light brings the full color contrast back in new growth within a few weeks."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air, leaf edges develop a persistent brown crispiness and the purple underside loses saturation, making the plant look dull and stressed. It tolerates average household conditions but rewards better humidity with noticeably richer color and fewer brown edges."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "wandering jew plant",
+            "type": "primary",
+            "source": "manual",
+            "approved": true
+        },
+        {
+            "text": "wandering jew plant care",
+            "type": "alias",
+            "source": "manual",
+            "approved": true
+        },
+        {
+            "text": "inch plant leggy fix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tradescantia winter care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tradescantia zebrina propagation water",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "why is my tradescantia turning green",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tradescantia zebrina watering winter",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "purple inch plant care indoors",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Tradescantia Zebrina",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light to maintain vivid purple and silver striping.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Pinch back growth regularly to maintain a compact, bushy shape.",
+        "Propagate easily from healthy stem cuttings in water or soil."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 14,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen herbaceous perennial vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow top 2-3 cm of soil to dry between waterings; water thoroughly, then discard excess water.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Trailing 1-2 feet",
+        "growthRate": "Fast",
+        "soil": "Well-draining, peat-free mix with coco coir and perlite",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly, spring through fall",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings in water or soil",
+        "flowering": true,
+        "floweringSeason": "Intermittent, small purple flowers",
+        "petSafety": "toxic",
+        "nativeRegion": "Southern Mexico to Colombia",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.ohiotropics.com/2021/04/17/tradescantia-zebrina-care/"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/tradescantia-zebrina/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.ohiotropics.com/2021/04/17/tradescantia-zebrina-care/"
+        ]
+    },
+    "contentText": "Your inch plant cascaded out of the nursery pot in a waterfall of silver and purple, but now\u2014perhaps after a long winter by a cool window\u2014it\u2019s a stringy mess of pale green leaves and bare twiggy stems. This is the classic Tradescantia collapse, and it happens because the plant is stretching desperately for light while its roots sit in cold, often overwatered soil. This guide breaks down exactly how to fix the legginess, restore the dazzling color, and keep your plant thriving through every season. Light The metallic purple and silver stripes on Tradescantia leaves are a direct product of bright, indirect light. The purple pigment, a type of anthocyanin, acts as a natural sunscreen and develops most intensely when the plant receives plenty of photons but not direct scorching rays. In a typical Northern hemisphere winter, daylight can dwindle to 7-8 hours of weak, low-angle sun. The plant immediately detects the drop in light intensity and activates a survival response: it reallocates energy to stem elongation, trying to outgrow the shade. This is etiolation\u2014the stems become thin, the internodes stretch to 10 cm or more, and the leaves remain small and entirely green because anthocyanin production ceases when light is insufficient. To prevent this, place your Tradescantia in an east or west-facing window where it gets bright, filtered light. During winter, move it as close to the glass as possible without letting the leaves touch the cold pane, or add a full-spectrum LED grow light for 10-12 hours a day. Rotate the pot weekly to keep growth even; these plants lean fiercely toward light. Temperature Tradescantia thrives in a steady 18\u00b0C to 24\u00b0C (65\u00b0F\u201375\u00b0F). It can survive brief drops to 10\u00b0C (50\u00b0F), but sustained cold causes the cell membranes in the leaves to rupture, leading to translucent, water-soaked patches that quickly turn brown and crisp. The biggest threat in a Western home is the winter windowsill microclimate. On a night when outdoor temperatures plummet to -5\u00b0C, the temperature directly against a single-glazed or even double-glazed pane can fall below 10\u00b0C. The roots, cooled in their damp pot, stop functioning, and the plant drops leaves rapidly. Simultaneously, a radiator under the sill blasts hot, ultra-dry air over the foliage, accelerating transpiration and crisping the leaf edges. Move the plant at least 15 cm back from freezing glass in winter and shield it from direct radiator heat. In summer, air-conditioning vents create similar cold drafts; keep the plant out of the direct airflow. Humidity This plant adapts well to average indoor humidity levels of 40%\u201360%. However, during winter, central heating can drop ambient humidity to 30% or lower. At that point, the leaf tips desiccate, turning brown and papery. The mechanism is simple: dry air pulls water vapour out of the leaf stomata faster than the roots can replace it, and the delicate tip cells die first. A humidity tray filled with pebbles and water placed under the pot can raise the local moisture level slightly, but a small room humidifier is far more effective. Misting is largely pointless because the water evaporates within minutes in dry heated air. Grouping plants together creates a beneficial microclimate as they collectively transpire moisture. Watering Water thoroughly with tepid filtered water when the top 2\u20133 cm of the potting mix feels dry to the touch. Tradescantia is susceptible to fluoride and chlorine damage, which appears as brown leaf tips. Let the water run through the drainage holes, then discard the excess. In winter, the plant\u2019s water usage drops dramatically\u2014you may only need to water every 10\u201314 days. Overwatering in low light and cool temperatures is the fastest way to kill this plant. Soggy soil excludes oxygen; anaerobic bacteria and Pythium fungi attack the roots, turning them black and mushy. The first visible sign is often soft, drooping stems that remain green but collapse. If you catch this early, unpot the plant, trim away all rotted roots, and repot in fresh, dry mix. Read our root rot rescue guide for a step-by-step recovery plan. Soil The ideal mix is fast-draining and light. A good recipe is 70% standard all-purpose potting soil combined with 30% perlite or pumice. This creates the large air pores that roots need for respiration. Heavy, compacted soil stays wet too long and suffocates the roots, leading to the stem rot that often plagues Tradescantia in winter. The soil pH should be slightly acidic to neutral (6.0\u20137.0); highly alkaline soil ties up micronutrients and can cause yellowing. Fertilizer Feed every 4 weeks from March to August with a balanced liquid houseplant fertilizer (10-10-10 or 20-20-20) diluted to half strength. Tradescantia is not a heavy feeder; excess nitrogen encourages soft, rapid growth that is even more susceptible to etiolation. Do not fertilize at all during autumn and winter. The plant naturally slows its growth in response to shorter days, and adding nutrients forces weak, elongated stems. Salt buildup is a common issue; flush the soil with plain water every 2\u20133 months to prevent brown leaf tips. Propagation This is one of the easiest plants to propagate. Snip a healthy stem just below a node, remove the bottom couple of leaves, and place the cutting in a jar of water. Roots will appear in as little as 4\u20137 days in a warm, bright spot. Once the roots are 2\u20133 cm long, plant several cuttings together into a small pot with moist, well-draining soil. Planting multiple stems creates an instantly full, bushy display. Pinching the tips of the cuttings early on encourages branching from the base. Repotting Tradescantia grows rapidly and may need repotting every year in spring. Look for roots circling the pot or emerging from the drainage holes. The plant tolerates being slightly root-bound, so only move up one pot size. After repotting, water lightly and keep the plant in a shaded spot for a few days. Because the stems are fragile, handle them by the root ball to avoid snapping. For more on preventing post-repotting decline, see our repotting shock rescue guide. Toxicity Tradescantia zebrina is mildly toxic to cats and dogs if ingested, causing irritation of the mouth and digestive tract. Its sap can also cause contact dermatitis in sensitive individuals, so it\u2019s best to wear gloves when pruning heavily and to keep the plant out of reach of pets. Common Problems Leggy, bare stems with pale green leaves: Insufficient light. Prune back to a node and move to a brighter location. The cuttings will root quickly, filling the pot out again. Brown, crispy leaf edges: Low humidity, under-watering, or fluoride toxicity. Raise humidity, water more consistently, and use filtered water. Soft, rotting stems at soil level: Root rot from overwatering or heavy soil. Unpot, trim rotted tissue, and repot in fresh dry mix. Faded or completely green leaves: Not enough bright indirect light. Increase light intensity gradually. Pests: Spider mites and aphids occasionally appear in very dry air; treat with insecticidal soap or neem oil.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/tradescantia-zebrina/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

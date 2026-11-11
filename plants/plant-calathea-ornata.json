@@ -1,0 +1,469 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-calathea-ornata",
+    "facts": {
+        "family": "Marantaceae",
+        "genus": "Goeppertia",
+        "species": "ornata",
+        "nativeRange": "Colombia and Venezuela",
+        "growthHabit": "Evergreen perennial"
+    },
+    "entityType": "plant",
+    "status": "published",
+    "slug": "calathea-ornata",
+    "seoTitle": "Calathea Ornata Care: Humidity & Watering Guide",
+    "metaDescription": "Calathea ornata needs strict humidity control to prevent brown edges. Find out the Pinstripe Calathea's watering rules, light needs, and how to keep the.",
+    "featuredImage": "/assets/images/calathea-ornata.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "high-humidity",
+        "prayer-plants",
+        "statement-plants"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Goeppertia ornata",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Calathea ornata",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Goeppertia ornata",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Calathea Production Guide",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Goeppertia ornata",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Goeppertia ornata",
+        "family": "Marantaceae",
+        "origin": "Colombia and Venezuela",
+        "type": "Evergreen perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Tabletop accent",
+            "Humid bathrooms",
+            "Pet-safe homes"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Medium to bright indirect light in a highly humid environment, away from drafts.",
+        "watering": "Keep soil evenly moist. Water when the top 1 inch of soil is dry using filtered or distilled water.",
+        "soil": "A moisture-retaining but well-draining peat-based mix.",
+        "pruning": "Cut off entirely dead or severely browned leaves at the base of the stem.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats, dogs, and humans.",
+        "bestFor": "Dedicated plant parents willing to manage humidity and water quality."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "A terrestrial rainforest understory plant. Roots require a breathable, peat-based mix with perlite, avoiding dense, heavy compost.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5007",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Thin, pinstriped leaves offer zero drought buffering. The moment soil dries, the leaves curl inward into tight tubes as a desperate physical defense against moisture loss.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5008",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Fine, shallow root system. Division (the only propagation method) often causes significant transplant shock due to root damage.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5009",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Root rot sets in quickly if the pot is oversized or lacks drainage, completely halting water uptake and causing lower leaves to yellow.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5010",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Notoriously dramatic. Shifting from high humidity to the dry air of an AC vent or winter heating causes rapid desiccation of the leaf margins.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5011",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 15,
+                "unit": "\u00b0C",
+                "confidence": 0.95,
+                "editorReasoning": "Exposure to cold drafts below 15\u00b0C causes the leaves to curl and drop, destroying the plant's delicate cellular structures.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5012",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "2-3 feet indoors",
+        "matureSpread": "2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors (small white or purple tubular flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "60\u00b0F - 85\u00b0F (15\u00b0C - 29\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 80%",
+            "survivable": "50% - 90%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires medium to bright indirect light. Direct sunlight will quickly scorch the delicate leaves and fade the dramatic pink pinstripes.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "moderate",
+        "indoorWindow": "North or East facing window.",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Extremely sensitive to synthetic fertilizer salts.",
+        "fertilizerFrequency": "Once a month during spring and summer at quarter strength.",
+        "organicOptions": "Weak worm tea or heavily diluted fish emulsion."
+    },
+    "relationships": [
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Like most Marantaceae, the thin leaves are a prime target for spider mites if the air becomes too dry."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-humidity"
+    ],
+    "faq": [
+        {
+            "question": "Why are the edges of my Calathea ornata turning brown and crispy?",
+            "answer": "This is the most common issue. It is almost always caused by low humidity (dry air) or a reaction to the chlorine, fluoride, and heavy minerals in tap water. Switch to distilled water and increase room humidity."
+        },
+        {
+            "question": "Why do the leaves on my Calathea move up and down?",
+            "answer": "Calathea ornata is part of the 'prayer plant' family (Marantaceae). They exhibit 'nyctinasty', meaning they move their leaves in response to the light cycle, folding up at night like hands in prayer and lowering during the day."
+        },
+        {
+            "question": "Is Calathea ornata safe for cats and dogs?",
+            "answer": "Yes! It is completely non-toxic and safe for homes with pets."
+        },
+        {
+            "question": "How often should I water my Pinstripe Calathea?",
+            "answer": "They like their soil to be consistently moist, like a wrung-out sponge, but never soggy. Check the soil frequently and water when the top inch feels dry to the touch."
+        },
+        {
+            "question": "Why are the pink stripes fading to white on my Calathea?",
+            "answer": "It is completely normal for the pink pinstripes to slowly fade to white as the leaves age and mature. If new leaves are emerging with faded stripes, the plant may need slightly brighter indirect light."
+        },
+        {
+            "question": "Can I mist my Calathea ornata to increase humidity?",
+            "answer": "Misting only raises humidity for a few minutes and can encourage bacterial or fungal leaf spot if the water sits on the leaves. A dedicated room humidifier is much more effective and safer."
+        },
+        {
+            "question": "How do you propagate a Calathea ornata?",
+            "answer": "You cannot propagate Calatheas from leaf or stem cuttings. They must be propagated by division. During spring repotting, carefully tease the root ball apart, ensuring each division has a portion of the root system and several stems."
+        },
+        {
+            "question": "Why are the leaves on my Calathea curling inward into tubes?",
+            "answer": "Curling leaves are a defense mechanism to conserve moisture. It means the plant is either severely underwatered, or the ambient temperature is far too hot and dry."
+        }
+    ],
+    "shortDesc": "The Calathea ornata is notoriously dramatic, but after nursing dozens of them through dry winters, we have perfected the exact humidity and water-filtration protocols required to keep those pink pinstripes flawless.",
+    "content": "<h2>Overview</h2><p>The Calathea ornata, widely known as the Pinstripe Calathea, is arguably one of the most striking houseplants available, featuring large, dark green leaves painted with elegant, thin pink stripes. However, it also carries a well-deserved reputation as a \"diva.\" The overwhelming majority of growers become frustrated when the beautiful leaves develop brown, crispy, scorched edges within a few weeks of bringing the plant home. This guide will demystify this dramatic plant, explaining exactly why it reacts so poorly to standard household conditions and how you can replicate its native rainforest environment.</p><p>Native to the dense, dripping understory of Colombian and Venezuelan rainforests, the Calathea ornata evolved in an environment of constant, high humidity, warm temperatures, and consistently moist soil fed by pure rainwater. When we place it in a climate-controlled home with dry central heating and water it from the tap, the plant goes into shock. Mastering Calathea care requires you to manage two critical factors: the moisture in the air and the chemicals in your water.</p><h3>Light</h3><p>As a forest floor dweller, the Calathea ornata requires medium to bright indirect light. An east-facing window where it receives gentle morning sun, or a spot several feet back from a bright south or west window, is ideal. Direct, harsh sunlight will rapidly bleach the leaves, fade the pink pinstripes, and scorch the edges. Conversely, if the light is too low, the plant will stop growing and the vivid colors will become muted.</p><h3>Temperature</h3><p>This tropical plant demands warmth and stability. It thrives in temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is incredibly sensitive to cold drafts and sudden temperature fluctuations. A draft from a poorly sealed window in the winter, or a direct blast from an air conditioning vent in the summer, will cause the leaves to curl and drop. Ensure the temperature remains consistently above 60\u00b0F (15\u00b0C).</p><h3>Humidity</h3><p>Humidity is the single biggest challenge in keeping a Calathea looking pristine. They crave high humidity, ideally between 60% and 80%. When the air in a typical home drops to 30% or 40% (especially during the winter), the plant loses moisture through its large leaves faster than the roots can absorb it, resulting in the classic brown, crispy edges. To succeed with this plant, you must run a room humidifier nearby. Misting is ineffective as it only raises humidity temporarily and invites fungal infections.</p><h3>Watering and Water Quality</h3><p>Calatheas are highly sensitive to the chemicals (chlorine, chloramine, fluoride) and heavy minerals found in municipal tap water. Using tap water will almost certainly cause chemical burns on the leaf tips and margins. You must water your Calathea with distilled water, rainwater, or water purified by reverse osmosis. \n\nRegarding frequency, Calatheas prefer their soil to be evenly and consistently moist, like a damp sponge. Never let the soil dry out completely, but never let it become soggy. Check the soil every few days and water thoroughly when the top 1 inch feels dry. If the leaves curl inward into tight tubes, the plant is desperately thirsty.</p><h3>Soil</h3><p>A potting mix that retains moisture while still draining excess water is crucial. A standard indoor potting soil mixed with a generous amount of peat moss or coco coir for moisture retention, and 20-30% perlite to ensure the roots can breathe, creates the perfect environment.</p><h2>Fertilizer</h2><p>Calatheas are sensitive to the mineral salts in synthetic fertilizers, which can build up in the soil and burn the roots, causing brown leaf edges. Feed sparingly. Apply a liquid houseplant fertilizer, diluted to one-quarter strength, only once a month during the spring and summer. Do not fertilize during the fall and winter.</p><h2>Propagation</h2><p>You cannot propagate a Calathea from a stem or leaf cutting. They must be propagated by root division. The best time to do this is during repotting in the spring. Carefully remove the plant from its pot and gently tease the root ball apart, separating the plant into smaller clumps. Ensure that each new division has a healthy portion of the root system and several leafy stems attached.</p><h2>Repotting</h2><p>Calatheas do not like having their roots disturbed and generally only need repotting every 1 to 2 years, or when you notice roots growing out of the bottom drainage holes. When repotting, only go up one pot size (1 to 2 inches wider in diameter). A pot that is too large will hold too much wet soil, leading to root rot.</p><h2>Toxicity</h2><p>One of the greatest benefits of the Calathea ornata is that it is completely non-toxic to cats, dogs, and humans. It is entirely safe to keep in a home with curious pets, although the delicate leaves are easily damaged by playful swatting.</p><h2>Common Problems</h2><p>Brown, crispy leaf edges are practically guaranteed if humidity is too low or if you use tap water. Yellowing leaves, particularly at the base of the plant, indicate overwatering and root rot. Like many thin-leaved tropicals, Calatheas are susceptible to spider mites, which thrive in hot, dry air. Inspect the undersides of the leaves regularly for fine webbing or tiny, dust-like specks. If you spot them, wipe the leaves down immediately and treat with an insecticidal soap or neem oil.</p>",
+    "quickAnswer": "Calathea ornata requires high humidity (60%+) and consistently moist soil. You must use distilled or rainwater, as the chemicals in tap water will cause the leaves to develop brown, crispy edges over time. For best results, we suggest keeping an eye on the plant's response throughout the active growing season.",
+    "ogImage": "/assets/images/calathea-ornata.webp",
+    "ogImageAlt": "A vibrant Calathea ornata showing its dark green leaves and pink pinstripes",
+    "heroImage": "/assets/images/calathea-ornata.webp",
+    "heroImageAlt": "Close up of the striking pink pinstripes on a Calathea leaf",
+    "featuredImageAlt": "Pinstripe Calathea sitting on a bedside table near a humidifier",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Edges and tips of the leaves are turning brown and crispy",
+            "diagnosis": "Low humidity (dry air) or chemical burn from using municipal tap water.",
+            "treatment": "Switch to watering exclusively with distilled or rainwater, and run a humidifier near the plant.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Nyctinasty",
+            "definition": "The circadian rhythmic movement of plants in response to the onset of darkness. Prayer plants fold their leaves upright at night and lower them during the day."
+        },
+        {
+            "term": "Distilled Water",
+            "definition": "Water that has been boiled into vapor and condensed back into liquid in a separate container, removing impurities, minerals, and chemicals like fluoride and chlorine."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Calathea (Goeppertia) Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Pattern",
+            "Care Difficulty"
+        ],
+        "rows": [
+            [
+                "Ornata (Pinstripe)",
+                "Dark green with thin pink/white stripes",
+                "Advanced"
+            ],
+            [
+                "Makoyana (Peacock)",
+                "Light green with dark green oval 'eye' patterns",
+                "Intermediate"
+            ],
+            [
+                "Lancifolia (Rattlesnake)",
+                "Long, wavy leaves with dark green spots",
+                "Intermediate (slightly more forgiving)"
+            ]
+        ]
+    },
+    "h1": "Calathea Ornata Care: Preventing Brown Edges on Pinstripe Leaves",
+    "breadcrumbName": "Calathea Ornata Care",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "tap-water-vs-filtered-water-houseplants",
+        "spider-mites-on-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Wiping leaves with commercial leaf shine products\u2014these coat the tiny pores (stomata) that the plant uses for gas exchange, causing brown patches and slowing growth. Use only a damp cloth with plain water to clean the leaves."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The pink pinstripes naturally fade to white as each leaf matures\u2014this is normal aging of the pigment, not a sign of poor health or declining care. Only newly unfurled leaves show the full pink coloring."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light corners, the pink stripes disappear entirely and leaves become a uniform dark green because the plant stops producing the pigment it doesn't need. Moving it to bright indirect light encourages new leaves with the full stripe pattern."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "pinstripe calathea care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for calathea ornata",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "calathea watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "calathea brown crispy edges",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "prayer plant care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe houseplants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tap water sensitive plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Calathea Ornata",
+    "summary": "Goeppertia ornata is a refined prayer plant featuring dark glossy foliage adorned with delicate pink pinstripes and purple undersides. Master microclimate humidification, pure water requirements, and shade-light positioning.",
+    "keyTakeaways": [
+        "Provide bright, filtered light to preserve delicate pink pinstripes.",
+        "Keep potting mix evenly moist without letting roots sit in standing water.",
+        "Maintain 60\u201380% humidity and irrigate exclusively with pure, fluoride-free water.",
+        "Observe normal evening nyctinastic movement as leaves fold upward at night."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep soil consistently moist but not soggy. Allow the top inch to dry out.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60% - 80%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "2-3 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Rich, well-draining, moisture-retentive mix",
+        "soilDrainage": "good",
+        "fertilizer": "Diluted balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Colombia and Venezuela",
+        "usdaZones": "10-11",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/calathea-ornata/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/calathea"
+        ]
+    },
+    "contentText": "Overview The Calathea ornata, widely known as the Pinstripe Calathea, is arguably one of the most striking houseplants available, featuring large, dark green leaves painted with elegant, thin pink stripes. However, it also carries a well-deserved reputation as a \"diva.\" The overwhelming majority of growers become frustrated when the beautiful leaves develop brown, crispy, scorched edges within a few weeks of bringing the plant home. This guide will demystify this dramatic plant, explaining exactly why it reacts so poorly to standard household conditions and how you can replicate its native rainforest environment. Native to the dense, dripping understory of Colombian and Venezuelan rainforests, the Calathea ornata evolved in an environment of constant, high humidity, warm temperatures, and consistently moist soil fed by pure rainwater. When we place it in a climate-controlled home with dry central heating and water it from the tap, the plant goes into shock. Mastering Calathea care requires you to manage two critical factors: the moisture in the air and the chemicals in your water. Light As a forest floor dweller, the Calathea ornata requires medium to bright indirect light. An east-facing window where it receives gentle morning sun, or a spot several feet back from a bright south or west window, is ideal. Direct, harsh sunlight will rapidly bleach the leaves, fade the pink pinstripes, and scorch the edges. Conversely, if the light is too low, the plant will stop growing and the vivid colors will become muted. Temperature This tropical plant demands warmth and stability. It thrives in temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is incredibly sensitive to cold drafts and sudden temperature fluctuations. A draft from a poorly sealed window in the winter, or a direct blast from an air conditioning vent in the summer, will cause the leaves to curl and drop. Ensure the temperature remains consistently above 60\u00b0F (15\u00b0C). Humidity Humidity is the single biggest challenge in keeping a Calathea looking pristine. They crave high humidity, ideally between 60% and 80%. When the air in a typical home drops to 30% or 40% (especially during the winter), the plant loses moisture through its large leaves faster than the roots can absorb it, resulting in the classic brown, crispy edges. To succeed with this plant, you must run a room humidifier nearby. Misting is ineffective as it only raises humidity temporarily and invites fungal infections. Watering and Water Quality Calatheas are highly sensitive to the chemicals (chlorine, chloramine, fluoride) and heavy minerals found in municipal tap water. Using tap water will almost certainly cause chemical burns on the leaf tips and margins. You must water your Calathea with distilled water, rainwater, or water purified by reverse osmosis. Regarding frequency, Calatheas prefer their soil to be evenly and consistently moist, like a damp sponge. Never let the soil dry out completely, but never let it become soggy. Check the soil every few days and water thoroughly when the top 1 inch feels dry. If the leaves curl inward into tight tubes, the plant is desperately thirsty. Soil A potting mix that retains moisture while still draining excess water is crucial. A standard indoor potting soil mixed with a generous amount of peat moss or coco coir for moisture retention, and 20-30% perlite to ensure the roots can breathe, creates the perfect environment. Fertilizer Calatheas are sensitive to the mineral salts in synthetic fertilizers, which can build up in the soil and burn the roots, causing brown leaf edges. Feed sparingly. Apply a liquid houseplant fertilizer, diluted to one-quarter strength, only once a month during the spring and summer. Do not fertilize during the fall and winter. Propagation You cannot propagate a Calathea from a stem or leaf cutting. They must be propagated by root division. The best time to do this is during repotting in the spring. Carefully remove the plant from its pot and gently tease the root ball apart, separating the plant into smaller clumps. Ensure that each new division has a healthy portion of the root system and several leafy stems attached. Repotting Calatheas do not like having their roots disturbed and generally only need repotting every 1 to 2 years, or when you notice roots growing out of the bottom drainage holes. When repotting, only go up one pot size (1 to 2 inches wider in diameter). A pot that is too large will hold too much wet soil, leading to root rot. Toxicity One of the greatest benefits of the Calathea ornata is that it is completely non-toxic to cats, dogs, and humans. It is entirely safe to keep in a home with curious pets, although the delicate leaves are easily damaged by playful swatting. Common Problems Brown, crispy leaf edges are practically guaranteed if humidity is too low or if you use tap water. Yellowing leaves, particularly at the base of the plant, indicate overwatering and root rot. Like many thin-leaved tropicals, Calatheas are susceptible to spider mites, which thrive in hot, dry air. Inspect the undersides of the leaves regularly for fine webbing or tiny, dust-like specks. If you spot them, wipe the leaves down immediately and treat with an insecticidal soap or neem oil.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/calathea-ornata/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

@@ -69,6 +69,12 @@ def update_db(tries=3):
         db.session.commit()
 
 
+@app.route("/plant/<string:id>")
+def user_detail(id):
+    plant = db.get_or_404(PlantCare, id)
+    return render_template("plant.html", plant=plant)
+
+
 @app.route("/plants")
 def plants():
     return render_template('plants.html', plants=[])
@@ -89,6 +95,8 @@ def main():
     if not db_recently_updated():
         print("Plant data hasn't been updated recently, updating...")
         fetch_all_plants()
+    else:
+        print("Plants recently updated")
 
     update_db()
 

@@ -1,0 +1,380 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "cactus",
+    "seoTitle": "Cactus Care Guide",
+    "commonName": "cactus",
+    "entityType": "plant",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "status": "published",
+    "featuredImage": "/assets/images/hero-cactus.webp",
+    "heroImage": "/assets/images/hero-cactus.webp",
+    "slug": "cactus",
+    "metaDescription": "Expert care guide and diagnostic data for the cactus. Learn how to properly water, light, and troubleshoot common issues.",
+    "taxonomy": {
+        "kingdom": "Plantae",
+        "phylum": "Magnoliophyta",
+        "class": "Magnoliopsida",
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": null,
+        "species": null
+    },
+    "facts": {
+        "family": "Cactaceae",
+        "genus": "",
+        "species": "",
+        "nativeRange": "North America, South America",
+        "growthHabit": "succulent"
+    },
+    "aliases": [
+        "cacti",
+        "desert cactus",
+        "cactus plant"
+    ],
+    "media": {
+        "primary": "/assets/images/hero-cactus.webp",
+        "gallery": [
+            "/assets/images/plants/cactus-flower.webp",
+            "/assets/images/plants/cactus-detail.webp"
+        ]
+    },
+    "characteristics": [
+        {
+            "id": "CHAR_0001",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_1000",
+                    "weight": 0.9
+                }
+            ],
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "CHAR_0002",
+            "type": "ordinal",
+            "value": 5,
+            "scale": 5,
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_1000",
+                    "weight": 0.9
+                }
+            ],
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "CHAR_0003",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_1000",
+                    "weight": 0.9
+                }
+            ],
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "CHAR_0004",
+            "type": "ordinal",
+            "value": 2,
+            "scale": 5,
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_1000",
+                    "weight": 0.9
+                }
+            ],
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "CHAR_0005",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_1000",
+                    "weight": 0.9
+                }
+            ],
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "CHAR_0006",
+            "type": "temperature",
+            "value": 18,
+            "unit": "C",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_1000",
+                    "weight": 0.9
+                }
+            ],
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        }
+    ],
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Cacti are succulent plants adapted to arid environments, storing water in their thick stems and ribs. They belong to the family Cactaceae, native to the Americas, ranging from the driest deserts to tropical rainforests (epiphytic cacti). Their spines are modified leaves that reduce water loss and provide shade, while the ribs expand and contract to store water. Popular indoor cacti include the Golden Barrel (Echinocactus grusonii), Bunny Ears (Opuntia microdasys), and the Christmas Cactus (Schlumbergera) \u2013 a tropical cactus that differs in care. Although low\u2011maintenance, cacti thrive only when you mimic their natural cycle: bright sun, dry roots, cool winters, and seasonal rest. Overwatering is the #1 killer. This guide covers the essential needs of most desert cacti, with notes for the few that break the rules."
+        },
+        {
+            "id": "care-basics",
+            "content": "**Light:** Full sun for at least 4\u20136 hours daily. A south\u2011 or west\u2011facing window is ideal. Without enough light, cacti etiolate (stretch) and lose their compact shape. If moving outdoors, acclimate gradually to prevent sunburn.\n\n**Temperature:** Active growth occurs at 21\u201332\u00b0C (70\u201390\u00b0F). Many desert cacti need a cool winter rest (10\u201315\u00b0C / 50\u201359\u00b0F) to trigger blooming. Protect from frost; most cannot tolerate freezing.\n\n**Soil:** Use a fast\u2011draining cactus mix \u2013 50% commercial cactus soil + 50% perlite or pumice. Never use regular potting soil; it holds too much moisture and causes root rot. Add coarse sand or gravel for extra drainage.\n\n**Fertiliser:** Feed monthly during spring and summer with a diluted, balanced cactus fertiliser (low nitrogen, high phosphorus). Stop feeding in autumn and winter during dormancy. Over\u2011fertilising leads to weak, leggy growth and salt buildup.\n\n**Potting:** Choose a pot with drainage holes \u2013 terracotta is best because it wicks away excess moisture. Repot every 2\u20133 years in spring, handling the plant with thick gloves or folded newspaper to avoid spines. Only size up 1\u20132 cm (\u00bd\u20131 inch) wider than the current pot."
+        },
+        {
+            "id": "watering",
+            "content": "**The Golden Rule:** Water only when the soil is **completely bone\u2011dry** \u2013 all the way to the bottom. In summer, this might be every 7\u201314 days; in winter, it can be 4\u20136 weeks or more. Use the **finger test** (insert 2 inches deep) or a moisture meter.\n\n**How to water:** Water thoroughly until it runs out of the drainage hole, then discard the saucer water. Never let the pot sit in standing water. Water from the base (bottom\u2011soaking) is also effective \u2013 place the pot in a tray of water for 15 minutes, then drain completely.\n\n**Seasonal adjustments:** During active growth (spring\u2013summer), keep the soil drier between waterings than you think. In winter, reduce watering to a bare minimum \u2013 just enough to prevent shrivelling. Overwatering in winter is fatal because the plant is not actively using water.\n\n**Signs of trouble:**\n- **Wrinkled, shrivelled stems** = underwatering (give a deep soak).\n- **Yellow, soft, or mushy base** = root rot (stop watering, unpot, trim rot, repot in dry mix).\n- **Brown, corky spots** = sunburn or old damage (not a watering issue).\n- **White crust on soil** = salt/mineral buildup \u2013 leach the soil occasionally with distilled water.\n\n**Water quality:** Use rainwater, distilled, or tap water that has sat out for 24 hours to let chlorine evaporate. Hard water can cause mineral deposits on the plant\u2019s ribs."
+        },
+        {
+            "id": "light",
+            "content": "**Ideal exposure:** Desert cacti crave **direct sunlight** \u2013 aim for at least 4\u20136 hours of **unfiltered** morning or afternoon sun. South\u2011facing windows are perfect; west\u2011facing can work with afternoon sun, but may scorch sensitive species. East\u2011facing windows give gentler morning sun.\n\n**Signs of insufficient light:**\n- Thin, pale, elongated growth (etiolation) \u2013 stems stretch toward the light.\n- Loss of spines or colour intensity.\n- Failure to flower.\n\n**Too much light:** Some cacti (e.g., Christmas Cactus, epiphytic types) burn in harsh afternoon sun. For desert cacti, acclimatisation is key \u2013 when moving from indoors to outdoors, increase exposure over 1\u20132 weeks to prevent sunburn (white or yellow patches).\n\n**Supplemental light:** In winter or dark homes, use a full\u2011spectrum LED grow light for 12\u201314 hours daily, placed 15\u201330 cm (6\u201312 inches) above the plant.\n\n**Seasonal rotation:** Rotate your cactus a quarter\u2011turn every week to ensure even growth and prevent it from leaning towards the window.\n\n**Special cases:**\n- **Epiphytic cacti** (e.g., Schlumbergera, Rhipsalis) need **bright, indirect light** \u2013 direct sun burns them.\n- **Forest cacti** (e.g., Pereskia) prefer some shade.\nWhen in doubt, research your specific cactus type. For most common houseplant cacti, more sun is almost always better \u2013 but avoid scorching summer afternoon rays if the plant isn't adapted."
+        },
+        {
+            "id": "humidity",
+            "content": "Cacti thrive in low-humidity environments with ample air circulation, mirroring arid desert habitats. Keep them away from enclosed, moisture-heavy spaces like steamy bathrooms, as stagnant and humid air increases the risk of stem and root rot."
+        }
+    ],
+    "faq": [
+        {
+            "id": "FAQ_CACTUS_001",
+            "question": "How often should I water my cactus?",
+            "answer": "Water only when the soil is completely dry. In summer, this may be every 1\u20132 weeks; in winter, once a month or less. Always err on the side of underwatering.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_002",
+            "question": "Why is my cactus turning yellow and soft?",
+            "answer": "Yellowing and softening almost always indicates root rot from overwatering or poorly draining soil. Remove the plant from its pot, trim away black or mushy roots, and repot in dry, well-draining cactus mix. Do not water for at least one week.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_003",
+            "question": "Can cacti survive in low light?",
+            "answer": "Most cacti require bright light. While some forest-dwelling species tolerate lower light, desert cacti will etiolate (stretch and weaken) without sufficient sun. A south-facing window or grow light is ideal.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_004",
+            "question": "What soil is best for cacti?",
+            "answer": "A fast-draining mineral mix is essential. Combine standard potting soil with 40\u201360% inorganic material such as pumice, perlite, or coarse sand. The mix should feel gritty and drain within seconds.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_005",
+            "question": "Do cacti need fertilizer?",
+            "answer": "Cacti are light feeders. Apply a diluted, low-nitrogen cactus fertilizer once monthly during the growing season (spring\u2013summer). Do not fertilize in winter when the plant is dormant.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_006",
+            "question": "Why is my cactus not growing?",
+            "answer": "Stalled growth is usually due to insufficient light, cold temperatures, or dormancy. Cacti slow dramatically below 15\u00b0C and in winter. Ensure bright light and warm conditions during the growing season.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_007",
+            "question": "Can I propagate a cactus from a cutting?",
+            "answer": "Yes. Allow the cut surface to callus for several days in a dry, shaded spot, then place it on well-draining soil. Do not water until roots begin to form, usually within 2\u20134 weeks.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_008",
+            "question": "Are cacti safe for pets?",
+            "answer": "Most cacti are not chemically toxic, but their spines can cause mechanical injury. Keep out of reach of curious pets and children. Glochid-bearing species like Opuntia are particularly irritating to skin.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_009",
+            "question": "Should I mist my cactus?",
+            "answer": "No. Misting increases humidity around the stem and can promote rot, especially in cool or low-light conditions. Cacti prefer dry air.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_010",
+            "question": "What does it mean if my cactus is shrinking?",
+            "answer": "A shrinking or wrinkling cactus is using its stored water reserves because it has not been watered in too long. Water thoroughly and the pads or stem should plump back up within a few days.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_011",
+            "question": "Can cacti flower indoors?",
+            "answer": "Yes, though it depends on the species and conditions. Bright light, proper dormancy (cool, dry winter rest), and maturity are usually required. Some species like Schlumbergera (Christmas cactus) flower readily indoors.",
+            "confidence": 0.8,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CACTUS_012",
+            "question": "How do I know if my cactus is dormant?",
+            "answer": "Dormancy is triggered by shorter days and cooler temperatures. Growth stops, water needs drop dramatically, and the plant may look unchanged for weeks or months. Reduce watering to near-zero and do not fertilize during this period.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-20",
+            "reviewCycleMonths": 12
+        }
+    ],
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "cactaceae"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "succulents"
+        },
+        {
+            "type": "recommendedSoil",
+            "target": "soil-cactus-mix"
+        },
+        {
+            "type": "wateringRule",
+            "target": "water-desert-succulent"
+        }
+    ],
+    "quickAnswer": "Cacti require full direct sunlight for at least six hours daily, a fast-draining cactus or succulent soil mix, and deep watering only when soil is completely dry. Never use regular potting soil, and reduce watering significantly during winter dormancy. These desert natives store water in modified stems and thrive on neglect rather than constant attention.",
+    "troubleshooting": [
+        {
+            "symptom": "Yellow, soft, or mushy base",
+            "diagnosis": "Root rot due to overwatering",
+            "treatment": "Remove plant from pot, trim away mushy roots. Repot in dry, gritty cactus mix and do not water for 1-2 weeks.",
+            "prevention": "Water only when the soil is completely bone dry. Ensure pot has drainage.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Stretching, pale, or thin new growth (Etiolation)",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move to a brighter location (south-facing window or grow light). Etoliated growth cannot be reversed and may need to be cut off.",
+            "prevention": "Provide at least 4-6 hours of direct sunlight daily.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Wrinkling or shriveling",
+            "diagnosis": "Severe dehydration",
+            "treatment": "Give the plant a thorough, deep watering. It should plump back up in a few days.",
+            "prevention": "Water when the soil is completely dry, but don't leave it dry for months during the growing season.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "summary": "Cacti encompass a diverse family of desert-adapted succulents ranging from tiny globular species to towering columnar giants. Their remarkable water storage capacity and drought tolerance make them ideal for busy growers. This general care guide covers the universal requirements across cactus varieties including intense light needs, specialized soil composition, seasonal watering rhythms, and winter dormancy protocols. You will learn to identify species-specific needs, prevent etiolation from insufficient light, and handle spiny specimens safely.",
+    "keyTakeaways": [
+        "Provide full, direct sunlight for at least 6 hours daily.",
+        "Use a fast-draining cactus or succulent mix, never regular potting soil.",
+        "Water deeply only when the soil is completely dry throughout.",
+        "Reduce watering further during winter dormancy to help prevent rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Succulent perennial",
+        "difficulty": "beginner",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Low",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "10-30%",
+        "temperature": "65\u00b0F - 90\u00b0F (18\u00b0C - 32\u00b0C)",
+        "matureSize": "Varies widely",
+        "growthRate": "Slow",
+        "soil": "Gritty, sandy cactus mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Cactus fertilizer once in spring",
+        "repottingFrequency": "Every 3-4 years",
+        "potPreference": "Terracotta",
+        "propagation": "Offsets or seeds",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "unknown",
+        "petSafetyNote": "Varies (thorns are a physical hazard)",
+        "nativeRegion": "Americas",
+        "usdaZones": null,
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/cactus/",
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "45\u00b0F - 100\u00b0F (7\u00b0C - 38\u00b0C)"
+        }
+    },
+    "breadcrumbName": "cactus",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": []
+    },
+    "h1": "Cactus Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/cactus/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

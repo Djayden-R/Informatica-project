@@ -1,0 +1,529 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-peace-lily",
+    "commonName": "Peace Lily",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Spathiphyllum",
+        "species": "wallisii",
+        "nativeRange": "Tropical Americas",
+        "growthHabit": "Flowering foliage plant"
+    },
+    "entityType": "plant",
+    "status": "published",
+    "slug": "peace-lily",
+    "seoTitle": "Peace Lily (Spathiphyllum) Care: Light, Watering & Placement",
+    "metaDescription": "Peace Lily droops dramatically when it needs water, and browns at the tips when it doesn't get enough. Find out how to trigger more white blooms and keep.",
+    "featuredImage": "/assets/images/peace-lily.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "flowering-plants",
+        "air-purifying",
+        "low-light-tolerant",
+        "vastu"
+    ],
+    "references": [
+        {
+            "title": "Spathiphyllum - Royal Horticultural Society",
+            "url": "https://www.rhs.org.uk/plants/spathiphyllum",
+            "doi": ""
+        },
+        {
+            "title": "Peace Lily Care - North Carolina Extension",
+            "url": "https://plants.ces.ncsu.edu/plants/spathiphyllum/",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Spathiphyllum wallisii",
+        "family": "Araceae",
+        "origin": "Tropical Americas",
+        "type": "Flowering foliage plant",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Indoor ornamental",
+            "Air purification",
+            "Office plant"
+        ]
+    },
+    "care": {
+        "difficulty": "easy to moderate",
+        "placement": "Indoor Medium to Bright Indirect Light",
+        "watering": "Moderate. Keep soil consistently moist but not soggy. The plant will dramatically droop to tell you it needs water.",
+        "soil": "Moisture-retentive, well-draining, peaty potting mix.",
+        "pruning": "Snip off dead blooms and yellowing leaves at the base of the stem to redirect energy to new growth. Propagate only by division of the root ball, not cuttings.",
+        "toxicity": "toxic to pets and humans",
+        "toxicityNote": "Peace Lilies contain insoluble calcium oxalate crystals. Chewing the leaves or stems can cause intense burning, swelling of the mouth, and vomiting in cats, dogs, and children.",
+        "bestFor": "Indoor gardeners looking for a highly communicative, air-purifying plant that produces elegant flowers in lower light."
+    },
+    "vastu": {
+        "enabled": true,
+        "directions": [
+            "north-east",
+            "east"
+        ],
+        "rooms": [
+            "living-room",
+            "bedroom",
+            "entrance",
+            "office"
+        ],
+        "light": [
+            "medium",
+            "bright-indirect"
+        ],
+        "purposes": [
+            "peace",
+            "air-purification",
+            "harmony",
+            "sleep"
+        ],
+        "difficulty": "moderate",
+        "petFriendly": false,
+        "indoorSuitable": true,
+        "notes": "True to its name, the Peace Lily symbolizes tranquility, purity, and harmony. In Vastu Shastra, placing it in the East or North-East corner helps balance ambient energies, reduces tension, and creates a calming atmosphere ideal for living rooms or bedrooms.",
+        "sourceUrl": "https://www.rhs.org.uk/plants/spathiphyllum"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Terrestrial understory plant. Requires some oxygen at the root zone, but thrives in dense, consistently moist organic matter rather than aerated epiphytic bark.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6001",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Thick rhizomes offer a small buffer against drought, allowing the plant to visibly droop and dramatically recover, but lacks true succulent tissue.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6002",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Robust rhizomatous root system that handles division well, though fine feeder roots can be damaged by compaction.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6003",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Highly tolerant of saturated soils compared to standard houseplants. Can survive in very wet media, though completely stagnant, anaerobic water will eventually cause rot.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6004",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Highly adaptable to changing light levels and household conditions without dropping leaves, making it a reliable office plant.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6005",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 15,
+                "unit": "\u00b0C",
+                "confidence": 0.95,
+                "editorReasoning": "Growth halts and leaves yellow rapidly if exposed to temperatures below 15\u00b0C for extended periods.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6006",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "1-3 feet indoors (some giant varieties reach 6 feet)",
+        "matureSpread": "1-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring to early summer (can bloom year-round indoors with proper light)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65-85\u00b0F (18-29\u00b0C)",
+            "survivable": "55-90\u00b0F (13-32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50-60%+",
+            "survivable": "30-80%"
+        },
+        "soilPH": {
+            "recommended": "5.8-6.5",
+            "survivable": "5.5-7.0"
+        }
+    },
+    "lighting": {
+        "description": "Prefers medium to bright indirect light. While it tolerates low light well, it will rarely produce white blooms in dark corners.",
+        "sunlightHours": "6-8 hours of filtered or indirect light",
+        "intensity": "medium",
+        "indoorWindow": "east or north-facing",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "medium",
+        "phosphateDemand": "medium",
+        "potassiumDemand": "medium",
+        "micronutrientNotes": "Very sensitive to chemical buildup from cheap fertilizers or tap water (fluoride/chlorine), which causes brown leaf tips. Flush the soil with plain filtered water every 2\u20133 months to clear accumulated salts.",
+        "fertilizerFrequency": "Feed every 6-8 weeks during the spring and summer using a diluted, balanced houseplant fertilizer.",
+        "organicOptions": "Top dress with a thin layer of organic compost in early spring."
+    },
+    "relationships": [
+        {
+            "target": "tap-water",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Highly sensitive to chlorine, fluoride, and hard minerals in municipal tap water, which chemically burns the leaf tips brown. Use filtered or rainwater."
+        },
+        {
+            "target": "low-humidity",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Dry indoor air (especially from ACs or heaters) will cause the edges of the leaves to curl and crisp."
+        }
+    ],
+    "calculatorReferences": [
+        "indoor-plant-watering-calculator",
+        "potting-mix-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Is the Peace Lily toxic to cats and dogs?",
+            "answer": "Yes. While not a 'true lily' (which are lethal to cats), the Peace Lily contains calcium oxalate crystals. Chewing the plant causes severe mouth pain, drooling, and digestive upset in pets. Keep it out of reach."
+        },
+        {
+            "question": "How often should I water my Peace Lily?",
+            "answer": "Keep the soil consistently, lightly moist. Wait until the top inch or two of the soil feels dry to the touch before watering. If you forget, the plant will droop dramatically to remind you it is thirsty."
+        },
+        {
+            "question": "What type of water is best for a Peace Lily?",
+            "answer": "Peace Lilies are highly sensitive to chlorine, fluoride, and heavy minerals found in tap water, which will cause brown leaf tips. Always use filtered water, distilled water, or collected rainwater."
+        },
+        {
+            "question": "How do I prune a Peace Lily?",
+            "answer": "When the white spathes finish blooming and turn brown, cut the flower stalk off as close to the base as possible. Similarly, snip off any old, yellowing leaves at the base to direct energy into new growth."
+        },
+        {
+            "question": "Why is my Peace Lily drooping so dramatically?",
+            "answer": "When they run out of water, the entire plant will droop and look dead. Don't panic! Give it a thorough watering, and the leaves will perk right back up. If the soil is soaking wet and it's drooping, you have root rot."
+        },
+        {
+            "question": "Why are the tips of the leaves turning brown and crispy?",
+            "answer": "Crispy brown tips are almost always caused by tap water chemicals (like fluoride) or very dry indoor air. Switch to filtered or distilled water, and place the plant on a pebble tray with water to boost local humidity."
+        },
+        {
+            "question": "Why won't my Peace Lily bloom?",
+            "answer": "While they survive in low light, they need bright, indirect light to generate enough energy to flower. If your plant is just pushing out green leaves but no white 'flowers' (spathes), move it closer to a window."
+        },
+        {
+            "question": "How do I adjust my watering schedule during the winter months?",
+            "answer": "During winter, indoor heating drops humidity while the plant's growth slows down, drastically changing its water needs. To calculate the exact watering frequency for your winter setup, use our Watering Calculator."
+        },
+        {
+            "question": "How do I propagate a peace lily?",
+            "answer": "Peace lilies are propagated exclusively by division \u2014 stem or leaf cuttings do not work. Remove the plant, expose the root ball, and cleanly separate distinct crowns, ensuring each has roots and 2-3 leaves."
+        },
+        {
+            "question": "Why is my peace lily not flowering after I brought it home?",
+            "answer": "Many peace lilies sold in stores are treated with gibberellic acid, a hormone that forces blooming. Once the hormone wears off, it may not flower again for 12\u201318 months as it reverts to its natural cycle."
+        },
+        {
+            "question": "How do I bring a Peace Lily back to life?",
+            "answer": "Dramatic Peace Lily wilting is alarming, but recovery depends on correctly identifying the cause. If the soil is bone dry and the pot feels light, this is simple underwatering shock\u2014soak the root ball thoroughly and it will perk up in hours. However, if the plant is severely wilted but the soil is wet, it likely has root rot. Repeatedly watering a rot-damaged plant will only worsen the problem by suffocating the remaining roots. For severe root damage or prolonged collapse, follow our full <a href=\"/blog/wilting-houseplants-rescue-guide/\">wilting houseplants rescue guide</a> for intervention steps."
+        }
+    ],
+    "shortDesc": "An elegant, air-purifying indoor plant famous for its white sail-like flowers and ability to thrive in medium light.",
+    "content": "<h2>Overview</h2><p>The Peace Lily (<em>Spathiphyllum</em>) is a classic houseplant beloved for its deep green, glossy foliage and elegant white spathes. It is also an exceptionally communicative plant\u2014famously drooping when it needs water\u2014making it a useful houseplant for beginners learning to recognize watering stress. If your Peace Lily looks like it is dying, dramatic wilting does not necessarily mean the plant is beyond recovery. The key is to identify whether the problem is underwatering, excess moisture, poor drainage, light stress, or another growing-condition issue.</p><h2>Light and Placement</h2><p>In their native tropical environments, Peace Lilies grow beneath taller vegetation where they receive filtered light. Indoors, they generally do best in medium to bright indirect light.</p><p>They can tolerate lower-light locations, although growth and flowering may be reduced. If you want your Peace Lily to produce its characteristic white spathes, provide brighter indirect light. Avoid prolonged exposure to intense direct sunlight, which can scorch the leaves.</p><h2>Traditional Vastu Guidance for Peace Lily Placement</h2><p>In Vastu Shastra, some traditional practices associate Peace Lily placement with tranquility and positive energy. These are traditional beliefs rather than established horticultural requirements.</p><p>For plant health, prioritize suitable light, drainage, airflow, and temperature regardless of where the plant is placed. If you follow Vastu traditions, you can choose a location that fits those traditions while still meeting the plant's horticultural needs.</p><h2>Watering Strategy</h2><p>Peace Lilies appreciate evenly moist soil, but their roots should not remain constantly waterlogged. Check the top inch or two of the potting mix and water when it has started to dry rather than following a rigid calendar.</p><p>When watering, moisten the entire root ball thoroughly and allow excess water to drain freely from the pot. Do not allow the container to sit in standing water.</p><p><strong>Pro Tip:</strong> Brown leaf tips can have several causes, including inconsistent watering, dry indoor air, fertilizer buildup, or sensitivity to minerals in some tap water. If your plant develops persistent brown tips, consider your water quality and overall growing conditions rather than assuming that a single cause is responsible.</p><h2>How to Bring a Dying Peace Lily Back to Life</h2><p>A severely drooping Peace Lily can look as though it is dying, but dramatic wilting does not always mean the plant is beyond recovery. Start by checking the soil before adding more water. The condition of the soil and roots can help distinguish simple underwatering from a more serious drainage or root problem.</p><h3>If the Soil Is Very Dry</h3><p>If the potting mix is completely dry and the container feels unusually light, underwatering is a likely cause. Water the root ball thoroughly until excess water drains from the bottom of the pot. Then allow the plant to recover in bright, indirect light and monitor its condition over the following hours and days.</p><h3>If the Plant Is Wilted but the Soil Is Wet</h3><p>Severe wilting despite consistently wet soil is more concerning. Poor drainage, prolonged waterlogging, or damaged roots can prevent the plant from taking up water effectively. Do not keep adding water simply because the leaves are drooping.</p><p>Check that the pot has adequate drainage and that the growing medium is not remaining saturated for prolonged periods. If the plant continues to decline, inspect the roots for signs of damage and address the underlying drainage or root problem.</p><h3>Quick Troubleshooting Guide</h3><ul><li><strong>Leaves suddenly drooping + soil very dry:</strong> Underwatering is likely. Water the root ball thoroughly and allow excess water to drain.</li><li><strong>Leaves drooping + soil consistently wet:</strong> Check drainage and possible root damage before watering again.</li><li><strong>Brown or crispy leaf edges:</strong> Review watering consistency, indoor humidity, fertilizer buildup, and water quality.</li><li><strong>Leaves pale or scorched:</strong> Review light exposure and move the plant away from prolonged intense direct sunlight.</li><li><strong>Plant remains stressed after watering:</strong> Do not repeatedly water. Check the roots, drainage, light, and overall growing conditions.</li></ul><h3>Give the Plant Time to Recover</h3><p>Once the underlying problem has been corrected, avoid making several major changes at once. Keep the Peace Lily in suitable indirect light, maintain appropriate moisture, and watch for new growth. Severely stressed plants may need time to recover even after the original problem has been corrected.</p><p>For a more detailed approach to diagnosing and recovering severely wilted houseplants, see our <a href=\"/blog/wilting-houseplants-rescue-guide/\">wilting houseplants rescue guide</a>.</p><h2>Soil and Humidity</h2><p>Use a rich but well-draining indoor potting mix. A quality houseplant mix amended with perlite can provide a useful balance between moisture retention and drainage. The goal is a medium that holds enough moisture for the roots without remaining saturated.</p><p>Peace Lilies generally appreciate moderate to high humidity. In dry indoor conditions, especially when heating or air conditioning is running, low humidity can contribute to crispy leaf edges. A humidifier can provide more consistent humidity than occasional misting.</p><h2>Pruning and Maintenance</h2><p>Maintenance is simple. When a white spathe and its flower stalk have finished their blooming cycle and begin to decline, cut the stalk close to the base of the plant. Remove old, yellowing, or badly damaged leaves with clean scissors or pruning shears.</p><p>Wipe the broad leaves periodically with a damp cloth to remove accumulated dust and keep the foliage clean.</p><h2>Frequently Asked Questions</h2><p><strong>How do I bring a Peace Lily back to life?</strong> First check the soil. If it is bone dry and the pot feels unusually light, thorough watering may resolve wilting caused by underwatering. If the plant is severely wilted while the soil remains wet, investigate drainage and possible root damage instead of repeatedly watering it. Once the underlying problem is corrected, give the plant suitable indirect light and time to recover. For severe cases, see our <a href=\"/blog/wilting-houseplants-rescue-guide/\">wilting houseplants rescue guide</a>.</p><h2>Peace Lily Winter Care</h2><p>During the colder months, a Peace Lily's growth typically slows down. Ensure it receives bright indirect light to compensate for shorter winter days, which also helps sustain energy for future blooms. Water based on soil moisture rather than a fixed weekly schedule, allowing the top layer to dry slightly, and avoid prolonged saturation to prevent root stress. Keep the plant away from cold drafts and heating vents. The drier indoor air from heating systems can reduce humidity, so consider using a humidifier to prevent crispy leaf edges. Reduce fertilizer applications when active growth slows, and monitor for common indoor stress symptoms.</p>",
+    "quickAnswer": "Peace Lilies thrive in bright, indirect light and require consistently moist soil. They will droop noticeably when thirsty. To prevent brown leaf tips, use filtered or distilled water instead of untreated tap water. We recommend observing the plant closely over a few weeks to ensure it adjusts well to its environment.",
+    "ogImage": "/assets/images/peace-lily.webp",
+    "ogImageAlt": "Lush Peace Lily houseplant displaying striking white spathes and dark green foliage",
+    "heroImage": "/assets/images/peace-lily.webp",
+    "heroImageAlt": "Lush Peace Lily houseplant displaying striking white spathes and dark green foliage",
+    "featuredImageAlt": "Lush Peace Lily houseplant displaying striking white spathes and dark green foliage",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-09-24",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Plant is entirely droopy and wilted",
+            "diagnosis": "Severe underwatering (most common) or root rot from overwatering",
+            "treatment": "Check the soil. If bone dry, water deeply. If soaking wet, stop watering and check roots for rot.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Crispy brown leaf tips",
+            "diagnosis": "Tap water chemicals (fluoride/chlorine) or low humidity",
+            "treatment": "Switch to filtered/distilled water. Increase ambient humidity.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Lots of leaves, no white flowers",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move the plant to bright, indirect light and wait 6-8 weeks. Alternatively, provide a brief cool period (around 60\u00b0F / 16\u00b0C) for 2\u20134 weeks in late winter to mimic seasonal change and trigger bud initiation.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Yellowing leaves throughout the plant",
+            "diagnosis": "Overwatering or poor drainage",
+            "treatment": "Allow the top 2 inches of soil to dry before watering. Ensure the pot has drainage holes.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Spathe",
+            "definition": "The large, white, hood-like modified leaf of the Peace Lily that is commonly mistaken for a flower petal."
+        },
+        {
+            "term": "Spadix",
+            "definition": "The spiky, textured central stalk inside the white spathe where the actual tiny, true flowers of the plant are located."
+        },
+        {
+            "term": "Calcium Oxalate",
+            "definition": "Microscopic needle-shaped crystals found in the sap of the Peace Lily that cause intense pain and swelling if ingested by pets or humans."
+        },
+        {
+            "term": "Gibberellic Acid",
+            "definition": "A plant hormone used by commercial growers to force peace lilies to bloom. Plants treated with this may not rebloom for 12\u201318 months after purchase as they return to a natural cycle."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Peace Lily Placement Comparison",
+        "headers": [
+            "Room",
+            "Light Level",
+            "Watering Need",
+            "Growth Expectation"
+        ],
+        "rows": [
+            [
+                "Bright Living Room (East Window)",
+                "Bright Indirect",
+                "Moderate/High",
+                "Fast growth, abundant white blooms"
+            ],
+            [
+                "Bedroom / Office Corner",
+                "Medium Indirect",
+                "Moderate",
+                "Steady growth, occasional blooms"
+            ],
+            [
+                "Windowless Bathroom / Hallway",
+                "Low (Fluorescent)",
+                "Low",
+                "Slow growth, dark green leaves, no blooms"
+            ]
+        ]
+    },
+    "h1": "Peace Lily Care Guide: Light, Watering, Placement & Bloom Fixes",
+    "breadcrumbName": "Peace Lily Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "topics:humidity",
+        "houseplant-leaves-turning-yellow",
+        "tap-water-vs-filtered-water-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering in response to its dramatic wilt\u2014peace lilies droop visibly when thirsty, which triggers owners to water immediately, but the same drooping also occurs when roots are stressed from overwatering. Learning to distinguish a thirsty droop (dry soil, lighter pot) from a root-rot droop (wet soil, mushy base) is essential."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Peace lilies actually bloom more readily when slightly root-bound because the confinement triggers a stress response that redirects energy to flowering. Repotting into a larger container often results in a year or more of no flowers while the plant establishes itself."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In genuinely low light, it survives but rarely produces those iconic white spathes, putting all energy into maintaining foliage instead. Moving it to a spot with bright indirect light is the most reliable way to encourage consistent blooming."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "spathiphyllum care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "why is my peace lily drooping",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "peace lily brown tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "indoor flowering plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "peace lily yellow leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "peace lily winter care",
+            "type": "secondary",
+            "source": "manual",
+            "approved": true
+        }
+    ],
+    "summary": "Spathiphyllum wallisii is an adaptable foliage plant known for its dark glossy leaves and elegant white floral spathes. Master moderate indirect light placement, consistent soil moisture routines, and pure water care.",
+    "keyTakeaways": [
+        "Provide medium to bright indirect light to support healthy growth and white spathes.",
+        "Keep substrate consistently moist, watering when the foliage begins to soften slightly.",
+        "Use filtered, distilled, or rainwater to eliminate fluoride-induced brown leaf tips.",
+        "Cut spent flower stalks back to the base of the plant to direct energy to new foliage."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-09-10",
+    "plantHero": {
+        "plantType": "Flowering foliage plant",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "medium",
+        "water": "Keep soil evenly moist, but not soggy. Will dramatically droop when thirsty.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "1-4 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Rich, moisture-retentive potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer every 6 weeks in spring/summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "nativeRegion": "Tropical Americas",
+        "usdaZones": "11-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/peace-lily"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering",
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/peace-lily/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/peace-lily"
+        ]
+    },
+    "contentText": "Overview The Peace Lily ( Spathiphyllum ) is a classic houseplant beloved for its deep green, glossy foliage and elegant white spathes. It is also an exceptionally communicative plant\u2014famously drooping when it needs water\u2014making it a useful houseplant for beginners learning to recognize watering stress. If your Peace Lily looks like it is dying, dramatic wilting does not necessarily mean the plant is beyond recovery. The key is to identify whether the problem is underwatering, excess moisture, poor drainage, light stress, or another growing-condition issue. Light and Placement In their native tropical environments, Peace Lilies grow beneath taller vegetation where they receive filtered light. Indoors, they generally do best in medium to bright indirect light. They can tolerate lower-light locations, although growth and flowering may be reduced. If you want your Peace Lily to produce its characteristic white spathes, provide brighter indirect light. Avoid prolonged exposure to intense direct sunlight, which can scorch the leaves. Traditional Vastu Guidance for Peace Lily Placement In Vastu Shastra, some traditional practices associate Peace Lily placement with tranquility and positive energy. These are traditional beliefs rather than established horticultural requirements. For plant health, prioritize suitable light, drainage, airflow, and temperature regardless of where the plant is placed. If you follow Vastu traditions, you can choose a location that fits those traditions while still meeting the plant's horticultural needs. Watering Strategy Peace Lilies appreciate evenly moist soil, but their roots should not remain constantly waterlogged. Check the top inch or two of the potting mix and water when it has started to dry rather than following a rigid calendar. When watering, moisten the entire root ball thoroughly and allow excess water to drain freely from the pot. Do not allow the container to sit in standing water. Pro Tip: Brown leaf tips can have several causes, including inconsistent watering, dry indoor air, fertilizer buildup, or sensitivity to minerals in some tap water. If your plant develops persistent brown tips, consider your water quality and overall growing conditions rather than assuming that a single cause is responsible. How to Bring a Dying Peace Lily Back to Life A severely drooping Peace Lily can look as though it is dying, but dramatic wilting does not always mean the plant is beyond recovery. Start by checking the soil before adding more water. The condition of the soil and roots can help distinguish simple underwatering from a more serious drainage or root problem. If the Soil Is Very Dry If the potting mix is completely dry and the container feels unusually light, underwatering is a likely cause. Water the root ball thoroughly until excess water drains from the bottom of the pot. Then allow the plant to recover in bright, indirect light and monitor its condition over the following hours and days. If the Plant Is Wilted but the Soil Is Wet Severe wilting despite consistently wet soil is more concerning. Poor drainage, prolonged waterlogging, or damaged roots can prevent the plant from taking up water effectively. Do not keep adding water simply because the leaves are drooping. Check that the pot has adequate drainage and that the growing medium is not remaining saturated for prolonged periods. If the plant continues to decline, inspect the roots for signs of damage and address the underlying drainage or root problem. Quick Troubleshooting Guide Leaves suddenly drooping + soil very dry: Underwatering is likely. Water the root ball thoroughly and allow excess water to drain. Leaves drooping + soil consistently wet: Check drainage and possible root damage before watering again. Brown or crispy leaf edges: Review watering consistency, indoor humidity, fertilizer buildup, and water quality. Leaves pale or scorched: Review light exposure and move the plant away from prolonged intense direct sunlight. Plant remains stressed after watering: Do not repeatedly water. Check the roots, drainage, light, and overall growing conditions. Give the Plant Time to Recover Once the underlying problem has been corrected, avoid making several major changes at once. Keep the Peace Lily in suitable indirect light, maintain appropriate moisture, and watch for new growth. Severely stressed plants may need time to recover even after the original problem has been corrected. For a more detailed approach to diagnosing and recovering severely wilted houseplants, see our wilting houseplants rescue guide . Soil and Humidity Use a rich but well-draining indoor potting mix. A quality houseplant mix amended with perlite can provide a useful balance between moisture retention and drainage. The goal is a medium that holds enough moisture for the roots without remaining saturated. Peace Lilies generally appreciate moderate to high humidity. In dry indoor conditions, especially when heating or air conditioning is running, low humidity can contribute to crispy leaf edges. A humidifier can provide more consistent humidity than occasional misting. Pruning and Maintenance Maintenance is simple. When a white spathe and its flower stalk have finished their blooming cycle and begin to decline, cut the stalk close to the base of the plant. Remove old, yellowing, or badly damaged leaves with clean scissors or pruning shears. Wipe the broad leaves periodically with a damp cloth to remove accumulated dust and keep the foliage clean. Frequently Asked Questions How do I bring a Peace Lily back to life? First check the soil. If it is bone dry and the pot feels unusually light, thorough watering may resolve wilting caused by underwatering. If the plant is severely wilted while the soil remains wet, investigate drainage and possible root damage instead of repeatedly watering it. Once the underlying problem is corrected, give the plant suitable indirect light and time to recover. For severe cases, see our wilting houseplants rescue guide . Peace Lily Winter Care During the colder months, a Peace Lily's growth typically slows down. Ensure it receives bright indirect light to compensate for shorter winter days, which also helps sustain energy for future blooms. Water based on soil moisture rather than a fixed weekly schedule, allowing the top layer to dry slightly, and avoid prolonged saturation to prevent root stress. Keep the plant away from cold drafts and heating vents. The drier indoor air from heating systems can reduce humidity, so consider using a humidifier to prevent crispy leaf edges. Reduce fertilizer applications when active growth slows, and monitor for common indoor stress symptoms.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/peace-lily/",
+        "lastReviewed": "2026-09-10",
+        "license": "CC BY 4.0"
+    }
+}

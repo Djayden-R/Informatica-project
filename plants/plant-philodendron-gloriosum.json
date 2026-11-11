@@ -1,0 +1,328 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-philodendron-gloriosum",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "philodendron-gloriosum",
+    "seoTitle": "Philodendron Gloriosum Care: Plant a Crawler Right",
+    "metaDescription": "Philodendron Gloriosum's rhizome rots fast in soggy soil \u2014 learn the watering and substrate mix that keeps this crawling aroid healthy.",
+    "featuredImage": "/assets/images/philodendron-gloriosum.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "toxic-to-pets",
+        "statement-foliage",
+        "crawling-plants",
+        "humidity-loving"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Philodendron gloriosum",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Aroid Cultivation",
+            "source": "International Aroid Society",
+            "url": "https://www.aroid.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Philodendron gloriosum",
+        "family": "Araceae",
+        "origin": "Colombia",
+        "type": "Evergreen creeping perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Large floor displays",
+            "Statement pieces in bright rooms"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Bright, indirect light. Requires a wide, rectangular planter rather than a standard round pot.",
+        "watering": "Water when the top 2 inches of soil are dry. Do not let water sit on the velvet leaves.",
+        "soil": "An extremely chunky, well-draining aroid mix (orchid bark, perlite, and charcoal).",
+        "pruning": "Remove old, yellowing leaves at the base to redirect energy to new growth.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs due to insoluble calcium oxalates. Causes severe mouth pain and swelling.",
+        "bestFor": "Advanced plant collectors who have the floor space for a wide, crawling planter."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "2-3 feet tall",
+        "matureSpread": "3-5 feet wide (creeping)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 80%",
+            "survivable": "40% - 90%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to produce its massive leaves. Direct sun will instantly bleach and scorch the delicate velvet foliage.",
+        "sunlightHours": "6-8 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East or North-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "high",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires heavy nitrogen to support the massive, dark green leaves.",
+        "fertilizerFrequency": "Every two weeks during the growing season with a diluted liquid fertilizer.",
+        "organicOptions": "Top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Highly susceptible to rhizome rot. The thick main stem MUST sit on top of the soil, not buried beneath it."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Philodendron Gloriosum rotting at the base?",
+            "answer": "This is almost always caused by burying the rhizome (the thick main stem). The Gloriosum is a crawler. The thick stem must rest entirely on top of the soil, exposed to the air. Only the roots should be buried."
+        },
+        {
+            "question": "Why are the leaves on my Gloriosum turning yellow?",
+            "answer": "Yellowing on the oldest, lowest leaf is a normal part of the plant's life cycle. However, if multiple leaves turn yellow rapidly, it indicates overwatering and poor drainage in the soil."
+        },
+        {
+            "question": "Can I put my Philodendron Gloriosum on a moss pole?",
+            "answer": "No. Unlike Monstera or other Philodendrons, the Gloriosum is an obligate crawler, not a climber. It grows horizontally along the forest floor. Attempting to force it up a pole will stunt its growth."
+        },
+        {
+            "question": "What kind of pot does a Philodendron Gloriosum need?",
+            "answer": "Because it crawls horizontally, it will quickly hit the edge of a standard round pot. It requires a long, rectangular planter (often called a window box) so the rhizome has room to travel."
+        },
+        {
+            "question": "Is the Philodendron Gloriosum toxic to pets?",
+            "answer": "Yes. Like all Philodendrons, it contains calcium oxalate crystals. It is highly toxic to cats and dogs, causing severe mouth irritation and vomiting if chewed."
+        }
+    ],
+    "shortDesc": "The Philodendron Gloriosum is a breathtaking collector's plant featuring massive, velvety, heart-shaped leaves. Unlike climbing plants, this is a \"crawler\" that requires a wide, rectangular planter to thrive.",
+    "content": "<h2>Overview</h2><p>The Philodendron gloriosum is one of the most highly sought-after aroids in the world. Native to the rainforests of Colombia, it features massive, perfectly heart-shaped leaves with a deep, matte velvet texture and striking white or pinkish veins. When grown well, a single leaf can reach the size of a dinner plate.</p><p>However, many new owners accidentally kill this plant within months by treating it like a standard houseplant. The Gloriosum is an obligate crawler. In the wild, it creeps horizontally across the forest floor like a snake, rather than climbing up trees. If you put it in a standard round pot, it will quickly hit the edge, bend over the side, and stop growing. Understanding how to properly pot and position a crawling rhizome is the absolute key to success with this spectacular plant.</p><h3>The Secret to Planting: Don't Bury the Rhizome!</h3><p>The biggest mistake growers make is burying the main, thick stem (the rhizome) under the soil. If the rhizome is buried, it will trap moisture and rot completely through, killing the plant within weeks. </p><p>The rhizome must lay <em>entirely on top of the soil</em>, exposed to the air, like a log lying on the ground. Only the thin roots extending downward from the rhizome should be buried. Furthermore, because it crawls horizontally, you must use a long, rectangular planter (such as a window box). Place the back of the rhizome against the short end of the box, allowing the growing tip plenty of runway to crawl across the soil surface.</p><h3>Light Requirements</h3><p>To produce its massive, dark green leaves, the Gloriosum requires bright, indirect light. An east-facing window is perfect. The velvet texture of the leaves makes them highly susceptible to scorching; if placed in direct afternoon sun, the foliage will bleach and burn within days. If the plant is kept in too dark of a corner, the new leaves will become progressively smaller, and the distance between nodes will stretch out unpleasantly.</p><h3>Watering and Soil</h3><p>Water the plant thoroughly when the top 2 inches of the soil feel dry. When watering, try to avoid splashing water directly onto the velvet leaves, as standing water droplets can lead to fungal spotting. </p><p>Because it is an aroid, it requires extremely fast-draining soil. Standard potting soil will suffocate the roots. You must create a chunky aroid mix by combining a high-quality potting base with generous amounts of coarse orchid bark, perlite, and horticultural charcoal. This ensures excess water drains away instantly.</p><h3>Temperature and Humidity</h3><p>The Gloriosum thrives in warm, humid environments. Keep temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) and protect it from cold drafts. While it will survive in average household humidity (around 40%), the massive leaves will struggle to unfurl properly if the air is too dry, often resulting in torn or deformed new growth. Aim to keep the humidity around 60% using a room humidifier during the winter heating season.</p><h2>Fertilizing</h2><p>Pushing out dinner-plate-sized leaves requires significant energy. Fertilize the plant every two weeks during the active spring and summer growing seasons using a high-nitrogen liquid fertilizer diluted to half-strength. Do not fertilize during the winter when growth naturally slows down.</p><h2>Toxicity</h2><p>Like all Philodendrons, the Gloriosum contains insoluble calcium oxalate crystals. It is highly toxic to both cats and dogs. Because it sits low in a crawling planter, it is often right at pet eye-level, so extra precautions must be taken to ensure pets do not chew on the thick stems or velvety leaves.</p>",
+    "quickAnswer": "The Philodendron Gloriosum is a horizontal crawler, not a climber. It requires a long, rectangular planter, and the thick main stem (rhizome) must sit completely on top of the soil to prevent fatal rot. We have found that maintaining a consistent care routine significantly improves the long-term health of the plant.",
+    "ogImage": "/assets/images/philodendron-gloriosum.webp",
+    "ogImageAlt": "Massive, velvety heart-shaped leaves of a Philodendron Gloriosum",
+    "heroImage": "/assets/images/philodendron-gloriosum.webp",
+    "heroImageAlt": "Close up of the striking white veins on the dark velvet leaf of a Gloriosum",
+    "featuredImageAlt": "Philodendron Gloriosum crawling across a long rectangular planter box",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Philodendron Gloriosum rotting at the base?",
+            "diagnosis": "Buried rhizome \u2013 the stem must sit on top of the soil",
+            "treatment": "Unpot, remove rotten parts, lay rhizome horizontally on soil surface with roots buried.",
+            "prevention": "Keep rhizome exposed; only roots underground.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves on my Gloriosum turning yellow?",
+            "diagnosis": "If oldest leaf, normal senescence; if multiple, overwatering",
+            "treatment": "If multiple, reduce watering; check roots for rot.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Rhizome",
+            "definition": "A continuously growing horizontal main stem that puts out roots below and leaves above. In the Gloriosum, this must sit above the soil line to prevent rot."
+        },
+        {
+            "term": "Crawler",
+            "definition": "A plant growth habit where the stem creeps horizontally along the ground, rather than climbing vertically up a tree."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Crawling vs. Climbing Philodendron Comparison",
+        "headers": [
+            "Plant",
+            "Growth Habit",
+            "Support Needed"
+        ],
+        "rows": [
+            [
+                "Gloriosum",
+                "Horizontal Crawler",
+                "Long Rectangular Planter"
+            ],
+            [
+                "Melanochrysum",
+                "Vertical Climber",
+                "Tall Moss Pole"
+            ],
+            [
+                "Pink Princess",
+                "Upright / Scrambling",
+                "Stakes or Trellis"
+            ]
+        ]
+    },
+    "h1": "Philodendron Gloriosum Indoor Guide: Protect Rhizome Rot & Plant a Crawler",
+    "breadcrumbName": "Philodendron Gloriosum Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "stem-rot-vs-root-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Planting it in a deep, narrow pot like a typical philodendron\u2014gloriosum is a ground-creeping rhizomatous plant, not a climber, and its horizontal rhizome needs space to spread laterally. A wide, shallow pot allows proper rhizome extension and prevents the plant from growing out of the container prematurely."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The velvety leaf surface is permanently scarred by water droplets\u2014even a single drop left on the leaf causes a white or yellow ring that never disappears. Water must be directed to the soil only, never onto the leaves."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry air below 60% humidity, the large velvety leaf edges curl inward and develop crispy margins because the massive leaf surface loses moisture faster than the root system can replace it. This species genuinely requires a humidifier to look its best indoors."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "how to plant a creeping philodendron",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "crawling philodendron care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "gloriosum yellow leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "velvet leaf philodendron",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "philodendron rhizome rot",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Philodendron Gloriosum",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light for the best velvety, veined leaf pattern.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Grow horizontally, since this species creeps via rhizome rather than climbing.",
+        "Maintain high humidity for the healthiest, largest leaf development possible."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen creeping perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 2 inches of soil are dry. Do not let water sit on the velvet leaves.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "2-3 feet tall",
+        "growthRate": "Moderate",
+        "soil": "Chunky, well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Long rectangular planter",
+        "propagation": "Rhizome division",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Colombia",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87777-1"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-gloriosum/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87777-1"
+        ]
+    },
+    "contentText": "Overview The Philodendron gloriosum is one of the most highly sought-after aroids in the world. Native to the rainforests of Colombia, it features massive, perfectly heart-shaped leaves with a deep, matte velvet texture and striking white or pinkish veins. When grown well, a single leaf can reach the size of a dinner plate. However, many new owners accidentally kill this plant within months by treating it like a standard houseplant. The Gloriosum is an obligate crawler. In the wild, it creeps horizontally across the forest floor like a snake, rather than climbing up trees. If you put it in a standard round pot, it will quickly hit the edge, bend over the side, and stop growing. Understanding how to properly pot and position a crawling rhizome is the absolute key to success with this spectacular plant. The Secret to Planting: Don't Bury the Rhizome! The biggest mistake growers make is burying the main, thick stem (the rhizome) under the soil. If the rhizome is buried, it will trap moisture and rot completely through, killing the plant within weeks. The rhizome must lay entirely on top of the soil , exposed to the air, like a log lying on the ground. Only the thin roots extending downward from the rhizome should be buried. Furthermore, because it crawls horizontally, you must use a long, rectangular planter (such as a window box). Place the back of the rhizome against the short end of the box, allowing the growing tip plenty of runway to crawl across the soil surface. Light Requirements To produce its massive, dark green leaves, the Gloriosum requires bright, indirect light. An east-facing window is perfect. The velvet texture of the leaves makes them highly susceptible to scorching; if placed in direct afternoon sun, the foliage will bleach and burn within days. If the plant is kept in too dark of a corner, the new leaves will become progressively smaller, and the distance between nodes will stretch out unpleasantly. Watering and Soil Water the plant thoroughly when the top 2 inches of the soil feel dry. When watering, try to avoid splashing water directly onto the velvet leaves, as standing water droplets can lead to fungal spotting. Because it is an aroid, it requires extremely fast-draining soil. Standard potting soil will suffocate the roots. You must create a chunky aroid mix by combining a high-quality potting base with generous amounts of coarse orchid bark, perlite, and horticultural charcoal. This ensures excess water drains away instantly. Temperature and Humidity The Gloriosum thrives in warm, humid environments. Keep temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) and protect it from cold drafts. While it will survive in average household humidity (around 40%), the massive leaves will struggle to unfurl properly if the air is too dry, often resulting in torn or deformed new growth. Aim to keep the humidity around 60% using a room humidifier during the winter heating season. Fertilizing Pushing out dinner-plate-sized leaves requires significant energy. Fertilize the plant every two weeks during the active spring and summer growing seasons using a high-nitrogen liquid fertilizer diluted to half-strength. Do not fertilize during the winter when growth naturally slows down. Toxicity Like all Philodendrons, the Gloriosum contains insoluble calcium oxalate crystals. It is highly toxic to both cats and dogs. Because it sits low in a crawling planter, it is often right at pet eye-level, so extra precautions must be taken to ensure pets do not chew on the thick stems or velvety leaves.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-gloriosum/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

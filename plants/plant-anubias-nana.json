@@ -1,0 +1,590 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-anubias-nana",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "anubias-nana",
+    "seoTitle": "Anubias Nana Care: Light, Attaching & Melting Fixes",
+    "metaDescription": "Anubias nana care: attach the rhizome to rock or wood (never bury it), low-light needs, no CO2 required, and fixes for melting leaves and green spot algae.",
+    "featuredImage": "/assets/images/anubias-nana.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "aquatic-plants",
+        "freshwater-plants",
+        "low-light",
+        "beginner-friendly",
+        "epiphytes",
+        "aquascaping"
+    ],
+    "references": [
+        {
+            "title": "Anubias barteri var. nana - Aquatic Plant Central",
+            "url": "https://www.aquaticplantcentral.com/threads/anubias-barteri-var-nana.43987/",
+            "doi": ""
+        },
+        {
+            "title": "Anubias Genus Care Guide - Tropica",
+            "url": "https://www.theaquariumcalculators.com/plants/anubias-nana/",
+            "doi": ""
+        },
+        {
+            "title": "Anubias barteri var. nana - Aquasabi",
+            "url": "https://www.aquasabi.com/anubias-barteri-var-nana",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Anubias barteri var. nana",
+        "family": "Araceae",
+        "origin": "West Africa (Cameroon)",
+        "type": "Aquatic Herb",
+        "nativeClimate": "Tropical rainforest streams",
+        "commonUses": [
+            "Aquascaping",
+            "Foreground plant",
+            "Shrimp tank cover"
+        ],
+        "taxonType": "variety"
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Attached to driftwood or rock (epiphyte)",
+        "watering": "Submerged in aquarium water (maintain water parameters)",
+        "soil": "None (rhizome must remain exposed)",
+        "pruning": "Trim dead leaves at the base near the rhizome",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Anubias Nana is non-toxic to fish, shrimp, and snails. It is considered safe for all freshwater aquarium inhabitants.",
+        "bestFor": "Anubias Nana is best for beginners looking for a durable, slow-growing plant that doesn't require CO2 or high-intensity lighting."
+    },
+    "vastu": {
+        "enabled": false,
+        "directions": [],
+        "rooms": [],
+        "light": [],
+        "purposes": [],
+        "difficulty": "none",
+        "petFriendly": true,
+        "indoorSuitable": true,
+        "notes": "Not applicable to Vastu Shastra principles as it is a submerged aquatic plant.",
+        "sourceUrl": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "very slow",
+        "matureHeight": "2-4 inches",
+        "matureSpread": "3-6 inches",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "rare (can flower submerged)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "22-28\u00b0C (72-82\u00b0F)",
+            "survivable": "20-30\u00b0C (68-86\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "N/A (Aquatic)",
+            "survivable": "N/A"
+        },
+        "soilPH": {
+            "recommended": "6.0-7.5",
+            "survivable": "5.5-8.0"
+        }
+    },
+    "lighting": {
+        "description": "Thrives in low to medium light conditions.",
+        "sunlightHours": "6-8 hours daily (artificial aquarium light)",
+        "intensity": "low",
+        "indoorWindow": "Not recommended (algae risk)",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Absorbs nutrients primarily through the water column.",
+        "fertilizerFrequency": "Liquid fertilizer once every 2 weeks.",
+        "organicOptions": "Root tabs can be used if planted in substrate (though not recommended for the rhizome)."
+    },
+    "relationships": [
+        {
+            "target": "light",
+            "type": "requirement",
+            "strength": 7,
+            "notes": "Low light is preferred; excessive light encourages algae growth on the leaves."
+        },
+        {
+            "target": "rhizome-exposure",
+            "type": "requirement",
+            "strength": 10,
+            "notes": "The rhizome must be exposed to water flow; burying it will cause rot."
+        },
+        {
+            "target": "green-spot-algae",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Slow growth makes it susceptible to Green Spot Algae in high-light conditions."
+        }
+    ],
+    "calculatorReferences": [
+        "aquarium-fertilizer-calculator",
+        "aquarium-light-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Is Anubias Nana safe for all aquarium fish?",
+            "answer": "Yes, Anubias Nana is completely non-toxic and safe for all freshwater fish, shrimp, and snails. Its tough, leathery leaves actually make it an excellent choice for tanks with herbivorous fish like goldfish."
+        },
+        {
+            "question": "How do I attach Anubias Nana to rocks?",
+            "answer": "Use cyanoacrylate gel superglue or fishing line to gently tie the plant to the hardscape. Over the course of a few weeks, the roots will naturally attach themselves to the surface."
+        },
+        {
+            "question": "Can I bury the roots in the substrate?",
+            "answer": "You can bury the small, hair-like roots, but the thick, horizontal stem (rhizome) must remain exposed above the substrate. If the rhizome is buried, the plant will suffocate and die."
+        },
+        {
+            "question": "Do I need CO2 for Anubias Nana?",
+            "answer": "No, Anubias Nana is a true low-tech plant and does not require injected CO2 to grow. It thrives entirely on ambient CO2 and basic liquid fertilizers."
+        },
+        {
+            "question": "Why are there green spots on the leaves?",
+            "answer": "This is Green Spot Algae (GSA). Because Anubias leaves grow very slowly, they are prone to algae under high light. Move the plant to a shaded area or reduce your daily light duration."
+        },
+        {
+            "question": "Why is my Anubias melting?",
+            "answer": "Melting is usually caused by burying the rhizome in the gravel, insufficient water flow, or a sudden, drastic change in water parameters (such as a pH shock) after a large water change."
+        },
+        {
+            "question": "Why is the rhizome turning brown and mushy?",
+            "answer": "A mushy rhizome indicates severe rot, almost always caused by lack of water circulation. You must immediately cut away the rotting section to save the healthy remainder of the plant."
+        },
+        {
+            "question": "How much light is too much for my Anubias?",
+            "answer": "Excessive light quickly covers this slow-growing plant in algae. Aim for low to moderate light and a photoperiod of roughly 6 to 8 hours a day; if green spot algae appears, shorten the light period or move the plant to a shaded spot. To estimate a safer daily photoperiod, use our Sunlight Calculator."
+        },
+        {
+            "question": "How much does Anubias Nana cost?",
+            "answer": "Prices generally range from $6 to $15 per pot or portion. Because it is an extremely slow-growing plant, it tends to be slightly more expensive than fast-growing stem plants. Rare varieties like 'Gold' or 'Pinto' will cost more."
+        },
+        {
+            "question": "What is the difference between Anubias Nana Petite and Mini?",
+            "answer": "In the aquarium trade, 'Mini' and 'Petite' are frequently used interchangeably. Both refer to cultivars that maintain a significantly smaller leaf size than the standard Anubias Nana, making them perfect for nano aquariums."
+        },
+        {
+            "question": "How much light does Anubias Nana need?",
+            "answer": "Anubias nana needs low to moderate light. It grows in standard aquarium lighting without CO2, and brighter light mainly encourages algae on its leaves. A photoperiod of roughly 6 to 8 hours a day works for most tanks."
+        },
+        {
+            "question": "What water temperature does Anubias Nana need?",
+            "answer": "Anubias nana does well at 72-82\u00b0F (22-28\u00b0C), which covers most tropical freshwater aquariums. Keep the temperature stable and change water regularly."
+        },
+        {
+            "question": "Can Anubias Nana grow out of water?",
+            "answer": "Yes. Anubias Nana can grow with its leaves above the waterline (emersed) as long as the rhizome and roots stay moist and humidity is high, such as in a paludarium or riparium. Plants moved between emersed and submerged conditions often lose some leaves while new ones adapt."
+        },
+        {
+            "question": "Why are my Anubias Nana leaves turning yellow?",
+            "answer": "An occasional old leaf turning yellow is normal because leaves age. If many leaves turn yellow at once, check that the rhizome is not buried, the light is not extremely low, and water parameters have not changed suddenly."
+        },
+        {
+            "question": "How fast does Anubias Nana grow?",
+            "answer": "Very slowly. A healthy plant typically produces a new leaf every few weeks, and individual leaves can last for years. Its slow growth is why algae can settle on the leaves if light is too strong."
+        },
+        {
+            "question": "How do I propagate Anubias Nana?",
+            "answer": "Cut the rhizome with clean, sharp scissors or a blade so each piece has several healthy leaves, then attach the pieces to rock or driftwood with gel superglue or line. Each section will slowly grow its own roots and leaves."
+        },
+        {
+            "question": "Is Anubias Nana or Java Fern better for beginners?",
+            "answer": "Both are easy low-light epiphytes with the same rule: keep the rhizome out of the substrate. Anubias Nana stays smaller and suits the foreground or midground, while Java fern grows taller and suits the midground or background."
+        },
+        {
+            "question": "Will fish uproot or eat Anubias Nana?",
+            "answer": "Most fish do not eat its tough leaves, but digging or large fish can knock loosely mounted plants over. Attach the plant to heavy rock or wood so it stays in place."
+        },
+        {
+            "question": "Should I fertilize Anubias Nana?",
+            "answer": "A light dose of liquid fertilizer every couple of weeks is enough, and many tanks with fish need little more. Avoid heavy dosing because extra nutrients mostly feed algae on its slow-growing leaves."
+        }
+    ],
+    "shortDesc": "Anubias Nana is a hardy, slow-growing, low-light epiphyte perfect for beginner aquariums and aquascaping. Learn mounting, light, fertilizer and fixes for melting, rot and algae.",
+    "content": "<h2>Anubias Nana Care at a Glance</h2><ul><li><strong>Light:</strong> Low to moderate. Standard aquarium LEDs are enough. Check your setup with the <a href=\"/calculators/sunlight/anubias-nana/\">Anubias Nana sunlight calculator</a>.</li><li><strong>Planting:</strong> Attach the rhizome to rock or driftwood. Never bury it.</li><li><strong>Water:</strong> 72-82\u00b0F (22-28\u00b0C), pH 6.0-7.5, with regular water changes. See our guide to <a href=\"/topics/water-quality/\">water quality</a>.</li><li><strong>CO2 and substrate:</strong> Neither is required.</li><li><strong>Fertilizer:</strong> A light dose of liquid fertilizer every 2 weeks is plenty. Use the <a href=\"/calculators/aquarium-fertilizer-calculator/\">aquarium fertilizer calculator</a> to avoid overdosing.</li><li><strong>Growth:</strong> Very slow; typically 2-4 inches tall.</li><li><strong>Common problems:</strong> Rhizome rot, melting leaves and green spot algae.</li></ul><h2>What Is Anubias Nana?</h2><p>Anubias Nana (<em>Anubias barteri</em> var. <em>nana</em>, also sold as Dwarf Anubias and sometimes misspelled as &ldquo;anubis nana&rdquo; or &ldquo;anubia nana&rdquo;) is arguably the most resilient plant in the aquarium hobby. Native to the streams of West Africa (Cameroon), it is an epiphyte, meaning it naturally grows on rocks and wood rather than in soil. Its thick, dark green leaves provide excellent cover for shy fish and resting spots for slow-swimming species.</p><p>This compact form has been grown commercially for the aquarium trade since the 1970s and is now one of the most widely sold aquarium plants in the world. Its slow growth rate makes it an ideal choice for aquascapers who want a low-maintenance setup. It can adapt to a wide range of water parameters, making it beginner-friendly.</p><ul><li>Anubias Nana is a true aquatic plant that is perfect for low-tech setups.</li><li>Its leathery leaves make it resistant to most herbivorous fish, such as goldfish and many cichlids.</li><li>It is commonly used as a foreground or midground plant in freshwater aquariums.</li><li>The plant helps improve water quality by absorbing excess nitrates.</li></ul><h2>Botanical Profile</h2><p>The botanical name is Anubias barteri var. nana. It is a slow-growing aquatic herb with dark green, broad leaves that are thick and leathery to the touch.</p><p>The plant features a rhizome&mdash;a horizontal stem that grows along the surface and can reach roughly 4-6 inches (10-15 cm) or more over time. This rhizome is the most vital part of the plant and should never be buried.</p><ul><li>Anubias Nana is small, typically reaching only 2-4 inches in height.</li><li>Individual leaves can last for several years, which is why slow-growing algae can settle on them if light is too strong.</li><li>It can be propagated easily by cutting the rhizome into pieces, ensuring each piece has at least 3-4 healthy leaves.</li><li>The plant can flower underwater in healthy aquarium conditions, producing a small white spathe.</li></ul><h2>Anubias Nana Light Requirements and Placement</h2><p>Anubias Nana prefers low to medium light. It is highly adaptable but thrives best when shaded from direct, intense light to prevent algae accumulation on its leaves.</p><p>It does not need high-tech lighting or CO2. Standard aquarium LEDs on a moderate photoperiod (roughly 6 to 8 hours a day) are enough, and extra light mostly feeds algae on its slow-growing leaves. Use the <a href=\"/calculators/sunlight/anubias-nana/\">Anubias Nana sunlight calculator</a> to sanity-check your light setup.</p><p>Place it attached to driftwood, rocks, or other hardscape features in the foreground or midground of your aquarium.</p><ul><li>Avoid placing the plant directly under high-intensity lighting.</li><li>If you notice Green Spot Algae on the leaves, move the plant to a shaded area or reduce your light duration.</li><li>Floating plants or taller stem plants can provide natural shade over Anubias.</li><li>Good water circulation around the rhizome is essential for preventing rot.</li></ul><h2>How to Attach Anubias Nana to Rock or Driftwood</h2><ol><li>Remove the plant from its pot or rockwool and gently rinse off any loose material.</li><li>Pick a rock or piece of driftwood where the rhizome (the thick horizontal stem) can sit on the surface.</li><li>Fix the rhizome in place with a small dab of cyanoacrylate gel superglue, or tie it on with cotton thread or fishing line. Keep the glue off the leaves and roots where possible.</li><li>Place the hardscape in the tank so the rhizome stays above the substrate and clear of sand or gravel.</li><li>Over the following weeks the roots grip the surface. If you used line or thread, remove it once the plant holds on by itself.</li></ol><p>Another simple option is to wedge the rhizome into a crack between two rocks, or to buy a plant that is already mounted on a coconut shell or wood. You can also anchor only the roots in gravel, as long as the rhizome stays clear of the substrate.</p><h2>Where to Place Anubias Nana in Your Aquarium</h2><p>Because it stays small and tolerates low light, Anubias Nana fits almost anywhere in a freshwater tank. In a nano aquarium it works as a foreground feature on a small rock. In a larger tank it suits the midground, where it can soften the base of hardscape.</p><ul><li><strong>Pair it with other epiphytes.</strong> <a href=\"/plants/java-fern/\">Java fern</a>, <a href=\"/plants/java-moss/\">Java moss</a> and <a href=\"/plants/bucephalandra/\">Bucephalandra</a> use the same mounting method and similar low-tech conditions, so they combine well on one piece of driftwood.</li><li><strong>Shrimp tanks.</strong> Its broad leaves give shrimp surfaces to graze on and shelter to hide in.</li><li><strong>Tanks with digging or large fish.</strong> The leaves are rarely eaten, but digging fish can knock loosely mounted plants over. Mount Anubias on heavy rock or wood so it stays put.</li><li><strong>Keep the rhizome clear.</strong> Leave a little space around it so debris and fine substrate do not pile up against it.</li></ul><h2>Fertilizing Anubias Nana</h2><p>Anubias Nana grows slowly and absorbs most of its nutrients from the water column, so it needs very little. A light dose of a complete liquid fertilizer every couple of weeks is enough for most tanks, and many established tanks with fish already supply what it needs.</p><p>More is not better. Heavy dosing mainly feeds algae on the plant&rsquo;s long-lived leaves. Use the <a href=\"/calculators/aquarium-fertilizer-calculator/\">aquarium fertilizer calculator</a> to work out a sensible dose for your tank volume, and read our guide to <a href=\"/blog/macro-micro-separate-dosing-planted-tank/\">dosing macro and micro nutrients in a planted tank</a> if you run a more advanced setup. Root tabs are optional, since the plant feeds mainly through its leaves and roots in the water, not by growing in soil.</p><h2>Anubias Nana Above Water and in Paludariums</h2><p>Anubias Nana can also grow with its leaves above the waterline (emersed), which makes it a popular choice for paludariums, ripariums and planted terrariums with a water section. Keep the rhizome and roots in contact with moisture and give it high humidity and moderate light.</p><p>Emersed-grown plants often flower more readily. If you move a plant between emersed and submerged conditions, expect some leaves to melt and be replaced by new ones adapted to the new environment. For more on this style of setup, see our guides to <a href=\"/topics/paludarium-plants/\">paludarium plants</a>, <a href=\"/topics/paludarium-lighting/\">paludarium lighting</a> and <a href=\"/topics/aquarium-to-paludarium/\">converting an aquarium to a paludarium</a>.</p><h2>Care and Maintenance</h2><p>The most important rule for Anubias is to keep the rhizome exposed to the water column. If buried, it will rot. Attaching it to hardscape is the standard method.</p><p>Maintenance is minimal. Occasional pruning of dead or decaying leaves is all that is required to keep the plant healthy. Because each leaf can last for years, do not trim healthy leaves just to tidy the plant.</p><ul><li>Remove decaying leaves promptly to maintain water quality.</li><li>Clean the leaves gently if they become covered in algae or detritus.</li><li>Ensure the aquarium water has good oxygenation and filtration.</li></ul><h2>How to Propagate Anubias Nana</h2><p>Propagation is straightforward and usually done by division. Use a clean, sharp pair of scissors or a razor blade to cut the rhizome.</p><p>Each section must have a piece of the rhizome and several leaves to survive. Once cut, reattach the pieces to rocks or wood using fishing line or glue.</p><ul><li>Sterilize tools before cutting to prevent infection.</li><li>Allow the cut section to heal for a few minutes before attaching.</li><li>The plant will slowly re-establish its root system on the new surface.</li></ul><h2>Anubias Nana Problems: Melting Leaves, Rhizome Rot, Yellow Leaves and Algae</h2><p>Anubias Nana is generally hardy, but &lsquo;melting&rsquo; or rhizome rot is the most common issue. This is usually due to poor water flow or burying the rhizome.</p><p>Algae issues, specifically Green Spot Algae, are common due to the plant&rsquo;s slow growth rate.</p><h3>Melting leaves</h3><p>Melting after purchase is common when a plant grown above water (emersed) is placed underwater. The old leaves break down and new, submerged-adapted leaves grow in. Keep the rhizome healthy and exposed, keep conditions stable, and be patient. Melting that continues for weeks, or that comes with a soft rhizome, points to burial, poor flow or sudden water-parameter swings instead.</p><h3>Rhizome rot</h3><p>A brown, mushy rhizome with a bad smell is rot. Cut away the rotting section with clean tools, keep the healthy part, and remount it on hardscape with good water flow around it.</p><h3>Yellow leaves</h3><p>An occasional old leaf turning yellow is normal, since leaves do not last forever. Remove it when it is fully dead. Many yellow leaves at once usually point to very low light, a buried rhizome, or a major change in water conditions.</p><h3>Green spot algae</h3><p>Green spot algae (GSA) shows up as hard green dots on older leaves. It is mostly cosmetic and best managed by reducing light intensity or duration, avoiding nutrient overdosing and keeping conditions stable. Some snails, such as nerite snails, may help graze it from leaves.</p><ul><li>Monitor for signs of rhizome decay (mushy texture, bad smell).</li><li>Ensure regular water changes to maintain stable parameters.</li><li>Adjust light levels if algae becomes a persistent problem on the leaves.</li></ul><h2>Anubias Nana vs Java Fern vs Bucephalandra</h2><p>These three epiphytes are often grown together. They share the same basic rule (keep the rhizome out of the substrate), but they differ in size and look.</p><table><thead><tr><th>Plant</th><th>Typical size</th><th>Light</th><th>Growth</th><th>Best for</th></tr></thead><tbody><tr><td>Anubias Nana</td><td>2-4 in (5-10 cm)</td><td>Low to medium</td><td>Very slow</td><td>Foreground and midground, nano tanks</td></tr><tr><td><a href=\"/plants/java-fern/\">Java Fern</a></td><td>Taller; often 6-12 in (15-30 cm)</td><td>Low to medium</td><td>Slow</td><td>Midground and background hardscape</td></tr><tr><td><a href=\"/plants/bucephalandra/\">Bucephalandra</a></td><td>Small; often 2-6 in (5-15 cm)</td><td>Low to medium</td><td>Slow</td><td>Detailed aquascapes</td></tr></tbody></table><p>Sizes are typical ranges and vary with variety and growing conditions. If you want the simplest, most forgiving choice for a first planted tank, Anubias Nana is hard to beat.</p><h2>Anubias Nana Varieties (Petite, Mini, Gold) and Price</h2><p>Beyond the standard form, several highly sought-after varieties exist. <strong>Anubias Nana Gold</strong> features striking, lighter yellowish-green leaves and requires slightly more light to maintain its vibrant color. <strong>Anubias Nana Mini</strong> (often used interchangeably with &lsquo;Petite&rsquo;) is perfect for nano tanks, offering the same hardiness in a much smaller footprint. Because of its extremely slow growth rate, Anubias Nana is typically more expensive than fast-growing stem plants. Prices generally range from $6 to $15 per pot or bare-root portion depending on the size and variety, with rare varieties like &lsquo;Gold&rsquo; or &lsquo;Pinto&rsquo; commanding higher prices. Prices vary by seller and region.</p><h3>Buying tips</h3><ul><li><strong>Check the rhizome.</strong> Choose plants with a firm, light-colored rhizome and healthy roots, not a soft or dark one.</li><li><strong>Know the form you are buying.</strong> Potted, bare-root, tissue-culture cups and pre-mounted plants are all common. Tissue-culture plants are usually clean of pests and algae but start small.</li><li><strong>Expect an adjustment period.</strong> Plants grown above water may lose leaves after you place them underwater.</li><li><strong>Quarantine briefly.</strong> Rinse new plants and check them for algae and snail eggs before adding them to an established tank.</li></ul><h3>Anubias Nana vs Other Anubias</h3><p>Anubias nana is the smallest of the commonly sold Anubias. Larger types such as Anubias barteri, Anubias coffeefolia and Anubias hastifolia grow bigger leaves and suit background placement, but they follow the same rule: keep the rhizome out of the substrate.</p><h2>Related Guides</h2><ul><li><a href=\"/plants/java-fern/\">Java Fern care guide</a></li><li><a href=\"/plants/java-moss/\">Java Moss care guide</a></li><li><a href=\"/plants/bucephalandra/\">Bucephalandra care guide</a></li><li><a href=\"/calculators/aquarium-fertilizer-calculator/\">Aquarium fertilizer calculator</a></li><li><a href=\"/topics/water-quality/\">Water quality basics</a></li><li><a href=\"/topics/paludarium-plants/\">Paludarium plants</a></li></ul>",
+    "quickAnswer": "Anubias nana is a slow-growing, low-light aquarium plant. Attach its rhizome to rock or driftwood and never bury it, keep lighting low to moderate (no CO2 needed), and hold the water at 72-82\u00b0F (22-28\u00b0C).",
+    "ogImage": "/assets/images/anubias-nana.webp",
+    "ogImageAlt": "Anubias Nana attached to driftwood in a lush freshwater aquarium",
+    "heroImage": "/assets/images/anubias-nana.webp",
+    "heroImageAlt": "Anubias Nana attached to driftwood in a lush freshwater aquarium",
+    "featuredImageAlt": "Anubias Nana attached to driftwood in a lush freshwater aquarium",
+    "category": "Aquatic Plants",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-10-18",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Rhizome Rot",
+            "diagnosis": "Buried in substrate or poor water flow",
+            "treatment": "Remove from substrate, attach to hardscape, and ensure water movement around the rhizome.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Algae on Leaves",
+            "diagnosis": "Too much light or excess nutrients",
+            "treatment": "Move to a shaded area or reduce the daily light photoperiod.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Melting Leaves",
+            "diagnosis": "Buried rhizome, poor water flow, sudden water-parameter change, or transition from emersed (above-water) growth to submerged",
+            "treatment": "Expose the rhizome and attach it to hardscape, improve flow, keep conditions stable, and remove dead leaves. If the plant was grown above water, new submerged leaves will replace the melted ones.",
+            "prevention": "Keep the rhizome above the substrate, avoid sudden large water-parameter changes, and acclimate new plants gently.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Yellowing Leaves",
+            "diagnosis": "Natural aging of old leaves, very low light, buried rhizome, or a major change in water conditions",
+            "treatment": "Remove fully dead leaves. If many leaves yellow at once, check rhizome exposure, light and water parameters.",
+            "prevention": "Provide low to moderate light, keep the rhizome exposed and keep water conditions stable.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaves Dying After Purchase",
+            "diagnosis": "Emersed (above-water) grown plant adjusting to submerged conditions",
+            "treatment": "Keep the rhizome healthy and exposed, remove melted leaves and wait for new submerged leaves to grow.",
+            "prevention": "Buy tissue-culture or submerged-grown plants if you want to avoid the adjustment period.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Rhizome",
+            "definition": "The thick, horizontal stem of the plant from which roots and leaves grow. This part must remain above the substrate."
+        },
+        {
+            "term": "Epiphyte",
+            "definition": "A plant that grows on the surface of another object, such as a rock or piece of wood, rather than rooting in soil."
+        },
+        {
+            "term": "Aquascaping",
+            "definition": "The craft of arranging aquatic plants, rocks, stones, and driftwood in an aesthetically pleasing manner within an aquarium."
+        },
+        {
+            "term": "Green Spot Algae (GSA)",
+            "definition": "Hard, round green spots that form on slow-growing leaves, usually under strong light or unbalanced nutrients."
+        },
+        {
+            "term": "Emersed Growth",
+            "definition": "Growth with leaves above the waterline. Many aquarium plants are grown this way commercially and may shed leaves when placed underwater."
+        },
+        {
+            "term": "Photoperiod",
+            "definition": "The number of hours per day the aquarium light is on."
+        },
+        {
+            "term": "Tissue Culture",
+            "definition": "Plants grown in a sterile cup in a lab. They are typically free of pests and algae."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Anubias Species & Requirements Comparison",
+        "headers": [
+            "Variation",
+            "Light Requirement",
+            "Growth Rate",
+            "Difficulty"
+        ],
+        "rows": [
+            [
+                "Anubias Nana",
+                "Low",
+                "Very Slow",
+                "Easy"
+            ],
+            [
+                "Anubias Nana Petite",
+                "Low to Medium",
+                "Very Slow",
+                "Easy"
+            ],
+            [
+                "Anubias Barteri",
+                "Low",
+                "Slow",
+                "Easy"
+            ],
+            [
+                "Anubias Nana Gold",
+                "Medium",
+                "Very Slow",
+                "Easy"
+            ],
+            [
+                "Anubias Nana Mini",
+                "Low to Medium",
+                "Very Slow",
+                "Easy"
+            ],
+            [
+                "Anubias Coffeefolia",
+                "Low to Medium",
+                "Slow",
+                "Easy"
+            ],
+            [
+                "Anubias Hastifolia",
+                "Low to Medium",
+                "Slow",
+                "Easy"
+            ]
+        ]
+    },
+    "h1": "Anubias Nana Care Guide: Light, Attaching to Rock & Fixing Melting Leaves",
+    "breadcrumbName": "Anubias Nana Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "sunlight",
+        "java-fern",
+        "tap-water-vs-filtered-water-houseplants",
+        "bucephalandra",
+        "java-moss",
+        "topics:water-quality",
+        "topics:paludarium-plants",
+        "macro-micro-separate-dosing-planted-tank"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Burying the rhizome (the thick horizontal stem) in the substrate\u2014when covered, it rots and kills the plant within weeks. The rhizome must remain fully exposed above the substrate; only the roots should be anchored, ideally by attaching the plant to driftwood or rock."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Green spot algae on slow-growing leaves is very common in lit aquariums. It is mostly cosmetic and doesn't harm the plant, and the best fix is balancing light duration and nutrients. Nerite snails may help graze it, but don't rely on shrimp or snails alone. CO\u2082 injection is unnecessary for Anubias, and stable conditions matter more than adding equipment."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In brightly lit tanks, leaves quickly become coated in algae because Anubias grows too slowly to outcompete algae for nutrients. Positioning it in shaded areas under floating plants is the most effective long-term solution."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "anubias nana",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "Anubias barteri var. nana",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "Dwarf Anubias",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "low light",
+            "type": "search_term",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aquascaping",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aquarium plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anubis nana water temp",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anubias nana tropica care guide",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anubias nana mini",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anubias nana gold",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anubias nana price",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anubias",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "anubias plant",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "anubias light requirements",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "do anubias need lots of light",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "anubias nana aquarium plant",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "anubias barteri nana",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "anubis nana",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "anubias aquarium plant",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "anubias nana plant",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        }
+    ],
+    "commonName": "Anubias Nana",
+    "aliases": [
+        "Anubias barteri var. nana",
+        "Dwarf Anubias",
+        "Anubias",
+        "Anubias Nana Petite"
+    ],
+    "summary": "Anubias barteri var. nana is a hardy, slow-growing aquatic epiphyte ideal for freshwater aquariums. Discover hardscape mounting techniques, low-light parameters, light fertilizing, and how to prevent rhizome rot, melting leaves and green spot algae. Compare it with Java fern and Bucephalandra, and learn how to grow it above water in paludariums.",
+    "keyTakeaways": [
+        "Attach to aquarium rocks or driftwood using gel superglue or fishing line.",
+        "Ensure the thick horizontal rhizome remains exposed above the substrate.",
+        "Provide low to moderate aquarium lighting to prevent green spot algae growth.",
+        "Safe for all freshwater fish, dwarf shrimp, and herbivorous species.",
+        "Fertilize lightly; heavy dosing mostly feeds algae on its long-lived leaves.",
+        "Leaves can last for years, so trim only dead or decaying leaves.",
+        "Plants grown above water may melt and regrow when moved underwater; this is normal."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Aquatic Herb",
+        "difficulty": "beginner",
+        "light": "Medium light",
+        "lightMin": "low",
+        "lightMax": "medium",
+        "water": "Submerged in aquarium water (maintain water parameters)",
+        "drynessThreshold": null,
+        "droughtTolerance": null,
+        "dormancyShift": false,
+        "humidity": "N/A (Aquatic)",
+        "temperature": "22-28\u00b0C (72-82\u00b0F)",
+        "matureSize": "2-4 inches",
+        "growthRate": "Very slow",
+        "soil": "Attached to wood or rock (epiphyte)",
+        "soilDrainage": null,
+        "fertilizer": "Aquarium liquid fertilizer",
+        "repottingFrequency": "Rarely needed",
+        "potPreference": "Mounted on hardscape",
+        "propagation": "Rhizome division",
+        "flowering": true,
+        "floweringSeason": "Year-round",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "West Africa (Cameroon)",
+        "usdaZones": "11-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/anubias-nana/",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": [
+            "https://www.getgrowli.app/toxic-to/cats/broad-leaved-anubias"
+        ],
+        "note": "Araceae family (contains insoluble calcium oxalates). Submerged aquatic habit limits pet exposure, but lacks definitive ASPCA confirmation."
+    },
+    "contentText": "Anubias Nana Care at a Glance Light: Low to moderate. Standard aquarium LEDs are enough. Check your setup with the Anubias Nana sunlight calculator . Planting: Attach the rhizome to rock or driftwood. Never bury it. Water: 72-82\u00b0F (22-28\u00b0C), pH 6.0-7.5, with regular water changes. See our guide to water quality . CO2 and substrate: Neither is required. Fertilizer: A light dose of liquid fertilizer every 2 weeks is plenty. Use the aquarium fertilizer calculator to avoid overdosing. Growth: Very slow; typically 2-4 inches tall. Common problems: Rhizome rot, melting leaves and green spot algae. What Is Anubias Nana? Anubias Nana ( Anubias barteri var. nana , also sold as Dwarf Anubias and sometimes misspelled as &ldquo;anubis nana&rdquo; or &ldquo;anubia nana&rdquo;) is arguably the most resilient plant in the aquarium hobby. Native to the streams of West Africa (Cameroon), it is an epiphyte, meaning it naturally grows on rocks and wood rather than in soil. Its thick, dark green leaves provide excellent cover for shy fish and resting spots for slow-swimming species. This compact form has been grown commercially for the aquarium trade since the 1970s and is now one of the most widely sold aquarium plants in the world. Its slow growth rate makes it an ideal choice for aquascapers who want a low-maintenance setup. It can adapt to a wide range of water parameters, making it beginner-friendly. Anubias Nana is a true aquatic plant that is perfect for low-tech setups. Its leathery leaves make it resistant to most herbivorous fish, such as goldfish and many cichlids. It is commonly used as a foreground or midground plant in freshwater aquariums. The plant helps improve water quality by absorbing excess nitrates. Botanical Profile The botanical name is Anubias barteri var. nana. It is a slow-growing aquatic herb with dark green, broad leaves that are thick and leathery to the touch. The plant features a rhizome&mdash;a horizontal stem that grows along the surface and can reach roughly 4-6 inches (10-15 cm) or more over time. This rhizome is the most vital part of the plant and should never be buried. Anubias Nana is small, typically reaching only 2-4 inches in height. Individual leaves can last for several years, which is why slow-growing algae can settle on them if light is too strong. It can be propagated easily by cutting the rhizome into pieces, ensuring each piece has at least 3-4 healthy leaves. The plant can flower underwater in healthy aquarium conditions, producing a small white spathe. Anubias Nana Light Requirements and Placement Anubias Nana prefers low to medium light. It is highly adaptable but thrives best when shaded from direct, intense light to prevent algae accumulation on its leaves. It does not need high-tech lighting or CO2. Standard aquarium LEDs on a moderate photoperiod (roughly 6 to 8 hours a day) are enough, and extra light mostly feeds algae on its slow-growing leaves. Use the Anubias Nana sunlight calculator to sanity-check your light setup. Place it attached to driftwood, rocks, or other hardscape features in the foreground or midground of your aquarium. Avoid placing the plant directly under high-intensity lighting. If you notice Green Spot Algae on the leaves, move the plant to a shaded area or reduce your light duration. Floating plants or taller stem plants can provide natural shade over Anubias. Good water circulation around the rhizome is essential for preventing rot. How to Attach Anubias Nana to Rock or Driftwood Remove the plant from its pot or rockwool and gently rinse off any loose material. Pick a rock or piece of driftwood where the rhizome (the thick horizontal stem) can sit on the surface. Fix the rhizome in place with a small dab of cyanoacrylate gel superglue, or tie it on with cotton thread or fishing line. Keep the glue off the leaves and roots where possible. Place the hardscape in the tank so the rhizome stays above the substrate and clear of sand or gravel. Over the following weeks the roots grip the surface. If you used line or thread, remove it once the plant holds on by itself. Another simple option is to wedge the rhizome into a crack between two rocks, or to buy a plant that is already mounted on a coconut shell or wood. You can also anchor only the roots in gravel, as long as the rhizome stays clear of the substrate. Where to Place Anubias Nana in Your Aquarium Because it stays small and tolerates low light, Anubias Nana fits almost anywhere in a freshwater tank. In a nano aquarium it works as a foreground feature on a small rock. In a larger tank it suits the midground, where it can soften the base of hardscape. Pair it with other epiphytes. Java fern , Java moss and Bucephalandra use the same mounting method and similar low-tech conditions, so they combine well on one piece of driftwood. Shrimp tanks. Its broad leaves give shrimp surfaces to graze on and shelter to hide in. Tanks with digging or large fish. The leaves are rarely eaten, but digging fish can knock loosely mounted plants over. Mount Anubias on heavy rock or wood so it stays put. Keep the rhizome clear. Leave a little space around it so debris and fine substrate do not pile up against it. Fertilizing Anubias Nana Anubias Nana grows slowly and absorbs most of its nutrients from the water column, so it needs very little. A light dose of a complete liquid fertilizer every couple of weeks is enough for most tanks, and many established tanks with fish already supply what it needs. More is not better. Heavy dosing mainly feeds algae on the plant&rsquo;s long-lived leaves. Use the aquarium fertilizer calculator to work out a sensible dose for your tank volume, and read our guide to dosing macro and micro nutrients in a planted tank if you run a more advanced setup. Root tabs are optional, since the plant feeds mainly through its leaves and roots in the water, not by growing in soil. Anubias Nana Above Water and in Paludariums Anubias Nana can also grow with its leaves above the waterline (emersed), which makes it a popular choice for paludariums, ripariums and planted terrariums with a water section. Keep the rhizome and roots in contact with moisture and give it high humidity and moderate light. Emersed-grown plants often flower more readily. If you move a plant between emersed and submerged conditions, expect some leaves to melt and be replaced by new ones adapted to the new environment. For more on this style of setup, see our guides to paludarium plants , paludarium lighting and converting an aquarium to a paludarium . Care and Maintenance The most important rule for Anubias is to keep the rhizome exposed to the water column. If buried, it will rot. Attaching it to hardscape is the standard method. Maintenance is minimal. Occasional pruning of dead or decaying leaves is all that is required to keep the plant healthy. Because each leaf can last for years, do not trim healthy leaves just to tidy the plant. Remove decaying leaves promptly to maintain water quality. Clean the leaves gently if they become covered in algae or detritus. Ensure the aquarium water has good oxygenation and filtration. How to Propagate Anubias Nana Propagation is straightforward and usually done by division. Use a clean, sharp pair of scissors or a razor blade to cut the rhizome. Each section must have a piece of the rhizome and several leaves to survive. Once cut, reattach the pieces to rocks or wood using fishing line or glue. Sterilize tools before cutting to prevent infection. Allow the cut section to heal for a few minutes before attaching. The plant will slowly re-establish its root system on the new surface. Anubias Nana Problems: Melting Leaves, Rhizome Rot, Yellow Leaves and Algae Anubias Nana is generally hardy, but &lsquo;melting&rsquo; or rhizome rot is the most common issue. This is usually due to poor water flow or burying the rhizome. Algae issues, specifically Green Spot Algae, are common due to the plant&rsquo;s slow growth rate. Melting leaves Melting after purchase is common when a plant grown above water (emersed) is placed underwater. The old leaves break down and new, submerged-adapted leaves grow in. Keep the rhizome healthy and exposed, keep conditions stable, and be patient. Melting that continues for weeks, or that comes with a soft rhizome, points to burial, poor flow or sudden water-parameter swings instead. Rhizome rot A brown, mushy rhizome with a bad smell is rot. Cut away the rotting section with clean tools, keep the healthy part, and remount it on hardscape with good water flow around it. Yellow leaves An occasional old leaf turning yellow is normal, since leaves do not last forever. Remove it when it is fully dead. Many yellow leaves at once usually point to very low light, a buried rhizome, or a major change in water conditions. Green spot algae Green spot algae (GSA) shows up as hard green dots on older leaves. It is mostly cosmetic and best managed by reducing light intensity or duration, avoiding nutrient overdosing and keeping conditions stable. Some snails, such as nerite snails, may help graze it from leaves. Monitor for signs of rhizome decay (mushy texture, bad smell). Ensure regular water changes to maintain stable parameters. Adjust light levels if algae becomes a persistent problem on the leaves. Anubias Nana vs Java Fern vs Bucephalandra These three epiphytes are often grown together. They share the same basic rule (keep the rhizome out of the substrate), but they differ in size and look. Plant Typical size Light Growth Best for Anubias Nana 2-4 in (5-10 cm) Low to medium Very slow Foreground and midground, nano tanks Java Fern Taller; often 6-12 in (15-30 cm) Low to medium Slow Midground and background hardscape Bucephalandra Small; often 2-6 in (5-15 cm) Low to medium Slow Detailed aquascapes Sizes are typical ranges and vary with variety and growing conditions. If you want the simplest, most forgiving choice for a first planted tank, Anubias Nana is hard to beat. Anubias Nana Varieties (Petite, Mini, Gold) and Price Beyond the standard form, several highly sought-after varieties exist. Anubias Nana Gold features striking, lighter yellowish-green leaves and requires slightly more light to maintain its vibrant color. Anubias Nana Mini (often used interchangeably with &lsquo;Petite&rsquo;) is perfect for nano tanks, offering the same hardiness in a much smaller footprint. Because of its extremely slow growth rate, Anubias Nana is typically more expensive than fast-growing stem plants. Prices generally range from $6 to $15 per pot or bare-root portion depending on the size and variety, with rare varieties like &lsquo;Gold&rsquo; or &lsquo;Pinto&rsquo; commanding higher prices. Prices vary by seller and region. Buying tips Check the rhizome. Choose plants with a firm, light-colored rhizome and healthy roots, not a soft or dark one. Know the form you are buying. Potted, bare-root, tissue-culture cups and pre-mounted plants are all common. Tissue-culture plants are usually clean of pests and algae but start small. Expect an adjustment period. Plants grown above water may lose leaves after you place them underwater. Quarantine briefly. Rinse new plants and check them for algae and snail eggs before adding them to an established tank. Anubias Nana vs Other Anubias Anubias nana is the smallest of the commonly sold Anubias. Larger types such as Anubias barteri, Anubias coffeefolia and Anubias hastifolia grow bigger leaves and suit background placement, but they follow the same rule: keep the rhizome out of the substrate. Related Guides Java Fern care guide Java Moss care guide Bucephalandra care guide Aquarium fertilizer calculator Water quality basics Paludarium plants",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/anubias-nana/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

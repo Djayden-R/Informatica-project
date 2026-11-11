@@ -1,0 +1,351 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-philodendron-prince-of-orange",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "philodendron-prince-of-orange",
+    "seoTitle": "Philodendron Prince of Orange Care: Light & Leaf Color",
+    "metaDescription": "Prince of Orange's new leaves turn green too fast in low light. Find out how to prevent greening, water correctly, and avoid root rot on this houseplant.",
+    "featuredImage": "/assets/images/philodendron-prince-of-orange.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "statement-foliage",
+        "toxic-to-pets",
+        "compact",
+        "moderate-light"
+    ],
+    "references": [
+        {
+            "title": "Aroid Cultivation",
+            "source": "International Aroid Society",
+            "url": "https://www.aroid.org/"
+        },
+        {
+            "title": "Philodendron Care Guide",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Philodendron 'Prince of Orange'",
+        "family": "Araceae",
+        "origin": "Cultivar",
+        "type": "Evergreen herbaceous perennial",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Colorful centerpieces",
+            "Office desks",
+            "Bright tabletops"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Bright, indirect light. It must have high light to produce its signature bright orange color.",
+        "watering": "Water only when the top 2-3 inches of soil are dry. Highly susceptible to overwatering.",
+        "soil": "A fast-draining, chunky aroid mix.",
+        "pruning": "Snip off the oldest, lowest green leaves as they naturally die off.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Contains calcium oxalate crystals; causes severe mouth irritation and vomiting.",
+        "bestFor": "Plant owners who want a stunning pop of neon color without the intense care requirements of a Calathea."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "2 feet indoors",
+        "matureSpread": "2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires significant bright, indirect light. The new leaves only emerge orange if the plant is receiving enough solar energy. Direct sun will scorch the leaves.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Do not over-fertilize, as it can cause chemical burns on the bright orange new growth.",
+        "fertilizerFrequency": "Once a month during spring and summer with a balanced liquid fertilizer diluted to half strength.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "The thick roots will rot very quickly if left sitting in dense, heavy potting soil."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Prince of Orange turning completely green?",
+            "answer": "It is completely natural for older leaves to harden off and turn dark green as they mature. However, if the brand new leaves are emerging green instead of bright orange, the plant is not getting enough light. Move it to a brighter window."
+        },
+        {
+            "question": "Does the Prince of Orange need a moss pole to climb?",
+            "answer": "No. This is a \"self-heading\" Philodendron. Instead of growing a long vine, it grows from a central crown, pushing new leaves up from the center in a tight, bushy rosette."
+        },
+        {
+            "question": "Why are the leaves getting brown, crispy spots?",
+            "answer": "Brown, crispy spots on the centers of the leaves are usually sunburn caused by direct, hot afternoon sunlight. Move the plant slightly away from the window or use a sheer curtain to filter the light."
+        },
+        {
+            "question": "Why are the bottom leaves turning yellow and mushy?",
+            "answer": "Yellow, mushy leaves at the base of the plant are a classic sign of overwatering and root rot. Let the top few inches of the soil dry out completely before watering again."
+        },
+        {
+            "question": "Is the Prince of Orange toxic to pets?",
+            "answer": "Yes. Like all Philodendrons, it contains calcium oxalate crystals. It will cause intense oral pain, swelling, and vomiting if chewed by cats or dogs."
+        }
+    ],
+    "shortDesc": "The Philodendron Prince of Orange is a stunning, self-heading plant famous for its spectacular colors. Brand new leaves emerge as a glowing neon orange before slowly fading to pale green.",
+    "content": "<h2>Overview</h2><p>In a sea of green houseplants, the Philodendron 'Prince of Orange' stands out like a beacon. This spectacular hybrid cultivar is famous for its mesmerizing color transitions. Unlike trailing Philodendrons (like the Heartleaf or Brasil), the Prince of Orange is a \"self-heading\" variety. It grows upright from a tight central crown, keeping a compact, bushy, rosette-like shape that rarely exceeds two feet in height.</p><p>Its true magic lies in its new growth. When a new leaf emerges from the center of the crown, it unfurls in a blazing, neon orange-red. As the leaf matures over several weeks, it slowly transitions to a pale copper, then yellow-green, and finally hardens into a dark emerald green. Because the plant produces leaves continuously, a single healthy plant will display a stunning gradient of orange, yellow, and green all at once.</p><h3>Light Requirements: Keeping the Orange</h3><p>Light is the absolute most critical factor in caring for a Prince of Orange. The intense orange pigmentation is heavily dependent on the plant receiving enough solar energy. If you place the plant in a low-light corner, it will completely stop producing orange leaves. Instead, all new growth will emerge as a dull, muddy green to maximize its ability to photosynthesize in the dark.</p><p>To get the brightest, most vibrant orange, place the plant in an east-facing window where it gets plenty of bright, indirect light and perhaps a few hours of gentle morning sun. However, strictly avoid blazing, hot afternoon sun, which will scorch the leaves and leave permanent crispy brown burn spots.</p><h3>Watering: Avoiding Rot</h3><p>Self-heading Philodendrons have thick, fleshy root systems that are highly susceptible to rot if suffocated by water. You must allow the top 2 to 3 inches of the potting soil to dry out completely before watering. </p><p>Never water on a strict weekly schedule. Stick your finger deep into the pot; if it feels damp, wait a few more days. When the soil is properly dry, soak the pot thoroughly until water flows out the drainage holes. Ensure the pot does not sit in a saucer of standing water afterward. If the lowest, oldest leaves begin turning a sickly yellow and feel mushy, you are overwatering the plant.</p><h3>Temperature and Humidity</h3><p>As a tropical hybrid, it requires temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it far away from cold winter windows, drafty doors, and air conditioning vents. While it naturally thrives in high humidity, its thick, slightly waxy leaves allow it to adapt perfectly to the standard 40-50% humidity found in most centrally heated homes, making it incredibly easy to care for.</p><h3>Soil and Potting</h3><p>Because the roots are prone to rot, standard, heavy potting soil can quickly lead to severe root rot. You must use a chunky, fast-draining aroid mix. Combine standard indoor potting soil with 30% to 40% perlite and coarse orchid bark. This ensures that excess water drains away instantly and provides the roots with plenty of oxygen.</p><h2>Pruning and Maintenance</h2><p>Because the Prince of Orange grows from a central crown, the lowest, oldest leaves will naturally die off over time to make room for new growth at the top. When a bottom leaf turns completely yellow and begins to dry up, simply snip it off near the base of the stem with sterile scissors.</p><p>Additionally, the large, wide leaves collect a significant amount of household dust, which blocks sunlight. Wipe the leaves down gently with a damp microfiber cloth every few weeks to keep them glossy and capable of photosynthesis.</p><h2>Toxicity</h2><p>Like all plants in the Araceae family, the Prince of Orange contains insoluble calcium oxalate crystals. If chewed by pets or humans, these microscopic crystals embed in the soft tissues of the mouth, throat, and stomach. This causes severe burning, swelling, excessive drooling, and vomiting. Keep the plant safely out of reach of curious cats and dogs.</p>",
+    "quickAnswer": "The Prince of Orange needs bright, indirect light; in low light, new leaves will emerge green instead of orange. Water only when the top 2-3 inches of soil are dry, and use a chunky, well-draining soil mix. For best results, we suggest keeping an eye on the plant's response throughout the active growing season.",
+    "ogImage": "/assets/images/philodendron-prince-of-orange.webp",
+    "ogImageAlt": "Bright neon orange and dark green leaves of the Prince of Orange plant",
+    "heroImage": "/assets/images/philodendron-prince-of-orange.webp",
+    "heroImageAlt": "Close up of a new neon orange leaf unfurling",
+    "featuredImageAlt": "A vibrant Prince of Orange Philodendron sitting on a bright office desk",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Prince of Orange turning completely green?",
+            "diagnosis": "Natural leaf maturation (old leaves) or low light (new leaves green)",
+            "treatment": "If new leaves are green, move to brighter indirect light; old leaves will stay green.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves getting brown, crispy spots?",
+            "diagnosis": "Sunburn from direct sunlight",
+            "treatment": "Move to filtered light; remove severely damaged leaves.",
+            "prevention": "Avoid direct afternoon sun; use sheer curtains.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the bottom leaves turning yellow and mushy?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Reduce watering; allow soil to dry; check roots.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Self-Heading",
+            "definition": "A growth habit in Philodendrons where the plant grows upright from a tight central crown, pushing out leaves in a rosette pattern, rather than climbing or trailing via vines."
+        },
+        {
+            "term": "Hardening Off",
+            "definition": "The process where a brand new, soft leaf gradually stiffens, thickens, and changes color as it matures. The Prince of Orange hardens off from orange to green."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Self-Heading Philodendron Comparison",
+        "headers": [
+            "Variety",
+            "New Leaf Color",
+            "Mature Leaf Color"
+        ],
+        "rows": [
+            [
+                "Prince of Orange",
+                "Neon orange",
+                "Emerald green"
+            ],
+            [
+                "Rojo Congo",
+                "Dark burgundy red",
+                "Deep green-black"
+            ],
+            [
+                "Birkin",
+                "Pure white",
+                "Green with white pinstripes"
+            ]
+        ]
+    },
+    "h1": "Philodendron Prince of Orange Care Guide: Light, Watering & Leaf Color",
+    "breadcrumbName": "Prince of Orange Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "houseplant-leaves-turning-yellow",
+        "brown-crispy-tips-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Panicking when orange leaves start turning green and assuming the plant is sick\u2014the orange color is a temporary pigment present only in new, young leaves that naturally transitions to green as each leaf matures. The color show happens in the first few weeks of each leaf's life, not permanently."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The intensity of orange on new leaves is directly tied to light levels\u2014in low light, new leaves emerge pale yellow-green with little orange at all, while bright indirect light produces that vivid tangerine color the plant is named for. Light is the switch, not fertilizer."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light rooms, this plant becomes indistinguishable from a plain green philodendron because all new growth skips the orange phase entirely. A spot with genuinely bright indirect light is the only way to keep the perpetual color display this cultivar is grown for."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "orange philodendron",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "philodendron prince of orange reverting",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "self heading philodendron",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "orange houseplant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "philodendron new leaves green",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "philodendron prince of orange produces pups",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "why are my prince of orange philodendron leaves red",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Philodendron Prince Of Orange",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light to showcase the vivid orange new growth.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Expect new leaves to mature from orange to deep green over time.",
+        "Maintain moderate humidity year-round for the healthiest overall foliage for optimal health and vibrant foliage development."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen herbaceous perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water only when the top 2-3 inches of soil are dry. Highly susceptible to overwatering.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "2 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Cultivar",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/variegated-philodendron"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-prince-of-orange/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/variegated-philodendron"
+        ]
+    },
+    "contentText": "Overview In a sea of green houseplants, the Philodendron 'Prince of Orange' stands out like a beacon. This spectacular hybrid cultivar is famous for its mesmerizing color transitions. Unlike trailing Philodendrons (like the Heartleaf or Brasil), the Prince of Orange is a \"self-heading\" variety. It grows upright from a tight central crown, keeping a compact, bushy, rosette-like shape that rarely exceeds two feet in height. Its true magic lies in its new growth. When a new leaf emerges from the center of the crown, it unfurls in a blazing, neon orange-red. As the leaf matures over several weeks, it slowly transitions to a pale copper, then yellow-green, and finally hardens into a dark emerald green. Because the plant produces leaves continuously, a single healthy plant will display a stunning gradient of orange, yellow, and green all at once. Light Requirements: Keeping the Orange Light is the absolute most critical factor in caring for a Prince of Orange. The intense orange pigmentation is heavily dependent on the plant receiving enough solar energy. If you place the plant in a low-light corner, it will completely stop producing orange leaves. Instead, all new growth will emerge as a dull, muddy green to maximize its ability to photosynthesize in the dark. To get the brightest, most vibrant orange, place the plant in an east-facing window where it gets plenty of bright, indirect light and perhaps a few hours of gentle morning sun. However, strictly avoid blazing, hot afternoon sun, which will scorch the leaves and leave permanent crispy brown burn spots. Watering: Avoiding Rot Self-heading Philodendrons have thick, fleshy root systems that are highly susceptible to rot if suffocated by water. You must allow the top 2 to 3 inches of the potting soil to dry out completely before watering. Never water on a strict weekly schedule. Stick your finger deep into the pot; if it feels damp, wait a few more days. When the soil is properly dry, soak the pot thoroughly until water flows out the drainage holes. Ensure the pot does not sit in a saucer of standing water afterward. If the lowest, oldest leaves begin turning a sickly yellow and feel mushy, you are overwatering the plant. Temperature and Humidity As a tropical hybrid, it requires temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it far away from cold winter windows, drafty doors, and air conditioning vents. While it naturally thrives in high humidity, its thick, slightly waxy leaves allow it to adapt perfectly to the standard 40-50% humidity found in most centrally heated homes, making it incredibly easy to care for. Soil and Potting Because the roots are prone to rot, standard, heavy potting soil can quickly lead to severe root rot. You must use a chunky, fast-draining aroid mix. Combine standard indoor potting soil with 30% to 40% perlite and coarse orchid bark. This ensures that excess water drains away instantly and provides the roots with plenty of oxygen. Pruning and Maintenance Because the Prince of Orange grows from a central crown, the lowest, oldest leaves will naturally die off over time to make room for new growth at the top. When a bottom leaf turns completely yellow and begins to dry up, simply snip it off near the base of the stem with sterile scissors. Additionally, the large, wide leaves collect a significant amount of household dust, which blocks sunlight. Wipe the leaves down gently with a damp microfiber cloth every few weeks to keep them glossy and capable of photosynthesis. Toxicity Like all plants in the Araceae family, the Prince of Orange contains insoluble calcium oxalate crystals. If chewed by pets or humans, these microscopic crystals embed in the soft tissues of the mouth, throat, and stomach. This causes severe burning, swelling, excessive drooling, and vomiting. Keep the plant safely out of reach of curious cats and dogs.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-prince-of-orange/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

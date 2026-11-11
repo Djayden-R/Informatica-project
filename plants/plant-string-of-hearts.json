@@ -1,0 +1,350 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-string-of-hearts",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "string-of-hearts",
+    "seoTitle": "String of Hearts Care: Taco Test Watering Guide",
+    "metaDescription": "String of Hearts care uses the taco test for watering. Learn Ceropegia woodii light needs, how to prevent tangled vines, and keep this succulent healthy.",
+    "featuredImage": "/assets/images/string-of-hearts.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "trailing-plants",
+        "succulents",
+        "bright-light"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ceropegia woodii",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Ceropegia woodii",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Ceropegia woodii",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Succulents in the Home",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Ceropegia woodii",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ceropegia woodii",
+        "family": "Apocynaceae",
+        "origin": "South Africa, Swaziland, and Zimbabwe",
+        "type": "Trailing evergreen succulent",
+        "nativeClimate": "Semi-desert and scrubland",
+        "commonUses": [
+            "Hanging baskets",
+            "High shelves",
+            "Pet-safe homes"
+        ]
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Hanging basket in a very bright window with some direct sun.",
+        "watering": "Allow the soil to dry out completely. Water only when the leaves feel soft.",
+        "soil": "A fast-draining cactus and succulent mix.",
+        "pruning": "Trim long vines to encourage branching and a fuller top.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats, dogs, and humans.",
+        "bestFor": "Sunny windows and growers who prefer to underwater rather than overwater."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trailing vines can reach 6-12 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer to fall (produces small, unusual tubular pink/purple flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "20% - 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.5",
+            "survivable": "5.5 - 8.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires extremely bright light to maintain the distinct heart shape and silver marbling of its leaves. Can take several hours of direct sun.",
+        "sunlightHours": "4-6 hours direct or very bright indirect",
+        "intensity": "high",
+        "indoorWindow": "South or West facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very light feeder. Excess fertilizer causes weak, spindly growth.",
+        "fertilizerFrequency": "Once a month during spring and summer at half strength.",
+        "organicOptions": "Cactus fertilizer or a very diluted kelp extract."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "The delicate roots and potato-like aerial tubers (bulbils) will quickly rot if kept continuously wet."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "How do I know when to water my String of Hearts?",
+            "answer": "Use the 'taco test'. Gently pinch one of the mature heart-shaped leaves. If it is stiff and firm, do not water. If the leaf is slightly soft and pliable (folding like a taco), it is time to soak the soil."
+        },
+        {
+            "question": "Why is my String of Hearts dying at the base/soil line?",
+            "answer": "If the vines are healthy at the bottom but balding and dying at the soil line, the top of the pot is not getting enough light. Ensure sunlight actually hits the top of the pot, not just the trailing vines."
+        },
+        {
+            "question": "Are String of Hearts toxic to cats?",
+            "answer": "No, they are completely non-toxic and pet-safe. However, the long dangling vines are very tempting toys for cats, so you may want to hang it out of reach to protect the plant."
+        },
+        {
+            "question": "Why are the leaves on my String of Hearts turning yellow?",
+            "answer": "Yellowing leaves are the classic sign of overwatering and root rot. Ensure you are letting the soil dry out completely between waterings and that the pot has drainage holes."
+        },
+        {
+            "question": "What are the weird little potatoes growing on the vines?",
+            "answer": "Those are called bulbils! They are aerial tubers that the plant uses to store water. You can actually cut the vine right below a bulbil and plant it in soil to easily propagate a new vine."
+        },
+        {
+            "question": "Why is my String of Hearts losing its silver pattern?",
+            "answer": "When the plant doesn't get enough bright light, the new leaves will emerge farther apart, smaller, and lacking the distinct silver marbling. Move it to a brighter location."
+        },
+        {
+            "question": "How do you detangle a String of Hearts?",
+            "answer": "Very, very carefully. The vines are incredibly delicate. It is usually best to avoid tangling altogether by giving the plant enough space to hang freely, or by actively untangling it while it is still short."
+        },
+        {
+            "question": "How do I make my String of Hearts look fuller?",
+            "answer": "The easiest way is to take cuttings from the bottom of the long vines and root them back into the top of the same pot. You can also pin an attached vine to the soil using a bobby pin, and it will root and sprout new vines."
+        }
+    ],
+    "shortDesc": "After rescuing dozens of balding, overwatered String of Hearts from dark corners, we've perfected the 'taco test' method for watering this delicate but fast-growing trailing succulent.",
+    "content": "<h2>Overview</h2><p>The String of Hearts (Ceropegia woodii) is a breathtaking trailing plant famous for its delicate vines adorned with small, fleshy, heart-shaped leaves that look like they've been stamped with silver lace. However, it is also notorious for easily rotting at the base or producing weak, \"leggy\" vines if grown incorrectly. The most common mistake is treating it like a standard tropical ivy. This guide will teach you the strict \"taco test\" for watering and explain why intense light is the key to keeping the top of the pot full and bushy.</p><p>Native to the scrublands of South Africa, the String of Hearts is a true succulent. It evolved to endure long periods of drought by storing water in its thick leaves, its fleshy roots, and the strange, potato-like aerial tubers (bulbils) it produces along its vines. Because it is so highly adapted to surviving without water, it is extremely vulnerable to being suffocated in heavy, constantly wet indoor potting soil.</p><h3>Light</h3><p>Light is the most critical factor for this plant, and it needs a lot of it. A south or west-facing window is ideal. It can and should take a few hours of direct sunlight. The biggest issue growers face is placing the plant on a high shelf where the long vines get light, but the top of the pot is in the shadows. If sunlight does not directly hit the top of the soil, the plant will stop producing leaves at the base, resulting in a \"bald\" top with long strings hanging down. Furthermore, bright light is required to maintain the beautiful silver marbling on the leaves; in low light, they will turn plain green.</p><h3>Temperature</h3><p>This plant prefers standard household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is not frost-hardy and will suffer cold damage if exposed to temperatures below 55\u00b0F (13\u00b0C). Keep it away from cold, drafty windows during the winter.</p><h3>Humidity</h3><p>As a succulent, the String of Hearts is perfectly adapted to the dry air of centrally heated homes. Standard household humidity (30% to 50%) is ideal. You do not need a humidifier, and you should never mist the leaves, as standing water on the foliage can encourage fungal diseases.</p><h3>Watering</h3><p>This is where the \"taco test\" comes in. Because the plant stores water so efficiently, you must wait until the soil is completely dry from top to bottom before watering. To confirm it's thirsty, gently try to fold one of the mature leaves in half like a taco. If the leaf is stiff and rigid, do not water. If the leaf feels slightly soft and pliable, it is time to soak the soil thoroughly. Always err on the side of underwatering; this plant can survive weeks without water, but it will succumb to root rot in a matter of days if left in soggy soil.</p><h3>Soil</h3><p>A fast-draining cactus and succulent mix is absolutely mandatory. Standard indoor potting soil retains too much moisture for the delicate, fleshy roots. If you are mixing your own soil, combine 50% high-quality potting soil with 50% perlite, pumice, or coarse sand to ensure sharp drainage and excellent aeration.</p><h2>Fertilizer</h2><p>The String of Hearts is a light feeder. Feed the plant once a month during the active growing season (spring and summer) using a specialized liquid cactus fertilizer or a standard houseplant fertilizer diluted to half strength. Stop fertilizing completely in the fall and winter.</p><h2>Propagation</h2><p>This is an incredibly easy plant to propagate, and propagating is the best way to make a sparse plant look fuller. The easiest method is to use the \"bulbils\" (the little potatoes that grow on the vines). Simply cut the vine just below a bulbil and press the bulbil into moist potting soil; it will quickly sprout roots. Alternatively, you can use the \"butterfly method\": cut a vine into sections so that each section contains a node with two leaves (looking like a butterfly). Lay these sections on top of moist sphagnum moss or soil, and keep them in a humid environment until roots and new vines emerge.</p><h2>Repotting</h2><p>String of Hearts has a very shallow root system and actually prefers to be slightly root-bound. They rarely need repotting; typically, once every two to three years is sufficient. When you do repot, choose a shallow container (like a bulb pan) rather than a deep pot. Deep pots hold excess wet soil at the bottom where the shallow roots cannot reach it, leading to rot. Ensure the new pot has ample drainage holes.</p><h2>Toxicity</h2><p>One of the best attributes of the String of Hearts is that it is completely non-toxic to cats, dogs, and humans. This makes it an ideal, safe choice for a trailing plant in a pet-friendly home, though you may still want to keep the dangling vines out of reach of playful kittens.</p><h2>Common Problems</h2><p>Yellowing, mushy leaves at the base of the plant are a guaranteed sign of overwatering and root rot. If this happens, you must immediately take cuttings from the healthy, lower vines to propagate a new plant, as the rotted roots cannot be saved. Balding at the top of the pot is caused by insufficient light hitting the soil surface. Tangled vines are a frequent annoyance; handle them delicately, as the leaves snap off very easily. Pests are uncommon, but occasionally mealybugs can hide in the crevices of the leaves; wipe them away with a cotton swab dipped in rubbing alcohol.</p>",
+    "quickAnswer": "String of Hearts displays trailing vines with heart-shaped silver-patterned leaves and prefers bright indirect light with some gentle direct sun. Water only after soil fully dries, using a fast-draining succulent mix to prevent tuber and stem rot. Allow it to trail from hanging baskets or climb small supports for an elegant cascading display.",
+    "ogImage": "/assets/images/string-of-hearts.webp",
+    "ogImageAlt": "Delicate vines of a String of Hearts cascading from a hanging planter",
+    "heroImage": "/assets/images/string-of-hearts.webp",
+    "heroImageAlt": "Close up of the silver-marbled, heart-shaped leaves of Ceropegia woodii",
+    "featuredImageAlt": "String of Hearts trailing down from a sunny, high shelf",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves at the base of the plant are turning yellow and falling off",
+            "diagnosis": "Overwatering, leading to root rot. The soil is staying wet for too long.",
+            "treatment": "Stop watering immediately. Check the roots; if they are mushy, take cuttings from the healthy vines and propagate them to save the plant.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Bulbil",
+            "definition": "A small, bulb-like structure, often resembling a tiny potato, that grows aerially on the stem of certain plants (like String of Hearts). It stores water and can be used to propagate a new plant."
+        },
+        {
+            "term": "Taco Test",
+            "definition": "A practical method for determining if a succulent needs water by gently squeezing a mature leaf to see if it folds pliably (like a taco shell) or remains stiff and rigid."
+        }
+    ],
+    "comparisonTable": {
+        "title": "String of Hearts Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Light Requirement"
+        ],
+        "rows": [
+            [
+                "Standard woodii",
+                "Dark green leaves with distinct silver marbling",
+                "Bright Indirect/Some Direct"
+            ],
+            [
+                "Variegata",
+                "Pink and cream margins that flush bright pink in sun",
+                "Very Bright Indirect/Direct (requires more light)"
+            ],
+            [
+                "Silver Glory",
+                "Leaves are almost entirely silver with very little green",
+                "Bright Indirect"
+            ]
+        ]
+    },
+    "h1": "String of Hearts Care: The 'Taco Test' & Trailing Vine Secrets",
+    "breadcrumbName": "String of Hearts Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "string-of-pearls"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the delicate, thin stems look fragile and in need of constant moisture\u2014but the small leaves are succulent and store water, while the tubers along the stems act as additional reserves. Consistently wet soil causes tuber and root rot far more quickly than drought does."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Even if the trailing vines die back, the aerial tubers (small round bumps on the stems) and soil tubers remain alive and can sprout entirely new growth. What looks like a dead plant is often just dormant tubers\u2014checking before discarding saves the plant."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the gaps between heart-shaped leaves become very large and the deep pink underside of the leaves fades entirely, leaving a plain green trailing vine. Bright indirect light (or even some direct morning sun) keeps the vines dense and the color vibrant."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "ceropegia woodii care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for string of hearts",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of hearts watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of hearts propagation",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe succulents",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "trailing succulents",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "String Of Hearts",
+    "summary": "Ceropegia woodii produces some of the most delicately beautiful foliage in the succulent world, with heart-shaped leaves in silver, green, and purple tones trailing from thin wiry stems. Native to South Africa, it forms small potato-like tubers along its stems. This guide covers light needs for maintaining variegation, watering intervals that preserve leaf firmness, soil requirements, and the unique propagation method using these stem tubers. This approach helps maintain optimal conditions and prevents common issues that can affect your plant's overall health and longevity over time.",
+    "keyTakeaways": [
+        "Provide bright, indirect light, including some gentle direct morning sun.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Use a fast-draining succulent mix to prevent tuber and stem rot.",
+        "Support or allow to trail; it grows well in a hanging basket."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Trailing evergreen succulent vine",
+        "difficulty": "intermediate",
+        "light": "Bright indirect to full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Allow the soil to dry completely between waterings before watering thoroughly.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Trailing vines up to 6-12 feet",
+        "growthRate": "Fast",
+        "soil": "Cactus or succulent well-draining mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Hanging basket",
+        "propagation": "Stem cuttings, tubers, or leaf cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer-Fall",
+        "petSafety": "safe",
+        "nativeRegion": "Southern Africa",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/string-of-hearts/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": []
+    },
+    "contentText": "Overview The String of Hearts (Ceropegia woodii) is a breathtaking trailing plant famous for its delicate vines adorned with small, fleshy, heart-shaped leaves that look like they've been stamped with silver lace. However, it is also notorious for easily rotting at the base or producing weak, \"leggy\" vines if grown incorrectly. The most common mistake is treating it like a standard tropical ivy. This guide will teach you the strict \"taco test\" for watering and explain why intense light is the key to keeping the top of the pot full and bushy. Native to the scrublands of South Africa, the String of Hearts is a true succulent. It evolved to endure long periods of drought by storing water in its thick leaves, its fleshy roots, and the strange, potato-like aerial tubers (bulbils) it produces along its vines. Because it is so highly adapted to surviving without water, it is extremely vulnerable to being suffocated in heavy, constantly wet indoor potting soil. Light Light is the most critical factor for this plant, and it needs a lot of it. A south or west-facing window is ideal. It can and should take a few hours of direct sunlight. The biggest issue growers face is placing the plant on a high shelf where the long vines get light, but the top of the pot is in the shadows. If sunlight does not directly hit the top of the soil, the plant will stop producing leaves at the base, resulting in a \"bald\" top with long strings hanging down. Furthermore, bright light is required to maintain the beautiful silver marbling on the leaves; in low light, they will turn plain green. Temperature This plant prefers standard household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is not frost-hardy and will suffer cold damage if exposed to temperatures below 55\u00b0F (13\u00b0C). Keep it away from cold, drafty windows during the winter. Humidity As a succulent, the String of Hearts is perfectly adapted to the dry air of centrally heated homes. Standard household humidity (30% to 50%) is ideal. You do not need a humidifier, and you should never mist the leaves, as standing water on the foliage can encourage fungal diseases. Watering This is where the \"taco test\" comes in. Because the plant stores water so efficiently, you must wait until the soil is completely dry from top to bottom before watering. To confirm it's thirsty, gently try to fold one of the mature leaves in half like a taco. If the leaf is stiff and rigid, do not water. If the leaf feels slightly soft and pliable, it is time to soak the soil thoroughly. Always err on the side of underwatering; this plant can survive weeks without water, but it will succumb to root rot in a matter of days if left in soggy soil. Soil A fast-draining cactus and succulent mix is absolutely mandatory. Standard indoor potting soil retains too much moisture for the delicate, fleshy roots. If you are mixing your own soil, combine 50% high-quality potting soil with 50% perlite, pumice, or coarse sand to ensure sharp drainage and excellent aeration. Fertilizer The String of Hearts is a light feeder. Feed the plant once a month during the active growing season (spring and summer) using a specialized liquid cactus fertilizer or a standard houseplant fertilizer diluted to half strength. Stop fertilizing completely in the fall and winter. Propagation This is an incredibly easy plant to propagate, and propagating is the best way to make a sparse plant look fuller. The easiest method is to use the \"bulbils\" (the little potatoes that grow on the vines). Simply cut the vine just below a bulbil and press the bulbil into moist potting soil; it will quickly sprout roots. Alternatively, you can use the \"butterfly method\": cut a vine into sections so that each section contains a node with two leaves (looking like a butterfly). Lay these sections on top of moist sphagnum moss or soil, and keep them in a humid environment until roots and new vines emerge. Repotting String of Hearts has a very shallow root system and actually prefers to be slightly root-bound. They rarely need repotting; typically, once every two to three years is sufficient. When you do repot, choose a shallow container (like a bulb pan) rather than a deep pot. Deep pots hold excess wet soil at the bottom where the shallow roots cannot reach it, leading to rot. Ensure the new pot has ample drainage holes. Toxicity One of the best attributes of the String of Hearts is that it is completely non-toxic to cats, dogs, and humans. This makes it an ideal, safe choice for a trailing plant in a pet-friendly home, though you may still want to keep the dangling vines out of reach of playful kittens. Common Problems Yellowing, mushy leaves at the base of the plant are a guaranteed sign of overwatering and root rot. If this happens, you must immediately take cuttings from the healthy, lower vines to propagate a new plant, as the rotted roots cannot be saved. Balding at the top of the pot is caused by insufficient light hitting the soil surface. Tangled vines are a frequent annoyance; handle them delicately, as the leaves snap off very easily. Pests are uncommon, but occasionally mealybugs can hide in the crevices of the leaves; wipe them away with a cotton swab dipped in rubbing alcohol.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/string-of-hearts/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

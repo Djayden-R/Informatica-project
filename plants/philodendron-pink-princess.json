@@ -1,0 +1,357 @@
+{
+    "quickAnswer": "Pink Princess Philodendron needs bright indirect light to maintain strong pink variegation, consistent moisture without waterlogging, and high humidity. Insufficient light causes new leaves to revert to solid green. Prune above a node to encourage new growth and remove any fully reverted, non-variegated stems to preserve pink coloring.",
+    "summary": "The Pink Princess Philodendron is prized for its striking pink and green variegated leaves, a trait that is genetically unstable and highly light-dependent. Maintaining strong variegation over time requires more deliberate care than most philodendron varieties.\n\nBecause variegated tissue contains less chlorophyll, these plants need bright indirect light to photosynthesize effectively and sustain pink coloring; in low light, new growth tends to revert toward solid green. Selective pruning of reverted stems helps preserve the plant's signature look.",
+    "keyTakeaways": [
+        "Provide bright indirect light to maintain strong pink variegation.",
+        "Water when the top 1-2 inches of soil feel dry; avoid soggy conditions.",
+        "Maintain moderate to high humidity for lush, unblemished leaf growth.",
+        "Prune fully green, reverted stems to preserve pink variegation over time.",
+        "Avoid direct sun, which can scorch the more delicate pink leaf tissue."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "philodendron-pink-princess",
+    "seoTitle": "Pink Princess Philodendron Care: Boost Variegation",
+    "commonName": "Pink Princess Philodendron",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "species": "erubescens",
+        "nativeRange": "Colombia (Cultivar)",
+        "growthHabit": "Evergreen climbing vine"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00800",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00801",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00802",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2007",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00803",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 15,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00804",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "philodendron-pink-princess",
+    "entityType": "plant",
+    "status": "published",
+    "metaDescription": "Care for a pink princess philodendron with the light, humidity and pruning techniques that maintain strong pink variegation.",
+    "featuredImage": "/assets/images/pink-princess.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Pink Princess losing its pink variegation?",
+            "diagnosis": "Low light \u2013 reverting to green",
+            "treatment": "Move to brighter indirect light; prune green shoots to encourage pink.",
+            "prevention": "Provide bright indirect light; stable genetics.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning yellow?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Reduce watering; check roots; repot if needed.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves curling and getting crispy edges?",
+            "diagnosis": "Low humidity or underwatering",
+            "treatment": "Increase humidity; water when dry.",
+            "prevention": "Maintain moderate humidity and consistent watering.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "h1": "Pink Princess Philodendron Care Guide",
+    "breadcrumbName": "Pink Princess Philodendron",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Tropical climbing aroid",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 1-2 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "65\u00b0F - 81\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "4-8 feet indoors with support",
+        "growthRate": "Moderate to fast",
+        "soil": "Chunky, well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard with support",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Tropical South America",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/red-princess"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Pink Princess Philodendron (Philodendron erubescens) is a tropical climbing aroid prized for its dark green foliage marked with naturally occurring pink variegation. It grows as a climbing vine and performs best with bright indirect light, warm temperatures, moderate to high humidity, and a loose, well-draining growing medium. Its main care challenge is maintaining healthy growth and attractive variegation without exposing the foliage to excessive direct sunlight."
+        },
+        {
+            "id": "watering",
+            "content": "Water Pink Princess Philodendron when the upper portion of the growing medium has dried, then water thoroughly and allow excess water to drain freely. Avoid keeping the root zone continuously saturated, as prolonged wetness can contribute to root problems. The plant generally uses water more quickly during warm, bright periods of active growth and more slowly during cooler or darker conditions."
+        },
+        {
+            "id": "light",
+            "content": "Provide bright indirect light to support vigorous growth and help maintain strong pink variegation. Insufficient light can lead to slower growth, longer spaces between leaves, and reduced variegation. Strong direct afternoon sunlight can scorch the foliage, particularly the pale pink sections, which contain less chlorophyll and can be more vulnerable to light damage. Acclimate the plant gradually when increasing light exposure."
+        },
+        {
+            "id": "soil",
+            "content": "Use a loose, chunky, well-draining growing medium that provides both moisture retention and good airflow around the roots. A tropical aroid mix containing materials such as orchid bark, perlite, and organic components can work well. Avoid dense soil that stays saturated for prolonged periods and always use a container with drainage holes."
+        },
+        {
+            "id": "temperature",
+            "content": "Pink Princess Philodendron prefers warm, stable conditions around 18\u201327\u00b0C (65\u201381\u00b0F). Protect it from cold drafts, sudden temperature changes, and prolonged exposure to temperatures near or below 13\u00b0C (55\u00b0F). Avoid placing it directly beside heating or cooling vents, where rapid changes in temperature and humidity can stress the foliage."
+        },
+        {
+            "id": "humidity",
+            "content": "Moderate to high humidity, around 50\u201370%, generally supports healthy Pink Princess Philodendron growth and attractive foliage. The plant can adapt to average household conditions, but very dry air may contribute to brown edges and slower development. A humidifier can provide more consistent humidity than occasional misting. Maintain adequate airflow to reduce the risk of fungal or bacterial problems."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Pink Princess Philodendron during active growth with a balanced houseplant fertilizer according to the product instructions. Regular moderate feeding can support new leaves and climbing growth when light and watering are appropriate. Avoid excessive fertilizer, which can cause salt buildup and root stress. Reduce or pause feeding when growth slows substantially."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Pink Princess Philodendron when roots substantially fill the container, growth slows because of root restriction, the growing medium breaks down, or the plant becomes unstable. Move it into a container only moderately larger than the existing one and use fresh, airy aroid mix. Repotting during active growth is generally less stressful than disturbing the root system during a period of slow growth."
+        },
+        {
+            "id": "growth",
+            "content": "Pink Princess Philodendron is a climbing plant that produces successive leaves along a central stem. With suitable support, mature plants can develop longer stems and larger foliage. Growth is strongest under warm conditions with bright indirect light and adequate moisture and nutrition. Plants grown without support may trail or sprawl, while vertical support can encourage a more natural climbing habit."
+        },
+        {
+            "id": "support",
+            "content": "Provide a moss pole, coir pole, trellis, or another sturdy vertical support if you want Pink Princess Philodendron to climb. Its aerial roots can attach to suitable support and help stabilize the stem. Climbing can encourage larger, more mature foliage and a more compact vertical growth habit. Tie the stem loosely rather than restricting developing nodes or leaves."
+        },
+        {
+            "id": "variegation",
+            "content": "Pink Princess Philodendron is valued for its pink and cream variegation, but the amount and pattern of variegation can vary considerably from leaf to leaf. Adequate light is important for maintaining attractive coloration and supporting healthy growth, but increasing light cannot reliably create a specific amount of pink on every new leaf. Highly variegated leaves contain less chlorophyll and may grow more slowly than predominantly green leaves."
+        },
+        {
+            "id": "reversion",
+            "content": "Pink Princess Philodendron can produce new growth with reduced variegation or predominantly green leaves. If several successive leaves become increasingly green, pruning back to a stem section that contains desirable variegated growth can sometimes encourage new shoots from tissue carrying the preferred pattern. However, variegation is variable and cannot be guaranteed on every new leaf. Avoid removing healthy foliage simply because one leaf has less pink."
+        },
+        {
+            "id": "pruning",
+            "content": "Pruning can be used to control vine length, encourage branching, remove damaged growth, and manage unwanted reversion. Make clean cuts just above a suitable node using sterilized scissors or pruners. Healthy stem sections containing nodes can be propagated. When pruning for variegation, focus on the pattern present along the stem rather than judging the plant from a single leaf."
+        },
+        {
+            "id": "propagation",
+            "content": "Pink Princess Philodendron is commonly propagated from stem cuttings containing at least one viable node. Select healthy sections with suitable variegated growth and root them in water, sphagnum, perlite, or another appropriate propagation medium. A cutting must contain a viable node to produce new growth; a leaf without a node cannot independently create a new plant. Keep cuttings warm, humid, and in bright indirect light while roots develop."
+        },
+        {
+            "id": "flowering",
+            "content": "Pink Princess Philodendron can produce the characteristic inflorescences of a mature aroid, but flowering is uncommon in typical indoor cultivation and is not a primary reason to grow the plant. Strong vegetative growth, adequate maturity, warmth, and suitable growing conditions are more relevant to most indoor growers than encouraging flowers."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Yellowing leaves can result from excessive moisture, root stress, natural aging, or environmental changes. Brown edges may be associated with dry air, inconsistent watering, or excessive fertilizer salts. Small leaves and long spaces between nodes commonly indicate insufficient light, inadequate support, or generally weak growing conditions. Reduced variegation can occur naturally and should not automatically be treated as a nutritional deficiency."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Pink Princess Philodendron generally grows most actively during warm, bright periods. During this time it may require more frequent watering and regular feeding. When temperatures and light levels decline, growth slows and the growing medium may remain moist for longer. Reduce watering and fertilizer accordingly while maintaining the brightest suitable indirect light and protecting the plant from cold drafts."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Pink Princess Philodendron can be grown outdoors in warm, frost-free climates with bright filtered light or partial shade. Plants moved outdoors from indoor conditions should be acclimated gradually to stronger light and increased airflow. Protect the foliage from intense direct sun, heavy exposure to wind, and cold temperatures. Bring container-grown plants indoors before unsuitable temperatures arrive."
+        },
+        {
+            "id": "toxicity",
+            "content": "Pink Princess Philodendron contains insoluble calcium oxalate crystals and is toxic if chewed or ingested. Contact with plant tissue can cause irritation, while ingestion can result in oral discomfort and other symptoms. Keep the plant away from pets and children who may chew the foliage or stems."
+        }
+    ],
+    "faq": [
+        {
+            "question": "How much light does a Pink Princess Philodendron need?",
+            "answer": "Provide bright indirect light. Strong, consistent light supports vigorous growth and helps maintain attractive variegation, while insufficient light can result in slower growth and less-variegated leaves. Avoid sudden exposure to intense direct afternoon sun because the pink portions can scorch."
+        },
+        {
+            "question": "How do I get more pink on my Pink Princess Philodendron?",
+            "answer": "Provide strong bright indirect light and maintain healthy growing conditions, but understand that variegation is naturally variable. More light can support the expression and maintenance of existing variegation, but it cannot guarantee a particular amount of pink on every new leaf."
+        },
+        {
+            "question": "Why is my Pink Princess Philodendron producing green leaves?",
+            "answer": "Variegation naturally varies between leaves, but repeated predominantly green growth can indicate reduced variegation along the active stem. If several successive leaves become increasingly green, pruning back toward a stem section with desirable variegation may encourage new growth from a better-variegated node."
+        },
+        {
+            "question": "Can a Pink Princess Philodendron revert completely?",
+            "answer": "It can produce increasingly green growth, particularly when the active growing point contains little visible variegation. Pruning to a suitable variegated section can sometimes restore more desirable growth, but variegation is not guaranteed on every subsequent leaf."
+        },
+        {
+            "question": "Does Pink Princess Philodendron need a moss pole?",
+            "answer": "It does not strictly require one, but vertical support is beneficial because the plant naturally climbs. A moss pole, coir pole, or trellis can help stabilize the stem and encourage larger, more mature foliage."
+        },
+        {
+            "question": "How often should I water Pink Princess Philodendron?",
+            "answer": "Water when the upper portion of the growing medium has dried, then water thoroughly and allow excess water to drain. Avoid keeping the soil continuously wet. The plant usually needs more water during warm, bright active growth and less during cooler or darker periods."
+        },
+        {
+            "question": "How fast does Pink Princess Philodendron grow?",
+            "answer": "It can grow moderately to quickly under warm conditions, bright indirect light, adequate moisture, and good nutrition. Growth may be slower than that of some highly vigorous green Philodendrons because strongly variegated tissue contains less chlorophyll."
+        },
+        {
+            "question": "How do I propagate Pink Princess Philodendron?",
+            "answer": "Propagate it from stem cuttings containing at least one viable node. The cutting can be rooted in water, sphagnum, perlite, or another suitable propagation medium. A leaf without a node cannot produce a new plant by itself."
+        },
+        {
+            "question": "Why are my Pink Princess Philodendron leaves turning yellow?",
+            "answer": "Yellowing can result from excessive moisture, root stress, natural aging, or environmental changes. Check the growing medium, drainage, roots, light, and recent watering pattern before making changes to the care routine."
+        },
+        {
+            "question": "Why are the pink parts of my leaves turning brown?",
+            "answer": "Pink and pale variegated tissue can be more vulnerable to environmental stress because it contains less chlorophyll. Strong direct sunlight, dry air, inconsistent watering, or other stress can contribute to browning. Provide bright indirect light and stable growing conditions."
+        },
+        {
+            "question": "Can Pink Princess Philodendron grow in low light?",
+            "answer": "It can survive in moderate light, but low light is not ideal. Insufficient light can lead to slower growth, elongated stems, smaller leaves, and reduced expression of attractive variegation."
+        },
+        {
+            "question": "Is Pink Princess Philodendron toxic to cats and dogs?",
+            "answer": "Yes. Pink Princess Philodendron contains insoluble calcium oxalate crystals and can cause irritation if chewed or swallowed. Keep it away from pets and children."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Philodendron 'Pink Princess'",
+        "family": "Araceae",
+        "taxonType": "cultivar",
+        "parentSpecies": "Philodendron erubescens"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-pink-princess/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/red-princess"
+        ]
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-pink-princess/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

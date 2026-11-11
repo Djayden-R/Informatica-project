@@ -1,0 +1,411 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "cyperus-papyrus",
+    "seoTitle": "Cyperus Papyrus Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Papyrus. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Papyrus",
+    "entityType": "plant",
+    "status": "published",
+    "featuredImage": "/assets/images/hero-papyrus.webp",
+    "heroImage": "/assets/images/hero-papyrus.webp",
+    "slug": "cyperus-papyrus",
+    "knowledgeVersion": 7,
+    "lastKnowledgeReview": "2026-07-13",
+    "taxonomy": {
+        "kingdom": "Plantae",
+        "clade": [
+            "Angiosperms",
+            "Monocots"
+        ],
+        "order": "Poales",
+        "family": "Cyperaceae",
+        "genus": "Cyperus",
+        "species": "papyrus",
+        "sciName": "Cyperus papyrus",
+        "taxonType": "species"
+    },
+    "facts": {
+        "family": "Cyperaceae",
+        "genus": "Cyperus",
+        "species": "papyrus",
+        "nativeRange": "Tropical Africa, Madagascar",
+        "growthHabit": "Emergent Aquatic Sedge"
+    },
+    "aliases": [
+        "papyrus sedge",
+        "paper reed",
+        "Nile grass",
+        "Egyptian paper reed"
+    ],
+    "media": {
+        "primary": "/assets/images/hero-papyrus.webp",
+        "gallery": [
+            "/assets/images/plants/cyperus-papyrus-habitat.webp",
+            "/assets/images/plants/cyperus-papyrus-detail.webp"
+        ]
+    },
+    "characteristics": [
+        {
+            "id": "CHAR_0001",
+            "type": "ordinal",
+            "value": 1,
+            "scale": 5,
+            "confidence": 0.95,
+            "editorReasoning": "True emergent aquatic plant. Roots are evolutionarily adapted to function with near-zero soil aeration, relying on aerenchyma tissue to transport oxygen down from the stems.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_6007",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0001"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0002",
+            "type": "ordinal",
+            "value": 1,
+            "scale": 5,
+            "confidence": 0.95,
+            "editorReasoning": "Evolved with constant, unlimited access to standing water. Possesses zero drought buffering capacity; stems collapse and brown irreversibly if the water table drops.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_6008",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0002"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0003",
+            "type": "ordinal",
+            "value": 2,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Forms a dense, tough, vigorous rhizomatous mat that can be aggressively chopped with a spade during division without harming the plant.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_6009",
+                    "weight": 0.9,
+                    "type": "literature",
+                    "supports": "CHAR_0003"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0004",
+            "type": "ordinal",
+            "value": 1,
+            "scale": 5,
+            "confidence": 0.95,
+            "editorReasoning": "Perfectly adapted to anaerobic, waterlogged mud. Will thrive indefinitely with roots fully submerged in stagnant water.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_6010",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0004"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0005",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Moderately tolerant of relocation, provided it is moved from one bright, wet location to another. Drops stems if moved to shade.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_6011",
+                    "weight": 0.9,
+                    "type": "observation",
+                    "supports": "CHAR_0005"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0006",
+            "type": "temperature",
+            "value": 10,
+            "unit": "\u00b0C",
+            "confidence": 0.95,
+            "editorReasoning": "Frost tender. Foliage dies back completely below 5\u00b0C, though rhizomes can sometimes survive mild winters if submerged.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_6012",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0006"
+                }
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Cyperus papyrus is a true emergent aquatic sedge native to tropical Africa and Madagascar. It requires constant standing water, bright light, and warm temperatures to thrive."
+        },
+        {
+            "id": "watering",
+            "content": "Keep roots permanently submerged in water. Never allow the soil to dry out."
+        },
+        {
+            "id": "light",
+            "content": "Provide full sun to bright indirect light. Shade causes stem drop and etiolation."
+        },
+        {
+            "id": "temperature",
+            "content": "Maintain temperatures above 10\u00b0C. Frost will kill foliage; protect rhizomes in mild climates."
+        },
+        {
+            "id": "humidity",
+            "content": "As an aquatic marsh plant, Cyperus papyrus requires abundant ambient moisture and consistently wet root conditions. Providing higher humidity around the umbrella-like bracts helps prevent tip browning, especially when overwintering indoors away from natural water features."
+        }
+    ],
+    "faq": [
+        {
+            "id": "FAQ_PAPYRUS_001",
+            "question": "How much water does papyrus need?",
+            "answer": "Papyrus is an emergent aquatic plant and requires its roots to be permanently submerged. Keep the pot in a saucer of water, a pond, or any container where the water level never drops below the root zone.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_002",
+            "question": "Can papyrus grow in soil without standing water?",
+            "answer": "No. Papyrus evolved in wetlands with constant access to standing water. If the soil dries out even briefly, the stems will collapse and turn brown irreversibly. It must have wet feet at all times.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_003",
+            "question": "Why are my papyrus stems turning brown and drooping?",
+            "answer": "Brown, drooping stems almost always indicate the water level has dropped too low or the plant has dried out. Check the water level immediately. Trim dead stems at the base and restore constant moisture.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_004",
+            "question": "What light does papyrus need?",
+            "answer": "Full sun to very bright indirect light. Papyrus is a sun-loving wetland plant. In shade, it becomes leggy, drops stems, and loses its characteristic dense, umbrella-like form.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_005",
+            "question": "Can papyrus survive winter outdoors?",
+            "answer": "Only in frost-free climates (USDA zones 9\u201311). Below 5\u00b0C, foliage dies back completely. Submerged rhizomes may survive mild winters, but prolonged freezing will kill the plant. Bring container plants indoors before frost.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_006",
+            "question": "How do I propagate papyrus?",
+            "answer": "Divide the dense rhizomatous root mass with a sharp spade or saw. Each division should have several healthy stems and roots. Replant immediately in wet soil or water. Papyrus is extremely vigorous and recovers quickly from division.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_007",
+            "question": "Does papyrus need fertilizer?",
+            "answer": "Yes, especially in containers where nutrients leach out. Use a balanced liquid fertilizer every 2\u20134 weeks during the growing season. In pond settings, fish waste often provides sufficient nutrition.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_008",
+            "question": "Why is my papyrus growing slowly?",
+            "answer": "Slow growth is usually due to insufficient light or cool temperatures. Papyrus is a tropical plant that grows rapidly in warm, bright, wet conditions. Ensure temperatures above 18\u00b0C and plenty of sun.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_009",
+            "question": "Can papyrus be grown indoors?",
+            "answer": "Yes, provided it receives very bright light (a south-facing window or grow light) and its roots are kept constantly wet. A self-watering pot or a container sitting in a water tray works well indoors.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_010",
+            "question": "Is papyrus invasive?",
+            "answer": "In warm, wet climates, papyrus can spread aggressively via rhizomes and is considered invasive in some regions. In containers or cooler climates, spread is easily controlled.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_011",
+            "question": "What pests affect papyrus?",
+            "answer": "Papyrus is relatively pest-resistant. Occasional issues include spider mites in very dry air and aphids on new growth. Both are easily managed with insecticidal soap or by increasing humidity.",
+            "confidence": 0.8,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_PAPYRUS_012",
+            "question": "How tall does papyrus grow?",
+            "answer": "In ideal conditions, papyrus can reach 2\u20133 meters (6\u201310 feet) tall. Container-grown plants are usually smaller, around 1\u20131.5 meters, depending on pot size and light.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        }
+    ],
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "cyperaceae"
+        },
+        {
+            "type": "belongsToOrder",
+            "target": "poales"
+        },
+        {
+            "type": "recommendedSoil",
+            "target": "wetland-soil"
+        },
+        {
+            "type": "wateringProfile",
+            "target": "constant-water"
+        },
+        {
+            "type": "nativeRegion",
+            "target": "tropical-africa"
+        },
+        {
+            "type": "nativeRegion",
+            "target": "madagascar"
+        },
+        {
+            "type": "sharesHabitatWith",
+            "target": "lotus"
+        }
+    ],
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "quickAnswer": "Unlike most houseplants, Papyrus needs to stay constantly wet, so keep the pot sitting in a saucer of standing water at all times. Provide full sun to partial shade and very warm temperatures for the strongest, healthiest stems. Our experience shows that providing a stable environment helps the plant establish a strong root system faster.",
+    "troubleshooting": [
+        {
+            "symptom": "Browning tips on the 'umbels' (leaves)",
+            "diagnosis": "Underwatering",
+            "treatment": "Submerge the pot in a container of water. This is a bog plant and cannot be overwatered.",
+            "prevention": "Keep the pot sitting in water at all times.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Stems folding or snapping",
+            "diagnosis": "Wind damage or weak growth from low light",
+            "treatment": "Prune broken stems at the base. Move to a brighter location.",
+            "prevention": "Provide full sun to strengthen stems.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "summary": "Cyperus papyrus is an emergent wetland sedge characterized by tall, triangular stems topped with airy umbels. Discover standing water requirements, full-sun exposure needs, and container cultivation methods for this aquatic plant.",
+    "keyTakeaways": [
+        "Keep pot bases permanently submerged in standing water as an emergent wetland sedge.",
+        "Provide full, unfiltered sun to very bright light to prevent stem lodging.",
+        "Never allow potting substrate to dry out, which causes irreversible stem browning.",
+        "Feed with a balanced liquid fertilizer every 2 to 4 weeks during the growing season."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 6,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Aquatic/bog perennial",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Must be kept constantly wet or sitting in water.",
+        "drynessThreshold": 0,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "40% - 60%",
+        "temperature": "60\u00b0F - 90\u00b0F (15\u00b0C - 32\u00b0C)",
+        "matureSize": "4-8 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Heavy loam or bog mix",
+        "soilDrainage": "poor",
+        "fertilizer": "Aquatic plant fertilizer or balanced liquid fertilizer in spring/summer",
+        "repottingFrequency": "Annually",
+        "potPreference": "Sealed pot or pot sitting in water tray",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Africa",
+        "usdaZones": "9-12",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/cyperus-papyrus/",
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "40\u00b0F - 95\u00b0F (4\u00b0C - 35\u00b0C)"
+        }
+    },
+    "breadcrumbName": "Papyrus",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://plants.ces.ncsu.edu/plants/cyperus-papyrus/"
+        ]
+    },
+    "h1": "Papyrus Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/cyperus-papyrus/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

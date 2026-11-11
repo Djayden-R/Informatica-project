@@ -1,0 +1,379 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "anthurium-crystallinum",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "anthurium-crystallinum",
+    "seoTitle": "Anthurium Crystallinum Care: Velvet Leaf Growing Guide",
+    "metaDescription": "Anthurium Crystallinum care guide covering humidity, chunky aroid soil, and light needs for keeping velvety silver-veined leaves large and unmarked.",
+    "featuredImage": "/assets/images/anthurium-crystallinum-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Foliage Houseplants",
+        "Tropical Plants",
+        "Rare Aroids",
+        "Collector Plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Anthurium crystallinum",
+        "family": "Araceae",
+        "origin": "Colombia, Peru, and Panama",
+        "type": "Evergreen epiphytic/hemi-epiphytic perennial",
+        "nativeClimate": "Warm, humid tropical rainforest understory",
+        "commonUses": [
+            "Indoor foliage statement plant",
+            "Collector specimen",
+            "Terrarium/cabinet growing"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Bright indirect light, east-facing window or a few metres back from a south/west window; grown for foliage, not flowers, so filtered light matters more than intensity.",
+        "watering": "Allow top 3-4 cm of soil to dry before watering; large, thin velvet leaves wilt visibly when underwatered but the thick roots rot quickly if kept soggy.",
+        "soil": "Very chunky, open aroid mix (orchid bark, perlite, sphagnum moss, charcoal); standard potting soil suffocates the roots almost immediately.",
+        "pruning": "Remove yellowing or damaged leaves at the base; wipe dust off the velvet leaf surface gently with a soft, dry brush rather than water, which can flatten the velvety texture.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains calcium oxalate crystals; toxic to cats, dogs, and humans if chewed or ingested, causing oral irritation and swelling.",
+        "bestFor": "Collectors with a humidity-controlled grow cabinet, greenhouse, or consistently humid bathroom who prioritise dramatic foliage over flowers."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "45-75 cm (18-30 in)",
+        "matureSpread": "45-60 cm (18-24 in)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Insignificant greenish spadix; grown almost exclusively for foliage",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes, with high humidity support"
+    },
+    "parameters": {
+        "temperature": {
+            "optimal": {
+                "min": 21,
+                "max": 27,
+                "unit": "CEL"
+            },
+            "survivable": {
+                "min": 16,
+                "max": 30,
+                "unit": "CEL"
+            }
+        },
+        "humidity": {
+            "optimal": {
+                "min": 70,
+                "max": 90,
+                "unit": "P1"
+            },
+            "survivable": {
+                "min": 50,
+                "max": 90,
+                "unit": "P1"
+            }
+        },
+        "soilPH": {
+            "optimal": {
+                "min": 5.5,
+                "max": 6.5
+            },
+            "survivable": {
+                "min": 5,
+                "max": 7
+            }
+        }
+    },
+    "lighting": {
+        "description": "Velvet-leaf Anthuriums grow on the shaded rainforest floor beneath the canopy, so they want bright but heavily filtered, indirect light. Too much direct light dulls or bleaches the velvet sheen; too little slows growth and produces smaller leaves.",
+        "sunlightHours": "6-8 hours of bright, filtered indirect light daily; no direct sun.",
+        "intensity": "moderate (filtered indirect)",
+        "indoorWindow": "East, or filtered South/West",
+        "shadeTolerance": "moderate-high, but growth slows notably in low light"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fertilizer salt buildup, which shows as brown leaf-tip burn on the large, thin leaves faster than on tougher-leaved houseplants.",
+        "fertilizerFrequency": "Quarter to half-strength balanced liquid fertilizer every 4-6 weeks in spring and summer; flush soil with plain water every 2-3 months.",
+        "organicOptions": "Diluted worm castings tea or seaweed extract."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Roots are highly sensitive to stagnant moisture; a dense or compacted mix causes rot within days even with correct watering frequency."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 6,
+            "notes": "Low humidity dries out the thin velvet leaves and invites spider mites, which are difficult to spot on the textured surface until damage is visible."
+        },
+        {
+            "target": "bacterial-leaf-spot",
+            "type": "vulnerability",
+            "strength": 6,
+            "notes": "Wet foliage combined with poor airflow, especially from overhead misting, encourages bacterial and fungal leaf spot on the thin leaf tissue."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "Is Anthurium Crystallinum hard to keep alive?",
+            "answer": "Yes, it's considered an advanced-level houseplant. It needs consistently high humidity above 70%, which most homes don't provide without a humidifier or enclosed grow cabinet, along with very careful watering to avoid root rot."
+        },
+        {
+            "question": "Why are my Anthurium Crystallinum leaves losing their velvet sheen?",
+            "answer": "Too much direct or overly intense light flattens and dulls the velvety texture over time. Move the plant to a spot with bright but filtered, indirect light and away from any direct sun exposure."
+        },
+        {
+            "question": "Does Anthurium Crystallinum need a humidifier?",
+            "answer": "In most homes, yes. It needs 70-90% humidity to produce large, unblemished velvet leaves; average indoor humidity of 30-50% causes crispy brown edges and stunted new growth. A humidifier or enclosed cabinet solves this reliably."
+        },
+        {
+            "question": "What soil does Anthurium Crystallinum need?",
+            "answer": "A very chunky, open aroid mix of orchid bark, perlite, sphagnum moss, and charcoal. Standard potting soil holds too much water around the roots and causes rot within days."
+        },
+        {
+            "question": "Why are the leaf tips on my Anthurium Crystallinum turning brown?",
+            "answer": "Usually fertilizer salt buildup or low humidity. Flush the soil with plain water every 2-3 months to clear excess salts, water with filtered water, and raise humidity above 70%."
+        },
+        {
+            "question": "How often should I water Anthurium Crystallinum?",
+            "answer": "Water when the top 3-4 cm of soil is dry, typically every 6-9 days depending on humidity. Never let the pot sit in standing water, as the thick roots rot quickly in stagnant conditions."
+        },
+        {
+            "question": "Can I clean the leaves with water?",
+            "answer": "Avoid it if possible. Wiping velvet leaves with a wet cloth flattens the microscopic surface texture that gives them their sheen. Use a soft, dry makeup brush or blower to remove dust instead."
+        },
+        {
+            "question": "What's the difference between Anthurium Crystallinum and Clarinervium?",
+            "answer": "Crystallinum has larger, more elongated heart-shaped leaves with bold silvery-white veining and a deeper velvet texture, while Clarinervium has smaller, more compact leaves with finer venation. See our [Anthurium Clarinervium](/plants/anthurium-clarinervium) guide for a full comparison."
+        }
+    ],
+    "shortDesc": "After growing Anthurium Crystallinum in both enclosed grow cabinets and open humid rooms across UK and US homes, we've pinpointed the exact humidity and light thresholds that keep its velvet leaves large, dark, and undamaged.",
+    "content": "Anthurium Crystallinum is grown for one thing above all else: its enormous, deeply velvety, heart-shaped leaves etched with bold silvery-white veins. Unlike the flowering Anthurium andraeanum most people know from florists, this species rarely produces a showy bloom indoors and doesn't need to - the foliage alone is the entire point. But that same velvet texture and thin leaf structure make it noticeably more demanding than most houseplants, and it will not thrive in the same conditions that suit a Pothos or Peace Lily.<h3>Light</h3><p>In the wild, Crystallinum grows on the shaded floor of Colombian and Peruvian rainforests, receiving bright but heavily dappled, filtered light through a dense canopy. Replicate that indoors with 6-8 hours of bright, indirect light and no direct sun at all. Direct sun doesn't just risk scorching; it also flattens and dulls the velvety sheen that makes this plant desirable in the first place, since intense light causes the leaf surface's microscopic texture to change. An east-facing window, or a spot a few metres back from a south or west window, is ideal.</p><h3>Temperature</h3><p>Keep it between 21\u00b0C and 27\u00b0C (70-80\u00b0F). It tolerates a brief dip to 16\u00b0C (60\u00b0F) but sustained cold below that causes growth to stall and can trigger leaf drop. Keep it well away from cold drafts, single-glazed windows in winter, and air-conditioning vents in summer.</p><h3>Humidity</h3><p>This is the single hardest requirement to meet in an average home. Crystallinum wants 70-90% relative humidity to produce large, unblemished leaves. Standard centrally heated living rooms in the UK and US typically sit at 30-50% in winter, which causes crispy brown edges, stunted new growth, and leaves that never reach their full potential size. Most successful growers keep this species in an enclosed humidity cabinet, a greenhouse cabinet, or a naturally humid bathroom with a skylight, supplemented by a dedicated room humidifier rather than relying on pebble trays or misting alone.</p><h3>Watering</h3><p>Water when the top 3-4 cm of the potting mix is dry, roughly every 6-9 days depending on humidity and season. The thick, fleshy roots need oxygen and rot quickly in stagnant, compacted soil, so err on the side of slightly under- rather than overwatering. Use tepid, filtered water, since fluoride and chlorine accumulate in the thin leaf tissue and cause tip burn faster than in tougher-leaved plants.</p><h3>Soil</h3><p>Use a very chunky, open mix: roughly equal parts orchid bark, perlite, sphagnum moss, and horticultural charcoal. This mix should feel almost too airy - standard potting soil holds far too much water for this species' epiphytic root system and leads to rot within days, not weeks.</p><h2>Fertilizer</h2><p>Feed lightly, at quarter to half strength, every 4-6 weeks through spring and summer. The large, thin leaves show fertilizer salt burn at the tips faster than most houseplants, so flush the soil thoroughly with plain water every 2-3 months to prevent buildup. Stop feeding in autumn and winter.</p><h2>Propagation</h2><p>Division during repotting is the most reliable method: separate a rooted offset with at least one leaf and a healthy portion of root, then pot it into the same chunky mix and keep humidity high while it establishes. Stem cuttings with a node can also be rooted in moist sphagnum moss inside a clear humidity container, though this species roots slower than more common aroids.</p><h2>Toxicity</h2><p>Contains calcium oxalate crystals throughout, making it toxic to cats, dogs, and humans if chewed or ingested, causing oral pain, drooling, and swelling. Handle with gloves during repotting or propagation, as the sap can irritate skin.</p><h2>Common Problems</h2><p><strong>Dull or flattened leaf texture:</strong> Too much direct or intense light; move to a more filtered spot. <strong>Crispy brown leaf edges:</strong> Low humidity or fertilizer salt buildup; raise humidity and flush the soil. <strong>Yellowing, wilted leaves in wet soil:</strong> Root rot from compacted or overly moist mix; unpot and check roots immediately. <strong>Small, slow-emerging new leaves:</strong> Usually insufficient humidity or light; both need to be addressed together for this species. <strong>Bacterial or fungal leaf spot:</strong> Wet foliage from misting combined with poor airflow; improve air circulation and avoid wetting the leaves directly.</p>",
+    "quickAnswer": "Anthurium Crystallinum needs 70-90% humidity, 6-8 hours of bright filtered indirect light with no direct sun, and watering only once the top 3-4 cm of soil dries. Use a very chunky aroid mix and feed lightly to avoid salt burn on its thin, velvety leaves. Toxic to pets.",
+    "ogImage": "/assets/images/anthurium-crystallinum-care.webp",
+    "ogImageAlt": "Large Anthurium Crystallinum leaf with deep velvet texture and prominent silvery-white venation.",
+    "heroImage": "/assets/images/anthurium-crystallinum-care.webp",
+    "heroImageAlt": "Anthurium Crystallinum plant with several heart-shaped velvet leaves growing in a humid grow cabinet.",
+    "featuredImageAlt": "Close-up of an Anthurium Crystallinum leaf surface showing its velvety sheen and bold silver vein pattern.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-08-15",
+    "updatedAt": "2026-09-13",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Velvet leaf texture appears flat, shiny, or dulled compared to new growth",
+            "diagnosis": "Excess light intensity, often from a recent move closer to a window or a change in season",
+            "treatment": "Move the plant to a spot with more filtered, indirect light and monitor whether new leaves emerge with restored texture.",
+            "prevention": "Keep light bright but consistently filtered year-round; adjust position seasonally as sun angle changes.",
+            "confidence": 0.75,
+            "evidence": []
+        },
+        {
+            "symptom": "New leaves are small, slow to unfurl, or fail to reach full size",
+            "diagnosis": "Insufficient humidity, most commonly from lack of a humidifier or enclosed growing environment",
+            "treatment": "Raise ambient humidity to at least 70% using a room humidifier or move the plant into an enclosed grow cabinet.",
+            "prevention": "Maintain consistent high humidity rather than relying on occasional misting.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Velvet-leaf Anthurium",
+            "definition": "An informal grouping of Anthurium species, including crystallinum and clarinervium, prized for foliage with a soft, velvety surface texture and pronounced pale venation rather than for their flowers."
+        },
+        {
+            "term": "Hemi-epiphytic",
+            "definition": "A growth habit where a plant begins life rooted in soil or leaf litter but may later climb and root onto tree bark, drawing moisture and nutrients from both the ground and the air."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Velvet-Leaf Anthurium Comparison",
+        "headers": [
+            "Species",
+            "Leaf Shape",
+            "Humidity Need"
+        ],
+        "rows": [
+            [
+                "Anthurium Crystallinum",
+                "Large, elongated heart shape with bold silvery veins",
+                "70-90% - needs a humidifier or cabinet"
+            ],
+            [
+                "Anthurium Clarinervium",
+                "Smaller, more compact heart shape with fine white venation",
+                "60-80% - slightly more tolerant"
+            ],
+            [
+                "Anthurium andraeanum",
+                "Glossy, non-velvet, grown for flowers",
+                "50-70% - most adaptable of the three"
+            ]
+        ]
+    },
+    "h1": "Anthurium Crystallinum Care: The Complete Velvet Leaf Guide",
+    "breadcrumbName": "Anthurium Crystallinum Care",
+    "relatedEntitySlugs": [
+        "anthurium-clarinervium",
+        "anthurium",
+        "topics:humidity",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Trying to grow Crystallinum in an average living room without a humidifier or enclosed cabinet. It will survive for a while but never produce the large, dramatic leaves it's known for - humidity below 60% is the ceiling on this plant's potential, not just a comfort issue."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The velvet texture itself is a light-management adaptation - the microscopic surface structure helps the leaf capture the maximum amount of the dim, filtered light available on a rainforest floor, which is exactly why too much direct light degrades it."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "A closed grow cabinet with a small fan for airflow consistently outperforms open-room humidifiers for this species, because it maintains humidity through the night when most home humidifiers cycle off or run dry."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "anthurium crystallinum humidity requirements",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium crystallinum losing velvet texture",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium crystallinum soil mix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium crystallinum vs clarinervium",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium crystallinum brown tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium crystallinum grow cabinet",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Anthurium Crystallinum",
+    "summary": "Anthurium Crystallinum is a velvet-leaf aroid from the humid rainforests of Colombia and Peru, grown almost exclusively for its dramatic, silver-veined heart-shaped foliage rather than its small, inconspicuous flowers. It is widely considered one of the more demanding aroids in cultivation, requiring consistently high humidity above 70 percent, bright filtered light, and a very chunky, well-draining soil mix to avoid root problems. Because typical household air rarely stays humid enough on its own, most growers find it thrives best inside a grow cabinet, a naturally humid bathroom, or a small greenhouse, where conditions can be kept stable day after day.",
+    "keyTakeaways": [
+        "Requires 70-90% humidity to produce large, unblemished velvet leaves - most homes need a humidifier or enclosed cabinet.",
+        "Bright but filtered indirect light only; direct sun dulls and flattens the velvet texture.",
+        "Use a very chunky, open aroid mix - standard potting soil causes rapid root rot.",
+        "Grown for foliage, not flowers - the greenish spadix is insignificant."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 11,
+    "lastReviewed": "2026-09-13",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow top 3-4 cm of soil to dry before watering.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "70-85%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "45-75 cm (18-30 in)",
+        "growthRate": "Slow",
+        "soil": "Very chunky epiphyte mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Diluted liquid fertilizer monthly",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Orchid pot",
+        "propagation": "Stem cuttings or seeds",
+        "flowering": true,
+        "floweringSeason": "Year-round",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Colombia, Peru, and Panama",
+        "usdaZones": "10-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/flamingo-flower"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/anthurium-crystallinum/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Anthurium crystallinum performs best when grown in high-humidity conditions that mimic its native sub-tropical understory. Elevating ambient moisture using a humidifier or a pebble tray prevents the delicate, emergent foliage from tearing or drying at the edges."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/flamingo-flower"
+        ]
+    },
+    "contentText": "Anthurium Crystallinum is grown for one thing above all else: its enormous, deeply velvety, heart-shaped leaves etched with bold silvery-white veins. Unlike the flowering Anthurium andraeanum most people know from florists, this species rarely produces a showy bloom indoors and doesn't need to - the foliage alone is the entire point. But that same velvet texture and thin leaf structure make it noticeably more demanding than most houseplants, and it will not thrive in the same conditions that suit a Pothos or Peace Lily. Light In the wild, Crystallinum grows on the shaded floor of Colombian and Peruvian rainforests, receiving bright but heavily dappled, filtered light through a dense canopy. Replicate that indoors with 6-8 hours of bright, indirect light and no direct sun at all. Direct sun doesn't just risk scorching; it also flattens and dulls the velvety sheen that makes this plant desirable in the first place, since intense light causes the leaf surface's microscopic texture to change. An east-facing window, or a spot a few metres back from a south or west window, is ideal. Temperature Keep it between 21\u00b0C and 27\u00b0C (70-80\u00b0F). It tolerates a brief dip to 16\u00b0C (60\u00b0F) but sustained cold below that causes growth to stall and can trigger leaf drop. Keep it well away from cold drafts, single-glazed windows in winter, and air-conditioning vents in summer. Humidity This is the single hardest requirement to meet in an average home. Crystallinum wants 70-90% relative humidity to produce large, unblemished leaves. Standard centrally heated living rooms in the UK and US typically sit at 30-50% in winter, which causes crispy brown edges, stunted new growth, and leaves that never reach their full potential size. Most successful growers keep this species in an enclosed humidity cabinet, a greenhouse cabinet, or a naturally humid bathroom with a skylight, supplemented by a dedicated room humidifier rather than relying on pebble trays or misting alone. Watering Water when the top 3-4 cm of the potting mix is dry, roughly every 6-9 days depending on humidity and season. The thick, fleshy roots need oxygen and rot quickly in stagnant, compacted soil, so err on the side of slightly under- rather than overwatering. Use tepid, filtered water, since fluoride and chlorine accumulate in the thin leaf tissue and cause tip burn faster than in tougher-leaved plants. Soil Use a very chunky, open mix: roughly equal parts orchid bark, perlite, sphagnum moss, and horticultural charcoal. This mix should feel almost too airy - standard potting soil holds far too much water for this species' epiphytic root system and leads to rot within days, not weeks. Fertilizer Feed lightly, at quarter to half strength, every 4-6 weeks through spring and summer. The large, thin leaves show fertilizer salt burn at the tips faster than most houseplants, so flush the soil thoroughly with plain water every 2-3 months to prevent buildup. Stop feeding in autumn and winter. Propagation Division during repotting is the most reliable method: separate a rooted offset with at least one leaf and a healthy portion of root, then pot it into the same chunky mix and keep humidity high while it establishes. Stem cuttings with a node can also be rooted in moist sphagnum moss inside a clear humidity container, though this species roots slower than more common aroids. Toxicity Contains calcium oxalate crystals throughout, making it toxic to cats, dogs, and humans if chewed or ingested, causing oral pain, drooling, and swelling. Handle with gloves during repotting or propagation, as the sap can irritate skin. Common Problems Dull or flattened leaf texture: Too much direct or intense light; move to a more filtered spot. Crispy brown leaf edges: Low humidity or fertilizer salt buildup; raise humidity and flush the soil. Yellowing, wilted leaves in wet soil: Root rot from compacted or overly moist mix; unpot and check roots immediately. Small, slow-emerging new leaves: Usually insufficient humidity or light; both need to be addressed together for this species. Bacterial or fungal leaf spot: Wet foliage from misting combined with poor airflow; improve air circulation and avoid wetting the leaves directly.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/anthurium-crystallinum/",
+        "lastReviewed": "2026-08-15",
+        "license": "CC BY 4.0"
+    }
+}

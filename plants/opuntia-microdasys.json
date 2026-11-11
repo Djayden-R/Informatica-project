@@ -1,0 +1,435 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "opuntia-microdasys",
+    "seoTitle": "Bunny Ear Cactus (Opuntia) Care & Watering",
+    "metaDescription": "Expert care guide and diagnostic data for the Bunny Ear Cactus. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Bunny Ear Cactus",
+    "entityType": "plant",
+    "status": "published",
+    "featuredImage": "/assets/images/hero-opuntia.webp",
+    "heroImage": "/assets/images/hero-opuntia.webp",
+    "slug": "opuntia-microdasys",
+    "knowledgeVersion": 1,
+    "lastKnowledgeReview": "2026-07-13",
+    "taxonomy": {
+        "kingdom": "Plantae",
+        "clade": [
+            "Angiosperms",
+            "Eudicots"
+        ],
+        "order": "Caryophyllales",
+        "family": "Cactaceae",
+        "genus": "Opuntia",
+        "species": "microdasys",
+        "sciName": "Opuntia microdasys",
+        "taxonType": "species"
+    },
+    "facts": {
+        "family": "Cactaceae",
+        "genus": "Opuntia",
+        "species": "microdasys",
+        "nativeRange": "Mexico",
+        "growthHabit": "Desert Succulent Shrub"
+    },
+    "aliases": [
+        "bunny ears",
+        "angel's wings",
+        "polka-dot cactus",
+        "Opuntia microdasys"
+    ],
+    "media": {
+        "primary": "/assets/images/hero-opuntia.webp",
+        "gallery": [
+            "/assets/images/plants/opuntia-microdasys-pads.webp",
+            "/assets/images/plants/opuntia-microdasys-spines.webp"
+        ]
+    },
+    "characteristics": [
+        {
+            "id": "CHAR_0001",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Terrestrial desert cactus. Roots need oxygen and fast drainage (sand/pumice), but do not require the extreme open-air macro-porosity of an epiphyte's bark mix.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_8007",
+                    "weight": 0.9,
+                    "type": "literature",
+                    "supports": "CHAR_0001"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0002",
+            "type": "ordinal",
+            "value": 5,
+            "scale": 5,
+            "confidence": 0.95,
+            "editorReasoning": "True desert adaptation. The massive, fleshy pads store enormous volumes of water, allowing the plant to survive completely dry soil for months without structural damage.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_8008",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0002"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0003",
+            "type": "ordinal",
+            "value": 2,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Very robust. Dropped pads can easily root themselves in bare soil. Shallow root network recovers quickly from repotting.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_8009",
+                    "weight": 0.9,
+                    "type": "observation",
+                    "supports": "CHAR_0003"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0004",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.95,
+            "editorReasoning": "Highly sensitive to winter wet. If the soil remains saturated during dormancy, the roots and base of the pads will quickly succumb to bacterial or fungal rot.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_8010",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0004"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0005",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Highly adaptable to dry indoor air and unfazed by drafts. Only sensitive when moved from shade directly into blazing sun without acclimatization (causes sunburn).",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_8011",
+                    "weight": 0.9,
+                    "type": "observation",
+                    "supports": "CHAR_0005"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0006",
+            "type": "temperature",
+            "value": -5,
+            "unit": "\u00b0C",
+            "confidence": 0.95,
+            "editorReasoning": "Surprisingly cold-hardy if kept bone dry. Can survive light freezes, though prolonged wet and cold will destroy the plant.",
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_8012",
+                    "weight": 0.95,
+                    "type": "literature",
+                    "supports": "CHAR_0006"
+                }
+            ],
+            "conditions": "Dry substrate during dormancy"
+        }
+    ],
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Opuntia microdasys, commonly known as the Bunny Ear Cactus, is a desert succulent shrub native to Mexico. It is prized for its flat, pad-like stems covered in tiny golden glochids rather than traditional spines."
+        },
+        {
+            "id": "watering",
+            "content": "Water Bunny Ears Cactus thoroughly and allow the potting mix to dry out completely between waterings. During winter dormancy, reduce watering to near zero and never allow the soil to stay wet."
+        },
+        {
+            "id": "light",
+            "content": "Full sun to bright indirect light. Acclimate gradually to prevent sunburn on pads moved from shade."
+        },
+        {
+            "id": "soil",
+            "content": "Very well-draining mineral mix. Use a cactus-specific substrate high in pumice, coarse sand, or perlite."
+        },
+        {
+            "id": "temperature",
+            "content": "Can survive brief light freezes to -5\u00b0C if kept completely dry. Prolonged wet and cold is fatal."
+        },
+        {
+            "id": "propagation",
+            "content": "Pads root easily when placed on dry soil. Allow the cut end to callus for several days before planting."
+        },
+        {
+            "id": "humidity",
+            "content": "Bunny Ears Cactus requires low humidity and dry, warm air to thrive. Avoid humid spaces such as kitchens and bathrooms, ensuring continuous air circulation to protect the cladodes from fungal blight."
+        }
+    ],
+    "faq": [
+        {
+            "id": "FAQ_OPUNTIA_001",
+            "question": "How often should I water my Bunny Ear Cactus?",
+            "answer": "Water deeply and then allow the soil to dry completely \u2014 and I mean completely. In summer, this may be every 2\u20133 weeks; in winter, once a month or less. The pads should feel firm and plump. If they wrinkle, water. If they stay plump, wait.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_002",
+            "question": "Why is my Bunny Ear Cactus turning yellow and mushy at the base?",
+            "answer": "This is classic root rot from overwatering, especially in winter when the plant is dormant and metabolically inactive. Remove the plant from its pot, cut away all black or soft tissue with a sterile knife, let the cut dry for several days, and repot in completely dry mineral mix. Do not water for at least two weeks.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_003",
+            "question": "Can Bunny Ear Cactus survive frost?",
+            "answer": "Surprisingly, yes \u2014 if it is bone dry. Opuntia microdasys can survive brief light freezes to around -5\u00b0C when the soil is completely dry. However, wet and cold is fatal. In climates with wet winters, bring it indoors or shelter it from rain regardless of temperature.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_004",
+            "question": "What soil is best for Bunny Ear Cactus?",
+            "answer": "A very fast-draining, gritty mineral mix. Use 60\u201370% inorganic material: pumice, coarse perlite, or coarse sand. The remaining 30\u201340% can be cactus potting mix. The substrate should feel like gravel and water should drain within seconds.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_005",
+            "question": "Why are the pads turning white or brown?",
+            "answer": "White patches are usually sunburn from moving the plant from shade to direct sun without acclimatization. Brown, corky patches are normal aging. If the entire pad turns uniformly brown and soft, it is rot \u2014 act immediately.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_006",
+            "question": "How do I propagate Bunny Ear Cactus?",
+            "answer": "Pads root effortlessly. Twist or cut a pad from the parent, let the cut end callus in a dry, shaded spot for 3\u20137 days, then place it on top of dry cactus mix. Do not water until roots appear, usually within 2\u20134 weeks. Even pads that fall off naturally will root if left on soil.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_007",
+            "question": "Are the glochids dangerous?",
+            "answer": "Glochids are the tiny, hair-like spines covering the pads. They are not poisonous but are extremely irritating to skin. They detach easily and embed in flesh, causing itching and discomfort for days. Handle with thick gloves or tongs, and never rub your eyes after touching the plant.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_008",
+            "question": "Why is my Bunny Ear Cactus growing tall and thin instead of branching?",
+            "answer": "Etiolation (stretching) is caused by insufficient light. Bunny Ear Cactus needs full sun or very bright indirect light to maintain its compact, pad-stacking form. Move it to a sunnier location and rotate the pot weekly for even growth.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_009",
+            "question": "Should I fertilize my Bunny Ear Cactus?",
+            "answer": "Very lightly. Use a diluted cactus fertilizer (half strength or less) once monthly during spring and summer only. Do not fertilize in autumn or winter. Over-fertilization causes weak, watery growth that is prone to rot.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_010",
+            "question": "Can I grow Bunny Ear Cactus indoors?",
+            "answer": "Yes, but only with very bright light. A south-facing window is usually insufficient in winter; a full-spectrum grow light is recommended. Without adequate light, the plant will etiolate and weaken. Keep it cool and dry in winter.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_011",
+            "question": "Why are new pads small and misshapen?",
+            "answer": "Small or deformed new growth usually indicates insufficient light, underwatering during active growth, or nutrient deficiency. Ensure the plant receives full sun, water appropriately during summer, and apply a light feeding in spring.",
+            "confidence": 0.8,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        },
+        {
+            "id": "FAQ_OPUNTIA_012",
+            "question": "How do I remove glochids from my skin?",
+            "answer": "Do not rub \u2014 this drives them deeper. Apply duct tape or a strong adhesive tape to the area and peel off gently. Alternatively, apply white glue, let it dry, and peel. Tweezers work for visible spines. If irritation persists, consult a physician.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-07-13",
+            "reviewCycleMonths": 24
+        }
+    ],
+    "categories": [
+        "CAT_DESERT",
+        "CAT_SUCCULENT",
+        "CAT_CACTUS"
+    ],
+    "toxicity": {
+        "pets": false,
+        "humans": false,
+        "details": "Glochids (tiny hair-like spines) can cause skin irritation and mechanical injury, but the plant is not chemically toxic."
+    },
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "cactaceae"
+        },
+        {
+            "type": "belongsToGenus",
+            "target": "opuntia"
+        },
+        {
+            "type": "wateringProfile",
+            "target": "desert-succulent"
+        },
+        {
+            "type": "soilProfile",
+            "target": "cactus-mineral-mix"
+        },
+        {
+            "type": "lightProfile",
+            "target": "light-full-sun"
+        },
+        {
+            "type": "nativeRegion",
+            "target": "mexico"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "echinocactus"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "mammillaria"
+        }
+    ],
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "quickAnswer": "Opuntia microdasys, or Bunny Ear Cactus, needs full direct sunlight for at least six hours daily and a fast-draining cactus mix. Water only when soil is completely dry, reducing further in winter. Handle with extreme care since fine glochids irritate skin severely on contact, and never touch the pads with bare hands.",
+    "troubleshooting": [
+        {
+            "symptom": "Pads drooping or falling off",
+            "diagnosis": "Overwatering or physical trauma",
+            "treatment": "Stop watering and allow the soil to dry out completely. Fallen healthy pads can be propagated.",
+            "prevention": "Handle carefully to avoid dislodging pads and water only when soil is bone dry.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Pale, elongated new pads",
+            "diagnosis": "Etiolation (Insufficient light)",
+            "treatment": "Gradually introduce the plant to more direct sunlight. Elongated pads can be pruned.",
+            "prevention": "Place in the brightest window available.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "summary": "Bunny Ear Cactus displays charming pad pairs covered in fuzzy-looking glochids that belie their genuinely irritating nature, since those soft-looking tufts are actually hundreds of tiny barbed spines that lodge easily in skin. Native to Mexican deserts, this Opuntia is deceptively dangerous despite its cute, almost cartoonish appearance, and it demands respect during routine handling. This guide explains how to provide the intense light and arid conditions it requires, how to water correctly through the seasonal growth and dormancy cycle, how to handle the plant without suffering glochid dermatitis, and how to propagate new pads for expanding your collection.",
+    "keyTakeaways": [
+        "Provide full, direct sunlight for at least 6 hours daily.",
+        "Use a fast-draining cactus mix and water only when soil is fully dry.",
+        "Handle carefully, since fine glochids can irritate skin on contact.",
+        "Reduce watering further during winter dormancy to help prevent rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 7,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Desert cactus",
+        "difficulty": "beginner",
+        "light": "Bright direct light to full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water only when the soil is completely dry.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "low",
+        "temperature": "65\u00b0F - 86\u00b0F (18\u00b0C - 30\u00b0C)",
+        "matureSize": "2-3 feet",
+        "growthRate": "Moderate",
+        "soil": "Cactus or succulent gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Terracotta",
+        "propagation": "Pad cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "nativeRegion": "Central and Northern Mexico",
+        "usdaZones": "9-11",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/news/are-succulents-safe-have-around-pets"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/opuntia-microdasys/",
+    "parameters": {
+        "temperature": {
+            "recommended": "70\u00b0F - 90\u00b0F (21\u00b0C - 32\u00b0C)",
+            "survivable": "45\u00b0F - 100\u00b0F (7\u00b0C - 38\u00b0C)"
+        }
+    },
+    "breadcrumbName": "Bunny Ear Cactus",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/news/are-succulents-safe-have-around-pets"
+        ]
+    },
+    "h1": "Bunny Ear Cactus Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/opuntia-microdasys/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

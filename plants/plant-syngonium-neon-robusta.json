@@ -1,0 +1,349 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-syngonium-neon-robusta",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "syngonium-neon-robusta",
+    "seoTitle": "Pink Arrowhead Plant Care: Keep Neon Pink Leaves",
+    "metaDescription": "Pink Arrowhead Plant needs bright indirect light to keep its neon-pink color. Find out the care routine that prevents this Syngonium from reverting to.",
+    "featuredImage": "/assets/images/syngonium-neon-robusta.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "toxic-to-pets",
+        "statement-foliage",
+        "easy-care"
+    ],
+    "references": [
+        {
+            "title": "Aroid Cultivation",
+            "source": "International Aroid Society",
+            "url": "https://www.aroid.org/"
+        },
+        {
+            "title": "Plants of the World Online - Syngonium podophyllum",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Syngonium podophyllum 'Neon Robusta'",
+        "family": "Araceae",
+        "origin": "Cultivar (Species native to Central and South America)",
+        "type": "Evergreen trailing vine",
+        "nativeClimate": "Tropical rainforest canopy",
+        "commonUses": [
+            "Bright desks",
+            "Hanging baskets",
+            "Colorful centerpieces"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright, indirect light. Must have significant light to maintain its neon pink color.",
+        "watering": "Water only when the top 2 inches of soil are dry. Very forgiving of neglect.",
+        "soil": "A fast-draining, chunky aroid mix.",
+        "pruning": "Snip off trailing vines regularly to keep the plant bushy and compact.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Contains calcium oxalate crystals; causes severe mouth irritation and vomiting.",
+        "bestFor": "Plant owners who want a shocking pop of neon pink without the extreme difficulty of a Calathea or Stromanthe."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Vines up to 6 feet long",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires significant bright, indirect light. The new leaves only emerge neon pink if the plant is receiving enough solar energy. In low light, it will turn entirely green.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East or North-facing window.",
+        "shadeTolerance": "low (loses color)"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Fast grower. Feed regularly during the summer to support the massive vine production.",
+        "fertilizerFrequency": "Once a month during spring and summer with a balanced liquid fertilizer diluted to half strength.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Susceptible to root rot if left sitting in dense, water-logged potting soil without drainage."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Pink Arrowhead turning completely green?",
+            "answer": "Loss of the neon pink color is directly caused by a lack of light. Pink leaves contain less chlorophyll. If the plant is in a dark corner, it will stop producing pink and push out solid green leaves to maximize photosynthesis. Move it to a brighter window."
+        },
+        {
+            "question": "Why is the plant growing long, stringy vines that fall over?",
+            "answer": "Syngoniums are naturally climbing vines. When they are young, they look like a bushy, upright plant. As they mature, they inevitably shoot out long vining runners. You must either give it a trellis to climb, let it hang from a basket, or brutally prune the vines off to keep it bushy."
+        },
+        {
+            "question": "Why are the bottom leaves turning yellow and mushy?",
+            "answer": "Yellow, mushy leaves at the base of the plant are a classic sign of overwatering and root rot. Let the top few inches of the soil dry out completely before watering again."
+        },
+        {
+            "question": "Why are the leaves getting pale and bleached?",
+            "answer": "If the leaves are turning a pale, sickly white or yellow, the plant is getting too much direct sunlight. The delicate pink leaves will scorch in hot afternoon sun. Ensure the light is bright but indirect."
+        },
+        {
+            "question": "Is the Pink Arrowhead Plant toxic to pets?",
+            "answer": "Yes. Like all plants in the Araceae family, it contains calcium oxalate crystals. It will cause intense oral pain, swelling, and vomiting if chewed by cats or dogs."
+        }
+    ],
+    "shortDesc": "The Pink Arrowhead Plant (Syngonium Neon Robusta) is a fast-growing, highly adaptable vine. It is famous for its stunning, neon pink leaves, making it one of the easiest colorful houseplants available.",
+    "content": "<h2>Overview</h2><p>Finding a truly pink houseplant usually means committing to the high-maintenance, diva-like demands of a Calathea or a Stromanthe. If you want the shocking pop of neon pink without the stress, the Pink Arrowhead Plant (<em>Syngonium podophyllum 'Neon Robusta'</em>) is the ultimate solution.</p><p>This rapidly growing cultivar of the classic Arrowhead Vine features spade-shaped leaves that emerge in a brilliant, glowing, iridescent pink. The undersides of the leaves remain a contrasting dark green. It is incredibly resilient, highly forgiving of missed waterings, and completely unbothered by standard indoor humidity. The only catch? It is a voracious climber. It starts life as a cute, bushy desk plant, but within a year, it will shoot out long, trailing vines that will take over your bookshelf.</p><h3>Light Requirements: Keeping the Pink</h3><p>Light is the absolute most critical factor in caring for a Neon Robusta. The intense pink pigmentation is an active response to bright light. If you place the plant in a low-light corner, it will realize it is starving. To compensate, it will flood its leaves with green chlorophyll to maximize photosynthesis. Within a few months, your stunning pink plant will fade into a dull, muddy green.</p><p>To maintain the shocking pink color, place the plant directly in front of a bright, east-facing or north-facing window. However, avoid placing it in blazing, direct afternoon sun, which will scorch the delicate leaves and bleach the pink color entirely.</p><h3>Watering: Erring on the Dry Side</h3><p>The Pink Arrowhead is highly forgiving of drought but incredibly susceptible to root rot if overwatered. You must allow the top 2 to 3 inches of the potting soil to dry out completely before you water. If you forget to water it, the thin leaves will dramatically droop, acting as a perfect thirst indicator.</p><p>When the soil is properly dry, soak the pot thoroughly until water flows out the drainage holes, but ensure it never sits in a saucer of standing water. If the lowest leaves turn a sickly yellow and feel mushy, you are drowning the plant.</p><h3>Temperature and Humidity</h3><p>As a tropical plant, it requires warm indoor temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it far away from cold winter drafts and air conditioning vents; temperatures below 55\u00b0F (12\u00b0C) can cause permanent cellular damage. Fortunately, its slightly waxy leaves make it perfectly adaptable to the standard 40% to 50% humidity found in most centrally heated homes, meaning no humidifier is required.</p><h3>Soil and Potting</h3><p>Because the roots rot easily, a fast-draining aroid mix is essential. Standard indoor potting soil should be amended with 30% perlite and coarse orchid bark to ensure excess water drains away rapidly and the roots get plenty of oxygen. Because it grows so quickly, you may need to repot it every spring.</p><h2>The \"Leggy\" Vine Problem</h2><p>The most common complaint about Syngoniums is that they look \"messy\" as they age. They naturally want to climb trees. As the plant matures, it will shoot out long, stringy vines that fall over the edge of the pot. </p><p>You have three choices: give the plant a moss pole or trellis to climb, place it in a hanging basket and let it trail downward, or grab some scissors. If you want to keep the plant looking like a compact, bushy desk plant, you must ruthlessly prune off the trailing vines every few months. (You can root these cuttings in water to make brand new plants!)</p><h2>Toxicity</h2><p>Like all plants in the Araceae family, the Pink Arrowhead contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or children, these microscopic crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines safely out of reach.</p>",
+    "quickAnswer": "The Pink Arrowhead Plant needs bright, indirect light to maintain its neon pink color; in low light, it will turn green. Water only when the top 2-3 inches of soil are dry. Snip off trailing vines if you want it to stay bushy.",
+    "ogImage": "/assets/images/syngonium-neon-robusta.webp",
+    "ogImageAlt": "Spade-shaped leaves colored in brilliant, glowing neon pink",
+    "heroImage": "/assets/images/syngonium-neon-robusta.webp",
+    "heroImageAlt": "Close up of the iridescent pink foliage on a Syngonium Neon Robusta",
+    "featuredImageAlt": "A vibrant Pink Arrowhead Plant trailing from a bright white bookshelf",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Pink Arrowhead turning completely green?",
+            "diagnosis": "Low light \u2013 loss of pink pigmentation",
+            "treatment": "Move to brighter indirect light; new leaves will be pink.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is the plant growing long, stringy vines that fall over?",
+            "diagnosis": "Natural vining habit \u2013 needs support or pruning",
+            "treatment": "Give a trellis or prune to maintain bushiness; let it trail if desired.",
+            "prevention": "Train or prune regularly.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the bottom leaves turning yellow and mushy?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Reduce watering; allow soil to dry; check roots.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves getting pale and bleached?",
+            "diagnosis": "Too much direct sunlight \u2013 leaf scorch",
+            "treatment": "Move to filtered light; trim damaged leaves.",
+            "prevention": "Provide bright indirect light, not harsh direct sun.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Chlorophyll",
+            "definition": "The green pigment in plants responsible for absorbing light energy. If the Pink Arrowhead is put in the dark, it will produce more chlorophyll (turning green) to survive."
+        },
+        {
+            "term": "Node",
+            "definition": "The point on a plant stem where the leaves are attached. When pruning a leggy Syngonium, cut just below a node so you can root the cutting in water."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Pink Houseplant Comparison",
+        "headers": [
+            "Plant",
+            "Pink Variation",
+            "Care Difficulty"
+        ],
+        "rows": [
+            [
+                "Syngonium Neon Robusta",
+                "Solid neon pink",
+                "Beginner (Very Forgiving)"
+            ],
+            [
+                "Philodendron Pink Princess",
+                "Dark green with pink splashes",
+                "Moderate"
+            ],
+            [
+                "Stromanthe Triostar",
+                "Hot pink undersides",
+                "Advanced (Needs High Humidity)"
+            ]
+        ]
+    },
+    "h1": "Pink Arrowhead Plant Indoor Guide: Avoid Fading Colors",
+    "breadcrumbName": "Pink Arrowhead Plant Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "syngonium-arrowhead-plant-care",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Placing it in low light because it's a syngonium and syngoniums tolerate shade\u2014but the neon pink coloring is produced by anthocyanins that require bright indirect light. In dim conditions, new leaves emerge as a dull greenish-pink that loses all the vibrancy the plant is grown for."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The most vivid pink is always on the newest leaves\u2014older leaves naturally fade to a muted dusty pink as they age, regardless of care. Pruning regularly encourages fresh, intensely-colored new growth and keeps the overall plant looking vibrant."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry air, leaf edges curl and develop brown margins, and the pink coloring in affected areas fades further as the tissue desiccates. It tolerates average homes reasonably well but benefits noticeably from occasional misting or a nearby humidifier."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "pink syngonium",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pink arrowhead vine",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "syngonium podophyllum neon robusta",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pink plant turning green",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "easy pink houseplant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to keep the  color in a pink arrowhead plant",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Syngonium Neon Robusta",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light to maintain the vivid neon pink leaf color.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Expect color to fade toward green in lower light conditions.",
+        "Support with a trellis or moss pole for more mature leaf growth."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen trailing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Water only when the top 2 inches of soil are dry. Very forgiving of neglect.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Vines up to 6 feet long",
+        "growthRate": "Fast",
+        "soil": "Well-draining, all-purpose potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during growing season",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Central and South America",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/syngonium-neon-robusta/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": []
+    },
+    "contentText": "Overview Finding a truly pink houseplant usually means committing to the high-maintenance, diva-like demands of a Calathea or a Stromanthe. If you want the shocking pop of neon pink without the stress, the Pink Arrowhead Plant ( Syngonium podophyllum 'Neon Robusta' ) is the ultimate solution. This rapidly growing cultivar of the classic Arrowhead Vine features spade-shaped leaves that emerge in a brilliant, glowing, iridescent pink. The undersides of the leaves remain a contrasting dark green. It is incredibly resilient, highly forgiving of missed waterings, and completely unbothered by standard indoor humidity. The only catch? It is a voracious climber. It starts life as a cute, bushy desk plant, but within a year, it will shoot out long, trailing vines that will take over your bookshelf. Light Requirements: Keeping the Pink Light is the absolute most critical factor in caring for a Neon Robusta. The intense pink pigmentation is an active response to bright light. If you place the plant in a low-light corner, it will realize it is starving. To compensate, it will flood its leaves with green chlorophyll to maximize photosynthesis. Within a few months, your stunning pink plant will fade into a dull, muddy green. To maintain the shocking pink color, place the plant directly in front of a bright, east-facing or north-facing window. However, avoid placing it in blazing, direct afternoon sun, which will scorch the delicate leaves and bleach the pink color entirely. Watering: Erring on the Dry Side The Pink Arrowhead is highly forgiving of drought but incredibly susceptible to root rot if overwatered. You must allow the top 2 to 3 inches of the potting soil to dry out completely before you water. If you forget to water it, the thin leaves will dramatically droop, acting as a perfect thirst indicator. When the soil is properly dry, soak the pot thoroughly until water flows out the drainage holes, but ensure it never sits in a saucer of standing water. If the lowest leaves turn a sickly yellow and feel mushy, you are drowning the plant. Temperature and Humidity As a tropical plant, it requires warm indoor temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it far away from cold winter drafts and air conditioning vents; temperatures below 55\u00b0F (12\u00b0C) can cause permanent cellular damage. Fortunately, its slightly waxy leaves make it perfectly adaptable to the standard 40% to 50% humidity found in most centrally heated homes, meaning no humidifier is required. Soil and Potting Because the roots rot easily, a fast-draining aroid mix is essential. Standard indoor potting soil should be amended with 30% perlite and coarse orchid bark to ensure excess water drains away rapidly and the roots get plenty of oxygen. Because it grows so quickly, you may need to repot it every spring. The \"Leggy\" Vine Problem The most common complaint about Syngoniums is that they look \"messy\" as they age. They naturally want to climb trees. As the plant matures, it will shoot out long, stringy vines that fall over the edge of the pot. You have three choices: give the plant a moss pole or trellis to climb, place it in a hanging basket and let it trail downward, or grab some scissors. If you want to keep the plant looking like a compact, bushy desk plant, you must ruthlessly prune off the trailing vines every few months. (You can root these cuttings in water to make brand new plants!) Toxicity Like all plants in the Araceae family, the Pink Arrowhead contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or children, these microscopic crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines safely out of reach.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/syngonium-neon-robusta/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

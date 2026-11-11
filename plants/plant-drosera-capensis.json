@@ -1,0 +1,586 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-drosera-capensis",
+    "entityType": "plant",
+    "primaryDomain": "carnivorous",
+    "status": "published",
+    "slug": "drosera-capensis",
+    "seoTitle": "Drosera Capensis Care: Cape Sundew Water, Light & Propagation",
+    "metaDescription": "Drosera capensis care: tray watering with RO water under 50 ppm TDS, peat and sand mix, bright light for red dew, no dormancy, easy propagation and gnat control.",
+    "featuredImage": "/assets/images/drosera-capensis.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "carnivorous-plants",
+        "sundews",
+        "cape-sundew",
+        "beginner-friendly",
+        "windowsill",
+        "fungus-gnat-control",
+        "no-dormancy"
+    ],
+    "references": [
+        {
+            "title": "Carnivorous Plant Cultivation: Sundews",
+            "url": "https://www.carnivorousplants.org/",
+            "doi": ""
+        },
+        {
+            "title": "Drosera capensis: Cape Sundew",
+            "url": "https://www.kew.org/",
+            "doi": ""
+        },
+        {
+            "title": "Plant Finder: Drosera capensis",
+            "url": "https://www.missouribotanicalgarden.org/",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Drosera capensis",
+        "family": "Droseraceae",
+        "origin": "South Africa (Cape Province fynbos and stream seepages)",
+        "type": "Carnivorous Herb",
+        "nativeClimate": "Mediterranean-type subtropical climate with wet, mild winters and warm, drier summers",
+        "commonUses": [
+            "Windowsill carnivorous plant",
+            "Fungus gnat control",
+            "Bog terrarium plant",
+            "Beginner carnivorous plant"
+        ],
+        "taxonType": "species"
+    },
+    "scientificName": "Drosera capensis",
+    "commonNames": [
+        "Cape Sundew"
+    ],
+    "family": "Droseraceae",
+    "genus": "Drosera",
+    "origin": "South Africa (Cape Province fynbos and stream seepages)",
+    "growthHabit": "Subtropical rosette herb with glandular tentacled linear leaves and thigmotropic curling traps",
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright windowsill or under grow lights, standing in a shallow tray of pure water",
+        "watering": "Tray method: keep the pot standing in 1-2 cm of RO, distilled or rain water at all times, ideally under 20 ppm TDS and never above 50 ppm.",
+        "soil": "50% unfertilized Canadian sphagnum peat moss and 50% coarse washed silica sand or perlite by volume.",
+        "pruning": "Trim dead, blackened leaves at the base and cut spent flower stalks if you do not want seed",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Drosera capensis is not known to be toxic to cats, dogs or people. The sticky leaves are delicate, so keep the plant where pets cannot disturb it.",
+        "bestFor": "Drosera capensis is best for beginners who want a fast-growing, forgiving carnivorous plant that also works as a living flypaper for fungus gnats and fruit flies, and who can supply RO or distilled water."
+    },
+    "vastu": {
+        "enabled": false,
+        "directions": [],
+        "rooms": [],
+        "light": [],
+        "purposes": [],
+        "difficulty": "none",
+        "petFriendly": true,
+        "indoorSuitable": true,
+        "notes": "Not applicable to this carnivorous plant profile.",
+        "sourceUrl": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "4-8 inches (leaves); flower stalks up to 12 inches",
+        "matureSpread": "6-10 inches",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring to summer, and often repeatedly in good light",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "15-28\u00b0C (59-82\u00b0F)",
+            "survivable": "5-35\u00b0C (41-95\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "50-80%",
+            "survivable": "30-90% with gentle air circulation"
+        },
+        "soilPH": {
+            "recommended": "4.5-6.0 (acidic, mineral-free medium)",
+            "survivable": "4.0-6.5"
+        }
+    },
+    "lighting": {
+        "description": "High-intensity light of about 150-250 PPFD brings out red tentacles and plentiful glistening dew. Bright south or east windows, or strong LED grow lights, suit it well.",
+        "sunlightHours": "12-16 hours daily",
+        "intensity": "high",
+        "indoorWindow": "Bright south or east window, or grow lights 15-30 cm above the plant",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Gets nutrients from insects digested by its leaves. Fertilizer and mineral salts in the substrate or water damage the roots.",
+        "fertilizerFrequency": "None. Do not fertilize the substrate or the tray.",
+        "organicOptions": "Live or thawed tiny insects such as fungus gnats and fruit flies, or a few rehydrated bloodworms on individual leaves."
+    },
+    "relationships": [
+        {
+            "target": "water-quality",
+            "type": "requirement",
+            "strength": 10,
+            "notes": "Needs RO, distilled or rain water, ideally under 20 ppm TDS and never above 50 ppm, because dissolved minerals burn the roots and dry up the dew."
+        },
+        {
+            "target": "light",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "Strong light of 150-250 PPFD for 12-16 hours drives red coloration and heavy mucilage production."
+        },
+        {
+            "target": "continuous-tray-watering",
+            "type": "requirement",
+            "strength": 8,
+            "notes": "Tolerates and prefers a constant 1-2 cm tray of pure water, unlike Mexican butterworts that need a drier winter."
+        },
+        {
+            "target": "fungus-gnats",
+            "type": "benefit",
+            "strength": 9,
+            "notes": "Sticky tentacles catch adult fungus gnats all year, but the plant does not kill larvae in nearby soil."
+        },
+        {
+            "target": "self-seeding",
+            "type": "vulnerability",
+            "strength": 5,
+            "notes": "Prolific seed can spread through a bog terrarium, so cut flower stalks before seed ripens if you want to prevent it."
+        }
+    ],
+    "calculatorReferences": [
+        "carnivorous-water-tds-calculator"
+    ],
+    "referenceTables": [
+        {
+            "id": "environmental-care-tolerances",
+            "title": "Drosera capensis Environmental & Care Tolerances",
+            "columns": [
+                "Parameter",
+                "Ideal Range",
+                "Critical Threshold",
+                "Corrective Action"
+            ],
+            "rows": [
+                [
+                    "Water TDS",
+                    "Under 20 ppm (RO, distilled or rain water)",
+                    "Above 50 ppm causes tip burn, lost dew and root damage over weeks",
+                    "Flush the pot from the top with pure water, switch to RO or distilled water and check with a TDS pen or the carnivorous water TDS calculator"
+                ],
+                [
+                    "Tray water depth",
+                    "1-2 cm, kept constant",
+                    "Dry tray for several days, or a deep tray that submerges the crown",
+                    "Refill with pure water, keep the tray shallow and top up before it empties"
+                ],
+                [
+                    "Light intensity",
+                    "150-250 PPFD",
+                    "Below about 80 PPFD gives pale, green, floppy leaves with little dew",
+                    "Move to a brighter window or add a grow light 15-30 cm above the plant"
+                ],
+                [
+                    "Photoperiod",
+                    "12-16 hours",
+                    "Under about 10 hours slows growth and reduces dew",
+                    "Use a timer and extend the day length gradually"
+                ],
+                [
+                    "Temperature",
+                    "15-28\u00b0C (59-82\u00b0F)",
+                    "Below about 5\u00b0C (41\u00b0F) or above about 35\u00b0C (95\u00b0F)",
+                    "Move away from cold glass and heaters, and add airflow in heat"
+                ],
+                [
+                    "Humidity",
+                    "50-80% with gentle airflow",
+                    "Below about 30%, or still, saturated air that invites mold",
+                    "Use a loosely covered tray or terrarium for dryness and a small fan for stagnant air"
+                ],
+                [
+                    "Substrate",
+                    "50% unfertilized peat and 50% coarse silica sand or perlite",
+                    "Potting soil, fertilizer or sand containing lime or shell",
+                    "Repot into a clean peat and sand mix and flush with pure water"
+                ],
+                [
+                    "Winter cold",
+                    "Mild and bright, no rest needed",
+                    "Hard frost kills the leaves, though roots may resprout",
+                    "Bring indoors; cut back frost-damaged leaves and keep the roots just moist"
+                ]
+            ]
+        },
+        {
+            "id": "propagation-methods-comparison",
+            "title": "Propagation Methods Comparison: Seed vs Leaf Cuttings vs Root Cuttings",
+            "columns": [
+                "Method",
+                "Steps",
+                "Time to Sprout",
+                "Success Rate"
+            ],
+            "rows": [
+                [
+                    "Seed",
+                    "Collect ripe black seed from dried flower heads, sprinkle it on the surface of damp peat and sand, do not cover it, keep it under bright light and in high humidity with RO water",
+                    "1-3 weeks to germinate; small plants in 2-3 months",
+                    "Very high; the species sets seed readily and the seed is highly viable"
+                ],
+                [
+                    "Leaf cuttings in pure water",
+                    "Cut a healthy leaf at the base, float or lay it in a shallow dish of RO water or on damp medium, keep it bright and warm and leave it undisturbed",
+                    "2-6 weeks for plantlets at the base or along the leaf",
+                    "Moderate to high; works best with young, vigorous leaves"
+                ],
+                [
+                    "Root cuttings",
+                    "Lift the plant in spring, cut pieces of thick root about 2-4 cm long, lay them flat on the surface of damp peat and sand mix and keep them humid and bright",
+                    "3-6 weeks for new shoots",
+                    "High; each piece can make a new plant, and roots left in the pot often resprout on their own"
+                ]
+            ]
+        }
+    ],
+    "faq": [
+        {
+            "question": "Why have the dew drops disappeared on my Cape sundew?",
+            "answer": "Lost dew is the most common worry with this plant. The usual causes are low light, a dry tray, low humidity with strong airflow, mineral build-up from tap water, or very hot weather. Raise the light to 150-250 PPFD for 12-16 hours, keep 1-2 cm of RO or distilled water in the tray, flush the pot with pure water and check the TDS. Dew often returns within days on new leaves. Some plants also lose dew briefly after being moved."
+        },
+        {
+            "question": "Can Drosera capensis self-seed and become invasive in a bog terrarium?",
+            "answer": "Yes. It sets large amounts of fine, viable seed, and seedlings can sprout across the surface of a bog terrarium or in neighbouring pots. This is helpful if you want more plants, but it can crowd out other species. Cut the flower stalks before the seed ripens, or collect the seed in a bag if you want to control it. In some regions, such as parts of Australia, New Zealand and Europe, the plant has naturalised, so never release it outdoors."
+        },
+        {
+            "question": "Can I feed dried bloodworms to a Cape sundew?",
+            "answer": "Yes, but sparingly. Rehydrate a few dried bloodworms in a drop of RO water and place a small piece on one or two leaves, not the whole plant. The leaf will curl around it and digest it over several days. Feed only one or two leaves at a time, use pieces smaller than the leaf, and do not feed more than once every week or two. A plant near fungus gnats or fruit flies usually needs no feeding at all."
+        },
+        {
+            "question": "Should I trim the flower stalks on Drosera capensis?",
+            "answer": "It is optional. Flowering uses some of the plant's energy, so cutting stalks early can keep growth strong, and removing them before the seed ripens stops self-seeding. Leave a stalk if you want pink flowers or seed. Cut stalks at the base with clean scissors. Flowers open for a short time and the plant keeps producing new ones in good light."
+        },
+        {
+            "question": "Can I use tap water on a Cape sundew?",
+            "answer": "No. Tap water carries dissolved minerals that build up in the peat as the water evaporates, which burns the roots and tentacle tips, dries up the dew and eventually kills the plant. Use RO, distilled or rain water under 50 ppm TDS, and aim for under 20 ppm. Check it with a TDS pen. The carnivorous water TDS calculator shows how to blend water and how fast minerals concentrate in a small pot."
+        },
+        {
+            "question": "Does Drosera capensis need winter dormancy?",
+            "answer": "No. It is a subtropical perennial that grows all year, and it does not need the cold rest that Venus flytraps and Sarracenia require. In winter it may slow down and make fewer leaves, but it should stay green and sticky in bright light. It tolerates cool temperatures down to about 5\u00b0C, and if frost kills the leaves the roots can resprout. The dormancy requirements guide compares winter care across carnivorous plants."
+        },
+        {
+            "question": "How many fungus gnats can a Cape sundew catch?",
+            "answer": "A healthy plant with plenty of dew can catch dozens of gnats at once and hundreds over a season. The tentacles hold the insects, and nearby tentacles often curl inwards over several hours. It only catches adult gnats and does not kill larvae in soil, so pair it with BTI or a dry-down cycle on the host plants. See carnivorous plants for fungus gnats for a full plan."
+        },
+        {
+            "question": "Can I grow a Cape sundew with a Mexican butterwort?",
+            "answer": "Yes, with some care. Both like pure water and bright light, but the sundew is happy with a constant tray of water, while Pinguicula moranensis needs a drier substrate in winter. Keep them in separate pots or put the butterwort on a drier ledge, and use the sundew in the wetter zone of a display."
+        },
+        {
+            "question": "Why are the leaves turning green instead of red?",
+            "answer": "Red coloration comes from anthocyanin pigments that the plant makes in strong light. Green leaves usually mean the light is too weak. Move the plant to a brighter spot, or provide 150-250 PPFD for 12-16 hours with a grow light. The colour changes on new leaves over a few weeks. Green leaves that still have plenty of dew are healthy, only less showy."
+        },
+        {
+            "question": "How do I propagate Drosera capensis easily?",
+            "answer": "Seed, leaf cuttings and root cuttings all work. Seed is the most reliable, and the species sets plenty of it. For leaf cuttings, lay a healthy leaf on damp peat and sand or float it in RO water, and plantlets form in a few weeks. Root cuttings, laid flat on damp medium, usually give strong new plants. Keep everything bright and humid, and use only pure water."
+        }
+    ],
+    "shortDesc": "Drosera capensis, the Cape sundew, is a fast-growing, forgiving carnivorous plant with long sticky red-tipped leaves that curl around prey, grows all year without dormancy and doubles as a living flypaper.",
+    "content": "<h2>Drosera capensis Care at a Glance</h2><ul><li><strong>Light:</strong> High intensity, 150-250 PPFD, for 12-16 hours daily.</li><li><strong>Substrate:</strong> 50% unfertilized Canadian sphagnum peat and 50% coarse washed silica sand or perlite.</li><li><strong>Water:</strong> RO, distilled or rain water, ideally under 20 ppm TDS and never above 50 ppm, in a constant 1-2 cm tray.</li><li><strong>Temperature:</strong> 15-28\u00b0C (59-82\u00b0F), with 50-80% humidity and gentle airflow.</li><li><strong>Dormancy:</strong> None. It grows all year.</li><li><strong>Propagation:</strong> seed, leaf cuttings and root cuttings.</li></ul><h2>What Is Drosera capensis?</h2><p>Drosera capensis, the Cape sundew, is a fast-growing carnivorous plant in the family Droseraceae. It comes from the Cape Province of South Africa, where it grows in fynbos and along stream seepages. Its long, narrow leaves are covered in tentacles tipped with glistening droplets of sticky mucilage. Insects stick to the dew, and the leaf slowly curls around them as nearby tentacles bend inwards, a movement called thigmotropism, and digests them. It is one of the easiest sundews to grow and a good first carnivorous plant. For a companion with a different winter pattern, see <a href=\"/plants/pinguicula-moranensis\">Pinguicula moranensis</a>.</p><h2>Light</h2><p>Strong light is the key to a good Cape sundew. Aim for <strong>150-250 PPFD</strong> for 12-16 hours daily. A bright south or east window can work, but most indoor growers do better with an LED grow light 15-30 cm above the plant. Strong light turns the tentacles red through anthocyanin pigments and drives heavy dew production. Plants in weak light turn green, grow floppy and make little dew.</p><h2>Water: The Continuous Tray Method</h2><p>Stand the pot in a tray holding <strong>1-2 cm of RO, distilled or rain water</strong> at all times. Unlike many carnivorous plants, Drosera capensis tolerates constant wetness and does not need a drier season. Use water under 50 ppm TDS, and aim for under 20 ppm. Minerals in tap water build up in the peat as water evaporates, burn the roots and tentacle tips and dry up the dew. Test the tray with a TDS pen, and use the <a href=\"/calculators/carnivorous-water-tds-calculator\">carnivorous water TDS calculator</a> to check blends and estimate how fast minerals accumulate in your pot. Flush the pot from the top with pure water every month or two, and never use fertilizer.</p><h2>Substrate</h2><p>Use a mix of <strong>50% unfertilized Canadian sphagnum peat moss and 50% coarse washed silica sand or perlite</strong> by volume. This holds moisture but stays open enough for roots to breathe. Never use potting soil, fertilizer, or sand that contains lime or shell. Rinse sand and perlite in RO water before mixing. The <a href=\"/topics/carnivorous-plant-substrate-guide\">carnivorous plant substrate guide</a> covers other mixes and what to avoid.</p><h2>Temperature, Humidity and Airflow</h2><p>The plant grows best at 15-28\u00b0C and tolerates cooler spells down to about 5\u00b0C. Hard frost kills the leaves, but the roots can resprout from the base. Moderate humidity of 50-80% is enough, and gentle air circulation helps prevent mold on dead leaves. In an enclosed display, ventilate so the surface does not stay saturated. The <a href=\"/topics/carnivorous-plant-terrarium-build\">carnivorous plant terrarium build guide</a> explains how to ventilate a terrarium and group plants with similar needs.</p><h2>No Dormancy Needed</h2><p>Drosera capensis is a subtropical perennial and does not need a cold winter rest. In winter it may slow down and make fewer leaves, but it should stay green and sticky in bright light. This is different from Venus flytraps, Sarracenia and temperate sundews, which need cold dormancy. The <a href=\"/topics/dormancy-requirements-carnivorous-plants\">dormancy requirements guide</a> explains which plants rest and which do not. Mexican butterworts also differ, because they need a near-dry winter substrate, as described in the <a href=\"/topics/pinguicula-rock-setup\">Pinguicula rock setup guide</a>.</p><h2>Trapping and Feeding</h2><p>The Cape sundew works as living flypaper for fungus gnats, fruit flies and other small flies. Prey sticks to the dew, and the leaf curls around it within hours. A plant in a room with a few gnats or flies usually feeds itself. If prey is scarce, rehydrate a few dried bloodworms in a drop of RO water and place a small piece on one or two leaves. Feed only a leaf or two at a time, no more than once every week or two, and never feed the substrate or tray.</p><p>The plant catches only adult insects, so it does not kill fungus gnat larvae in the soil of other houseplants. Combine it with BTI and a dry-down cycle as described in <a href=\"/topics/carnivorous-plants-for-fungus-gnats\">carnivorous plants for fungus gnats</a>. Place the plant within 30-60 cm of the infested pots, and let leaves covered in carcasses wither naturally.</p><h2>Flowering and Self-Seeding</h2><p>Healthy plants send up tall stalks with clusters of pink to purple flowers from spring through summer, and often flower repeatedly in good light. Each flower produces plenty of fine black seed. In a bog terrarium or crowded tray, seedlings can pop up everywhere. To prevent this, cut the flower stalks at the base before the seed ripens. If you want more plants, let one stalk dry and collect the seed. Do not release the plant outdoors, because it has naturalised in some regions.</p><h2>Propagation</h2><p>The second reference table above compares the three methods.</p><h3>From Seed</h3><ol><li>Collect ripe black seed from dried flower heads.</li><li>Sprinkle it on the surface of damp peat and sand mix. Do not cover it.</li><li>Keep the pot in a tray of RO water, in bright light and high humidity.</li><li>Seed usually sprouts in one to three weeks. Thin crowded seedlings after a couple of months.</li></ol><h3>From Leaf Cuttings</h3><ol><li>Cut or pull a healthy, young leaf from the base.</li><li>Lay it on damp peat and sand mix, or float it in a shallow dish of RO water.</li><li>Keep it bright, warm and undisturbed.</li><li>Plantlets form at the base or along the leaf in two to six weeks.</li></ol><h3>From Root Cuttings</h3><ol><li>Lift the plant in spring and wash the roots in RO water.</li><li>Cut thick root pieces about 2-4 cm long.</li><li>Lay them flat on the surface of damp medium and keep them humid and bright.</li><li>New shoots appear in three to six weeks. Roots left in the old pot often resprout on their own.</li></ol><h2>Repotting and Maintenance</h2><ul><li><strong>Weekly:</strong> check the tray, remove dead black leaves and look for algae, mold or white crust.</li><li><strong>Monthly:</strong> check the TDS of the tray and flush the pot with RO water.</li><li><strong>Every 1-2 years:</strong> repot in fresh peat and sand mix in spring, and divide crowded clumps.</li></ul><h2>Troubleshooting Summary</h2><table><thead><tr><th>Symptom</th><th>Likely cause</th><th>Quick fix</th></tr></thead><tbody><tr><td>Dew drops disappear</td><td>Low light, dry tray, minerals or heat</td><td>Raise light, refill the tray with pure water and flush the pot</td></tr><tr><td>Leaves green and floppy</td><td>Too little light</td><td>Move to a brighter spot or add a grow light</td></tr><tr><td>Tentacle tips and leaf tips brown</td><td>Mineral build-up from tap water</td><td>Flush with RO water and switch to pure water</td></tr><tr><td>Mold on dead leaves</td><td>Still air and dead tissue</td><td>Trim dead leaves and improve airflow</td></tr><tr><td>Seedlings everywhere</td><td>Self-seeding</td><td>Cut flower stalks before seed ripens and pull unwanted seedlings</td></tr></tbody></table><h2>Related Resources</h2><p>Plan an enclosure with the <a href=\"/topics/carnivorous-plant-terrarium-build\">carnivorous plant terrarium build guide</a>, choose a medium with the <a href=\"/topics/carnivorous-plant-substrate-guide\">carnivorous plant substrate guide</a>, grow a butterwort on rock with the <a href=\"/topics/pinguicula-rock-setup\">Pinguicula rock setup guide</a>, compare winter care in the <a href=\"/topics/dormancy-requirements-carnivorous-plants\">dormancy requirements guide</a>, use sundews for pest control with <a href=\"/topics/carnivorous-plants-for-fungus-gnats\">carnivorous plants for fungus gnats</a>, check your water with the <a href=\"/calculators/carnivorous-water-tds-calculator\">carnivorous water TDS calculator</a>, and meet companions in the profiles for <a href=\"/plants/pinguicula-moranensis\">Pinguicula moranensis</a> and <a href=\"/plants/nepenthes-ventrata\">Nepenthes ventrata</a>.</p>",
+    "quickAnswer": "Drosera capensis, the Cape sundew, is an easy, fast-growing carnivorous plant. Grow it in a 50/50 mix of unfertilized Canadian sphagnum peat and coarse silica sand or perlite, standing in a constant 1-2 cm tray of RO, distilled or rain water (ideally under 20 ppm TDS, never above 50 ppm). Give it strong light of 150-250 PPFD for 12-16 hours to get red tentacles and plenty of dew. It needs no winter dormancy, tolerates 15-28\u00b0C, catches fungus gnats and fruit flies on its sticky leaves, and propagates easily from seed, leaf cuttings or root cuttings.",
+    "ogImage": "/assets/images/drosera-capensis.webp",
+    "ogImageAlt": "Drosera capensis with red tentacles and glistening dew drops on long sticky leaves",
+    "heroImage": "/assets/images/drosera-capensis.webp",
+    "heroImageAlt": "Drosera capensis with red tentacles and glistening dew drops on long sticky leaves",
+    "featuredImageAlt": "Drosera capensis with red tentacles and glistening dew drops on long sticky leaves",
+    "category": "Carnivorous Plants",
+    "publishedAt": "2026-10-03",
+    "updatedAt": "2026-10-03",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Dew drops disappear from the tentacles",
+            "diagnosis": "Low light, dry tray, mineral build-up, heat or low humidity with strong airflow",
+            "cause": "Low light, dry tray, mineral build-up, heat or low humidity with strong airflow",
+            "treatment": "Raise light to 150-250 PPFD for 12-16 hours, refill the tray with 1-2 cm of RO water, flush the pot with pure water and move the plant out of hot, dry air.",
+            "prevention": "Use water under 20 ppm TDS, keep the tray topped up and provide strong light.",
+            "confidence": 0.86,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaves turn green, long and floppy",
+            "diagnosis": "Too little light",
+            "cause": "Too little light",
+            "treatment": "Move the plant to a brighter window or add a grow light 15-30 cm above it and extend the photoperiod to 12-16 hours.",
+            "prevention": "Provide at least 150 PPFD year-round.",
+            "confidence": 0.84,
+            "evidence": []
+        },
+        {
+            "symptom": "Tentacle tips and leaf tips turn brown or black",
+            "diagnosis": "Mineral build-up from tap water or fertilizer",
+            "cause": "Mineral build-up from tap water or fertilizer",
+            "treatment": "Flush the pot slowly from the top with RO water, empty and refill the tray with pure water and trim dead leaves.",
+            "prevention": "Use RO, distilled or rain water under 50 ppm TDS and never fertilize.",
+            "confidence": 0.87,
+            "evidence": []
+        },
+        {
+            "symptom": "White crust on the peat surface or pot rim",
+            "diagnosis": "Dissolved minerals concentrating as water evaporates",
+            "cause": "Dissolved minerals concentrating as water evaporates",
+            "treatment": "Flush the pot with several times its volume of RO water, scrape off the crust and repot in fresh peat and sand if heavy.",
+            "prevention": "Use water under 20 ppm TDS and flush every month or two.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Grey mold on dead leaves or the crown",
+            "diagnosis": "Still, humid air with dead tissue left on the plant",
+            "cause": "Still, humid air with dead tissue left on the plant",
+            "treatment": "Cut off dead and moldy leaves with clean scissors, increase airflow and let the surface dry slightly between waterings.",
+            "prevention": "Trim dead leaves weekly and use a small fan in enclosed setups.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Seedlings appear in neighbouring pots and across the terrarium",
+            "diagnosis": "Prolific self-seeding from flower stalks",
+            "cause": "Prolific self-seeding from flower stalks",
+            "treatment": "Pull unwanted seedlings and cut or bag the flower stalks.",
+            "prevention": "Cut flower stalks at the base before the seed ripens.",
+            "confidence": 0.82,
+            "evidence": []
+        },
+        {
+            "symptom": "Fungus gnats hover around the pot",
+            "diagnosis": "Wet organic matter, such as dead leaves, supports larvae in the peat",
+            "cause": "Wet organic matter, such as dead leaves, supports larvae in the peat",
+            "treatment": "Remove dead leaves, top the surface with a thin layer of sand or perlite and apply a light BTI dose. The sticky leaves will catch adults.",
+            "prevention": "Keep the surface clean and trim dead tissue weekly.",
+            "confidence": 0.76,
+            "evidence": []
+        },
+        {
+            "symptom": "Plant looks dead after a frost or cold snap",
+            "diagnosis": "Frost damage to the leaves, with roots often still alive",
+            "cause": "Frost damage to the leaves, with roots often still alive",
+            "treatment": "Bring the pot indoors, cut off blackened leaves and keep the roots just moist in bright light. New shoots often appear from the roots in a few weeks.",
+            "prevention": "Keep the plant above about 5\u00b0C and protect it from frost.",
+            "confidence": 0.74,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Mucilage",
+            "definition": "The sticky, sugary secretion produced by tentacle glands that forms the dew drops on sundew leaves and traps small insects."
+        },
+        {
+            "term": "Thigmotropism",
+            "definition": "A growth movement in response to touch. Sundew tentacles and leaves curl around prey that sticks to the dew."
+        },
+        {
+            "term": "Anthocyanin",
+            "definition": "A red to purple pigment that plants produce in strong light, giving Cape sundew tentacles their red colour."
+        },
+        {
+            "term": "Tray Method",
+            "definition": "A watering method in which a pot stands in a shallow tray of pure water so the substrate stays constantly moist."
+        },
+        {
+            "term": "TDS (Total Dissolved Solids)",
+            "definition": "The concentration of dissolved minerals in water, measured in ppm. Drosera capensis needs water under 50 ppm, ideally under 20 ppm."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Cape Sundew vs Other Common Carnivorous Plants",
+        "headers": [
+            "Plant",
+            "Winter Pattern",
+            "Water Regime",
+            "Gnat Capture"
+        ],
+        "rows": [
+            [
+                "Drosera capensis",
+                "No dormancy; slows slightly",
+                "Constant tray of 1-2 cm pure water",
+                "Excellent all year"
+            ],
+            [
+                "Pinguicula moranensis",
+                "Succulent rosette, no cold rest",
+                "Damp in summer, near-dry in winter",
+                "Excellent in summer"
+            ],
+            [
+                "Dionaea muscipula",
+                "Cold dormancy for 3-4 months",
+                "Barely damp in winter",
+                "Poor"
+            ],
+            [
+                "Nepenthes ventrata",
+                "No dormancy; keep warm",
+                "Consistently moist",
+                "Poor"
+            ]
+        ]
+    },
+    "h1": "Drosera capensis Care Guide: Cape Sundew Water, Light & Propagation",
+    "breadcrumbName": "Drosera capensis",
+    "relatedEntitySlugs": [
+        "calculators:carnivorous-water-tds-calculator",
+        "plants:nepenthes-ventrata",
+        "plants:pinguicula-moranensis",
+        "topics:carnivorous-plant-substrate-guide",
+        "topics:fungus-gnats",
+        "topics:water-quality"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Watering with tap water or bottled mineral water. Minerals build up in the peat as water evaporates, burn the roots and tentacle tips and dry up the dew, and many plants decline within weeks before the grower finds the cause."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Cape sundews set huge amounts of fine seed, so one flowering plant can fill a bog terrarium with seedlings. Cut the stalks early unless you want more plants, and never release them outdoors."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "Most indoor plants lose their red colour and dew because windows give too little light. A grow light 15-30 cm above the plant for 12-16 hours usually fixes it within a few weeks."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "drosera capensis",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "cape sundew care",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "sundew losing dew",
+            "type": "faq_candidate",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "sundew fungus gnats",
+            "type": "alias",
+            "source": "google",
+            "approved": true
+        },
+        {
+            "text": "drosera capensis propagation",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "can sundews eat bloodworms",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Cape Sundew",
+    "aliases": [
+        "Cape Sundew",
+        "Drosera capensis",
+        "Cape Sundew Alba",
+        "Capensis Sundew"
+    ],
+    "summary": "Drosera capensis, the Cape sundew, is a fast-growing, forgiving carnivorous plant that grows year-round without dormancy. Learn the tray watering method, peat and sand mix, strong light for red dew, easy propagation and gnat control.",
+    "keyTakeaways": [
+        "Grow it in a 50/50 mix of unfertilized Canadian sphagnum peat and coarse washed silica sand or perlite, standing in a constant 1-2 cm tray of pure water.",
+        "Use only RO, distilled or rain water under 50 ppm TDS, and ideally under 20 ppm, because tap water minerals burn the roots and dry up the dew.",
+        "Give it strong light of 150-250 PPFD for 12-16 hours daily to produce red tentacles and glistening dew drops.",
+        "It needs no winter dormancy, grows well at 15-28\u00b0C and tolerates cool spells to about 5\u00b0C, with roots that can resprout after frost.",
+        "It works as living flypaper for adult fungus gnats and fruit flies, propagates easily from seed, leaf cuttings and root cuttings, and can self-seed heavily unless flower stalks are cut."
+    ],
+    "confidenceLevel": "high",
+    "readingTime": 8,
+    "lastReviewed": "2026-10-03",
+    "plantHero": {
+        "plantType": "Carnivorous Herb",
+        "difficulty": "beginner",
+        "light": "High light",
+        "lightMin": "medium",
+        "lightMax": "high",
+        "water": "Constant 1-2 cm tray of RO, distilled or rain water under 50 ppm TDS",
+        "drynessThreshold": "Never let the tray run dry",
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50-80%",
+        "temperature": "15-28\u00b0C (59-82\u00b0F)",
+        "matureSize": "4-8 inches",
+        "growthRate": "Fast",
+        "soil": "50% unfertilized peat moss, 50% coarse silica sand or perlite",
+        "soilDrainage": "good",
+        "fertilizer": "None",
+        "repottingFrequency": "Every 1-2 years in spring",
+        "potPreference": "Small pot with drainage standing in a shallow tray",
+        "propagation": "Seed, leaf cuttings and root cuttings",
+        "flowering": true,
+        "floweringSeason": "Spring to summer, often repeating",
+        "petSafety": "safe",
+        "petSafetyNote": "Not known to be toxic, but delicate.",
+        "nativeRegion": "South Africa (Cape Province)",
+        "usdaZones": "9-11 outdoors; usually grown indoors",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "Drosera capensis",
+            "Carnivorous plant",
+            "Sundew",
+            "Total dissolved solids"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/drosera-capensis/",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": [],
+        "note": "Not known to be toxic, but no definitive ASPCA listing was confirmed for this species. Keep out of reach of pets, since the delicate sticky leaves are easily damaged."
+    },
+    "contentText": "Drosera capensis Care at a Glance Light: High intensity, 150-250 PPFD, for 12-16 hours daily. Substrate: 50% unfertilized Canadian sphagnum peat and 50% coarse washed silica sand or perlite. Water: RO, distilled or rain water, ideally under 20 ppm TDS and never above 50 ppm, in a constant 1-2 cm tray. Temperature: 15-28\u00b0C (59-82\u00b0F), with 50-80% humidity and gentle airflow. Dormancy: None. It grows all year. Propagation: seed, leaf cuttings and root cuttings. What Is Drosera capensis? Drosera capensis, the Cape sundew, is a fast-growing carnivorous plant in the family Droseraceae. It comes from the Cape Province of South Africa, where it grows in fynbos and along stream seepages. Its long, narrow leaves are covered in tentacles tipped with glistening droplets of sticky mucilage. Insects stick to the dew, and the leaf slowly curls around them as nearby tentacles bend inwards, a movement called thigmotropism, and digests them. It is one of the easiest sundews to grow and a good first carnivorous plant. For a companion with a different winter pattern, see Pinguicula moranensis . Light Strong light is the key to a good Cape sundew. Aim for 150-250 PPFD for 12-16 hours daily. A bright south or east window can work, but most indoor growers do better with an LED grow light 15-30 cm above the plant. Strong light turns the tentacles red through anthocyanin pigments and drives heavy dew production. Plants in weak light turn green, grow floppy and make little dew. Water: The Continuous Tray Method Stand the pot in a tray holding 1-2 cm of RO, distilled or rain water at all times. Unlike many carnivorous plants, Drosera capensis tolerates constant wetness and does not need a drier season. Use water under 50 ppm TDS, and aim for under 20 ppm. Minerals in tap water build up in the peat as water evaporates, burn the roots and tentacle tips and dry up the dew. Test the tray with a TDS pen, and use the carnivorous water TDS calculator to check blends and estimate how fast minerals accumulate in your pot. Flush the pot from the top with pure water every month or two, and never use fertilizer. Substrate Use a mix of 50% unfertilized Canadian sphagnum peat moss and 50% coarse washed silica sand or perlite by volume. This holds moisture but stays open enough for roots to breathe. Never use potting soil, fertilizer, or sand that contains lime or shell. Rinse sand and perlite in RO water before mixing. The carnivorous plant substrate guide covers other mixes and what to avoid. Temperature, Humidity and Airflow The plant grows best at 15-28\u00b0C and tolerates cooler spells down to about 5\u00b0C. Hard frost kills the leaves, but the roots can resprout from the base. Moderate humidity of 50-80% is enough, and gentle air circulation helps prevent mold on dead leaves. In an enclosed display, ventilate so the surface does not stay saturated. The carnivorous plant terrarium build guide explains how to ventilate a terrarium and group plants with similar needs. No Dormancy Needed Drosera capensis is a subtropical perennial and does not need a cold winter rest. In winter it may slow down and make fewer leaves, but it should stay green and sticky in bright light. This is different from Venus flytraps, Sarracenia and temperate sundews, which need cold dormancy. The dormancy requirements guide explains which plants rest and which do not. Mexican butterworts also differ, because they need a near-dry winter substrate, as described in the Pinguicula rock setup guide . Trapping and Feeding The Cape sundew works as living flypaper for fungus gnats, fruit flies and other small flies. Prey sticks to the dew, and the leaf curls around it within hours. A plant in a room with a few gnats or flies usually feeds itself. If prey is scarce, rehydrate a few dried bloodworms in a drop of RO water and place a small piece on one or two leaves. Feed only a leaf or two at a time, no more than once every week or two, and never feed the substrate or tray. The plant catches only adult insects, so it does not kill fungus gnat larvae in the soil of other houseplants. Combine it with BTI and a dry-down cycle as described in carnivorous plants for fungus gnats . Place the plant within 30-60 cm of the infested pots, and let leaves covered in carcasses wither naturally. Flowering and Self-Seeding Healthy plants send up tall stalks with clusters of pink to purple flowers from spring through summer, and often flower repeatedly in good light. Each flower produces plenty of fine black seed. In a bog terrarium or crowded tray, seedlings can pop up everywhere. To prevent this, cut the flower stalks at the base before the seed ripens. If you want more plants, let one stalk dry and collect the seed. Do not release the plant outdoors, because it has naturalised in some regions. Propagation The second reference table above compares the three methods. From Seed Collect ripe black seed from dried flower heads. Sprinkle it on the surface of damp peat and sand mix. Do not cover it. Keep the pot in a tray of RO water, in bright light and high humidity. Seed usually sprouts in one to three weeks. Thin crowded seedlings after a couple of months. From Leaf Cuttings Cut or pull a healthy, young leaf from the base. Lay it on damp peat and sand mix, or float it in a shallow dish of RO water. Keep it bright, warm and undisturbed. Plantlets form at the base or along the leaf in two to six weeks. From Root Cuttings Lift the plant in spring and wash the roots in RO water. Cut thick root pieces about 2-4 cm long. Lay them flat on the surface of damp medium and keep them humid and bright. New shoots appear in three to six weeks. Roots left in the old pot often resprout on their own. Repotting and Maintenance Weekly: check the tray, remove dead black leaves and look for algae, mold or white crust. Monthly: check the TDS of the tray and flush the pot with RO water. Every 1-2 years: repot in fresh peat and sand mix in spring, and divide crowded clumps. Troubleshooting Summary Symptom Likely cause Quick fix Dew drops disappear Low light, dry tray, minerals or heat Raise light, refill the tray with pure water and flush the pot Leaves green and floppy Too little light Move to a brighter spot or add a grow light Tentacle tips and leaf tips brown Mineral build-up from tap water Flush with RO water and switch to pure water Mold on dead leaves Still air and dead tissue Trim dead leaves and improve airflow Seedlings everywhere Self-seeding Cut flower stalks before seed ripens and pull unwanted seedlings Related Resources Plan an enclosure with the carnivorous plant terrarium build guide , choose a medium with the carnivorous plant substrate guide , grow a butterwort on rock with the Pinguicula rock setup guide , compare winter care in the dormancy requirements guide , use sundews for pest control with carnivorous plants for fungus gnats , check your water with the carnivorous water TDS calculator , and meet companions in the profiles for Pinguicula moranensis and Nepenthes ventrata .",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/drosera-capensis/",
+        "lastReviewed": "2026-10-03",
+        "license": "CC BY 4.0"
+    }
+}

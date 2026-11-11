@@ -1,0 +1,360 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ponytail-palm",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ponytail-palm",
+    "seoTitle": "Ponytail Palm Care: Light, Watering & Trunk Base Health",
+    "metaDescription": "Ponytail Palm gets crispy brown tips from underwatering or fluoride in tap water. Find out Beaucarnea recurvata's watering needs and why this pet-safe.",
+    "featuredImage": "/assets/images/ponytail-palm.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "beginner-friendly",
+        "succulents",
+        "low-maintenance"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Beaucarnea recurvata",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Beaucarnea recurvata",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Beaucarnea recurvata",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Beaucarnea recurvata Production Guide",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Beaucarnea recurvata",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Beaucarnea recurvata",
+        "family": "Asparagaceae",
+        "origin": "Eastern Mexico",
+        "type": "Evergreen succulent tree",
+        "nativeClimate": "Semi-desert",
+        "commonUses": [
+            "Floor plant",
+            "Tabletop accent",
+            "Pet-safe homes"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "The brightest sunny window available, ideally South or West facing.",
+        "watering": "Allow the soil to dry out 100% completely before watering thoroughly.",
+        "soil": "A fast-draining cactus and succulent mix.",
+        "pruning": "Trim off completely dead lower leaves at the trunk. Snip brown tips with sterile scissors.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats, dogs, and humans.",
+        "bestFor": "Forgetful waterers and homes with very bright sunlight."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "3-6 feet indoors (can reach 15+ feet outdoors)",
+        "matureSpread": "2-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors (creamy white panicles when mature)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 100\u00b0F (10\u00b0C - 38\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "20% - 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.5",
+            "survivable": "5.5 - 8.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires as much bright, direct sunlight as possible indoors. While it will tolerate bright indirect light, it will grow incredibly slowly.",
+        "sunlightHours": "6+ hours direct or bright indirect",
+        "intensity": "high",
+        "indoorWindow": "South or West facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very light feeder. Excess fertilizer causes brown, burned leaf tips.",
+        "fertilizerFrequency": "Once or twice a year during spring/summer at half strength.",
+        "organicOptions": "Cactus fertilizer or very light compost top dressing."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "The bulbous trunk stores massive amounts of water. Sitting in wet soil can quickly lead to severe root rot."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Is the Ponytail Palm a real palm tree?",
+            "answer": "No! Despite the name, it is not a palm at all. It is actually a succulent in the Asparagus family, closely related to Agave and Yucca."
+        },
+        {
+            "question": "How often should I water my Ponytail Palm?",
+            "answer": "Water only when the soil is 100% dry from top to bottom. In a large pot during winter, this could mean watering only once every 4 to 6 weeks. The bulbous trunk stores water for drought."
+        },
+        {
+            "question": "Why are the tips of my Ponytail Palm turning brown?",
+            "answer": "Brown tips are extremely common. They are usually caused by overwatering, severe underwatering, or fertilizer burn. If the trunk is firm, simply snip the brown tips off with scissors to improve the look."
+        },
+        {
+            "question": "Is the Ponytail Palm safe for cats?",
+            "answer": "Yes, it is completely non-toxic. However, cats love to play with and chew on the long, grassy leaves. You may need to keep it out of reach to protect the plant from your cat, not the other way around!"
+        },
+        {
+            "question": "Why is the trunk of my Ponytail Palm soft and squishy?",
+            "answer": "A soft, squishy trunk is the fatal sign of root and stem rot caused by overwatering. Unfortunately, once the bulb rots, the plant cannot be saved."
+        },
+        {
+            "question": "Does my Ponytail Palm need direct sunlight?",
+            "answer": "Yes, it prefers as much direct sunlight as you can give it indoors. It will tolerate bright indirect light, but its growth will slow to a crawl."
+        },
+        {
+            "question": "When should I repot my Ponytail Palm?",
+            "answer": "They prefer to be root-bound and grow very slowly. You only need to repot every 3 to 5 years, or when the bulbous base has expanded so much that it is cracking the plastic nursery pot."
+        },
+        {
+            "question": "How do you propagate a Ponytail Palm?",
+            "answer": "It is difficult for home growers. They are usually grown from seed. Occasionally, a mature plant will produce \"pups\" (offsets) at the base of the trunk, which can be carefully cut away and rooted in sandy soil."
+        }
+    ],
+    "shortDesc": "After advising hundreds of indoor gardeners on succulent care, we've found the Ponytail Palm to be the ultimate 'set it and forget it' floor plant\u2014provided you give it enough sun and practically ignore it with the watering can.",
+    "content": "<h2>Overview</h2><p>The Ponytail Palm (Beaucarnea recurvata) is a whimsical, architectural houseplant defined by its bulbous, elephant-foot trunk and a cascading crown of long, curly, ribbon-like leaves. Despite its name and appearance, it is not a palm tree at all; it is a succulent. The most common mistake new owners make is watering it like a tropical palm rather than a desert survivor. This guide will teach you the strict \"soak and dry\" protocol required to keep its unique trunk firm and its leaves flowing.</p><p>Native to the semi-desert regions of Eastern Mexico, the Ponytail Palm is an evolutionary marvel designed to survive extreme drought. The massive, swollen base of the trunk (the caudex) acts as a giant water reservoir. When rainfall is scarce, the plant draws on this stored water to survive. Because it comes with its own built-in water tank, putting this plant in a typical wet indoor potting soil is a guaranteed recipe for rapid root and stem rot.</p><h3>Light</h3><p>Ponytail Palms are sun-worshippers. Indoors, they need the brightest location you can provide. A south or west-facing window where the plant receives several hours of direct sunlight is ideal. While they can adapt to bright, indirect light, their already sluggish growth rate will slow to a near halt. If you place a Ponytail Palm in a dark corner, the new leaves will emerge weak, pale, and droopy, rather than stiff and arched.</p><h3>Temperature</h3><p>As a desert native, this plant loves the heat and thrives in standard household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). It can tolerate extreme heat if placed outdoors in the summer. However, it is not cold-hardy. Prolonged exposure to temperatures below 50\u00b0F (10\u00b0C) can cause tissue damage. Keep it away from drafty windows and doors during freezing winter weather.</p><h3>Humidity</h3><p>Unlike tropical palms that crave moisture in the air, the Ponytail Palm thrives in the dry air typical of centrally-heated homes. You do not need a humidifier, and you should never mist the leaves, as water trapped in the crown can lead to fungal rot. Standard household humidity (30% to 50%) is perfectly fine.</p><h3>Watering</h3><p>This is where you must exercise extreme restraint. You must allow the potting soil to dry out 100% completely from top to bottom before watering. During the warm summer months, this might mean watering once every two to three weeks. During the winter, when the plant goes dormant, you may only need to water it once every four to six weeks. When you do water, soak the soil thoroughly until water pours out the drainage holes, but empty the saucer immediately. If the bulbous trunk ever feels soft or squishy, you have overwatered, and the plant is rotting.</p><h3>Soil</h3><p>Because the roots need to dry out rapidly, standard indoor potting soil is too heavy and retains too much moisture. You must use a fast-draining cactus and succulent mix. If you only have standard potting soil, you must mix it with at least 50% perlite, pumice, or coarse sand to ensure sharp drainage and adequate aeration.</p><h2>Fertilizer</h2><p>Ponytail Palms are exceptionally slow growers and require very little fertilizer. Over-fertilizing is a common cause of brown, crispy leaf tips. Feed the plant only once or twice a year\u2014typically once in the early spring and once in mid-summer\u2014using a specialized liquid cactus fertilizer or a standard houseplant fertilizer diluted to quarter strength. Do not fertilize in the fall or winter.</p><h2>Propagation</h2><p>Propagating a Ponytail Palm at home is challenging. Commercial growers start them from seed. You cannot propagate them from a leaf or stem cutting. Occasionally, a mature, healthy plant will produce \"pups\"\u2014small offsets growing from the base of the trunk. Once a pup is a few inches tall and has formed its own small root nub, you can carefully slice it away with a sterilized knife and plant it in a gritty cactus mix, though success rates vary.</p><h2>Repotting</h2><p>These plants actually prefer to be slightly root-bound, and because they grow so slowly, they rarely need repotting. You only need to move a Ponytail Palm to a larger pot every three to five years, or when the bulbous base has grown so large that there is less than an inch of space between the trunk and the edge of the pot. When repotting, choose a heavy clay or terracotta pot (to prevent the top-heavy plant from tipping over) that is only one or two inches wider than the current one.</p><h2>Toxicity</h2><p>The Ponytail Palm is completely non-toxic to cats, dogs, and humans. However, its long, stringy leaves are incredibly tempting for cats to play with and chew on. While eating the leaves won't poison your cat, the cat can easily destroy the aesthetic of the plant. If you have a playful feline, you may need to place the plant on a tall stool or shelf.</p><h2>Common Problems</h2><p>Brown, crispy leaf tips are the most common cosmetic issue. This can be caused by severe underwatering, but more often, it is due to a buildup of mineral salts from tap water or fertilizer. If the brown tips bother you, simply snip them off with sharp, sterilized scissors, following the natural angle of the leaf. The most fatal problem is a soft, squishy trunk, which indicates severe stem rot from overwatering. Pests are relatively uncommon, though mealybugs can occasionally hide in the tight crown where the leaves emerge; inspect this area periodically.</p><h3>Soft vs. Firm Trunk: Checking Caudex Health</h3><p>Evaluating the caudex requires looking at both tissue texture and overall growing conditions. A firm, swollen base is generally consistent with a normally hydrated, structurally sound caudex. Unusual softness, collapse, or worsening tissue near the base can indicate serious stress or decay and warrants checking the root zone and growing conditions. However, a shrinking or wrinkled caudex can also reflect water stress, so firmness or visual appearance alone must not be treated as a definitive diagnosis.</p>",
+    "quickAnswer": "Ponytail Palm is not a true palm but a succulent caudiciform with a bulbous water-storing trunk base. It requires bright light including some direct sun and should be watered only after soil fully dries. Use a fast-draining succulent mix to prevent bulb and root rot, which is the most common cause of failure in this otherwise nearly indestructible Mexican native.",
+    "ogImage": "/assets/images/ponytail-palm.webp",
+    "ogImageAlt": "A mature Ponytail Palm with a thick trunk and cascading curly leaves",
+    "heroImage": "/assets/images/ponytail-palm.webp",
+    "heroImageAlt": "Close up of the bulbous trunk and ribbon-like foliage of Beaucarnea recurvata",
+    "featuredImageAlt": "Ponytail Palm floor plant sitting in a bright, sunlit room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "The bulbous trunk is soft, squishy, and wrinkling",
+            "diagnosis": "Fatal stem rot caused by chronic overwatering.",
+            "treatment": "Unfortunately, a squishy trunk usually means the plant cannot be saved. Discard the plant and soil.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Caudex",
+            "definition": "A thickened, woody stem base or trunk used by certain desert plants to store water and survive extended periods of drought."
+        },
+        {
+            "term": "Offset (Pup)",
+            "definition": "A small, complete daughter plant that has been naturally produced asexually on the mother plant, usually near the base."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Similar Looking Palm Comparison",
+        "headers": [
+            "Plant",
+            "True Palm?",
+            "Care Style"
+        ],
+        "rows": [
+            [
+                "Ponytail Palm",
+                "No (Succulent)",
+                "Full Sun, Let dry 100%"
+            ],
+            [
+                "Parlor Palm",
+                "Yes",
+                "Indirect Light, Keep evenly moist"
+            ],
+            [
+                "Sago Palm",
+                "No (Cycad - Highly Toxic)",
+                "Bright Light, Let dry slightly"
+            ]
+        ]
+    },
+    "h1": "Ponytail Palm Care Guide: Light, Watering & Caudex Health",
+    "breadcrumbName": "Ponytail Palm Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "parlor-palm"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the bulbous base looks like something that stores and needs lots of water\u2014which it does store, but that's precisely why it needs infrequent watering. The swollen caudex is a drought reservoir, and keeping the soil wet prevents the roots from ever fully drying, leading to base rot."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It's not a palm at all\u2014it belongs to the Asparagaceae family and is botanically a succulent. This explains why it thrives in bright direct sun with minimal water, behaving nothing like a true palm in cultivation."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light the leaves grow thin, pale, and floppy rather than the stiff, cascading ponytail form, and the caudex stops expanding entirely. A very sunny south-facing window is needed to maintain the thick trunk and full, arching leaf display."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "beaucarnea recurvata care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for ponytail palm",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ponytail palm watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ponytail palm brown tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "elephant foot palm",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe succulents",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ponytail Palm",
+    "summary": "Beaucarnea recurvata develops a dramatically swollen trunk base that stores water for extended drought periods, topped with a fountain of arching ribbon-like leaves. This Mexican native thrives on neglect and lives for decades. This guide explains how to provide adequate light for compact growth, water correctly to preserve the caudex, prevent the rot that kills most specimens, and manage the plant as it gradually increases in size and architectural presence.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for healthy growth.",
+        "Water only after soil has fully dried out; this succulent tolerates drought well.",
+        "Use a fast-draining succulent mix to prevent bulb and root rot.",
+        "Avoid overwatering, the most common care mistake with this species."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent tree",
+        "difficulty": "beginner",
+        "light": "Bright indirect to full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Allow the soil to dry completely between waterings, then water thoroughly.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "2-6 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Cactus or succulent potting mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Diluted balanced fertilizer once or twice during spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Heavy terracotta pot",
+        "propagation": "Offsets or seeds",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "safe",
+        "nativeRegion": "Eastern Mexico",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ponytail-palm/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water deeply during the spring and summer growing period, allowing the potting substrate to dry out thoroughly between sessions. Because the swollen caudex stores abundant water, drastically scale back watering in the winter months."
+        }
+    ],
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The Ponytail Palm (Beaucarnea recurvata) is a whimsical, architectural houseplant defined by its bulbous, elephant-foot trunk and a cascading crown of long, curly, ribbon-like leaves. Despite its name and appearance, it is not a palm tree at all; it is a succulent. The most common mistake new owners make is watering it like a tropical palm rather than a desert survivor. This guide will teach you the strict \"soak and dry\" protocol required to keep its unique trunk firm and its leaves flowing. Native to the semi-desert regions of Eastern Mexico, the Ponytail Palm is an evolutionary marvel designed to survive extreme drought. The massive, swollen base of the trunk (the caudex) acts as a giant water reservoir. When rainfall is scarce, the plant draws on this stored water to survive. Because it comes with its own built-in water tank, putting this plant in a typical wet indoor potting soil is a guaranteed recipe for rapid root and stem rot. Light Ponytail Palms are sun-worshippers. Indoors, they need the brightest location you can provide. A south or west-facing window where the plant receives several hours of direct sunlight is ideal. While they can adapt to bright, indirect light, their already sluggish growth rate will slow to a near halt. If you place a Ponytail Palm in a dark corner, the new leaves will emerge weak, pale, and droopy, rather than stiff and arched. Temperature As a desert native, this plant loves the heat and thrives in standard household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). It can tolerate extreme heat if placed outdoors in the summer. However, it is not cold-hardy. Prolonged exposure to temperatures below 50\u00b0F (10\u00b0C) can cause tissue damage. Keep it away from drafty windows and doors during freezing winter weather. Humidity Unlike tropical palms that crave moisture in the air, the Ponytail Palm thrives in the dry air typical of centrally-heated homes. You do not need a humidifier, and you should never mist the leaves, as water trapped in the crown can lead to fungal rot. Standard household humidity (30% to 50%) is perfectly fine. Watering This is where you must exercise extreme restraint. You must allow the potting soil to dry out 100% completely from top to bottom before watering. During the warm summer months, this might mean watering once every two to three weeks. During the winter, when the plant goes dormant, you may only need to water it once every four to six weeks. When you do water, soak the soil thoroughly until water pours out the drainage holes, but empty the saucer immediately. If the bulbous trunk ever feels soft or squishy, you have overwatered, and the plant is rotting. Soil Because the roots need to dry out rapidly, standard indoor potting soil is too heavy and retains too much moisture. You must use a fast-draining cactus and succulent mix. If you only have standard potting soil, you must mix it with at least 50% perlite, pumice, or coarse sand to ensure sharp drainage and adequate aeration. Fertilizer Ponytail Palms are exceptionally slow growers and require very little fertilizer. Over-fertilizing is a common cause of brown, crispy leaf tips. Feed the plant only once or twice a year\u2014typically once in the early spring and once in mid-summer\u2014using a specialized liquid cactus fertilizer or a standard houseplant fertilizer diluted to quarter strength. Do not fertilize in the fall or winter. Propagation Propagating a Ponytail Palm at home is challenging. Commercial growers start them from seed. You cannot propagate them from a leaf or stem cutting. Occasionally, a mature, healthy plant will produce \"pups\"\u2014small offsets growing from the base of the trunk. Once a pup is a few inches tall and has formed its own small root nub, you can carefully slice it away with a sterilized knife and plant it in a gritty cactus mix, though success rates vary. Repotting These plants actually prefer to be slightly root-bound, and because they grow so slowly, they rarely need repotting. You only need to move a Ponytail Palm to a larger pot every three to five years, or when the bulbous base has grown so large that there is less than an inch of space between the trunk and the edge of the pot. When repotting, choose a heavy clay or terracotta pot (to prevent the top-heavy plant from tipping over) that is only one or two inches wider than the current one. Toxicity The Ponytail Palm is completely non-toxic to cats, dogs, and humans. However, its long, stringy leaves are incredibly tempting for cats to play with and chew on. While eating the leaves won't poison your cat, the cat can easily destroy the aesthetic of the plant. If you have a playful feline, you may need to place the plant on a tall stool or shelf. Common Problems Brown, crispy leaf tips are the most common cosmetic issue. This can be caused by severe underwatering, but more often, it is due to a buildup of mineral salts from tap water or fertilizer. If the brown tips bother you, simply snip them off with sharp, sterilized scissors, following the natural angle of the leaf. The most fatal problem is a soft, squishy trunk, which indicates severe stem rot from overwatering. Pests are relatively uncommon, though mealybugs can occasionally hide in the tight crown where the leaves emerge; inspect this area periodically. Soft vs. Firm Trunk: Checking Caudex Health Evaluating the caudex requires looking at both tissue texture and overall growing conditions. A firm, swollen base is generally consistent with a normally hydrated, structurally sound caudex. Unusual softness, collapse, or worsening tissue near the base can indicate serious stress or decay and warrants checking the root zone and growing conditions. However, a shrinking or wrinkled caudex can also reflect water stress, so firmness or visual appearance alone must not be treated as a definitive diagnosis.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ponytail-palm/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

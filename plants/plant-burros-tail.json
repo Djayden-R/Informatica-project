@@ -1,0 +1,325 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-burros-tail",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "burros-tail",
+    "seoTitle": "Burro's Tail Care: Avoid Leaves From Falling Off",
+    "metaDescription": "Burro's Tail care prevents leaves from dropping. Learn why Sedum morganianum sheds so easily, how to water correctly, and why it needs bright direct sun.",
+    "featuredImage": "/assets/images/burros-tail.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "trailing-plants",
+        "pet-safe",
+        "drought-tolerant"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Sedum morganianum",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Sedum morganianum",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Sedum morganianum",
+        "family": "Crassulaceae",
+        "origin": "Mexico",
+        "type": "Evergreen trailing succulent",
+        "nativeClimate": "Semi-desert / Subtropical",
+        "commonUses": [
+            "Hanging baskets",
+            "High shelves",
+            "Sunrooms"
+        ]
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Hang it high in a very bright, sunny window and leave it alone. Do not bump it.",
+        "watering": "Wait until the soil is 100% dry and the leaves begin to slightly pucker, then soak thoroughly.",
+        "soil": "A very gritty, fast-draining cactus/succulent mix (e.g., 50% pumice, 50% succulent soil).",
+        "pruning": "Rarely needed. You can trim stems if they get too long, but it will drop leaves in the process.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats and dogs.",
+        "bestFor": "Sunny, south-facing windows where it can be hung and completely undisturbed."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "Trailing 2-4 feet",
+        "matureSpread": "1-2 feet at the crown",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer (produces small pink/red star-shaped flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires as much bright, direct sunlight as possible indoors. Without at least 4-6 hours of direct sun, it will stretch (etiolate), become pale, and lose leaves easily.",
+        "sunlightHours": "4-8 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or west-facing window is mandatory.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Requires very little fertilizer.",
+        "fertilizerFrequency": "Once or twice a year in spring/summer using a cactus fertilizer diluted to half strength.",
+        "organicOptions": "A light application of worm castings in the spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Like most succulents, keeping the roots in wet soil will cause them to rot rapidly. The soil must dry completely between waterings."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why do the leaves fall off my Burro's Tail so easily?",
+            "answer": "This is entirely normal! Sedum morganianum has evolved to drop its plump leaves at the slightest touch so they can fall to the ground and propagate into new plants. Place it somewhere it won't be bumped."
+        },
+        {
+            "question": "How often should I water a Burro's Tail?",
+            "answer": "Wait until the soil is completely, 100% dry. The best way to know it's time to water is to look at the leaves; when they start to look slightly wrinkled or puckered, give it a deep, thorough soaking."
+        },
+        {
+            "question": "Why is my Burro's Tail stretching out and pale?",
+            "answer": "This is called etiolation and is caused by a lack of light. Burro's Tail requires hours of direct sunlight. Move it to a south or west-facing window."
+        },
+        {
+            "question": "Is Burro's Tail toxic to cats or dogs?",
+            "answer": "No, it is completely non-toxic. However, pets brushing against it will cause dozens of leaves to fall off, so it is best kept out of reach."
+        },
+        {
+            "question": "How do I propagate the fallen leaves?",
+            "answer": "Simply lay the fallen leaves on top of dry succulent soil in a bright spot. Within a few weeks, they will sprout tiny pink roots and eventually grow into a brand new baby plant."
+        }
+    ],
+    "shortDesc": "The Burro's Tail is a striking trailing succulent that requires bright direct sun and infrequent watering. Its delicate leaves fall off easily, making careful placement essential.",
+    "content": "<h2>Overview</h2><p>The Burro's Tail (<em>Sedum morganianum</em>), also known as the Donkey Tail plant, is a visually stunning trailing succulent native to southern Mexico. It is famous for its long, thick stems completely covered in fleshy, teardrop-shaped leaves that overlap like scales. When mature, these heavy, trailing stems can reach three to four feet in length, making it a spectacular specimen for hanging baskets.</p><p>However, it has one major quirk that frustrates many indoor gardeners: the leaves fall off if you look at them the wrong way. This is not necessarily a sign of poor health; it is an evolutionary adaptation. In the wild, animals brushing past the plant knock the leaves off, which then root in the ground below to create new plants. To succeed with a Burro's Tail indoors, you must place it where it will never be bumped or moved, give it blasting sun, and largely ignore it.</p><h3>Light Requirements</h3><p>This is a true sun-lover. A Burro's Tail requires the brightest light you can provide indoors. A south or west-facing window where it receives at least 4 to 6 hours of direct sunlight is mandatory. If you place it in a dim room or a north-facing window, the stems will stretch out (etiolate), leaving large gaps between the leaves, and it will become weak and pale green.</p><h3>Watering Strategy</h3><p>Like most thick-leaved succulents, the Burro's Tail stores massive amounts of water in its foliage to survive long droughts. Because of this, overwatering is the fastest way to kill it. You must allow the soil to dry out completely\u2014100% bone dry\u2014before watering again.</p><p>The best indicator that it needs water is the plant itself. When it is fully hydrated, the leaves are plump and rigid. When it is thirsty, the leaves will begin to look slightly wrinkled, puckered, or less firm. Once you see this sign, soak the soil thoroughly until water runs out the bottom of the pot, then wait for the cycle to repeat.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures are fine, ideally between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). During the winter, it can tolerate cooler temperatures down to 50\u00b0F (10\u00b0C), which can actually encourage it to bloom in the summer. It requires no extra humidity and perfectly tolerates the dry winter air of centrally heated Western homes.</p><h3>Soil and Potting</h3><p>Drainage is absolutely critical. Standard potting soil will hold too much moisture and rot the roots. You must use a dedicated cactus/succulent mix, ideally amended with 50% pumice, perlite, or coarse sand to ensure water drains instantly. Because the trailing stems become extremely heavy and brittle, you should repot this plant as infrequently as possible to avoid breaking it.</p><h2>Fertilizing</h2><p>This succulent is a slow grower and a very light feeder. Over-fertilizing can lead to weak, leggy growth. Feed it only once or twice a year during the spring and summer using a liquid cactus fertilizer diluted to half strength.</p><h2>Propagation</h2><p>While frustrating when they fall off accidentally, the fragile leaves make propagation incredibly easy. Simply collect the fallen leaves, let them sit on a dry surface for a few days so the broken end calluses over, and then lay them flat on top of slightly moist succulent soil. Keep them in a bright, warm spot out of direct sun. Within a few weeks, tiny pink roots will emerge, followed by a microscopic new plant.</p><h2>Toxicity</h2><p>Burro's Tail is entirely non-toxic to cats, dogs, and humans. However, due to its fragile nature, you will want to keep it well out of reach of curious pets who might bat at the trailing stems and knock all the leaves off.</p><h2>Common Problems</h2><p><strong>Leaves Falling Off Constantly:</strong> If it happens when you touch it, it's normal. If the leaves are turning yellow, turning mushy, and falling off on their own without being touched, you are overwatering. Stop immediately and let the soil dry out.</p><p><strong>Shriveled, Wrinkled Leaves:</strong> The plant is thirsty. Give it a deep, thorough soaking.</p><p><strong>Stretching/Gaps Between Leaves:</strong> The plant is etiolated due to insufficient light. You cannot \"fix\" the stretched portions, but moving it to a brighter window will ensure the new growth comes in compact and healthy.</p>",
+    "quickAnswer": "Burro's Tail is a trailing succulent with delicate bead-like leaves that requires bright light including some direct sun and infrequent watering only after soil fully dries. Handle the stems carefully since leaves detach at the slightest touch, and use a fast-draining succulent mix to prevent stem and leaf rot. This Mexican native creates stunning hanging basket displays with minimal ongoing care.",
+    "ogImage": "/assets/images/burros-tail.webp",
+    "ogImageAlt": "Long, thick trailing stems of a Burro's Tail succulent hanging from a basket",
+    "heroImage": "/assets/images/burros-tail.webp",
+    "heroImageAlt": "Close up of the overlapping, teardrop-shaped leaves of Sedum morganianum",
+    "featuredImageAlt": "Burro's Tail thriving in a bright, sunny indoor window",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves turning yellow, mushy, and dropping off without being touched",
+            "diagnosis": "Overwatering and root rot.",
+            "treatment": "Stop watering immediately, let the soil dry out completely. If the rot is severe, you may need to propagate the healthy tips.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Etiolation",
+            "definition": "The process in flowering plants grown in partial or complete absence of light. It is characterized by long, weak stems, smaller leaves, and a pale yellow/green color."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Trailing Succulent Care Comparison",
+        "headers": [
+            "Plant",
+            "Light Needs",
+            "Leaf Fragility"
+        ],
+        "rows": [
+            [
+                "Burro's Tail (Sedum)",
+                "Full Direct Sun",
+                "Very High (Falls off easily)"
+            ],
+            [
+                "String of Pearls (Senecio)",
+                "Bright Indirect / Some Sun",
+                "Low"
+            ],
+            [
+                "String of Bananas (Senecio)",
+                "Bright Indirect / Some Sun",
+                "Low"
+            ]
+        ]
+    },
+    "h1": "Burro's Tail Care: How to Prevent Dropping Leaves",
+    "breadcrumbName": "Burro's Tail Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "string-of-pearls",
+        "string-of-turtles"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Handling or repotting it frequently\u2014the plump leaves detach at the slightest touch because the attachment point is naturally fragile, and each lost leaf is a permanent gap in the strand that takes years to fill. Choose a permanent hanging spot and avoid touching it."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Every leaf that falls onto dry soil can root itself and grow into a new plant\u2014simply scatter fallen leaves on the surface and ignore them for a few months. This makes propagation effortless, even if the parent strand looks worse for it."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light, stems etiolate rapidly\u2014leaves space out widely and the strand looks thin and straggly instead of dense and lush. It needs a very bright windowsill or some direct sun to stay compact."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "sedum morganianum care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "donkey tail plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for burros tail",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "trailing succulent",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "sedum indoor care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Burros Tail",
+    "summary": "Sedum morganianum, commonly called Burro's Tail, produces cascading stems covered in plump blue-green leaves that resemble braided ropes. Native to Mexican cliffs where it drapes over rocky ledges, this succulent demands bright conditions and careful handling. This guide covers optimal hanging basket placement, watering schedules that preserve leaf plumpness, soil composition for excellent drainage, and propagation from fallen leaves. You will learn why this plant drops leaves so easily and how to work around this trait.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for compact growth.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Handle carefully at all times, since the delicate bead-like leaves drop off easily.",
+        "Use a fast-draining succulent mix to prevent stem and leaf rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen trailing succulent",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Wait until the soil is 100% dry.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Trailing 2-4 feet",
+        "growthRate": "Slow",
+        "soil": "Cactus or succulent soil",
+        "soilDrainage": "fast",
+        "fertilizer": "Cactus fertilizer once or twice in spring/summer",
+        "repottingFrequency": "Rarely, as stems are extremely fragile",
+        "potPreference": "Hanging basket",
+        "propagation": "Leaf or stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Mexico",
+        "usdaZones": "10-11",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/burros-tail/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Allow the potting mix to dry out completely between thorough waterings during the spring and summer growing season. In the winter months, sharply reduce watering frequency to let the plant rest, watering only when the plump bead-like leaves begin to show subtle signs of softening."
+        }
+    ],
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The Burro's Tail ( Sedum morganianum ), also known as the Donkey Tail plant, is a visually stunning trailing succulent native to southern Mexico. It is famous for its long, thick stems completely covered in fleshy, teardrop-shaped leaves that overlap like scales. When mature, these heavy, trailing stems can reach three to four feet in length, making it a spectacular specimen for hanging baskets. However, it has one major quirk that frustrates many indoor gardeners: the leaves fall off if you look at them the wrong way. This is not necessarily a sign of poor health; it is an evolutionary adaptation. In the wild, animals brushing past the plant knock the leaves off, which then root in the ground below to create new plants. To succeed with a Burro's Tail indoors, you must place it where it will never be bumped or moved, give it blasting sun, and largely ignore it. Light Requirements This is a true sun-lover. A Burro's Tail requires the brightest light you can provide indoors. A south or west-facing window where it receives at least 4 to 6 hours of direct sunlight is mandatory. If you place it in a dim room or a north-facing window, the stems will stretch out (etiolate), leaving large gaps between the leaves, and it will become weak and pale green. Watering Strategy Like most thick-leaved succulents, the Burro's Tail stores massive amounts of water in its foliage to survive long droughts. Because of this, overwatering is the fastest way to kill it. You must allow the soil to dry out completely\u2014100% bone dry\u2014before watering again. The best indicator that it needs water is the plant itself. When it is fully hydrated, the leaves are plump and rigid. When it is thirsty, the leaves will begin to look slightly wrinkled, puckered, or less firm. Once you see this sign, soak the soil thoroughly until water runs out the bottom of the pot, then wait for the cycle to repeat. Temperature and Humidity Typical household temperatures are fine, ideally between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). During the winter, it can tolerate cooler temperatures down to 50\u00b0F (10\u00b0C), which can actually encourage it to bloom in the summer. It requires no extra humidity and perfectly tolerates the dry winter air of centrally heated Western homes. Soil and Potting Drainage is absolutely critical. Standard potting soil will hold too much moisture and rot the roots. You must use a dedicated cactus/succulent mix, ideally amended with 50% pumice, perlite, or coarse sand to ensure water drains instantly. Because the trailing stems become extremely heavy and brittle, you should repot this plant as infrequently as possible to avoid breaking it. Fertilizing This succulent is a slow grower and a very light feeder. Over-fertilizing can lead to weak, leggy growth. Feed it only once or twice a year during the spring and summer using a liquid cactus fertilizer diluted to half strength. Propagation While frustrating when they fall off accidentally, the fragile leaves make propagation incredibly easy. Simply collect the fallen leaves, let them sit on a dry surface for a few days so the broken end calluses over, and then lay them flat on top of slightly moist succulent soil. Keep them in a bright, warm spot out of direct sun. Within a few weeks, tiny pink roots will emerge, followed by a microscopic new plant. Toxicity Burro's Tail is entirely non-toxic to cats, dogs, and humans. However, due to its fragile nature, you will want to keep it well out of reach of curious pets who might bat at the trailing stems and knock all the leaves off. Common Problems Leaves Falling Off Constantly: If it happens when you touch it, it's normal. If the leaves are turning yellow, turning mushy, and falling off on their own without being touched, you are overwatering. Stop immediately and let the soil dry out. Shriveled, Wrinkled Leaves: The plant is thirsty. Give it a deep, thorough soaking. Stretching/Gaps Between Leaves: The plant is etiolated due to insufficient light. You cannot \"fix\" the stretched portions, but moving it to a brighter window will ensure the new growth comes in compact and healthy.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/burros-tail/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

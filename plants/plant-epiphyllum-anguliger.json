@@ -1,0 +1,329 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-epiphyllum-anguliger",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "epiphyllum-anguliger",
+    "seoTitle": "Fishbone Cactus Care: Light, Watering & Bloom Tips",
+    "metaDescription": "Fishbone Cactus is a rainforest epiphyte, not a desert cactus. Find out why Ric Rac stems grow thin, how to trigger blooms, and the right light for.",
+    "featuredImage": "/assets/images/epiphyllum-anguliger.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "pet-safe",
+        "flowering",
+        "succulent-like"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Epiphyllum anguliger",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Cactus and Succulent Care",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Epiphyllum anguliger (often confused with Selenicereus anthonyanus)",
+        "family": "Cactaceae",
+        "origin": "Mexico",
+        "type": "Evergreen epiphytic cactus",
+        "nativeClimate": "Tropical rainforest canopy",
+        "commonUses": [
+            "Hanging baskets",
+            "Pet-safe homes",
+            "Statement focal points"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright, indirect light. Fits perfectly in a hanging basket where the stems can trail down.",
+        "watering": "Water when the top half of the soil is dry. Needs more water than a desert cactus.",
+        "soil": "A fast-draining epiphytic mix (orchid bark, perlite, potting soil).",
+        "pruning": "Prune off long, thin, etiolated stems to encourage the plant to grow thick, zig-zag foliage.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Non-toxic to cats and dogs.",
+        "bestFor": "Plant lovers who want a bizarre, architecturally interesting hanging plant that is entirely pet-safe."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trailing stems up to 3 feet long",
+        "matureSpread": "2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Late Summer/Autumn (produces massive, fragrant white flowers that open only at night)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50% - 60%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to maintain its thick, wide, zig-zag shape. If kept in low light, the plant will stretch rapidly, producing long, thin, stringy stems.",
+        "sunlightHours": "6-8 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East or West-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "high",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires a fertilizer high in phosphorus during the late summer to trigger its massive nocturnal blooms.",
+        "fertilizerFrequency": "Once a month during spring and summer with a bloom-boosting fertilizer.",
+        "organicOptions": "Bone meal mixed into the topsoil."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Will rot if planted in heavy, dense potting soil or if left sitting in stagnant water."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Fishbone Cactus growing long, thin, round stems instead of flat zig-zags?",
+            "answer": "This is called etiolation, and it is caused by a severe lack of light. The plant is desperately stretching out, trying to find the sun. You must move the plant to a brighter location. The thin stems will never turn into flat zig-zags; you should prune them off."
+        },
+        {
+            "question": "How often should I water my Ric Rac Cactus?",
+            "answer": "Unlike a desert cactus that wants to be bone dry for months, this is a jungle cactus. You should water it when the top half of the soil feels dry. It needs significantly more water than a standard cactus."
+        },
+        {
+            "question": "How do I get my Fishbone Cactus to flower?",
+            "answer": "It needs three things: maturity (often 3+ years old), a drop in temperatures during the winter (around 55\u00b0F), and a phosphorus-heavy fertilizer in the late summer. When it finally blooms, the massive white flowers will only open at night."
+        },
+        {
+            "question": "Is the Fishbone Cactus toxic to cats?",
+            "answer": "No. It is completely non-toxic and pet-safe."
+        },
+        {
+            "question": "Why are the stems turning yellow and wrinkled?",
+            "answer": "Yellow, wrinkled, mushy stems are a classic sign of overwatering and root rot. If the stems are wrinkled but crispy and dry, the plant is severely dehydrated."
+        }
+    ],
+    "shortDesc": "The Fishbone Cactus (Ric Rac) is a jungle cactus famous for its bizarre, zig-zagging stems. Unlike desert cacti, it prefers humidity, more frequent watering, and bright indirect light.",
+    "content": "<h2>Overview</h2><p>The Fishbone Cactus (<em>Epiphyllum anguliger</em>), often sold under the fun names Ric Rac Cactus or Zig Zag Cactus, is a spectacular, architectural houseplant. It is instantly recognizable by its flat, heavily lobed stems that look exactly like the skeleton of a fish or a ric-rac sewing ribbon. As the stems grow, they cascade beautifully over the edges of a hanging basket, making it a dramatic, sculptural centerpiece.</p><p>However, the biggest mistake growers make is reading the word \"cactus\" and treating it like one. The Fishbone Cactus is an <em>epiphytic jungle cactus</em>. Native to the rainforest canopies of Mexico, it grows on the bark of trees in high humidity, shaded by the jungle canopy above. It does not want bone-dry sand, and it will scorch to death if placed in baking, direct desert sunlight. Understanding its jungle origins is the key to mastering its care.</p><h3>The \"Long Thin Stem\" Problem (Etiolation)</h3><p>The most common complaint about the Fishbone Cactus is that it suddenly stops growing flat, zig-zag stems and instead shoots out long, thin, round, string-like vines that look like green spaghetti. </p><p>This is a distress signal called etiolation. The plant is not receiving enough light, so it abandons the energy-intensive process of growing wide, flat leaves and instead rapidly stretches out in a desperate attempt to find a brighter spot. To fix this, you must move the plant to a much brighter window (east or west-facing). The thin, stringy stems will never widen out into zig-zags, so you should use sterile scissors to prune them off at the base.</p><h3>Light Requirements</h3><p>To produce thick, deeply lobed, flat stems, the plant requires very bright, indirect light. It thrives in an east-facing window where it can receive a few hours of gentle morning sun, followed by bright ambient light for the rest of the day. Avoid harsh, direct afternoon sun, which will turn the lush green stems a sickly yellow and cause them to scorch.</p><h3>Watering: Not a Desert Plant</h3><p>Because it lacks the massive water-storing capabilities of a barrel cactus, the Fishbone Cactus needs to be watered far more frequently. Allow the top half of the potting soil to dry out completely before watering. In the summer, you may need to water it every 7 to 10 days. </p><p>When you do water, soak the pot thoroughly until water flows out the drainage holes. Never let the pot sit in a saucer of standing water. If you under-water the plant, the thick stems will become deeply wrinkled, thin, and crispy.</p><h3>Soil and Potting</h3><p>Standard cactus soil is actually too sandy and dense for this plant. Remember, it grows on trees. It needs a highly aerated, chunky epiphytic mix. Combine high-quality potting soil with generous amounts of coarse orchid bark and perlite. This mimics the loose debris found in the crooks of jungle trees and ensures the roots get plenty of oxygen.</p><h2>The Nocturnal Blooms</h2><p>If you provide excellent care, a mature Fishbone Cactus will reward you with one of the most spectacular floral displays in the plant kingdom. In the late summer or autumn, it produces massive, pale yellow and white flowers that can reach 6 inches across. </p><p>However, you have to be quick to see them! The flowers are nocturnal; they open rapidly just after sunset, release an incredibly strong, sweet fragrance designed to attract bats and moths, and wilt completely before the sun rises the next morning.</p><h2>Toxicity</h2><p>The Fishbone Cactus is a fantastic addition to homes with pets. It is completely non-toxic to cats, dogs, and humans, making it a worry-free hanging plant.</p>",
+    "quickAnswer": "The Fishbone Cactus is a jungle epiphyte, not a desert plant. It requires bright, indirect light, a chunky soil mix, and watering when the top half of the soil is dry. Long, thin stems mean it needs more light. For best results, we suggest keeping an eye on the plant's response throughout the active growing season.",
+    "ogImage": "/assets/images/epiphyllum-anguliger.webp",
+    "ogImageAlt": "Flat, zig-zag shaped green stems of the Fishbone Cactus",
+    "heroImage": "/assets/images/epiphyllum-anguliger.webp",
+    "heroImageAlt": "Close up of the deeply lobed foliage of Epiphyllum anguliger",
+    "featuredImageAlt": "A lush Fishbone Cactus trailing dramatically from a hanging basket",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Fishbone Cactus growing long, thin, round stems instead of flat zig-zags?",
+            "diagnosis": "Etiolation \u2013 insufficient light",
+            "treatment": "Move to a brighter location; prune thin stems; new growth should revert to flat zig-zags.",
+            "prevention": "Provide bright indirect light, avoiding direct harsh sun.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the stems turning yellow and wrinkled?",
+            "diagnosis": "Overwatering (mushy) or underwatering (crispy) \u2013 check soil",
+            "treatment": "If soil wet, allow to dry; if dry, water thoroughly; if rot, unpot and trim.",
+            "prevention": "Water only when soil is nearly dry; use well-draining cactus mix.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Epiphyte",
+            "definition": "A plant that grows on the surface of another plant (like a tree) and derives its moisture and nutrients from the air, rain, and debris accumulating around it."
+        },
+        {
+            "term": "Etiolation",
+            "definition": "A process in plants grown in partial or complete absence of light. It is characterized by long, weak stems, smaller leaves, and a pale color."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Jungle Cactus vs. Desert Cactus Comparison",
+        "headers": [
+            "Feature",
+            "Jungle Cactus (Fishbone)",
+            "Desert Cactus (Barrel)"
+        ],
+        "rows": [
+            [
+                "Light",
+                "Bright Indirect / Dappled",
+                "Blazing Direct Sun"
+            ],
+            [
+                "Watering",
+                "When top half of soil is dry",
+                "When 100% bone dry"
+            ],
+            [
+                "Soil",
+                "Chunky orchid bark mix",
+                "Heavy sand/pumice mix"
+            ]
+        ]
+    },
+    "h1": "Fishbone Cactus Care: Resolve Thin, Stringy Stems",
+    "breadcrumbName": "Fishbone Cactus Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "leggy-houseplants-etiolation-fix",
+        "wilting-houseplants-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Treating it like a desert cactus with full sun and completely dry soil\u2014it's actually a jungle epiphyte from Mexican forest canopies that needs bright indirect light and soil that stays lightly moist. Full sun bleaches and crisps the flat stems irreversibly."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It produces spectacular large, intensely fragrant white flowers that open only at night\u2014but only after the plant is at least 3 years old and has received a cool, dry winter rest period. Most owners never see them because they keep it warm and consistently watered year-round."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air, the flat zig-zag stems shrivel lengthwise and stop elongating, even with adequate watering, because moisture is lost through the stems faster than roots can supply it. Humidity above 50% is needed to keep growth plump and active."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "ric rac cactus",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "zig zag cactus",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "epiphyllum anguliger long thin stems",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "orchid cactus care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe hanging plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Epiphyllum Anguliger",
+    "summary": "Disocactus anguliger is an epiphytic jungle cactus characterized by zig-zagging, deeply lobed stems and fragrant, nocturnal blooms. Learn chunky bark soil formulations, indirect light positioning, and balanced hydration routines.",
+    "keyTakeaways": [
+        "Provide bright, indirect light; avoid harsh, direct midday sun on zig-zag stems.",
+        "Water when the top half of the chunky orchid bark mix feels dry to the touch.",
+        "Maintain moderate relative humidity, treating it as a jungle epiphyte rather than a desert cactus.",
+        "Prune thin, round etiolated stems resulting from inadequate light exposure."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic cactus",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top half of the soil is dry. Needs more water than a desert cactus.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": true,
+        "humidity": "50% - 60%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "2-3 feet trailing indoors",
+        "growthRate": "Fast",
+        "soil": "Orchid bark, perlite, and potting soil mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced liquid fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Fall",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Mexico",
+        "usdaZones": "10-12",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/epiphyllum-anguliger/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://plants.ces.ncsu.edu/plants/epiphyllum-anguliger/"
+        ]
+    },
+    "contentText": "Overview The Fishbone Cactus ( Epiphyllum anguliger ), often sold under the fun names Ric Rac Cactus or Zig Zag Cactus, is a spectacular, architectural houseplant. It is instantly recognizable by its flat, heavily lobed stems that look exactly like the skeleton of a fish or a ric-rac sewing ribbon. As the stems grow, they cascade beautifully over the edges of a hanging basket, making it a dramatic, sculptural centerpiece. However, the biggest mistake growers make is reading the word \"cactus\" and treating it like one. The Fishbone Cactus is an epiphytic jungle cactus . Native to the rainforest canopies of Mexico, it grows on the bark of trees in high humidity, shaded by the jungle canopy above. It does not want bone-dry sand, and it will scorch to death if placed in baking, direct desert sunlight. Understanding its jungle origins is the key to mastering its care. The \"Long Thin Stem\" Problem (Etiolation) The most common complaint about the Fishbone Cactus is that it suddenly stops growing flat, zig-zag stems and instead shoots out long, thin, round, string-like vines that look like green spaghetti. This is a distress signal called etiolation. The plant is not receiving enough light, so it abandons the energy-intensive process of growing wide, flat leaves and instead rapidly stretches out in a desperate attempt to find a brighter spot. To fix this, you must move the plant to a much brighter window (east or west-facing). The thin, stringy stems will never widen out into zig-zags, so you should use sterile scissors to prune them off at the base. Light Requirements To produce thick, deeply lobed, flat stems, the plant requires very bright, indirect light. It thrives in an east-facing window where it can receive a few hours of gentle morning sun, followed by bright ambient light for the rest of the day. Avoid harsh, direct afternoon sun, which will turn the lush green stems a sickly yellow and cause them to scorch. Watering: Not a Desert Plant Because it lacks the massive water-storing capabilities of a barrel cactus, the Fishbone Cactus needs to be watered far more frequently. Allow the top half of the potting soil to dry out completely before watering. In the summer, you may need to water it every 7 to 10 days. When you do water, soak the pot thoroughly until water flows out the drainage holes. Never let the pot sit in a saucer of standing water. If you under-water the plant, the thick stems will become deeply wrinkled, thin, and crispy. Soil and Potting Standard cactus soil is actually too sandy and dense for this plant. Remember, it grows on trees. It needs a highly aerated, chunky epiphytic mix. Combine high-quality potting soil with generous amounts of coarse orchid bark and perlite. This mimics the loose debris found in the crooks of jungle trees and ensures the roots get plenty of oxygen. The Nocturnal Blooms If you provide excellent care, a mature Fishbone Cactus will reward you with one of the most spectacular floral displays in the plant kingdom. In the late summer or autumn, it produces massive, pale yellow and white flowers that can reach 6 inches across. However, you have to be quick to see them! The flowers are nocturnal; they open rapidly just after sunset, release an incredibly strong, sweet fragrance designed to attract bats and moths, and wilt completely before the sun rises the next morning. Toxicity The Fishbone Cactus is a fantastic addition to homes with pets. It is completely non-toxic to cats, dogs, and humans, making it a worry-free hanging plant.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/epiphyllum-anguliger/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

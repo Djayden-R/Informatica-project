@@ -1,0 +1,374 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "philodendron",
+    "seoTitle": "Philodendron Care Guide",
+    "commonName": "philodendron",
+    "heroImage": "/assets/images/hero-philodendron.webp",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "species": "",
+        "nativeRange": "Central America, South America, Caribbean",
+        "growthHabit": "Climbing and self-heading tropical aroids"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "characteristicId": "CHAR_0001",
+                "confidence": 0.9,
+                "editorReasoning": "Philodendrons naturally produce abundant aerial roots and perform best in coarse, oxygen-rich substrates. Most climbing species grow in chunky forest litter with extremely porous media.",
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.9
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "characteristicId": "CHAR_0002",
+                "confidence": 0.9,
+                "editorReasoning": "Philodendrons have limited internal water storage capacity but are not true succulents. They rely on consistent moisture rather than drought tolerance.",
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.9
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "characteristicId": "CHAR_0003",
+                "confidence": 0.9,
+                "editorReasoning": "Philodendron roots recover surprisingly well from repotting, root pruning, propagation, and division. Compared with many tropical ornamentals, they are relatively forgiving.",
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.9
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "rootHypoxiaTolerance": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "characteristicId": "CHAR_0004",
+                "confidence": 0.9,
+                "editorReasoning": "Philodendrons are sensitive to prolonged saturation and low-oxygen conditions. Extended waterlogging quickly causes root rot. A score of 4 indicates high sensitivity to hypoxia.",
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.9
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "characteristicId": "CHAR_0005",
+                "confidence": 0.9,
+                "editorReasoning": "Moderately tolerant of relocation. Older leaves may yellow and growth may pause temporarily, but healthy plants usually recover after acclimation.",
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.9
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 15,
+                "unit": "C",
+                "characteristicId": "CHAR_0006",
+                "confidence": 0.85,
+                "editorReasoning": "Conservative survival threshold for most common cultivated species. Most common philodendrons tolerate 13\u201315\u00b0C without damage but prefer 18\u201330\u00b0C for active growth.",
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_1000",
+                        "weight": 0.85
+                    }
+                ],
+                "lastReviewed": "2026-07-20",
+                "reviewCycleMonths": 12
+            }
+        }
+    },
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "araceae"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "monstera"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "epipremnum-aureum"
+        },
+        {
+            "type": "recommendedSoil",
+            "target": "aroid-mix"
+        },
+        {
+            "type": "wateringProfile",
+            "target": "tropical-aroid"
+        }
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my philodendron?",
+            "answer": "Water when the top 2\u20133 cm of soil feels dry. Overwatering is the most common cause of problems for philodendrons, as they are sensitive to wet soil. Water thoroughly, but ensure the pot has drainage and never let the plant sit in standing water.[reference:6][reference:7]"
+        },
+        {
+            "question": "Why are my philodendron leaves turning yellow?",
+            "answer": "Yellow leaves can be caused by several factors: overwatering (most common)[reference:8][reference:9], underwatering, too much or too little light, over-fertilization, or pest infestations like mealybugs and spider mites[reference:10][reference:11]. If it's just an older, bottom leaf turning yellow, it's often a natural part of the plant's aging process[reference:12][reference:13]."
+        },
+        {
+            "question": "Is philodendron toxic to cats and dogs?",
+            "answer": "Yes, philodendrons are toxic to cats, dogs, and other pets[reference:14]. They contain insoluble calcium oxalate crystals, which can cause oral irritation, intense burning of the mouth, excessive drooling, vomiting, and difficulty swallowing if ingested[reference:15][reference:16]. It's best to keep them out of reach of curious pets and children[reference:17]."
+        },
+        {
+            "question": "What's the difference between a philodendron and a pothos?",
+            "answer": "While they look similar, they are different plants. Philodendron leaves are typically heart-shaped, thinner, and softer[reference:18][reference:19], while pothos leaves are thicker and have a waxy texture[reference:20][reference:21]. A key difference is that philodendrons have multiple aerial roots per node, whereas pothos have just one[reference:22]. New philodendron leaves also emerge from a protective structure called a cataphyll[reference:23]."
+        },
+        {
+            "question": "How do I propagate a philodendron?",
+            "answer": "Propagation is easy. Take a stem cutting that is 8-15 cm long, cutting just below a node (the bump where leaves and roots grow)[reference:24][reference:25]. Remove the lower leaves and place the cutting in water or directly into moist potting soil[reference:26][reference:27]. If rooting in water, change the water regularly to keep it fresh[reference:28][reference:29]. Roots should develop within a few weeks."
+        },
+        {
+            "question": "What are the most common types of philodendron?",
+            "answer": "Philodendrons are broadly divided into two types: climbing (vining) and non-climbing (self-heading or upright)[reference:30]. Popular climbing varieties include the Heartleaf Philodendron (P. hederaceum), 'Brasil', and 'Micans'[reference:31]. Common non-climbing types include the Fiddleleaf Philodendron (P. bipennifolium), 'Autumn', and 'Hope'[reference:32][reference:33]."
+        },
+        {
+            "question": "Why are the leaves on my philodendron drooping?",
+            "answer": "Drooping leaves often indicate a watering issue. It can be a sign of either underwatering (the plant is thirsty) or overwatering (which can lead to root rot, preventing the plant from taking up water)[reference:34]. Check the soil moisture to determine which it is."
+        },
+        {
+            "question": "What kind of light does a philodendron need?",
+            "answer": "Philodendrons thrive in bright, indirect light[reference:35]. Avoid direct, hot sunlight, which can scorch their leaves[reference:36]. They can tolerate lower light conditions, but their growth may slow and they may become leggy[reference:37]."
+        },
+        {
+            "question": "Why are my philodendron's leaves turning brown on the tips?",
+            "answer": "Brown tips are often caused by too much fertilizer, which can cause salt buildup[reference:38][reference:39], or by inconsistent watering and low humidity. It could also be a sign of dry air or that the plant is getting too much direct sun."
+        },
+        {
+            "question": "How do I get my philodendron to grow bigger leaves?",
+            "answer": "For larger leaves, provide plenty of bright, indirect light and consistent moisture. Climbing varieties will produce significantly larger leaves if given a support like a moss pole to climb. Regular feeding during the growing season can also help."
+        },
+        {
+            "question": "Why is my philodendron getting leggy with long, bare vines?",
+            "answer": "Leggy growth (long vines with sparse leaves) is usually a sign of insufficient light[reference:40]. The plant stretches towards the light source. Move it to a brighter location with indirect light and prune back the longest vines to encourage bushier growth."
+        },
+        {
+            "question": "Should I mist my philodendron?",
+            "answer": "Misting is generally not recommended for philodendrons. While they appreciate humidity, misting can leave water on the leaves, which can create a favorable environment for fungal diseases[reference:41]. It's better to increase humidity with a pebble tray or humidifier."
+        }
+    ],
+    "entityType": "plant",
+    "status": "published",
+    "slug": "philodendron",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "metaDescription": "Expert care guide and diagnostic data for the philodendron. Learn how to properly water, light, and troubleshoot common issues.",
+    "quickAnswer": "Water when the top inch of soil feels dry to the touch. Keep in bright, indirect light \u2014 direct sun will scorch the leaves. Use a well-draining potting mix, and expect steady, easy growth with minimal fuss. Our experience shows that providing a stable environment helps the plant establish a strong root system faster.",
+    "troubleshooting": [
+        {
+            "symptom": "Yellowing leaves, especially older ones",
+            "diagnosis": "Overwatering",
+            "treatment": "Allow the top inch or two of soil to dry out before watering again.",
+            "prevention": "Ensure proper drainage and use an airy potting mix.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Small new leaves",
+            "diagnosis": "Lack of nutrients or light",
+            "treatment": "Move to a brighter spot with indirect light. Apply a balanced liquid fertilizer.",
+            "prevention": "Feed regularly during the growing season and maintain bright indirect light.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Brown, crispy tips",
+            "diagnosis": "Dry air or tap water sensitivity",
+            "treatment": "Increase humidity or switch to filtered water if your tap water has high minerals.",
+            "prevention": "Mist occasionally or use a pebble tray to boost local humidity.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "summary": "",
+    "keyTakeaways": [
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Provide bright indirect light, though many varieties tolerate lower light.",
+        "Support climbing varieties with a moss pole for larger, mature leaves.",
+        "Propagate easily from healthy stem cuttings in water or soil."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 6,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Tropical aroid",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 1-2 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "65\u00b0F - 81\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Varies by species; approximately 1-10+ feet indoors",
+        "growthRate": "Moderate to fast",
+        "soil": "Well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Tropical Americas and the West Indies",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/variegated-philodendron"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Philodendrons are a diverse group of tropical aroids grown for their attractive foliage and generally adaptable nature. Depending on the species or cultivar, they may grow as climbing vines, trailing plants, or more self-supporting forms. Most cultivated Philodendrons perform well in warm conditions with bright indirect light, moderate watering, good drainage, and moderate to high humidity. Because the genus includes plants with substantially different growth habits and mature sizes, individual species can require somewhat different care."
+        },
+        {
+            "id": "watering",
+            "content": "Water Philodendron when the upper portion of the growing medium has dried, then water thoroughly and allow excess water to drain freely. Avoid keeping the root zone continuously saturated, as prolonged wetness can contribute to root problems. Watering frequency varies with species, pot size, growing medium, temperature, humidity, and light. Plants generally require more water during active warm-season growth and less when conditions are cooler or darker."
+        },
+        {
+            "id": "light",
+            "content": "Provide bright indirect light for most Philodendrons. Many species tolerate moderate light, but insufficient light can result in slower growth, smaller leaves, and longer spaces between nodes. Variegated cultivars generally require brighter light than predominantly green forms to maintain healthy growth and attractive coloration. Avoid prolonged intense direct sunlight, which can scorch foliage."
+        },
+        {
+            "id": "soil",
+            "content": "Use a loose, well-draining growing medium that retains some moisture while allowing substantial airflow around the roots. A chunky tropical aroid mix containing components such as bark, perlite, and organic material is suitable for many Philodendrons. Avoid dense soil that remains saturated for extended periods and always use a container with drainage holes."
+        },
+        {
+            "id": "temperature",
+            "content": "Most Philodendrons prefer warm, stable conditions around 18\u201327\u00b0C (65\u201381\u00b0F). Protect them from cold drafts, sudden temperature changes, and prolonged exposure to temperatures near or below 13\u00b0C (55\u00b0F). Avoid placing plants directly beside heating or cooling vents, where rapid changes in temperature and humidity can stress the foliage."
+        },
+        {
+            "id": "humidity",
+            "content": "Most Philodendrons benefit from moderate to high humidity, although many adapt successfully to average household conditions. Humidity around 50\u201370% can support healthy foliage, particularly for species with thin or highly textured leaves. Good airflow remains important because constantly humid, stagnant conditions can increase the risk of fungal and bacterial problems."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Philodendron during active growth with a balanced houseplant fertilizer according to the product instructions. Regular moderate feeding can support leaf production and healthy root and stem growth. Avoid excessive fertilizer, which can cause salt accumulation and root stress. Reduce or pause feeding during periods of low light or substantially slower growth."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Philodendron when roots have substantially filled the container, the growing medium has broken down, drainage has deteriorated, or growth has slowed because of root restriction. Move the plant into a container only moderately larger than the existing one and use fresh, well-draining aroid mix. Spring or another period of active growth is generally a suitable time for repotting."
+        },
+        {
+            "id": "growth",
+            "content": "Philodendron growth varies considerably by species. Climbing types produce elongated stems and aerial roots and often develop larger leaves when provided with vertical support. Trailing types produce flexible stems that can cascade from containers. Self-heading species remain more compact and produce leaves from a central growing point. Warm temperatures, appropriate light, adequate moisture, and nutrition generally promote the strongest growth."
+        },
+        {
+            "id": "support",
+            "content": "Climbing Philodendrons benefit from vertical support such as a moss pole, coir pole, trellis, or another sturdy structure. Aerial roots can attach to suitable support and help stabilize the plant. Providing a climbing structure can encourage a more natural growth habit and, in some species, larger and more mature foliage. Trailing and self-heading Philodendrons generally do not require climbing support."
+        },
+        {
+            "id": "pruning",
+            "content": "Prune Philodendron to remove damaged foliage, control vine length, improve the plant's shape, or encourage branching where the growth habit allows it. Use clean, sharp tools and make cuts near suitable nodes when shortening climbing or trailing stems. Healthy stem sections containing nodes can often be used for propagation. Avoid damaging the central growing point of self-heading species."
+        },
+        {
+            "id": "propagation",
+            "content": "Many climbing and trailing Philodendrons can be propagated from stem cuttings containing at least one viable node. Cuttings can often be rooted in water, sphagnum, perlite, or a suitable propagation medium. Self-heading species can be more difficult to propagate and may require division, specialized techniques, or mature plant material. A leaf without a viable node generally cannot produce a new Philodendron plant."
+        },
+        {
+            "id": "aerialRoots",
+            "content": "Aerial roots are normal on many climbing Philodendrons and help the plant anchor itself and access moisture and nutrients in its natural environment. Healthy aerial roots do not normally need to be removed simply because they grow outside the pot. They can be guided toward a suitable climbing support, while completely dead or damaged roots can be removed during repotting."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Yellow leaves, brown edges, small foliage, and slow growth can have multiple causes. Excessively wet soil can contribute to root problems, while insufficient light can cause weak or elongated growth. Brown edges may be associated with dry air, inconsistent watering, salt buildup, or environmental stress. Examine the roots, growing medium, light exposure, humidity, and recent changes in conditions before changing several care factors simultaneously."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Philodendrons generally grow most actively during warm, bright periods and slow when temperatures and light levels decline. Adjust watering according to how quickly the growing medium dries rather than following a fixed schedule. Reduce or pause fertilizer when growth becomes minimal, maintain suitable light, and protect the plant from cold drafts during winter."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Philodendrons can be grown outdoors in warm, frost-free climates when provided with bright filtered light or appropriate shade. Plants moved outdoors from indoor conditions should be acclimated gradually to stronger light and increased airflow. Protect foliage from intense direct sun, strong winds, heavy exposure to cold rain, and unsuitable temperatures. Container-grown plants should be brought indoors before cold conditions develop."
+        },
+        {
+            "id": "toxicity",
+            "content": "Philodendrons contain insoluble calcium oxalate crystals and are toxic if chewed or ingested. Contact with plant tissue can cause irritation, while ingestion can produce oral discomfort and other symptoms. Keep Philodendrons away from pets and children who may chew the leaves or stems."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Philodendron spp.",
+        "family": "Araceae",
+        "taxonType": "genus"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/philodendron/",
+    "breadcrumbName": "philodendron",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/variegated-philodendron"
+        ]
+    },
+    "h1": "Philodendron Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/philodendron/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

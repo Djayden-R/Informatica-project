@@ -1,0 +1,345 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-hoya-kerrii",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "hoya-kerrii",
+    "seoTitle": "Hoya Kerrii Care: Light, Watering & Single-Leaf Vine Growth",
+    "metaDescription": "Hoya Kerrii single leaves rarely grow into vines. Learn the truth about heart-shaped leaves, how to water thick foliage, and why this plant is pet-safe.",
+    "featuredImage": "/assets/images/hoya-kerrii.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "pet-safe",
+        "climbing-plants",
+        "slow-growing"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Hoya kerrii",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Hoya",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Hoya kerrii",
+        "family": "Apocynaceae",
+        "origin": "Southeast Asia (Thailand, Vietnam)",
+        "type": "Evergreen epiphytic vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Valentine's gifts",
+            "Trellis climbers",
+            "Sunny windowsills"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright, indirect light with a few hours of direct morning sun.",
+        "watering": "Treat it like a succulent. Let the soil dry out completely before watering.",
+        "soil": "Extremely chunky, fast-draining orchid or aroid mix.",
+        "pruning": "Never cut the long, bare stems (tendrils) as this is where new leaves and flowers will eventually form.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Non-toxic to cats and dogs.",
+        "bestFor": "Patient indoor gardeners who want a pet-safe, trailing vine with unique foliage."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "very slow",
+        "matureHeight": "Climbing up to 13 feet (if a full vine)",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer (produces clusters of star-shaped, nectar-dripping flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 95\u00b0F (13\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Needs exceptionally bright light to push out new growth. A few hours of direct morning or late afternoon sun is highly beneficial. Without enough light, it will simply sit dormant.",
+        "sunlightHours": "4-6 hours indirect + 2 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or East-facing window.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Too much fertilizer will burn the epiphytic roots.",
+        "fertilizerFrequency": "Feed once a month during spring and summer with a balanced fertilizer diluted to quarter-strength.",
+        "organicOptions": "Orchid spray applied to the foliage."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Because it is an epiphyte, planting it in heavy potting soil that stays wet will rot the roots instantly."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why isn't my single-leaf Hoya Kerrii growing?",
+            "answer": "This is the 'zombie leaf' phenomenon. Most single-leaf Hoya Kerrii plants sold in stores are just a leaf rooted in soil, without a piece of the original stem (a node). Without a node, it can never grow into a vine. It will survive as a single heart for years but will never produce new leaves."
+        },
+        {
+            "question": "How do I water my Hoya Kerrii?",
+            "answer": "Treat it like a succulent. Allow the soil to dry out 100% before watering. Because the thick, heart-shaped leaves store massive amounts of water, it can easily survive weeks of neglect."
+        },
+        {
+            "question": "Is the Sweetheart Hoya safe for cats?",
+            "answer": "Yes! Like all Hoyas, the Hoya Kerrii is completely non-toxic and safe for both cats and dogs."
+        },
+        {
+            "question": "Why is my Hoya Kerrii sending out long, bare vines with no leaves?",
+            "answer": "This is normal! Hoyas send out long tendrils to grab onto trees or trellises first. Once the tendril is secure, it will fill in with leaves later. Do not cut these bare vines off."
+        },
+        {
+            "question": "Why are the leaves on my Hoya turning yellow and mushy?",
+            "answer": "Yellowing, mushy leaves are the classic sign of overwatering and root rot. Ensure you are letting the soil dry out completely and that your pot has a drainage hole."
+        }
+    ],
+    "shortDesc": "The Sweetheart Hoya is famous for its thick, heart-shaped leaves. However, millions of people buy the single-leaf cuttings without realizing they are 'zombie plants' that will never grow into a vine.",
+    "content": "<h2>Overview</h2><p>The Sweetheart Hoya (<em>Hoya kerrii</em>) is a thick, succulent-like climbing vine native to Southeast Asia. It has gained massive global popularity due to its perfectly heart-shaped leaves. Around Valentine's Day, nurseries and big-box stores sell millions of these plants as adorable, single green hearts protruding from small pots.</p><p>However, this massive retail trend has led to the number one frustration indoor gardeners have with this plant: <strong>it won't grow.</strong> Most of these single-leaf cuttings are what horticulturists call \"zombie leaves.\" Because the leaf was cut without a piece of the main stem (a node), it has no cellular material capable of producing new vines. It will root and live as a single leaf for years, but it will never grow larger. If you want a trailing, climbing vine, you must purchase an established plant that already has a stem with multiple leaves.</p><h3>Light Requirements</h3><p>Hoya kerrii is a sun-lover. To produce its massive, heavy leaves and eventual clusters of star-shaped flowers, it requires bright, indirect light mixed with a few hours of direct sunlight. An east-facing window that gets morning sun, or a south-facing window with a sheer curtain, is ideal. If placed in a dim room, it will enter a state of total dormancy and refuse to grow.</p><h3>Watering: Treat It Like a Succulent</h3><p>This is where most growers accidentally kill their Hoyas. Despite coming from the tropical rainforest, Hoyas are epiphytes that grow on the bark of trees, meaning their roots are adapted to drying out quickly between rainstorms. Furthermore, their thick, rigid leaves act as water reservoirs.</p><p>You must allow the soil to dry out completely\u2014100% bone dry\u2014before watering. If the leaves feel slightly flexible or pliable, it is time to water. If they are rock hard, leave the plant alone. When you do water, soak the pot thoroughly until water drains out the bottom.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. They are highly sensitive to cold; keep them away from drafty winter windows. While they appreciate higher humidity (around 50-60%), their thick, waxy cuticle allows them to perfectly tolerate the dry air caused by central heating and air conditioning. You do not need a humidifier to successfully grow a Hoya kerrii.</p><h3>Soil and Potting: The Epiphyte Mix</h3><p>Because it is an epiphyte, planting a Hoya kerrii in standard, dense houseplant soil can quickly lead to severe root rot. The roots will suffocate and rot. You must use an extremely chunky, well-aerated mix. Combine equal parts high-quality potting soil, coarse orchid bark, and perlite or pumice. This ensures water drains instantly, leaving pockets of air for the roots to breathe.</p><h2>Pruning: Never Cut the Bare Vines</h2><p>As a full vine of Hoya kerrii grows, it will frequently shoot out long, completely bare tendrils that look like alien tentacles. Many beginners panic and prune these off, thinking the plant is sick. <strong>Do not cut them!</strong> This is how Hoyas naturally grow. They send out a bare tendril to grab onto a branch (or your trellis), and once it feels secure, it will begin to populate that bare vine with leaves and flower spurs. If you cut the bare vine, you are cutting off the future foliage.</p><h2>Flowering</h2><p>Mature Hoya kerrii vines are famous for their spectacular flowers. During the summer, they produce tight, spherical clusters (umbels) of fuzzy, star-shaped flowers that look like they are made of porcelain or wax. These flowers drip large amounts of sticky, sweet-smelling nectar. Never cut the flower stalk (the peduncle) off after the bloom finishes, as Hoyas will re-bloom from that exact same spot year after year.</p><h2>Toxicity</h2><p>One of the best attributes of the entire Hoya genus is its safety profile. Hoya kerrii is completely non-toxic to cats, dogs, and humans, making it an excellent, worry-free climbing plant for pet owners.</p>",
+    "quickAnswer": "A single-leaf Hoya Kerrii will rarely grow into a vine because it lacks a stem node. For mature vines, provide hours of bright light, use chunky orchid soil, and water only when the soil is 100% completely dry. Monitoring the plant regularly helps catch early signs of stress before they cause any lasting damage.",
+    "ogImage": "/assets/images/hoya-kerrii.webp",
+    "ogImageAlt": "A single, thick heart-shaped leaf of a Hoya Kerrii in a small terracotta pot",
+    "heroImage": "/assets/images/hoya-kerrii.webp",
+    "heroImageAlt": "Close up of the fleshy, heart-shaped foliage of the Sweetheart Hoya",
+    "featuredImageAlt": "Mature Hoya kerrii vine climbing a circular wire trellis",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why isn't my single-leaf Hoya Kerrii growing?",
+            "diagnosis": "Zombie leaf \u2013 no node, will never grow into a vine",
+            "treatment": "No action; it will remain a single leaf. If you want a plant, buy one with a node.",
+            "prevention": "Choose plants with a stem node.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my Hoya Kerrii sending out long, bare vines with no leaves?",
+            "diagnosis": "Normal tendril growth \u2013 leaves will follow after support",
+            "treatment": "Provide a support; do not cut; leaves will appear.",
+            "prevention": "Offer a trellis.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves on my Hoya turning yellow and mushy?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Stop watering; repot in dry, well-draining mix if necessary.",
+            "prevention": "Water only when soil is completely dry.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Epiphyte",
+            "definition": "A plant that grows harmlessly on another plant (like a tree trunk) and derives its moisture and nutrients from the air, rain, and debris accumulating around it."
+        },
+        {
+            "term": "Peduncle",
+            "definition": "The stalk bearing a flower or fruit. In Hoyas, peduncles should never be cut, as the plant re-blooms from the same structure every year."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Hoya Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Shape",
+            "Growth Speed"
+        ],
+        "rows": [
+            [
+                "Hoya Kerrii",
+                "Thick, rigid hearts",
+                "Very Slow"
+            ],
+            [
+                "Hoya Carnosa",
+                "Smooth, thick ovals",
+                "Moderate"
+            ],
+            [
+                "Hoya Linearis",
+                "Thin, hairy needles",
+                "Fast"
+            ]
+        ]
+    },
+    "h1": "Hoya Kerrii Care Guide: Light, Watering & Vine Growth",
+    "breadcrumbName": "Hoya Kerrii Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "hoya-carnosa",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Buying a single heart-shaped leaf in a small pot expecting it to grow into a vine\u2014a cutting without a node (a piece of stem with a growth bud) has no ability to produce new growth and will sit unchanged for years before eventually dying. It's essentially a long-lived decoration, not a developing plant."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "To get an actual vining Hoya kerrii you need a cutting that includes a section of stem with at least one node\u2014the vast majority of single-leaf 'sweetheart' plants sold commercially have no node and will never vine. Inspect before buying, or seek out a stem cutting from a reputable grower."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the heart-shaped leaves become soft and floppy rather than thick and succulent, and any natural waxy sheen fades. Bright indirect light is what keeps the leaves firm, glossy, and the plant's appearance at its best."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "hoya heart leaf not growing",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "sweetheart plant watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "hoya kerrii single leaf",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe climbing vine",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "epiphytic houseplant care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how long does a single leaf hoyya kerrii last",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Hoya Kerrii",
+    "summary": "Hoya kerrii is a succulent epiphytic vine celebrated for its thick, heart-shaped leaves. Learn about the growth requirements of rooted stem nodes versus single-leaf cuttings, fast-draining cactus mixes, and conservative watering routines.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to sustain sturdy, thick succulent growth.",
+        "Allow the gritty succulent potting mix to dry out 100% before watering.",
+        "Ensure single-leaf specimens possess a stem node to grow into vining plants.",
+        "Use containers with drainage holes to prevent subterranean stem rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect to full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Treat it like a succulent. Let the soil dry out completely before watering.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "40% - 60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Climbing up to 10 feet",
+        "growthRate": "Slow",
+        "soil": "Cactus or orchid mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced liquid fertilizer monthly during the growing season",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Small pot / snug fit",
+        "propagation": "Stem cuttings (nodes required for vining)",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Southeast Asia (Thailand, Vietnam)",
+        "usdaZones": "11-12",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/sweetheart-hoya"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/hoya-kerrii/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/sweetheart-hoya"
+        ]
+    },
+    "contentText": "Overview The Sweetheart Hoya ( Hoya kerrii ) is a thick, succulent-like climbing vine native to Southeast Asia. It has gained massive global popularity due to its perfectly heart-shaped leaves. Around Valentine's Day, nurseries and big-box stores sell millions of these plants as adorable, single green hearts protruding from small pots. However, this massive retail trend has led to the number one frustration indoor gardeners have with this plant: it won't grow. Most of these single-leaf cuttings are what horticulturists call \"zombie leaves.\" Because the leaf was cut without a piece of the main stem (a node), it has no cellular material capable of producing new vines. It will root and live as a single leaf for years, but it will never grow larger. If you want a trailing, climbing vine, you must purchase an established plant that already has a stem with multiple leaves. Light Requirements Hoya kerrii is a sun-lover. To produce its massive, heavy leaves and eventual clusters of star-shaped flowers, it requires bright, indirect light mixed with a few hours of direct sunlight. An east-facing window that gets morning sun, or a south-facing window with a sheer curtain, is ideal. If placed in a dim room, it will enter a state of total dormancy and refuse to grow. Watering: Treat It Like a Succulent This is where most growers accidentally kill their Hoyas. Despite coming from the tropical rainforest, Hoyas are epiphytes that grow on the bark of trees, meaning their roots are adapted to drying out quickly between rainstorms. Furthermore, their thick, rigid leaves act as water reservoirs. You must allow the soil to dry out completely\u2014100% bone dry\u2014before watering. If the leaves feel slightly flexible or pliable, it is time to water. If they are rock hard, leave the plant alone. When you do water, soak the pot thoroughly until water drains out the bottom. Temperature and Humidity Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. They are highly sensitive to cold; keep them away from drafty winter windows. While they appreciate higher humidity (around 50-60%), their thick, waxy cuticle allows them to perfectly tolerate the dry air caused by central heating and air conditioning. You do not need a humidifier to successfully grow a Hoya kerrii. Soil and Potting: The Epiphyte Mix Because it is an epiphyte, planting a Hoya kerrii in standard, dense houseplant soil can quickly lead to severe root rot. The roots will suffocate and rot. You must use an extremely chunky, well-aerated mix. Combine equal parts high-quality potting soil, coarse orchid bark, and perlite or pumice. This ensures water drains instantly, leaving pockets of air for the roots to breathe. Pruning: Never Cut the Bare Vines As a full vine of Hoya kerrii grows, it will frequently shoot out long, completely bare tendrils that look like alien tentacles. Many beginners panic and prune these off, thinking the plant is sick. Do not cut them! This is how Hoyas naturally grow. They send out a bare tendril to grab onto a branch (or your trellis), and once it feels secure, it will begin to populate that bare vine with leaves and flower spurs. If you cut the bare vine, you are cutting off the future foliage. Flowering Mature Hoya kerrii vines are famous for their spectacular flowers. During the summer, they produce tight, spherical clusters (umbels) of fuzzy, star-shaped flowers that look like they are made of porcelain or wax. These flowers drip large amounts of sticky, sweet-smelling nectar. Never cut the flower stalk (the peduncle) off after the bloom finishes, as Hoyas will re-bloom from that exact same spot year after year. Toxicity One of the best attributes of the entire Hoya genus is its safety profile. Hoya kerrii is completely non-toxic to cats, dogs, and humans, making it an excellent, worry-free climbing plant for pet owners.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/hoya-kerrii/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

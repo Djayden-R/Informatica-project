@@ -1,0 +1,322 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-haworthia-fasciata",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "haworthia-fasciata",
+    "seoTitle": "Zebra Plant Care: Low-Light Succulent That's Pet-Safe",
+    "metaDescription": "Zebra Plant is a striking, pet-safe succulent that thrives in low light. Find out its watering needs and why the white-striped leaves stay compact indoors.",
+    "featuredImage": "/assets/images/haworthia-fasciata.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "pet-safe",
+        "low-light-tolerant",
+        "easy-care"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Haworthiopsis fasciata",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Succulents",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Haworthiopsis fasciata (formerly Haworthia fasciata)",
+        "family": "Asphodelaceae",
+        "origin": "South Africa",
+        "type": "Evergreen succulent perennial",
+        "nativeClimate": "Semi-arid / Shrubland understory",
+        "commonUses": [
+            "Office desks",
+            "Terrariums",
+            "Windowsills",
+            "Pet-friendly homes"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright, indirect light. Unlike most succulents, it tolerates lower light and prefers being shielded from intense afternoon sun.",
+        "watering": "Allow the soil to dry out completely between waterings. The leaves will thin out slightly when thirsty.",
+        "soil": "A fast-draining cactus/succulent mix amended with extra pumice or perlite.",
+        "pruning": "Simply pull away any dead, dried-up lower leaves at the base of the rosette.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats and dogs.",
+        "bestFor": "Beginners, office desks, and homes with pets that want the succulent look without the full-sun requirement."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "3-5 inches",
+        "matureSpread": "4-6 inches",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer (produces a long stalk with tiny white/pink tubular flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "20% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Unlike echeverias or cacti, Haworthias naturally grow partially shaded by rocks and bushes. They prefer bright, indirect light and will turn red, brown, or white if exposed to too much direct, hot sun.",
+        "sunlightHours": "4-6 hours indirect, or morning sun only",
+        "intensity": "medium",
+        "indoorWindow": "East or west-facing windows. Can tolerate north-facing if close to the glass.",
+        "shadeTolerance": "medium"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very slow grower; rarely needs fertilizer.",
+        "fertilizerFrequency": "Once a year in spring using a cactus fertilizer diluted to half strength.",
+        "organicOptions": "A pinch of worm castings in early spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Like all succulents, it is highly susceptible to root rot if left sitting in wet soil or pots without drainage holes."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Zebra Plant turning red or brown?",
+            "answer": "This is a sign of stress, usually caused by too much direct sunlight. Unlike many succulents, Zebra Plants prefer bright, indirect light. Move it away from the hot window, and it will return to green."
+        },
+        {
+            "question": "How do I water my Zebra Plant?",
+            "answer": "Wait until the soil is 100% dry. When you do water, soak the soil thoroughly until water drains out the bottom, then do not water again until it is completely dry. In winter, this might mean watering only once every 4 to 6 weeks."
+        },
+        {
+            "question": "Is the Zebra Plant toxic to cats?",
+            "answer": "No! Haworthia fasciata is completely non-toxic and pet-safe, unlike similar-looking Aloe Vera plants, which are toxic."
+        },
+        {
+            "question": "Why are the tips of my Zebra Plant turning brown and crispy?",
+            "answer": "Crispy tips usually indicate underwatering for an extended period. While they like to dry out, they still need deep soakings when they do get watered."
+        },
+        {
+            "question": "How do I propagate my Zebra Plant?",
+            "answer": "It is easiest to propagate by division. The mother plant will produce small 'pups' or offsets around its base. Once a pup is about a third the size of the mother plant, you can gently pull it away (ensuring it has a few roots) and pot it."
+        }
+    ],
+    "shortDesc": "The Zebra Plant is a striking, pet-safe succulent featuring dark green leaves with raised white stripes. Unlike most succulents, it thrives without direct afternoon sun.",
+    "content": "<h2>Overview</h2><p>The Zebra Plant (recently reclassified from <em>Haworthia fasciata</em> to <em>Haworthiopsis fasciata</em>) is one of the most recognizable and beloved indoor succulents. Native to the semi-arid regions of South Africa, it forms a tight, stemless rosette of dark green, fleshy leaves adorned with striking, raised white \"zebra\" stripes. It looks remarkably similar to a miniature Aloe Vera, but with one massive advantage for indoor gardeners: it is entirely non-toxic to pets.</p><p>Its other major advantage is its light tolerance. Most succulents stretch out and lose their shape if they don't receive blasting direct sunlight all day long. Haworthias, however, evolved to grow under the shade of larger bushes and rocks. This makes them perfectly suited to the medium-to-bright indirect light found in typical Western homes and offices.</p><h3>Light Requirements</h3><p>Unlike an Echeveria or a Cactus, the Zebra Plant does not want to sit in a hot, south-facing window all day. While it enjoys a few hours of gentle morning sun from an east-facing window, harsh afternoon sun will cause the plant to stress. When stressed by too much light, the leaves will turn brown, red, or even white. If you see this happening, simply move the plant a few feet back from the window or switch to an east/west exposure, and it will green up again. It will tolerate lower light levels much better than other succulents, though growth will slow down.</p><h3>Watering Strategy</h3><p>The watering rule for the Zebra Plant is simple: \"Soak and Dry.\" You must allow the soil to dry out completely\u2014100%\u2014before watering again. Because it stores water in its thick leaves, it can easily survive weeks of neglect. During the hot summer months, you might water it every two weeks. During the winter, when the plant goes semi-dormant, you may only need to water it once a month or less.</p><p>When you do water, do not just give it a little sip. Soak the soil thoroughly until water pours out the drainage holes, then empty the saucer. Leaving the pot sitting in water drastically increases the risk of severe root rot via root rot.</p><h3>Temperature and Humidity</h3><p>Average indoor temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C) are ideal. Keep it away from freezing drafts in the winter. It prefers low humidity and perfectly tolerates the dry air caused by indoor heating and air conditioning. Never mist a Zebra Plant; water sitting in the crown of the rosette will cause it to rot.</p><h3>Soil and Potting</h3><p>Excellent drainage is non-negotiable. Standard houseplant soil holds too much water and will kill the roots. Use a dedicated cactus or succulent mix, and consider adding extra pumice, perlite, or coarse sand to ensure water flows through it instantly. Always use a pot with a drainage hole. Terracotta pots are highly recommended for Haworthias because the porous clay helps the soil dry out faster.</p><h2>Fertilizing</h2><p>Zebra Plants are incredibly slow growers and require very little nutrition. Feed them only once a year, in the spring, using a specialized succulent fertilizer diluted to half-strength. Over-fertilizing can burn the roots and cause distorted growth.</p><h2>Propagation</h2><p>You cannot easily propagate a Zebra Plant from a single leaf cutting like you can with some other succulents. Instead, you must wait for the plant to do the work for you. Mature plants will produce small offsets, or \"pups,\" around the base of the main rosette. Wait until a pup is about a third the size of the mother plant. Then, unpot the plant and gently pull or cut the pup away, making sure the pup has at least a few of its own roots attached. Let the pup dry for a day or two, then plant it in its own small pot.</p><h2>Toxicity</h2><p>This is where the Zebra Plant shines compared to its look-alike, the Aloe Vera. Aloe Vera is toxic to cats and dogs, causing vomiting and lethargy. The Zebra Plant, however, is non-toxic to pets and non-toxic to pets to keep around pets.</p><h2>Common Problems</h2><p><strong>Leaves Turning Red/Brown/Pale:</strong> Sun stress. The plant is receiving too much direct, hot sunlight. Move it to a location with bright, indirect light.</p><p><strong>Leaves Turning Yellow and Mushy:</strong> Overwatering and root rot. If the center of the rosette is mushy and black, the plant is likely dead. Stop watering immediately, remove the mushy leaves, and hope the roots recover.</p><p><strong>Dry, Crispy Brown Tips:</strong> While often a sign of underwatering, it can also happen naturally to the very oldest, outermost leaves as the plant ages. If the rest of the plant is plump, simply pull the dried leaves away.</p>",
+    "quickAnswer": "Haworthia fasciata, or Zebra Plant, prefers bright indirect light rather than intense direct sun that can scorch its striped leaves. Water only after soil fully dries, using a fast-draining succulent mix to prevent root rot. This compact South African species stays small, making it ideal for desks and windowsills where space is limited.",
+    "ogImage": "/assets/images/haworthia-fasciata.webp",
+    "ogImageAlt": "Close up of a Zebra Plant showing dark green leaves with raised white stripes",
+    "heroImage": "/assets/images/haworthia-fasciata.webp",
+    "heroImageAlt": "A healthy Zebra Plant succulent in a small terracotta pot",
+    "featuredImageAlt": "Zebra plant sitting on an office desk in bright indirect light",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves turning red, brown, or white but remaining plump",
+            "diagnosis": "Sun stress from too much direct, hot sunlight.",
+            "treatment": "Move the plant away from the south-facing window into bright, indirect light. It will return to its normal green color in a few weeks.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Rosette",
+            "definition": "A circular arrangement of leaves, with all the leaves at a similar height, radiating outward from a central stem."
+        },
+        {
+            "term": "Offset (Pup)",
+            "definition": "A small, complete plant that grows naturally from the base of a mother plant, used for propagation."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Zebra Plant vs. Aloe Vera Comparison",
+        "headers": [
+            "Feature",
+            "Zebra Plant (Haworthia)",
+            "Aloe Vera"
+        ],
+        "rows": [
+            [
+                "Pet Safety",
+                "non-toxic to pets",
+                "Toxic (Causes vomiting)"
+            ],
+            [
+                "Light Needs",
+                "Bright Indirect",
+                "Full Direct Sun"
+            ],
+            [
+                "Leaf Texture",
+                "Raised white bumps (stripes)",
+                "Smooth, often with teeth on edges"
+            ]
+        ]
+    },
+    "h1": "Zebra Plant Care: The Pet-Safe, Low-Light Succulent",
+    "breadcrumbName": "Zebra Plant Care",
+    "relatedEntitySlugs": [
+        "topics:watering"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Letting the soil go completely dry\u2014this calathea relative cannot recover from even a single dry-out the way succulents can, and it wilts dramatically while shedding lower leaves. Keep the soil consistently moist, and use distilled water because tap water minerals cause additional browning."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The yellow bract flowers last several months, but the plant often looks ragged and underpowered for a long time after flowering as it recovers. Cutting off the spent flower spike as soon as color fades redirects energy to new leaf production rather than seed setting."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry air, leaf edges brown and the zebra stripe pattern loses contrast as the leaf surface desiccates. A bathroom or kitchen with natural steam is the easiest way to provide the high humidity this plant consistently needs."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "haworthia fasciata care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "haworthiopsis fasciata",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "zebra haworthia",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for zebra plant succulent",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe succulent",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Haworthia Fasciata",
+    "summary": "The Zebra Plant displays striking white horizontal stripes across dark green succulent leaves arranged in tight, symmetrical rosettes, making it one of the more architectural succulents you can keep on a desk or windowsill. Unlike many sun-loving succulents, it actually prefers filtered light rather than harsh direct sun, which makes it an excellent, forgiving indoor companion for average homes. This guide explains how to provide appropriate brightness without sun damage, establish a watering rhythm that keeps leaves plump rather than shriveled, select containers that support proper drainage, and propagate offsets so your collection can keep expanding over time.",
+    "keyTakeaways": [
+        "Provide bright, indirect light rather than intense, direct sun exposure.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Use a fast-draining succulent mix to help prevent root rot.",
+        "Expect slow growth typical of this compact, low-maintenance succulent species."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow the soil to dry out completely between waterings. The leaves will thin out slightly when thirsty.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30% - 50%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "3-5 inches",
+        "growthRate": "Slow",
+        "soil": "Cactus or succulent gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Shallow terracotta pot",
+        "propagation": "Offsets",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "South Africa",
+        "usdaZones": "9-11",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/zebra-haworthia"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/haworthia-fasciata/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/zebra-haworthia"
+        ]
+    },
+    "contentText": "Overview The Zebra Plant (recently reclassified from Haworthia fasciata to Haworthiopsis fasciata ) is one of the most recognizable and beloved indoor succulents. Native to the semi-arid regions of South Africa, it forms a tight, stemless rosette of dark green, fleshy leaves adorned with striking, raised white \"zebra\" stripes. It looks remarkably similar to a miniature Aloe Vera, but with one massive advantage for indoor gardeners: it is entirely non-toxic to pets. Its other major advantage is its light tolerance. Most succulents stretch out and lose their shape if they don't receive blasting direct sunlight all day long. Haworthias, however, evolved to grow under the shade of larger bushes and rocks. This makes them perfectly suited to the medium-to-bright indirect light found in typical Western homes and offices. Light Requirements Unlike an Echeveria or a Cactus, the Zebra Plant does not want to sit in a hot, south-facing window all day. While it enjoys a few hours of gentle morning sun from an east-facing window, harsh afternoon sun will cause the plant to stress. When stressed by too much light, the leaves will turn brown, red, or even white. If you see this happening, simply move the plant a few feet back from the window or switch to an east/west exposure, and it will green up again. It will tolerate lower light levels much better than other succulents, though growth will slow down. Watering Strategy The watering rule for the Zebra Plant is simple: \"Soak and Dry.\" You must allow the soil to dry out completely\u2014100%\u2014before watering again. Because it stores water in its thick leaves, it can easily survive weeks of neglect. During the hot summer months, you might water it every two weeks. During the winter, when the plant goes semi-dormant, you may only need to water it once a month or less. When you do water, do not just give it a little sip. Soak the soil thoroughly until water pours out the drainage holes, then empty the saucer. Leaving the pot sitting in water drastically increases the risk of severe root rot via root rot. Temperature and Humidity Average indoor temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C) are ideal. Keep it away from freezing drafts in the winter. It prefers low humidity and perfectly tolerates the dry air caused by indoor heating and air conditioning. Never mist a Zebra Plant; water sitting in the crown of the rosette will cause it to rot. Soil and Potting Excellent drainage is non-negotiable. Standard houseplant soil holds too much water and will kill the roots. Use a dedicated cactus or succulent mix, and consider adding extra pumice, perlite, or coarse sand to ensure water flows through it instantly. Always use a pot with a drainage hole. Terracotta pots are highly recommended for Haworthias because the porous clay helps the soil dry out faster. Fertilizing Zebra Plants are incredibly slow growers and require very little nutrition. Feed them only once a year, in the spring, using a specialized succulent fertilizer diluted to half-strength. Over-fertilizing can burn the roots and cause distorted growth. Propagation You cannot easily propagate a Zebra Plant from a single leaf cutting like you can with some other succulents. Instead, you must wait for the plant to do the work for you. Mature plants will produce small offsets, or \"pups,\" around the base of the main rosette. Wait until a pup is about a third the size of the mother plant. Then, unpot the plant and gently pull or cut the pup away, making sure the pup has at least a few of its own roots attached. Let the pup dry for a day or two, then plant it in its own small pot. Toxicity This is where the Zebra Plant shines compared to its look-alike, the Aloe Vera. Aloe Vera is toxic to cats and dogs, causing vomiting and lethargy. The Zebra Plant, however, is non-toxic to pets and non-toxic to pets to keep around pets. Common Problems Leaves Turning Red/Brown/Pale: Sun stress. The plant is receiving too much direct, hot sunlight. Move it to a location with bright, indirect light. Leaves Turning Yellow and Mushy: Overwatering and root rot. If the center of the rosette is mushy and black, the plant is likely dead. Stop watering immediately, remove the mushy leaves, and hope the roots recover. Dry, Crispy Brown Tips: While often a sign of underwatering, it can also happen naturally to the very oldest, outermost leaves as the plant ages. If the rest of the plant is plump, simply pull the dried leaves away.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/haworthia-fasciata/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

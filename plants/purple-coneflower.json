@@ -1,0 +1,494 @@
+{
+    "quickAnswer": "Purple Coneflower needs full sun, well-drained soil, and minimal watering once established. It is drought-tolerant, hardy to USDA zone 3, and not toxic to pets or humans. Deadheading extends bloom, but leaving seed heads through winter feeds goldfinches and other birds.",
+    "summary": "Purple Coneflower (Echinacea purpurea) is a hardy, easy-care perennial wildflower native to the prairies, open woods, and meadows of eastern and central North America. It's a staple of pollinator gardens, prized for its drooping lavender-pink petals surrounding a spiny, cone-shaped orange-brown center, and for how little maintenance it demands once established.\n\nAs a true prairie plant, Echinacea purpurea tolerates heat, drought, poor soil, and neglect far better than overwatering or heavy, wet soil, which is the most common way gardeners run into trouble with it. Its roots and aerial parts have a long history of use in herbal preparations aimed at immune support, though this profile covers cultivation, not medicinal dosing.",
+    "keyTakeaways": [
+        "Plant in full sun with well-drained soil; it tolerates poor, sandy, or rocky ground better than constantly moist soil.",
+        "Water regularly the first season to establish roots, then only during extended drought.",
+        "Deadhead spent blooms to extend flowering, or leave seed heads standing through fall and winter to feed goldfinches.",
+        "Divide clumps every 3-4 years in spring or fall to maintain vigor and control spread.",
+        "Watch for powdery mildew in humid conditions and aster yellows disease, which has no cure and requires removing infected plants."
+    ],
+    "readingTime": 6,
+    "lastReviewed": "2026-09-10",
+    "schemaVersion": "2.0.0",
+    "id": "purple-coneflower",
+    "seoTitle": "Purple Coneflower Care Guide: Light, Water and Pollinators",
+    "metaDescription": "Grow thriving Purple Coneflower (Echinacea purpurea) with the sun, soil and minimal watering it needs to bloom for pollinators all summer.",
+    "commonName": "Purple Coneflower",
+    "entityType": "plant",
+    "status": "published",
+    "featuredImage": "/assets/images/hero-purple-coneflower.webp",
+    "heroImage": "/assets/images/hero-purple-coneflower.webp",
+    "slug": "purple-coneflower",
+    "knowledgeVersion": 1,
+    "lastKnowledgeReview": "2026-09-09",
+    "taxonomy": {
+        "kingdom": "Plantae",
+        "clade": [
+            "Angiosperms",
+            "Eudicots",
+            "Asterids"
+        ],
+        "order": "Asterales",
+        "family": "Asteraceae",
+        "genus": "Echinacea",
+        "species": "purpurea",
+        "sciName": "Echinacea purpurea",
+        "taxonType": "species"
+    },
+    "facts": {
+        "family": "Asteraceae",
+        "genus": "Echinacea",
+        "species": "purpurea",
+        "nativeRange": "Eastern and central North America",
+        "growthHabit": "Herbaceous, clump-forming perennial wildflower"
+    },
+    "aliases": [
+        "Eastern purple coneflower",
+        "Echinacea",
+        "Hedgehog coneflower",
+        "Black Sampson"
+    ],
+    "media": {
+        "primary": "/assets/images/hero-purple-coneflower.webp",
+        "gallery": [
+            "/assets/images/plants/coneflower-pollinator.webp",
+            "/assets/images/plants/coneflower-seedhead-winter.webp"
+        ]
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C) during active growth",
+            "survivable": "Hardy to roughly -34\u00b0C (-30\u00b0F) average annual minimum (USDA zone 3); heat-tolerant well above 32\u00b0C (90\u00b0F) once established"
+        }
+    },
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Planting in heavy, slow-draining clay soil and overwatering. As a prairie native, this plant is highly drought-tolerant and quickly succumbs to root rot if its feet stay wet."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Leaving the dried, spiky seed heads standing through fall and winter is not just for visual interest\u2014it provides a crucial, natural food source for goldfinches and other seed-eating birds during the coldest months."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "They are incredibly resilient in extreme summer heat and poor, rocky soils where other perennials fail, making them perfect for low-maintenance, water-wise gardens. They don't need any supplemental indoor humidity or specialized fertilizers."
+        }
+    ],
+    "characteristics": [
+        {
+            "id": "CHAR_0001",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "As a prairie-origin perennial, Echinacea purpurea evolved in fast-draining, often sandy or rocky soils. It performs poorly and is prone to crown rot in heavy, slow-draining ground.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_201",
+                    "weight": 0.85,
+                    "type": "literature",
+                    "supports": "CHAR_0001"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0002",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "A deep taproot and prairie adaptation give established plants strong drought tolerance; it is commonly recommended for xeriscaping and low-water gardens.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_202",
+                    "weight": 0.85,
+                    "type": "observation",
+                    "supports": "CHAR_0002"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0003",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.85,
+            "editorReasoning": "Established clumps are long-lived and divide well, tolerating root disturbance better than many perennials, provided division happens in cooler shoulder-season weather.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_203",
+                    "weight": 0.8,
+                    "type": "observation",
+                    "supports": "CHAR_0003"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0004",
+            "type": "ordinal",
+            "value": 2,
+            "scale": 5,
+            "confidence": 0.85,
+            "editorReasoning": "Root and crown rot are the most commonly reported cultivation failures, occurring specifically in soil that stays wet, not from underwatering.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_204",
+                    "weight": 0.85,
+                    "type": "literature",
+                    "supports": "CHAR_0004"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0005",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.8,
+            "editorReasoning": "Tolerant of transplanting when moved during dormancy or cool weather; less tolerant if moved while actively flowering.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_205",
+                    "weight": 0.75,
+                    "type": "observation",
+                    "supports": "CHAR_0005"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0006",
+            "type": "temperature",
+            "value": -34,
+            "unit": "\u00b0C",
+            "confidence": 0.85,
+            "editorReasoning": "Herbaceous perennial that dies back to the crown each winter. Root system is reliably hardy through USDA zone 3, where average annual minimum temperatures reach roughly -34\u00b0C (-30\u00b0F).",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_206",
+                    "weight": 0.85,
+                    "type": "literature",
+                    "supports": "CHAR_0006"
+                }
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Echinacea is a genus of prairie wildflowers native to North America, and Echinacea purpurea is its most widely cultivated species, grown for its long summer bloom, pollinator appeal, and low water needs once established."
+        },
+        {
+            "id": "difficulty",
+            "content": "Purple Coneflower is considered one of the easiest perennials for beginner gardeners. It tolerates poor soil, heat, drought, and inconsistent care far better than most flowering perennials, and largely fends for itself once its first season of establishment is over. The main way to run into trouble is the opposite of neglect: planting it in soil that stays wet, which invites root and crown rot. Give it full sun and drainage, and it asks for very little else."
+        },
+        {
+            "id": "watering",
+            "content": "Water regularly through the first growing season while roots establish. After that, water only during extended dry spells; established plants are drought-tolerant and more likely to suffer from overwatering than underwatering."
+        },
+        {
+            "id": "light",
+            "content": "Full sun is best for the most abundant blooms and sturdy, upright stems. It tolerates light or part shade, but plants grown with less than 6 hours of direct sun tend to flower less and may flop or lean toward the light source."
+        },
+        {
+            "id": "soil",
+            "content": "Prefers average to sandy, well-drained soil and tolerates poor or rocky ground. Heavy clay or soil that stays consistently wet is the main soil condition to avoid, since it leads to root and crown rot."
+        },
+        {
+            "id": "temperature",
+            "content": "Hardy across USDA zones 3-8. Foliage dies back to the ground after fall frost, and the plant regrows from its crown and roots in spring. Tolerates summer heat well once established."
+        },
+        {
+            "id": "humidity",
+            "content": "Grown outdoors, ambient humidity is not a significant care factor. In consistently humid, still conditions, good air circulation between plants matters more than humidity level, since it reduces the risk of powdery mildew."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Needs little to no supplemental fertilizer. A light top-dressing of compost in spring is usually sufficient; heavy fertilizing tends to produce tall, floppy growth that requires staking rather than more or better blooms."
+        },
+        {
+            "id": "propagation",
+            "content": "Most commonly propagated by dividing established clumps in early spring or fall, or by direct-sowing seed, which typically needs a period of cold stratification to germinate reliably. Basal stem cuttings are possible but less commonly used than division."
+        },
+        {
+            "id": "toxicity",
+            "content": "Purple Coneflower is not listed as toxic to cats, dogs, horses, or humans. Ingesting large quantities of any plant material can still cause mild digestive upset in pets, but no toxic principle is documented for this species."
+        },
+        {
+            "id": "pests-diseases",
+            "content": "Powdery mildew can appear on foliage in humid, still conditions and is managed with better spacing and airflow rather than chemical treatment in most home gardens. Aster yellows, a phytoplasma disease spread by leafhoppers, causes stunted, yellowed, distorted growth and has no cure; infected plants should be removed and destroyed to prevent spread. Japanese beetles and leaf miners are occasional pests but rarely serious."
+        },
+        {
+            "id": "winter-care",
+            "content": "For winter interest and wildlife value, leave spent flower heads standing rather than cutting them back in fall \u2014 the seed heads are a favorite winter food source for goldfinches and other seed-eating birds. Cut dead foliage back to the ground in late winter or early spring, just before new growth resumes, to tidy the planting without removing the winter food source too early."
+        }
+    ],
+    "faq": [
+        {
+            "id": "FAQ_CONEFLOWER_001",
+            "question": "Is Purple Coneflower toxic to dogs or cats?",
+            "answer": "No. Purple Coneflower is not listed as toxic to cats, dogs, or horses. Eating a large amount of any plant material can still cause mild stomach upset in pets, but there's no documented toxic compound in this species.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_002",
+            "question": "Why are my coneflower leaves turning yellow and distorted?",
+            "answer": "Stunted, yellowed, and unusually branched growth is often a sign of aster yellows, a disease spread by leafhoppers with no available cure. Infected plants should be dug up and destroyed rather than treated, since the disease will spread to nearby plants otherwise.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_003",
+            "question": "Should I deadhead my Purple Coneflower?",
+            "answer": "Deadheading spent blooms encourages more flowers and extends the bloom period through summer. Toward fall, however, many gardeners stop deadheading and let seed heads remain standing, since they provide food for goldfinches and other birds through winter.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_004",
+            "question": "How much sun does Purple Coneflower need?",
+            "answer": "Full sun, at least 6 hours of direct light daily, produces the sturdiest stems and most abundant blooms. It tolerates part shade, but expect fewer flowers and a greater tendency to lean or flop toward the light.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_005",
+            "question": "How often should I water Purple Coneflower?",
+            "answer": "Water regularly during the first growing season to help roots establish. After that, established plants are drought-tolerant and typically only need supplemental water during extended dry spells.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_006",
+            "question": "What kind of soil does Purple Coneflower need?",
+            "answer": "Average to sandy, well-drained soil is ideal, and it tolerates poor or rocky ground well. Avoid heavy clay or soil that stays consistently wet, since this is the most common cause of root and crown rot in this plant.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_007",
+            "question": "How do I divide Purple Coneflower?",
+            "answer": "Dig up the clump in early spring or fall, and separate it into sections with several shoots or growth points and healthy roots attached. Replant divisions promptly at the same depth as the original clump and water well until established.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_008",
+            "question": "Why is my coneflower flopping over?",
+            "answer": "Flopping usually points to insufficient sunlight or excess fertilizer, both of which produce tall, weak stems. Move plants to a fuller-sun spot if possible, and reduce or eliminate fertilizer, favoring an annual light top-dressing of compost instead.",
+            "confidence": 0.8,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_009",
+            "question": "Does Purple Coneflower attract pollinators?",
+            "answer": "Yes, it's a strong pollinator plant, regularly visited by bees and butterflies through its long summer bloom period. Its seed heads also draw seed-eating birds, especially goldfinches, if left standing into fall and winter.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_010",
+            "question": "Is Purple Coneflower deer resistant?",
+            "answer": "Mature plants are generally considered deer resistant, though deer and other grazing animals will sometimes browse young, tender growth. Established, mature clumps are typically left alone.",
+            "confidence": 0.75,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_011",
+            "question": "How long does Purple Coneflower live?",
+            "answer": "It's a long-lived perennial that can persist for many years in the right conditions, especially with periodic division every 3-4 years, which relieves overcrowding and helps maintain vigorous blooming.",
+            "confidence": 0.8,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_CONEFLOWER_012",
+            "question": "Can Purple Coneflower grow in containers?",
+            "answer": "It can, provided the container is large enough for its taproot and has excellent drainage, but it generally performs better and requires less winter protection when planted directly in garden soil.",
+            "confidence": 0.75,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        }
+    ],
+    "categories": [
+        "CAT_PERENNIAL",
+        "CAT_NATIVE_WILDFLOWER",
+        "CAT_POLLINATOR"
+    ],
+    "toxicity": {
+        "pets": false,
+        "humans": false,
+        "details": "Not listed as toxic to cats, dogs, horses, or humans. Ingesting large quantities of any plant material can still cause mild digestive upset in pets."
+    },
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "asteraceae"
+        },
+        {
+            "type": "belongsToOrder",
+            "target": "asterales"
+        },
+        {
+            "type": "recommendedSoil",
+            "target": "soil-well-draining-average"
+        },
+        {
+            "type": "wateringProfile",
+            "target": "water-drought-tolerant-low"
+        },
+        {
+            "type": "lightProfile",
+            "target": "light-full-sun"
+        },
+        {
+            "type": "nativeRegion",
+            "target": "eastern-north-america"
+        },
+        {
+            "type": "nativeRegion",
+            "target": "central-north-america"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "black-eyed-susan"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "coreopsis"
+        }
+    ],
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "White, powdery coating on leaves",
+            "diagnosis": "Powdery mildew",
+            "treatment": "Improve air circulation between plants, avoid overhead watering, and remove heavily affected foliage.",
+            "prevention": "Space plants for airflow and water at the soil line rather than overhead.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Stunted, yellowed growth with distorted, excessive branching",
+            "diagnosis": "Aster yellows (phytoplasma spread by leafhoppers)",
+            "treatment": "Remove and destroy infected plants; there is no cure and treating foliage will not resolve it.",
+            "prevention": "Control leafhopper populations where feasible and remove infected plants promptly to limit spread.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Wilting, blackened base, or plant collapse despite adequate watering",
+            "diagnosis": "Root or crown rot from poorly drained, consistently wet soil",
+            "treatment": "Improve drainage where possible, reduce watering frequency, and amend heavy soil with grit or compost.",
+            "prevention": "Plant in well-drained soil from the start and avoid low-lying spots where water collects.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "h1": "Purple Coneflower Care Guide",
+    "breadcrumbName": "Purple Coneflower",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Herbaceous flowering perennial",
+        "difficulty": "beginner",
+        "light": "Full sun",
+        "lightMin": "part shade",
+        "lightMax": "full sun",
+        "water": "Regular water while establishing; drought-tolerant once mature.",
+        "drynessThreshold": 65,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "Not a significant factor outdoors",
+        "temperature": "Hardy USDA zones 3-8; tolerates summer heat well once established",
+        "matureSize": "2-4 feet tall, 1.5-2 feet wide",
+        "growthRate": "Moderate to fast",
+        "soil": "Well-drained, average to sandy soil",
+        "soilDrainage": "excellent",
+        "fertilizer": "Light compost top-dressing in spring; avoid heavy fertilizing",
+        "repottingFrequency": "Divide clumps every 3-4 years to maintain vigor",
+        "potPreference": "Best in garden beds; large, well-draining containers if potted",
+        "propagation": "Division, seed, or basal stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Early summer through early fall",
+        "petSafety": "non-toxic",
+        "nativeRegion": "Prairies, open woods, and meadows of eastern and central North America",
+        "usdaZones": "3-8",
+        "seasonality": "Dies back to the crown in winter; regrows each spring",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/purple-coneflower/",
+    "searchIntents": [
+        {
+            "text": "purple coneflower deer resistant",
+            "type": "secondary",
+            "source": "manual",
+            "approved": true
+        },
+        {
+            "text": "echinacea purpurea medicinal uses",
+            "type": "secondary",
+            "source": "manual",
+            "approved": true
+        }
+    ],
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": []
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/purple-coneflower/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

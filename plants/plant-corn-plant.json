@@ -1,0 +1,366 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-corn-plant",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "corn-plant",
+    "seoTitle": "Corn Plant Care: Fix Brown Tips on Dracaena Fragrans",
+    "metaDescription": "Corn Plant develops brown crispy tips from tap water and dry air. Find out the right watering schedule, light placement, and fluoride avoidance for.",
+    "featuredImage": "/assets/images/corn-plant.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "large-foliage",
+        "toxic-plants",
+        "low-light-tolerant",
+        "beginner-friendly"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Dracaena fragrans",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Dracaena fragrans",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Dracaena fragrans",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Dracaena Production Guide",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Dracaena fragrans",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Dracaena fragrans",
+        "family": "Asparagaceae",
+        "origin": "Tropical Africa",
+        "type": "Evergreen tree/shrub",
+        "nativeClimate": "Tropical and subtropical regions",
+        "commonUses": [
+            "Office plants",
+            "Living room corners",
+            "Tall floor plant"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Floor plant in medium indirect light, away from drafts.",
+        "watering": "Water when the top 50% of the soil is dry. Sensitive to fluoride in tap water.",
+        "soil": "A standard, well-draining indoor potting mix.",
+        "pruning": "Snip off brown leaf tips with sterilized scissors following the natural shape.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Toxic to cats and dogs. Ingestion causes vomiting, depression, and hypersalivation.",
+        "bestFor": "Offices and beginners looking for a large, forgiving tree-like plant."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "4-6 feet indoors (can reach 15+ feet outdoors)",
+        "matureSpread": "2-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors (highly fragrant white flower spikes if it does)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "60\u00b0F - 90\u00b0F (15\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 50%",
+            "survivable": "30% - 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Prefers medium to bright indirect light. It can survive in low light (like a dark corner) but growth will be extremely slow. Direct sun will scorch the leaves.",
+        "sunlightHours": "2-4 hours indirect",
+        "intensity": "moderate",
+        "indoorWindow": "East or North facing window.",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Extremely sensitive to fluoride and fertilizer salt buildup.",
+        "fertilizerFrequency": "Once or twice a year during spring and summer at quarter strength.",
+        "organicOptions": "Light compost top-dressing."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Large pots often hold moisture deep down. Watering too frequently will rot the thick canes."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the tips of my Corn Plant turning brown and crispy?",
+            "answer": "This is the most common issue. Dracaenas are highly sensitive to fluoride and chlorine in municipal tap water, as well as a buildup of fertilizer salts. Switch to distilled or rainwater to prevent further browning."
+        },
+        {
+            "question": "How often should I water my Dracaena fragrans?",
+            "answer": "Allow the top half of the soil to dry out completely before watering. In a large 10-inch pot, this usually means watering every 2 to 3 weeks. They tolerate underwatering much better than overwatering."
+        },
+        {
+            "question": "Is the Corn Plant safe for cats and dogs?",
+            "answer": "No. Dracaenas contain toxic saponins. If a cat or dog chews on the leaves, it will cause vomiting (sometimes with blood), excessive drooling, and lethargy."
+        },
+        {
+            "question": "Why are the bottom leaves of my Corn Plant turning yellow and falling off?",
+            "answer": "If only the oldest, lowest leaves are turning yellow and dropping one by one, it is a normal part of the plant's growth as it forms a bare trunk. If many leaves turn yellow at once, check for overwatering."
+        },
+        {
+            "question": "Can I cut the brown tips off my Corn Plant?",
+            "answer": "Yes! Use clean, sterilized scissors to snip off the brown crispy tips. Try to follow the natural pointed shape of the leaf. Leaving a tiny sliver of brown prevents the cut edge from dying back further."
+        },
+        {
+            "question": "Does my Corn Plant need direct sunlight?",
+            "answer": "No. Direct, hot afternoon sun will scorch the leaves, causing large brown patches. They prefer medium to bright indirect light, or filtered sunlight through a sheer curtain."
+        },
+        {
+            "question": "Why is the trunk of my Corn Plant soft and wrinkly?",
+            "answer": "A soft, mushy, or wrinkly trunk indicates severe stem rot, usually caused by chronic overwatering and poor drainage. The rotted section cannot be saved."
+        },
+        {
+            "question": "How do you propagate a Corn Plant?",
+            "answer": "You can propagate by taking a stem cutting. Cut the leafy top off (which will encourage the remaining cane to branch), let the cut callous, and place it in water or directly in moist soil to root."
+        }
+    ],
+    "shortDesc": "The Corn Plant is an office staple for a reason: it's nearly indestructible. We explain how to manage its one true weakness\u2014fluoride in tap water\u2014to keep the long, strappy leaves looking pristine.",
+    "content": "<h2>Overview</h2><p>The Corn Plant (Dracaena fragrans, sometimes sold as Mass Cane) is a ubiquitous, tree-like houseplant prized for its thick, woody canes and long, arching, striped leaves that resemble corn foliage. It is a staple in offices, malls, and living rooms because it is incredibly forgiving of neglect and low light. However, almost every grower eventually faces the same frustrating cosmetic issue: the tips of the beautiful leaves turn brown and crispy. This guide will teach you the specific watering requirements and the crucial water quality adjustments needed to keep this reliable giant looking flawless.</p><p>Native to tropical Africa, the Corn Plant is an understory shrub that is accustomed to filtered light and periods of dry weather. The thick, woody stems (canes) store moisture, making the plant highly resilient to drought but extremely vulnerable to being suffocated in heavy, constantly wet indoor potting soil. The key to Dracaena care is understanding that \"less is more\" when it comes to watering and fertilizing.</p><h3>Light</h3><p>Corn Plants are highly adaptable to various lighting conditions. They look best and grow steadily in medium to bright indirect light, such as an east-facing window or a few feet away from a south-facing window. They can survive for years in low-light environments, like a dark corner or a fluorescent-lit office, but their growth will be incredibly slow and the vibrant yellow/green stripes on the leaves may fade. Direct, hot afternoon sunlight must be avoided, as it will scorch the foliage and cause large brown burn marks.</p><h3>Temperature</h3><p>This tropical plant prefers standard household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is sensitive to cold drafts. Prolonged exposure to temperatures below 55\u00b0F (13\u00b0C) will cause the leaves to curl, turn gray, and drop. Keep it away from drafty winter windows and out of the direct path of air conditioning vents.</p><h3>Humidity</h3><p>Dracaenas are very tolerant of standard indoor humidity levels (40% to 50%). While they will appreciate slightly higher humidity, a room humidifier is rarely necessary unless your home is exceptionally dry (under 30%) during the winter. You do not need to mist the leaves.</p><h3>Watering and Water Quality</h3><p>Water quality is the single most important factor in Dracaena care. They are notoriously sensitive to fluoride, chlorine, and heavy minerals found in municipal tap water. Using tap water is the primary cause of those frustrating brown, crispy leaf tips. To prevent this, you must water your Corn Plant with distilled water, rainwater, or water purified by reverse osmosis.\n\nRegarding frequency, you must let the soil dry out significantly between waterings. Allow the top 50% of the potting mix to dry out completely. In a large 10-inch or 12-inch pot, this usually means watering only once every two to three weeks. When you do water, soak the soil thoroughly until water runs out the drainage holes, but never let the pot sit in a saucer of standing water.</p><h3>Soil</h3><p>A standard indoor potting mix is generally fine, but because it is crucial that the soil dries out between waterings, amending the mix with 20% to 30% perlite or pumice will vastly improve drainage. Heavy, water-retaining soils will cause the thick canes to rot.</p><h2>Fertilizer</h2><p>Corn Plants are very slow growers and require minimal feeding. Furthermore, they are highly sensitive to a buildup of fertilizer salts in the soil, which will burn the roots and cause brown leaf tips. Feed sparingly. Apply a balanced liquid houseplant fertilizer diluted to quarter strength only once or twice a year during the spring and summer. Do not fertilize during the fall and winter.</p><h2>Propagation</h2><p>Propagating a Dracaena is easy and is a great way to rejuvenate a plant that has grown too tall and \"leggy.\" You can propagate via stem cuttings. Simply cut the leafy top off the plant (leaving a few inches of bare stem attached). Let the cut end dry for a day, then place it in water or directly into moist potting mix to root. The original cane that you cut the top off of will sprout new growth points just below the cut, resulting in a branched, bushier plant.</p><h2>Repotting</h2><p>Because they grow so slowly and have a relatively small root system compared to their height, Corn Plants rarely need repotting. You generally only need to repot every three to five years, or when the roots are severely circling the bottom of the pot. When repotting, use a heavy pot (like terracotta or ceramic) that is only one or two inches wider in diameter; the weight will prevent the top-heavy plant from tipping over.</p><h2>Toxicity</h2><p>The Corn Plant is toxic to cats and dogs. It contains toxic saponins. If a pet chews on the leaves, it will cause gastrointestinal upset, vomiting (sometimes with blood), excessive drooling, and depression. Keep the plant out of reach of pets that are known to actively chew on houseplants.</p><h2>Common Problems</h2><p>Brown, crispy leaf tips are almost always caused by fluoride in tap water or a buildup of fertilizer salts. Switch to distilled water. You can safely trim the brown tips off with sterilized scissors. Yellowing, dropping lower leaves are a normal part of the plant's aging process as it grows a bare trunk. However, if multiple leaves turn yellow rapidly, or if the woody cane feels soft and squishy at the base, the plant is suffering from stem rot due to chronic overwatering.</p>",
+    "quickAnswer": "The Corn Plant is incredibly sensitive to fluoride in tap water, which causes brown leaf tips over time. Water only when the top half of the soil is dry, and exclusively use distilled or rainwater for best results. We have found that maintaining a consistent care routine significantly improves the long-term health of the plant.",
+    "ogImage": "/assets/images/corn-plant.webp",
+    "ogImageAlt": "A mature Dracaena fragrans with thick canes and arching striped leaves",
+    "heroImage": "/assets/images/corn-plant.webp",
+    "heroImageAlt": "Close up of the yellow and green striped foliage of the Mass Cane",
+    "featuredImageAlt": "Tall Corn Plant serving as a floor plant in a bright office",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Tips of the leaves are turning brown and crispy",
+            "diagnosis": "Fluoride toxicity from tap water, or fertilizer salt buildup in the soil.",
+            "treatment": "Switch to watering exclusively with distilled or rainwater, and flush the soil periodically.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Saponins",
+            "definition": "Naturally occurring toxic chemical compounds found in some plants, including Dracaena, that foam when agitated in water and cause severe gastrointestinal irritation if ingested."
+        },
+        {
+            "term": "Cane",
+            "definition": "A thick, sturdy, often woody stem of a plant. In Dracaena, the canes are usually chopped to various heights to create a tiered effect in the pot."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Dracaena Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Growth Habit"
+        ],
+        "rows": [
+            [
+                "Fragrans (Corn Plant)",
+                "Broad, arching leaves with a central yellow stripe",
+                "Thick woody canes"
+            ],
+            [
+                "Marginata (Dragon Tree)",
+                "Thin, spiky leaves with red edges",
+                "Thin, twisting woody canes"
+            ],
+            [
+                "Sanderiana (Lucky Bamboo)",
+                "Small, pliable green stems",
+                "Often grown in water, small"
+            ]
+        ]
+    },
+    "h1": "Corn Plant Care: How to Prevent Brown Tips on Dracaena",
+    "breadcrumbName": "Corn Plant Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "tap-water-vs-filtered-water-houseplants",
+        "indoor-plants-safe-for-cats-and-dogs"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the wide tropical leaves look thirsty\u2014but the thick cane stores water, and saturated soil causes root rot that progresses unseen until the cane itself softens. Wait until the top 2 inches of soil are dry before watering."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Brown leaf tips are almost never caused by underwatering\u2014they're caused by fluoride and dissolved salts in tap water accumulating in the leaf tissue over time. Switching to distilled water stops new browning, though existing tips won't recover."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "Positioned near heating vents, the canes drop lower leaves and the tips of upper leaves brown simultaneously because the hot dry air stresses both the root zone and the leaf surface at once. Moving it away from any forced-air source makes an immediate difference."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "dracaena fragrans care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for corn plant",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "corn plant brown tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "mass cane care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "dracaena watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "toxic floor plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tap water sensitive plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Corn Plant",
+    "summary": "Dracaena fragrans is a popular indoor tree featuring woody canes topped with strap-like foliage. This guide outlines low-to-bright indirect light tolerances, tap water sensitivity, and infrequent watering routines.",
+    "keyTakeaways": [
+        "Provide medium to bright indirect light, though lower ambient light is tolerated.",
+        "Allow the top 50% of the potting mix to dry out before watering thoroughly.",
+        "Use fluoride-free distilled or filtered water to prevent brown, papery tips.",
+        "Keep away from pets, as foliage contains toxic saponin compounds."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen tree/shrub",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 50% of the soil is dry. Sensitive to fluoride in tap water.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40% - 50%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "4-6 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during the growing season",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Fall-Winter",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Tropical Africa",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/corn-plant/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water thoroughly once the top layer of potting mix has dried out, allowing excess water to drain away completely from the pot base. Dracaena fragrans is sensitive to soggy soil and standing water, so allowing moderate drying between waterings helps prevent root issues."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/corn-plant"
+        ]
+    },
+    "contentText": "Overview The Corn Plant (Dracaena fragrans, sometimes sold as Mass Cane) is a ubiquitous, tree-like houseplant prized for its thick, woody canes and long, arching, striped leaves that resemble corn foliage. It is a staple in offices, malls, and living rooms because it is incredibly forgiving of neglect and low light. However, almost every grower eventually faces the same frustrating cosmetic issue: the tips of the beautiful leaves turn brown and crispy. This guide will teach you the specific watering requirements and the crucial water quality adjustments needed to keep this reliable giant looking flawless. Native to tropical Africa, the Corn Plant is an understory shrub that is accustomed to filtered light and periods of dry weather. The thick, woody stems (canes) store moisture, making the plant highly resilient to drought but extremely vulnerable to being suffocated in heavy, constantly wet indoor potting soil. The key to Dracaena care is understanding that \"less is more\" when it comes to watering and fertilizing. Light Corn Plants are highly adaptable to various lighting conditions. They look best and grow steadily in medium to bright indirect light, such as an east-facing window or a few feet away from a south-facing window. They can survive for years in low-light environments, like a dark corner or a fluorescent-lit office, but their growth will be incredibly slow and the vibrant yellow/green stripes on the leaves may fade. Direct, hot afternoon sunlight must be avoided, as it will scorch the foliage and cause large brown burn marks. Temperature This tropical plant prefers standard household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is sensitive to cold drafts. Prolonged exposure to temperatures below 55\u00b0F (13\u00b0C) will cause the leaves to curl, turn gray, and drop. Keep it away from drafty winter windows and out of the direct path of air conditioning vents. Humidity Dracaenas are very tolerant of standard indoor humidity levels (40% to 50%). While they will appreciate slightly higher humidity, a room humidifier is rarely necessary unless your home is exceptionally dry (under 30%) during the winter. You do not need to mist the leaves. Watering and Water Quality Water quality is the single most important factor in Dracaena care. They are notoriously sensitive to fluoride, chlorine, and heavy minerals found in municipal tap water. Using tap water is the primary cause of those frustrating brown, crispy leaf tips. To prevent this, you must water your Corn Plant with distilled water, rainwater, or water purified by reverse osmosis. Regarding frequency, you must let the soil dry out significantly between waterings. Allow the top 50% of the potting mix to dry out completely. In a large 10-inch or 12-inch pot, this usually means watering only once every two to three weeks. When you do water, soak the soil thoroughly until water runs out the drainage holes, but never let the pot sit in a saucer of standing water. Soil A standard indoor potting mix is generally fine, but because it is crucial that the soil dries out between waterings, amending the mix with 20% to 30% perlite or pumice will vastly improve drainage. Heavy, water-retaining soils will cause the thick canes to rot. Fertilizer Corn Plants are very slow growers and require minimal feeding. Furthermore, they are highly sensitive to a buildup of fertilizer salts in the soil, which will burn the roots and cause brown leaf tips. Feed sparingly. Apply a balanced liquid houseplant fertilizer diluted to quarter strength only once or twice a year during the spring and summer. Do not fertilize during the fall and winter. Propagation Propagating a Dracaena is easy and is a great way to rejuvenate a plant that has grown too tall and \"leggy.\" You can propagate via stem cuttings. Simply cut the leafy top off the plant (leaving a few inches of bare stem attached). Let the cut end dry for a day, then place it in water or directly into moist potting mix to root. The original cane that you cut the top off of will sprout new growth points just below the cut, resulting in a branched, bushier plant. Repotting Because they grow so slowly and have a relatively small root system compared to their height, Corn Plants rarely need repotting. You generally only need to repot every three to five years, or when the roots are severely circling the bottom of the pot. When repotting, use a heavy pot (like terracotta or ceramic) that is only one or two inches wider in diameter; the weight will prevent the top-heavy plant from tipping over. Toxicity The Corn Plant is toxic to cats and dogs. It contains toxic saponins. If a pet chews on the leaves, it will cause gastrointestinal upset, vomiting (sometimes with blood), excessive drooling, and depression. Keep the plant out of reach of pets that are known to actively chew on houseplants. Common Problems Brown, crispy leaf tips are almost always caused by fluoride in tap water or a buildup of fertilizer salts. Switch to distilled water. You can safely trim the brown tips off with sterilized scissors. Yellowing, dropping lower leaves are a normal part of the plant's aging process as it grows a bare trunk. However, if multiple leaves turn yellow rapidly, or if the woody cane feels soft and squishy at the base, the plant is suffering from stem rot due to chronic overwatering.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/corn-plant/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

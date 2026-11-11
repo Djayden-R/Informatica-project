@@ -1,0 +1,334 @@
+{
+    "quickAnswer": "Rubber Plant (Ficus elastica) needs bright indirect light, watering when the top inches of soil dry out, and occasional leaf wiping to remove dust that blocks light absorption. It tolerates a range of indoor conditions better than many ficus species. Overwatering and low light are the two most common causes of leaf drop and dull, sparse growth.",
+    "summary": "Rubber Plant, or Ficus elastica, is a resilient indoor tree known for its large, glossy leaves, generally more forgiving of indoor conditions than its relative, the Weeping Fig. It adapts reasonably well to moderate light while still producing its best growth and leaf color in brighter conditions.\n\nBecause its broad leaves accumulate dust readily, periodic wiping supports better photosynthesis and keeps the plant's signature glossy appearance intact. Watering based on soil dryness rather than a fixed schedule prevents the root stress that leads to leaf drop.",
+    "keyTakeaways": [
+        "Provide bright indirect light for the best leaf color and growth.",
+        "Water only when the top few inches of soil have dried out.",
+        "Wipe large leaves periodically to remove dust and support photosynthesis.",
+        "Prune to control height, since Rubber Plants can grow quite tall indoors.",
+        "Watch for leaf drop as an early sign of overwatering or low light."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "ficus-elastica",
+    "seoTitle": "Ficus Elastica (Rubber Plant) Care: Light, Watering & Leaf Drop",
+    "h1": "Rubber Plant Care Guide: Light, Watering & Leaf Drop Fixes",
+    "metaDescription": "Expert care guide and diagnostic data for the Rubber Plant. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Rubber Plant",
+    "facts": {
+        "family": "Moraceae",
+        "genus": "Ficus",
+        "species": "elastica",
+        "nativeRange": "South and Southeast Asia",
+        "growthHabit": "Evergreen tree"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00200",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00201",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.8,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00202",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2001",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00203",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 10,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00204",
+                        "weight": 1
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "ficus-elastica",
+    "heroImage": "/assets/images/ficus-elastica.webp",
+    "heroImageAlt": "Rubber Plant",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves of my Rubber Plant turning yellow and dropping?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Reduce watering; allow soil to dry; check roots for rot.",
+            "prevention": "Water only when top 2\u20133 inches are dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my Rubber Plant not growing?",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move to a brighter spot with indirect light; new leaves will appear.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves getting brown spots?",
+            "diagnosis": "Sunburn or bacterial infection",
+            "treatment": "If sunburn, move to filtered light; if bacterial, remove affected leaves and improve airflow.",
+            "prevention": "Avoid direct afternoon sun; ensure good circulation.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Tropical evergreen tree",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 2-3 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "Medium to high",
+        "temperature": "18\u201327\u00b0C (65\u201381\u00b0F)",
+        "matureSize": "2\u201310 ft (0.6\u20133 m) indoors",
+        "growthRate": "Moderate",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings or air layering",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": "Toxic if ingested",
+        "nativeRegion": "Nepal to China (western Yunnan) and western Malesia",
+        "usdaZones": "9-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Rubber Plant (Ficus elastica) is a tropical evergreen tree valued as a houseplant for its large, glossy, leathery leaves and upright growth habit. It is generally resilient when provided with bright, filtered or indirect light, moderate watering, and warm, stable conditions. Its main care challenges are overwatering, abrupt environmental changes, and insufficient light, all of which can contribute to leaf drop or poor growth."
+        },
+        {
+            "id": "watering",
+            "content": "Water Rubber Plant thoroughly when the upper layer of the growing medium has dried, allowing excess water to drain freely from the container. Avoid keeping the soil continuously saturated, as overwatering can contribute to yellowing, leaf drop, and root problems. Watering needs vary with light, temperature, pot size, soil composition, and season. During winter or other periods of reduced growth, allow the growing medium to dry somewhat more between waterings."
+        },
+        {
+            "id": "light",
+            "content": "Provide Rubber Plant with bright indirect or filtered light for strong, healthy growth. It can tolerate somewhat lower light, but growth may become slower and plants may become less compact. Some direct morning or evening sun can be tolerated when the plant is acclimated, while intense afternoon sunlight through glass may scorch foliage. Variegated cultivars generally require brighter conditions than solid-green forms."
+        },
+        {
+            "id": "soil",
+            "content": "Use a fertile, well-draining houseplant growing medium that retains some moisture without remaining saturated. A quality peat-free or loam-based houseplant mix can work well when combined with sufficient drainage. Choose a container with drainage holes and avoid dense soil that stays waterlogged after watering. Good drainage is particularly important because Rubber Plant is susceptible to problems associated with excessive moisture."
+        },
+        {
+            "id": "temperature",
+            "content": "Rubber Plant prefers warm, stable conditions and should be protected from cold drafts and sudden temperature changes. Keep it away from frequently opened cold windows, exterior doors, and strong heating or cooling vents. Temperatures should generally remain comfortably above about 10\u201313\u00b0C (50\u201355\u00b0F), while warmer conditions around 18\u201327\u00b0C (65\u201381\u00b0F) are well suited to active indoor growth."
+        },
+        {
+            "id": "humidity",
+            "content": "Rubber Plant benefits from moderate relative humidity but adapts readily to typical household conditions when lighting and watering are balanced. In very dry winter air, grouping plants or running a humidifier prevents crisp leaf margins, while maintaining good airflow avoids moisture stagnation."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Rubber Plant during active growth with a balanced houseplant fertilizer according to the product instructions. Regular feeding can support healthy foliage and new growth, particularly when the plant is growing strongly in bright conditions. Avoid excessive fertilizer, which can contribute to salt accumulation and root stress. Reduce or pause feeding when growth slows substantially during darker or cooler periods."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Rubber Plant when the root system has substantially filled the container, growth has slowed because the plant has become root-bound, or the growing medium has deteriorated. RHS recommends repotting approximately every two to three years under typical conditions, although the actual timing depends on plant size, growth, and container conditions. Move the plant into a container only moderately larger than the previous one and use a fresh, well-draining houseplant mix."
+        },
+        {
+            "id": "growth",
+            "content": "Rubber Plant develops an upright, woody growth habit with large leathery leaves emerging from the stems. Indoor plants can remain relatively compact when regularly pruned, while unpruned specimens can become several metres tall over time. Growth is generally strongest in warm, bright conditions and slows when light and temperatures decline. The plant can become top-heavy as it grows, so larger specimens may benefit from appropriate support or pruning."
+        },
+        {
+            "id": "pruning",
+            "content": "Pruning can be used to control the height and encourage a bushier shape. Removing the growing tip can encourage branching below the cut, while selective pruning can help maintain a manageable indoor size. Use clean, sharp tools and expect milky sap to emerge from fresh cuts. The sap can irritate skin, so wear gloves and avoid contact with the eyes. Remove damaged or dead leaves as needed rather than routinely cutting healthy foliage."
+        },
+        {
+            "id": "propagation",
+            "content": "Rubber Plant can be propagated from stem cuttings or by air layering. Stem cuttings should contain suitable nodes and are generally most successful when taken from healthy growth under warm, bright conditions. Air layering can be useful for larger plants or stems that are difficult to root as ordinary cuttings. Because fresh cuts release milky sap, handle propagation material carefully and avoid contact with skin and eyes."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Sudden leaf drop is one of the most noticeable problems with Rubber Plant and can follow changes in light, location, temperature, watering, or exposure to drafts. Yellowing or darkened leaves can be associated with excessive moisture, while dry, brown edges may occur when air is very dry. Poor growth can result from insufficient light or other environmental stress. Check recent changes in the plant's conditions before changing several care factors at once."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Rubber Plant generally grows more actively during brighter, warmer periods and may need more frequent watering and feeding during that time. As light levels and temperatures decline, growth commonly slows and the growing medium takes longer to dry. Reduce watering and fertilizer accordingly rather than maintaining the same schedule year-round. Protect the plant from cold drafts and sudden temperature changes during winter."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Rubber Plant can be grown outdoors in suitable warm, frost-free climates where it receives bright filtered light or appropriately acclimated sun and has well-draining soil. Plants moved outdoors from indoor conditions should be acclimated gradually to stronger light to reduce the risk of leaf scorch. Protect the plant from prolonged cold and freezing temperatures, and move container-grown specimens back indoors when outdoor conditions become unsuitable."
+        },
+        {
+            "id": "toxicity",
+            "content": "Rubber Plant produces a milky latex sap that can irritate the skin and is harmful if ingested. Keep the plant away from pets and children who may chew the leaves or stems, and wear gloves when pruning or propagating. Wash exposed skin after handling the sap and avoid touching the eyes during plant maintenance."
+        }
+    ],
+    "faq": [
+        {
+            "question": "How often should I water a Rubber Plant?",
+            "answer": "Water thoroughly when the upper layer of the growing medium has dried, then allow excess water to drain away. Avoid keeping the soil constantly wet because overwatering can contribute to yellowing, leaf drop, and root problems. The interval varies with light, temperature, pot size, soil, and season."
+        },
+        {
+            "question": "Why is my Rubber Plant dropping leaves?",
+            "answer": "Rubber Plant can drop leaves after changes in light, location, temperature, watering, or exposure to drafts. Overwatering and low light are also common contributors. Check for recent environmental changes and review the plant's drainage, watering pattern, and light exposure before making major changes to its care."
+        },
+        {
+            "question": "Does a Rubber Plant need direct sunlight?",
+            "answer": "Rubber Plant generally performs best in bright indirect or filtered light. It can tolerate some gentle morning or evening sun after acclimation, but intense direct sunlight through glass can scorch the leaves. Variegated forms usually benefit from brighter conditions than solid-green plants."
+        },
+        {
+            "question": "How big does a Rubber Plant get indoors?",
+            "answer": "Indoor Rubber Plants commonly grow around 2\u201310 feet (0.6\u20133 metres), although size depends on the cultivar, growing conditions, container, and pruning. Regular pruning can keep the plant compact and encourage a bushier form."
+        },
+        {
+            "question": "How do I make my Rubber Plant grow bushier?",
+            "answer": "Selective pruning can encourage branching and produce a fuller appearance. Removing the growing tip can stimulate growth from lower points on the stem. Provide adequate bright light and avoid repeatedly moving the plant, since stable conditions support more consistent growth."
+        },
+        {
+            "question": "How often should I repot a Rubber Plant?",
+            "answer": "Repot when the plant has substantially filled its container or the growing medium has deteriorated. Under typical conditions, repotting every two to three years may be appropriate, but faster- or slower-growing plants may need a different schedule. Move up only moderately in pot size and use a well-draining growing medium."
+        },
+        {
+            "question": "Can Rubber Plants grow in low light?",
+            "answer": "Rubber Plants can tolerate lower light for a period, but bright indirect light generally produces stronger and more attractive growth. Insufficient light can slow growth and contribute to a less compact plant. Variegated cultivars generally need more light to maintain their coloration."
+        },
+        {
+            "question": "Why are my Rubber Plant leaves turning yellow?",
+            "answer": "Yellow leaves can have several causes, but consistently wet growing medium and overwatering are common possibilities. Older lower leaves can also naturally yellow and drop as part of normal aging. Check the moisture level, drainage, light, and recent changes in care before assuming a single cause."
+        },
+        {
+            "question": "Can I propagate a Rubber Plant from a cutting?",
+            "answer": "Yes. Rubber Plant can be propagated from suitable stem cuttings, and air layering is another option for larger plants. Warm conditions, adequate light, and careful handling of the plant's milky sap are important during propagation."
+        },
+        {
+            "question": "Is Rubber Plant toxic to cats and dogs?",
+            "answer": "Yes. Rubber Plant produces milky latex sap that can be irritating and is considered harmful if ingested. Keep the plant away from pets and children who may chew the foliage or stems, and wear gloves when pruning or propagating."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus elastica",
+        "family": "Moraceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-elastica/",
+    "breadcrumbName": "Rubber Plant",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-elastica/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

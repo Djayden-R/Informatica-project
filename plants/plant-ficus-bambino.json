@@ -1,0 +1,313 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ficus-bambino",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ficus-lyrata-bambino",
+    "seoTitle": "Ficus Bambino Care: Apartment Fiddle Leaf Fig",
+    "metaDescription": "Ficus Bambino develops brown spots and drops leaves without stable conditions. Find out this Dwarf Fiddle Leaf Fig's watering and light needs for small.",
+    "featuredImage": "/assets/images/ficus-lyrata-bambino.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trees",
+        "toxic-to-pets",
+        "high-light",
+        "compact"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ficus lyrata",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Ficus",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus lyrata 'Bambino'",
+        "family": "Moraceae",
+        "origin": "Cultivar (Species native to Western Africa)",
+        "type": "Evergreen broadleaf tree",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Apartment corners",
+            "Floor plants",
+            "Desktop trees"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Directly in front of a massive, bright window. Hates being moved.",
+        "watering": "Water thoroughly only when the top 3 inches of soil are dry. Inconsistent watering causes brown spots.",
+        "soil": "A fast-draining, chunky aroid or ficus mix.",
+        "pruning": "Wipe leaves with a damp cloth weekly to remove dust. Prune top to encourage branching.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. The milky sap causes oral irritation, drooling, and vomiting.",
+        "bestFor": "Dedicated plant parents living in small apartments who want the Fiddle Leaf look without sacrificing floor space."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "3-4 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 95\u00b0F (15\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50% - 80%",
+            "survivable": "30% - 90%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires an immense amount of light. Without hours of bright, indirect light and a few hours of direct morning sun, the plant will rapidly drop its lower leaves and refuse to grow.",
+        "sunlightHours": "6-8 hours indirect + 2 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or East-facing window.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "high",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "high",
+        "micronutrientNotes": "Requires regular feeding to support the development of its large, thick leaves.",
+        "fertilizerFrequency": "Once a month during spring and summer with a high-nitrogen liquid fertilizer.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Extremely vulnerable to root rot if overwatered. Root rot immediately manifests as large, dark brown spots in the center of the leaves."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "What is the difference between a Fiddle Leaf Fig and a Bambino?",
+            "answer": "The 'Bambino' is a dwarf cultivar of the standard Ficus lyrata. While a standard Fiddle Leaf can grow 10 feet tall with massive leaves, the Bambino maxes out around 3-4 feet tall and has smaller, thicker, slightly more upright leaves."
+        },
+        {
+            "question": "Why is my Dwarf Fiddle Leaf Fig dropping healthy green leaves?",
+            "answer": "Sudden leaf drop is usually caused by environmental shock. If you recently moved the plant, placed it near a cold draft, or changed its watering schedule abruptly, it will panic and drop leaves."
+        },
+        {
+            "question": "Why are there dark brown spots on the leaves?",
+            "answer": "Dark brown or black spots that start in the center of the leaf or along the edges are almost always a sign of root rot caused by overwatering or poor drainage."
+        },
+        {
+            "question": "Why are there tiny red spots on the new leaves?",
+            "answer": "This is called edema. It happens when the plant absorbs water faster than it can transpire it, causing leaf cells to burst. It is usually caused by inconsistent watering (letting it get bone dry, then soaking it). The spots often fade as the leaf matures."
+        },
+        {
+            "question": "Is the Ficus Bambino safe for cats?",
+            "answer": "No. Like all Ficus trees, it bleeds a milky white sap when cut or broken. This sap is toxic to cats and dogs, causing severe oral irritation and vomiting."
+        }
+    ],
+    "shortDesc": "The Ficus Bambino is a dwarf cultivar that provides the iconic look of a Fiddle Leaf Fig without taking over your apartment. However, it shares the exact same dramatic, finicky care requirements.",
+    "content": "<h2>Overview</h2><p>The standard Fiddle Leaf Fig (<em>Ficus lyrata</em>) has dominated interior design for the last decade, but it comes with a major problem: it wants to become a massive 10-foot tree. For millions of indoor gardeners living in apartments or smaller homes, this simply isn't feasible. Enter the <em>Ficus lyrata 'Bambino'</em>, commonly known as the Dwarf Fiddle Leaf Fig.</p><p>The Bambino maxes out at a very manageable 3 to 4 feet tall. Its leaves are smaller, thicker, and grow more compactly along the trunk, making it the perfect tabletop or small floor plant. However, do not let its small size fool you\u2014it shares the exact same dramatic, finicky, and unforgiving care requirements as its giant cousin. It despises being moved, throws fits if exposed to drafts, and will rapidly drop its leaves if watering is inconsistent.</p><h3>Light Requirements: Maximum Exposure</h3><p>Like all Ficus trees, the Bambino is a high-light plant. It requires placement directly in front of the largest, brightest window in your home. A south-facing or east-facing window is ideal. It can easily handle a few hours of direct morning sun. If you place a Bambino in a dim corner, it will immediately stop growing, and within a few weeks, it will begin dropping its lower leaves one by one as it slowly starves to death.</p><p><strong>Important:</strong> Because the leaves are large and slightly cupped, they collect dust rapidly. Dust blocks sunlight from reaching the chloroplasts. You must wipe the leaves down with a damp cloth every two weeks to keep the plant photosynthesizing efficiently.</p><h3>Watering: Avoiding Edema and Root Rot</h3><p>Watering a Bambino requires precision. The soil must be allowed to dry out significantly, but not completely. Wait until the top 3 inches of soil feel dry to the touch before watering. When you water, soak the pot thoroughly, but absolutely ensure it is not sitting in a tray of standing water afterward.</p><p>Inconsistent watering (letting the plant get bone dry and then dumping massive amounts of water on it) leads to a condition called <em>edema</em>. The plant absorbs water faster than the leaves can handle it, causing plant cells to burst and leaving tiny red or brown dots all over the new growth. Overwatering, on the other hand, leads straight to root rot, which manifests as massive, ugly black/brown patches spreading across the mature leaves.</p><h3>Temperature and Humidity</h3><p>This is a tropical tree that hates the cold. Maintain temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it far away from exterior doors, drafty winter windows, or the direct blast of an air conditioning vent. A sudden draft will cause the plant to go into shock and drop healthy green leaves overnight. It appreciates higher humidity (around 50-60%), so a nearby humidifier during the dry winter months is highly recommended.</p><h3>Soil and Potting</h3><p>Standard indoor potting soil holds water for far too long and will eventually suffocate the roots. You must use a chunky, fast-draining mix. Amending a high-quality potting soil with 30-40% perlite and some coarse orchid bark will provide the perfect balance of moisture retention and aeration.</p><h2>The \"Do Not Move\" Rule</h2><p>Ficus trees acclimate to their specific lighting environment. Once you find a bright window where your Bambino is happy and pushing out new growth, <strong>do not move it.</strong> Even moving it to the other side of the room can trigger enough stress to cause a massive leaf-dropping event as it attempts to recalibrate to the new light angle. If you must move it, do so very gradually over several weeks.</p><h2>Toxicity Warning</h2><p>Like all plants in the Ficus family, the Bambino contains a milky white latex sap inside its stems and leaves. If a leaf is torn or a stem is cut, this sap will bleed out. The sap is toxic to cats and dogs, causing intense oral irritation, drooling, and vomiting if chewed. It can also cause skin irritation in sensitive humans, so wash your hands after pruning.</p>",
+    "quickAnswer": "The Dwarf Fiddle Leaf Fig (Bambino) requires maximum bright light and a strict watering routine. It will drop leaves if placed in a draft, if overwatered, or if moved frequently, so find a stable spot and keep it there. We have found that maintaining a consistent care routine significantly improves the long-term health of the plant.",
+    "ogImage": "/assets/images/ficus-lyrata-bambino.webp",
+    "ogImageAlt": "Compact Dwarf Fiddle Leaf Fig in a ceramic pot",
+    "heroImage": "/assets/images/ficus-lyrata-bambino.webp",
+    "heroImageAlt": "Close up of the thick, cabbage-like leaves of Ficus lyrata Bambino",
+    "featuredImageAlt": "Dwarf Fiddle Leaf Fig sitting in bright direct sunlight next to a window",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [],
+    "glossaryTerms": [
+        {
+            "term": "Edema",
+            "definition": "A condition in plants caused by the roots taking up water faster than the leaves can transpire it, resulting in burst cells that look like small red or brown blisters on the foliage."
+        },
+        {
+            "term": "Cultivar",
+            "definition": "A plant variety that has been produced in cultivation by selective breeding. 'Bambino' is a cultivar selectively bred for its small size."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Ficus Lyrata Variety Comparison",
+        "headers": [
+            "Variety",
+            "Max Height (Indoor)",
+            "Leaf Spacing"
+        ],
+        "rows": [
+            [
+                "Standard Fiddle Leaf",
+                "8-10+ feet",
+                "Widely spaced, leggy potential"
+            ],
+            [
+                "Bambino (Dwarf)",
+                "3-4 feet",
+                "Very compact and close together"
+            ],
+            [
+                "Compacta",
+                "5-6 feet",
+                "Medium spacing"
+            ]
+        ]
+    },
+    "h1": "Ficus Bambino Care: The Apartment-Sized Fiddle Leaf",
+    "breadcrumbName": "Ficus Bambino Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "ficus-lyrata",
+        "brown-crispy-tips-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Watering on a fixed schedule rather than checking soil moisture\u2014fiddle leaf figs need the top 1\u20132 inches to dry out between waterings, and overwatering causes brown spots that originate in the middle of the leaf (not the edges), which is a distinct sign of root damage. Underwatering produces edge browning instead."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The 'dwarf' designation describes its bushier growth habit and smaller leaf size compared to standard fiddle leaf, not a true genetic miniaturization\u2014given time, light, and space, it will still grow several feet tall. Expect a compact, slower-growing tree, not a permanent desk plant."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "Near AC vents or drafty windows, it drops lower leaves and refuses to push out new growth because the cold airflow mimics winter conditions and triggers a stress response. Stable temperatures and no cold drafts are essential for consistent growth."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "ficus bambino care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus lyrata compacta",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "small fiddle leaf fig tree",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus bambino dropping leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "edema ficus lyrata",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ficus Lyrata Bambino",
+    "summary": "Ficus lyrata 'Bambino' is a compact dwarf cultivar of the fiddle leaf fig, featuring dense, thick foliage ideal for smaller spaces. Master bright indirect lighting needs, watering discipline, and acclimation strategies.",
+    "keyTakeaways": [
+        "Provide bright, indirect light within 1 to 2 meters of a sunny window.",
+        "Water only when the top 2 to 3 inches of potting substrate feel completely dry.",
+        "Maintain a fixed position, as moving the plant frequently triggers leaf drop.",
+        "Inspect new leaves for edema spots caused by irregular moisture swings."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen broadleaf tree",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water thoroughly only when the top 3 inches of soil are dry. Inconsistent watering causes brown spots.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50% - 80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "3-4 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Rich, fast-draining potting soil",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during the growing season",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Western and west-central tropical Africa",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-lyrata-bambino/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/weeping-fig"
+        ]
+    },
+    "contentText": "Overview The standard Fiddle Leaf Fig ( Ficus lyrata ) has dominated interior design for the last decade, but it comes with a major problem: it wants to become a massive 10-foot tree. For millions of indoor gardeners living in apartments or smaller homes, this simply isn't feasible. Enter the Ficus lyrata 'Bambino' , commonly known as the Dwarf Fiddle Leaf Fig. The Bambino maxes out at a very manageable 3 to 4 feet tall. Its leaves are smaller, thicker, and grow more compactly along the trunk, making it the perfect tabletop or small floor plant. However, do not let its small size fool you\u2014it shares the exact same dramatic, finicky, and unforgiving care requirements as its giant cousin. It despises being moved, throws fits if exposed to drafts, and will rapidly drop its leaves if watering is inconsistent. Light Requirements: Maximum Exposure Like all Ficus trees, the Bambino is a high-light plant. It requires placement directly in front of the largest, brightest window in your home. A south-facing or east-facing window is ideal. It can easily handle a few hours of direct morning sun. If you place a Bambino in a dim corner, it will immediately stop growing, and within a few weeks, it will begin dropping its lower leaves one by one as it slowly starves to death. Important: Because the leaves are large and slightly cupped, they collect dust rapidly. Dust blocks sunlight from reaching the chloroplasts. You must wipe the leaves down with a damp cloth every two weeks to keep the plant photosynthesizing efficiently. Watering: Avoiding Edema and Root Rot Watering a Bambino requires precision. The soil must be allowed to dry out significantly, but not completely. Wait until the top 3 inches of soil feel dry to the touch before watering. When you water, soak the pot thoroughly, but absolutely ensure it is not sitting in a tray of standing water afterward. Inconsistent watering (letting the plant get bone dry and then dumping massive amounts of water on it) leads to a condition called edema . The plant absorbs water faster than the leaves can handle it, causing plant cells to burst and leaving tiny red or brown dots all over the new growth. Overwatering, on the other hand, leads straight to root rot, which manifests as massive, ugly black/brown patches spreading across the mature leaves. Temperature and Humidity This is a tropical tree that hates the cold. Maintain temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it far away from exterior doors, drafty winter windows, or the direct blast of an air conditioning vent. A sudden draft will cause the plant to go into shock and drop healthy green leaves overnight. It appreciates higher humidity (around 50-60%), so a nearby humidifier during the dry winter months is highly recommended. Soil and Potting Standard indoor potting soil holds water for far too long and will eventually suffocate the roots. You must use a chunky, fast-draining mix. Amending a high-quality potting soil with 30-40% perlite and some coarse orchid bark will provide the perfect balance of moisture retention and aeration. The \"Do Not Move\" Rule Ficus trees acclimate to their specific lighting environment. Once you find a bright window where your Bambino is happy and pushing out new growth, do not move it. Even moving it to the other side of the room can trigger enough stress to cause a massive leaf-dropping event as it attempts to recalibrate to the new light angle. If you must move it, do so very gradually over several weeks. Toxicity Warning Like all plants in the Ficus family, the Bambino contains a milky white latex sap inside its stems and leaves. If a leaf is torn or a stem is cut, this sap will bleed out. The sap is toxic to cats and dogs, causing intense oral irritation, drooling, and vomiting if chewed. It can also cause skin irritation in sensitive humans, so wash your hands after pruning.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-lyrata-bambino/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

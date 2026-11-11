@@ -1,0 +1,306 @@
+{
+    "quickAnswer": "Ficus Benjamina (Weeping Fig) needs bright indirect light, consistent watering, and a stable location, since it reacts to change by dropping leaves rapidly. Prune to control size and shape, as it tolerates trimming well. Sudden shifts in light, temperature, or location are the leading cause of the sudden leaf drop this species is known for.",
+    "summary": "Ficus Benjamina, commonly known as Weeping Fig, is a popular indoor tree valued for its graceful, arching branches and glossy foliage, but it's notoriously reactive to environmental change. Even minor disruptions like a room move or draft can trigger significant leaf drop within days.\n\nOnce established in a stable spot with bright indirect light and consistent watering, Weeping Figs settle in and require relatively low ongoing maintenance. Regular pruning is well tolerated and helps maintain a compact, attractive shape over time.",
+    "keyTakeaways": [
+        "Keep the plant in a stable location, since moving it triggers leaf drop.",
+        "Provide bright indirect light for the healthiest, fullest foliage.",
+        "Water consistently, avoiding both drought stress and waterlogging.",
+        "Prune to control size and shape; Weeping Fig tolerates trimming well.",
+        "Avoid drafts and sudden temperature swings near doors or vents."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "ficus-benjamina",
+    "seoTitle": "Ficus Benjamina Indoor Guide: Fix Leaf Drop & Pruning Tips",
+    "metaDescription": "Expert care guide and diagnostic data for the Weeping Fig. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Weeping Fig",
+    "facts": {
+        "family": "Moraceae",
+        "genus": "Ficus",
+        "species": "benjamina",
+        "nativeRange": "Asia and Australia",
+        "growthHabit": "Broadleaf evergreen tree"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00300",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00301",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00302",
+                        "weight": 1
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2002",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00303",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 13,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00304",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "ficus-benjamina",
+    "heroImage": "/assets/images/ficus-benjamina-2026.webp",
+    "heroImageAlt": "Weeping Fig",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Ficus Benjamina dropping leaves?",
+            "diagnosis": "Environmental stress \u2013 change in light, drafts, or over/underwatering",
+            "treatment": "Keep in stable location; maintain consistent watering; avoid moving.",
+            "prevention": "Avoid relocating; keep away from vents and drafts.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning yellow and falling?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Allow soil to dry; reduce watering; check for root rot.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves getting brown, crispy edges?",
+            "diagnosis": "Low humidity or fluoride toxicity",
+            "treatment": "Increase humidity; use filtered water; trim affected edges.",
+            "prevention": "Maintain moderate humidity and use purified water.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "content": "<h2>Plant Overview & Key Characteristics</h2><p>The Weeping Fig (<em>Ficus benjamina</em>), also known as the Benjamin Fig, is one of the most popular indoor trees and landscape ornamentals across the globe. Native to tropical and subtropical regions of Asia and Australia, it is recognized for its slender, gracefully arching branches and dense canopy of glossy, teardrop-shaped leaves with distinctive \"drip tips.\" In interior spaces, it adds vertical elegance and structure while filtering airborne toxins, though it is famously sensitive to sudden environmental shifts.</p><h2>Growing & Care Guide</h2><h3>1. Light & Placement</h3><p><em>Ficus benjamina</em> prospers in <strong>abundant, bright indirect sunlight</strong> and can easily tolerate a few hours of gentle morning sun. Avoid placing it in deep shade, which leads to sparse foliage, or under harsh, direct midday summer sun, which can bleach and scorch the leaves. Choose a permanent, draft-free location; Weeping Figs react strongly to being relocated and will drop a significant portion of their leaves if moved abruptly.</p><h3>2. Potting Soil & Substrate</h3><p>A fertile, lightweight, and well-aerated potting mix is essential to support robust root health while preventing fungal stagnation. Use a blend of 40% high-grade potting soil, 30% coco peat or peat moss, 20% coarse perlite or pumice, and 10% well-aged vermicompost. Aim for a slightly acidic to neutral pH between 6.0 and 6.8, ensuring the pot has ample drainage outlets.</p><h3>3. Watering Routine & Hydration Balance</h3><p>Maintain an even, moderate watering routine. Allow the top 2 to 3 inches of potting medium to dry out completely before soaking the soil thoroughly until water drains freely from the base. Never let the pot sit in stagnant runoff water inside a decorative saucer. Under-watering results in dry, brittle leaf shedding, while chronic overwatering leads to yellowing leaves and insidious root rot.</p><h3>4. Temperature & Humidity Needs</h3><p>Keep ambient temperatures consistently between <strong>18\u00b0C and 29\u00b0C (65\u00b0F\u201385\u00b0F)</strong>, never allowing indoor temperatures to drop below 15\u00b0C (59\u00b0F). Protect the tree from cold window drafts, direct heat registers, and blasts from air conditioning units. Maintain indoor relative humidity levels around <strong>50% to 60%</strong>; mist the canopy regularly during dry seasons or place a room humidifier nearby to prevent leaf crisping.</p><h3>5. Feeding & Nutrient Requirements</h3><p>Weeping Figs are moderate-to-heavy feeders during periods of active growth. Feed every 3 to 4 weeks throughout the spring and summer using a balanced water-soluble houseplant fertilizer (such as an NPK 10-10-10 or 20-20-20 formula) diluted to half strength. Suspend fertilization during autumn and winter when vegetative growth naturally slows.</p><h2>Pruning, Shaping & Repotting</h2><h3>Pruning & Topiary Training</h3><p>Prune in early spring before the active growth flush to shape the canopy, thin out crowded interior branches, and encourage bushier foliage. Use clean, sharp bypass pruners to cut just above an outward-facing leaf node. <em>Note:</em> Like all ficus species, pruning releases a milky white latex sap that can cause mild skin irritation\u2014wear gloves while shaping.</p><h3>Repotting Routine</h3><p>Weeping Figs perform well when slightly root-bound. Repot every 2 to 3 years in late spring, moving up to a container that is 2 to 3 inches larger in diameter. For mature, large indoor trees that are difficult to move, top-dress annually by carefully scraping off the upper 2 inches of old soil and replacing it with fresh, nutrient-rich compost mix.</p><h2>Troubleshooting, Pests & Leaf Drop</h2><h3>Preventing Sudden Leaf Drop</h3><p>Sudden, widespread leaf drop is the most common issue with <em>Ficus benjamina</em>. It is typically a stress response triggered by sudden changes in light levels, relocating the pot, exposure to cold drafts, or erratic watering cycles. If your plant sheds leaves after being moved, keep conditions stable and avoid panic-watering; healthy new foliage will regenerate once the tree acclimates.</p><h3>Pest Management & Pet Safety</h3><p>Inspect the undersides of leaves and branch crotches regularly for common pests like scale insects, spider mites, mealybugs, and thrips. Treat outbreaks early by washing the foliage with a warm water spray and applying organic neem oil or insecticidal soap every 7 to 10 days. <strong>Toxicity Warning:</strong> The sap of <em>Ficus benjamina</em> contains toxic ficin and ficusin compounds that cause gastrointestinal upset and dermal irritation in cats and dogs if chewed.</p>",
+    "plantHero": {
+        "plantType": "Tropical evergreen tree",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep soil lightly moist, allowing the top inch to dry between waterings.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "Medium to high",
+        "temperature": "18\u201327\u00b0C (65\u201381\u00b0F)",
+        "matureSize": "2\u201310 ft (0.6\u20133 m) indoors; larger outdoors",
+        "growthRate": "Moderate",
+        "soil": "Rich, fast-draining potting soil",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer every month during the growing season",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings or air layering",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": "Toxic to dogs, cats, and horses.",
+        "nativeRegion": "South and Southeast Asia, northern Australia, and the southwestern Pacific",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/fig",
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/weeping-fig"
+        ]
+    },
+    "faq": [
+        {
+            "question": "How often should I water a Weeping Fig?",
+            "answer": "Water when the top 1\u20132 inches of soil feel dry. Water thoroughly until excess drains from the pot, then empty the saucer. Avoid keeping the soil constantly wet, as consistently saturated roots can lead to root problems."
+        },
+        {
+            "question": "How much light does a Weeping Fig need?",
+            "answer": "Weeping Fig prefers bright indirect light for healthy growth and dense foliage. It can tolerate somewhat lower light, but growth may become slower and leaf drop can increase. Avoid sudden exposure to intense direct sunlight, which can scorch the leaves."
+        },
+        {
+            "question": "Why are my Weeping Fig leaves falling off?",
+            "answer": "Leaf drop is commonly triggered by environmental stress, especially changes in light, temperature, watering, humidity, or location. Weeping Figs dislike sudden changes. Check the soil moisture, provide stable bright indirect light, and avoid drafts or frequent relocation."
+        },
+        {
+            "question": "Why are the leaves of my Weeping Fig turning yellow?",
+            "answer": "Yellow leaves can result from overwatering, poor drainage, insufficient light, or normal aging of older foliage. Check the moisture level before watering again and make sure the container drains freely. Persistent yellowing accompanied by wet soil may indicate root stress."
+        },
+        {
+            "question": "Why are my Weeping Fig leaves turning brown?",
+            "answer": "Brown leaf edges or tips can be caused by dry air, inconsistent watering, excessive fertilizer salts, or environmental stress. Maintain more consistent moisture, keep the plant away from hot or cold drafts, and avoid excessive fertilization."
+        },
+        {
+            "question": "Does a Weeping Fig need high humidity?",
+            "answer": "Weeping Fig prefers moderate humidity and generally adapts to normal indoor conditions. Higher humidity can help reduce dry leaf edges, particularly during winter or in rooms with heating or air conditioning. Good airflow should be maintained around the foliage."
+        },
+        {
+            "question": "Why is my Weeping Fig not growing?",
+            "answer": "Slow growth can result from insufficient light, cool temperatures, poor nutrition, root restriction, or seasonal dormancy. Move the plant to a brighter location with indirect light and check that watering and nutrition are appropriate. Weeping Fig naturally grows more slowly during periods of reduced light."
+        },
+        {
+            "question": "How often should I fertilize a Weeping Fig?",
+            "answer": "Feed during active growth with a balanced houseplant fertilizer according to the product instructions. Avoid overfertilizing, which can cause salt buildup and damage the roots or leaf margins. Reduce or pause feeding when growth slows during darker or cooler periods."
+        },
+        {
+            "question": "When should I repot my Weeping Fig?",
+            "answer": "Repot when the roots have substantially filled the container, roots are emerging from drainage holes, or the plant is drying out unusually quickly. Choose a container only slightly larger than the current one and use a well-draining indoor potting mix. Avoid unnecessary repotting because root disturbance can contribute to temporary leaf drop."
+        },
+        {
+            "question": "Can Weeping Fig grow indoors?",
+            "answer": "Yes. Weeping Fig is a popular indoor tree when given bright indirect light, stable temperatures, appropriate watering, and enough space for its mature size. It can adapt well to indoor conditions but may drop leaves if its environment changes abruptly."
+        },
+        {
+            "question": "How do I propagate a Weeping Fig?",
+            "answer": "Weeping Fig is commonly propagated from stem cuttings. Take a healthy cutting with several leaves and at least one suitable node, then root it in a consistently moist propagation medium under warm, bright indirect conditions. Rooting can take several weeks."
+        },
+        {
+            "question": "Is Weeping Fig toxic to cats and dogs?",
+            "answer": "Yes. Weeping Fig contains irritating compounds in its sap and is considered toxic to cats and dogs if eaten. Ingestion can cause gastrointestinal upset and irritation. Keep the plant away from pets and children who may chew the leaves or stems."
+        },
+        {
+            "question": "Why are my Weeping Fig leaves curling?",
+            "answer": "Curling leaves can indicate water stress, low humidity, excessive heat, or root problems. Check the soil moisture and inspect the plant for pests. Keep it in bright indirect light with stable temperatures and avoid allowing the soil to remain either bone dry or continuously saturated."
+        },
+        {
+            "question": "Why does my Weeping Fig have sticky leaves?",
+            "answer": "Sticky leaves are often caused by honeydew produced by sap-feeding pests such as scale insects, mealybugs, or aphids. Inspect the undersides of leaves, stems, and branch joints for pests. Clean the foliage and treat the infestation with an appropriate houseplant pest-control method."
+        },
+        {
+            "question": "How do I prevent leaf drop after moving a Weeping Fig?",
+            "answer": "Keep the plant in a stable location with suitable bright indirect light and avoid making several environmental changes at once. Maintain consistent watering without keeping the soil saturated, protect it from drafts, and give it time to acclimate. Some temporary leaf drop after relocation is common."
+        },
+        {
+            "question": "How big does a Weeping Fig get indoors?",
+            "answer": "A Weeping Fig can eventually reach several feet indoors, depending on its cultivar, container size, pruning, light, and growing conditions. Regular pruning can maintain a manageable size and encourage a fuller, more compact shape."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus benjamina",
+        "family": "Moraceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-benjamina/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Weeping Fig benefits from moderate to high ambient humidity, which helps minimize leaf drop when indoor temperatures fluctuate. Shield the canopy from dry radiator heat and drafty air conditioning vents to maintain steady foliage density."
+        }
+    ],
+    "breadcrumbName": "Ficus Benjamina Indoor Guide",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/fig",
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/weeping-fig"
+        ]
+    },
+    "h1": "Ficus Benjamina (Weeping Fig) Care Guide: Light & Watering",
+    "contentText": "Plant Overview & Key Characteristics The Weeping Fig ( Ficus benjamina ), also known as the Benjamin Fig, is one of the most popular indoor trees and landscape ornamentals across the globe. Native to tropical and subtropical regions of Asia and Australia, it is recognized for its slender, gracefully arching branches and dense canopy of glossy, teardrop-shaped leaves with distinctive \"drip tips.\" In interior spaces, it adds vertical elegance and structure while filtering airborne toxins, though it is famously sensitive to sudden environmental shifts. Growing & Care Guide 1. Light & Placement Ficus benjamina prospers in abundant, bright indirect sunlight and can easily tolerate a few hours of gentle morning sun. Avoid placing it in deep shade, which leads to sparse foliage, or under harsh, direct midday summer sun, which can bleach and scorch the leaves. Choose a permanent, draft-free location; Weeping Figs react strongly to being relocated and will drop a significant portion of their leaves if moved abruptly. 2. Potting Soil & Substrate A fertile, lightweight, and well-aerated potting mix is essential to support robust root health while preventing fungal stagnation. Use a blend of 40% high-grade potting soil, 30% coco peat or peat moss, 20% coarse perlite or pumice, and 10% well-aged vermicompost. Aim for a slightly acidic to neutral pH between 6.0 and 6.8, ensuring the pot has ample drainage outlets. 3. Watering Routine & Hydration Balance Maintain an even, moderate watering routine. Allow the top 2 to 3 inches of potting medium to dry out completely before soaking the soil thoroughly until water drains freely from the base. Never let the pot sit in stagnant runoff water inside a decorative saucer. Under-watering results in dry, brittle leaf shedding, while chronic overwatering leads to yellowing leaves and insidious root rot. 4. Temperature & Humidity Needs Keep ambient temperatures consistently between 18\u00b0C and 29\u00b0C (65\u00b0F\u201385\u00b0F) , never allowing indoor temperatures to drop below 15\u00b0C (59\u00b0F). Protect the tree from cold window drafts, direct heat registers, and blasts from air conditioning units. Maintain indoor relative humidity levels around 50% to 60% ; mist the canopy regularly during dry seasons or place a room humidifier nearby to prevent leaf crisping. 5. Feeding & Nutrient Requirements Weeping Figs are moderate-to-heavy feeders during periods of active growth. Feed every 3 to 4 weeks throughout the spring and summer using a balanced water-soluble houseplant fertilizer (such as an NPK 10-10-10 or 20-20-20 formula) diluted to half strength. Suspend fertilization during autumn and winter when vegetative growth naturally slows. Pruning, Shaping & Repotting Pruning & Topiary Training Prune in early spring before the active growth flush to shape the canopy, thin out crowded interior branches, and encourage bushier foliage. Use clean, sharp bypass pruners to cut just above an outward-facing leaf node. Note: Like all ficus species, pruning releases a milky white latex sap that can cause mild skin irritation\u2014wear gloves while shaping. Repotting Routine Weeping Figs perform well when slightly root-bound. Repot every 2 to 3 years in late spring, moving up to a container that is 2 to 3 inches larger in diameter. For mature, large indoor trees that are difficult to move, top-dress annually by carefully scraping off the upper 2 inches of old soil and replacing it with fresh, nutrient-rich compost mix. Troubleshooting, Pests & Leaf Drop Preventing Sudden Leaf Drop Sudden, widespread leaf drop is the most common issue with Ficus benjamina . It is typically a stress response triggered by sudden changes in light levels, relocating the pot, exposure to cold drafts, or erratic watering cycles. If your plant sheds leaves after being moved, keep conditions stable and avoid panic-watering; healthy new foliage will regenerate once the tree acclimates. Pest Management & Pet Safety Inspect the undersides of leaves and branch crotches regularly for common pests like scale insects, spider mites, mealybugs, and thrips. Treat outbreaks early by washing the foliage with a warm water spray and applying organic neem oil or insecticidal soap every 7 to 10 days. Toxicity Warning: The sap of Ficus benjamina contains toxic ficin and ficusin compounds that cause gastrointestinal upset and dermal irritation in cats and dogs if chewed.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-benjamina/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

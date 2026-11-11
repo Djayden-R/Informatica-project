@@ -1,0 +1,346 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-tradescantia-nanouk",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "tradescantia-nanouk",
+    "seoTitle": "Tradescantia Nanouk Care: Brown Spots & Legginess",
+    "metaDescription": "Tradescantia Nanouk develops brown spots on Fantasy Venice leaves from too much direct sun. Find out watering needs, light requirements, and how to.",
+    "featuredImage": "/assets/images/tradescantia-nanouk.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "toxic-to-pets",
+        "fast-growing",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Tradescantia albiflora",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Commelinaceae Toxicity",
+            "source": "ASPCA Animal Poison Control Center",
+            "url": "https://www.aspca.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Tradescantia albiflora 'Nanouk'",
+        "family": "Commelinaceae",
+        "origin": "Cultivar (Developed in the Netherlands)",
+        "type": "Evergreen trailing perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Hanging baskets",
+            "Bright windowsills",
+            "Colorful desk plants"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright, indirect light. It must have significant light to maintain its intense pink and purple colors.",
+        "watering": "Water only when the top 2 inches of soil are dry. Absolutely hates getting water on its leaves.",
+        "soil": "A fast-draining indoor potting mix heavily amended with perlite.",
+        "pruning": "Requires aggressive, ruthless pruning to stop it from becoming a single long, bald vine.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. The sap causes severe contact dermatitis (rashes) and stomach upset if ingested.",
+        "bestFor": "Plant owners who want an aggressively fast-growing, bright pink trailing plant and aren't afraid to use scissors."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "very fast",
+        "matureHeight": "Trailing vines up to 3 feet long",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring/Summer (produces tiny, star-shaped pink and white flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires massive amounts of bright, indirect light to keep its vivid pink, purple, and green striping. In low light, it stretches rapidly and turns completely green.",
+        "sunlightHours": "4-8 hours indirect",
+        "intensity": "high",
+        "indoorWindow": "East or South-facing window.",
+        "shadeTolerance": "low (loses color and gets leggy)"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Extremely fast grower. Feed regularly during the summer to support the massive vine production.",
+        "fertilizerFrequency": "Once a month during spring and summer with a balanced liquid fertilizer.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Highly susceptible to rot. The thick, fleshy stems will turn black and mushy at the soil line if overwatered."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the leaves on my Tradescantia Nanouk getting ugly brown spots?",
+            "answer": "Brown, crispy spots on the delicate pink sections of the leaves are usually caused by water sitting on the foliage. The Nanouk absolutely hates getting its leaves wet. If you water it from the top and splash the leaves, they will rot and turn brown. You must bottom-water this plant."
+        },
+        {
+            "question": "Why is my plant growing long, bare vines with huge gaps between the leaves?",
+            "answer": "This is etiolation, caused by a severe lack of light. The plant is desperately stretching out to find the sun. Move it to a much brighter window, and use scissors to cut off the ugly, stretched-out vines."
+        },
+        {
+            "question": "Why is my bright pink plant turning completely green?",
+            "answer": "Loss of the pink and purple coloring is a direct result of low light. The plant is flooding its leaves with green chlorophyll to survive in the dark. Move it into bright, indirect sunlight to get the colors back."
+        },
+        {
+            "question": "Why is the top of the pot completely bald?",
+            "answer": "Tradescantias naturally abandon their oldest leaves as the vines grow longer. To keep the top of the pot full, you must constantly cut the tips off the vines and stick them directly back into the soil at the top of the pot."
+        },
+        {
+            "question": "Is the Tradescantia Nanouk toxic to pets?",
+            "answer": "Yes. The sap inside the thick stems causes severe contact dermatitis (rashes and blistering) on the skin of dogs and cats. If chewed, it causes painful stomach upset and vomiting."
+        }
+    ],
+    "shortDesc": "The Tradescantia Nanouk is a wildly fast-growing trailing plant famous for its thick leaves painted in intense pink, purple, and green stripes. It is beautiful but requires bottom-watering to prevent brown spots on its leaves.",
+    "content": "<h2>Overview</h2><p>Developed in the Netherlands in 2012 specifically for the houseplant market, the <em>Tradescantia albiflora 'Nanouk'</em> (often sold as Fantasy Venice) was engineered to be the ultimate colorful trailing plant. Compared to the classic Zebrina (Inch Plant), the Nanouk has much thicker, fleshier stems and larger, fuzzier leaves.</p><p>Its coloration is truly spectacular: the tops of the leaves are heavily striped with pale green, white, and intense bubblegum pink, while the undersides glow a vibrant magenta-purple. It grows at an astonishing speed, quickly cascading over the sides of a hanging basket. However, while it was bred to be hardy, it has one major flaw: it absolutely despises getting its leaves wet. Mastering the Nanouk requires changing how you water and learning to be completely ruthless with a pair of scissors.</p><h3>The Brown Spot Epidemic: Bottom Watering</h3><p>The single most common complaint about the Nanouk is that the beautiful pink leaves suddenly develop ugly, crispy brown spots that eventually rot the entire leaf. </p><p>Because the leaves are slightly fuzzy and grow tightly clustered around the stem, water gets trapped between them. <strong>If water sits on the leaves of a Nanouk, it causes immediate fungal rot (brown spots).</strong> You cannot water this plant from the top with a watering can. You must bottom-water it. Fill a bowl with a few inches of water, set the pot in the bowl, and let the soil soak the water up from the bottom drainage holes through capillary action. This keeps the delicate leaves perfectly dry.</p><h3>Light Requirements: Keeping the Pink</h3><p>Light is the key to maintaining the Nanouk's brilliant pink and purple stripes. If you place the plant in a dark corner, it will rapidly stretch its vines out (etiolation), leaving huge, ugly bare gaps between the leaves. Furthermore, it will completely stop producing pink pigment, turning a dull, muddy green in order to survive the low light.</p><p>You must place the plant in bright, indirect light. An east-facing or south-facing window is perfect. A few hours of gentle, direct morning sun will actually intensify the pink coloring, but avoid blazing, hot afternoon sun, which will bleach the leaves.</p><h3>Watering the Soil</h3><p>The thick stems of the Nanouk store a significant amount of water, making it surprisingly drought-tolerant. You must allow the top 2 inches of the potting soil to dry out completely before you bottom-water it. If you keep the soil constantly wet, the thick, fleshy stems will turn black and mushy at the soil line, and the entire vine will collapse from rot.</p><h3>Soil and Potting</h3><p>Because stem rot is such a major issue, standard potting soil holds water for far too long. You must use a fast-draining mix. Amend high-quality indoor potting soil with at least 30% to 40% perlite to ensure excellent drainage and oxygenation for the roots.</p><h2>The Secret to a Bushy Plant: Ruthless Pruning</h2><p>Tradescantias are not meant to live forever as a single, long vine. In nature, they crawl across the ground, abandoning their oldest, back leaves to push new growth forward. Indoors in a hanging basket, this results in a plant with long, stringy vines that are completely bald at the top of the pot.</p><p>To fix this, you must be ruthless. Every few weeks, take scissors and snip the tips off the longest vines. Take those cut tips, poke a hole in the bare soil at the top of the pot, and stick the cutting right in. It will root in a matter of days. This continuous \"chop and prop\" cycle is the only way to keep a Tradescantia Nanouk looking full, bushy, and beautiful.</p><h2>Toxicity Warning</h2><p>The thick stems of the Nanouk are filled with a clear sap. This sap is toxic to cats and dogs. It is a severe skin irritant; if a dog brushes against a broken stem, it will often develop an intense, blistering rash (contact dermatitis). If chewed, it causes painful stomach upset, drooling, and vomiting. Keep the trailing vines out of reach.</p>",
+    "quickAnswer": "The Tradescantia Nanouk MUST be bottom-watered; water on the leaves causes ugly brown rot spots. Provide bright, indirect light to keep it pink, and ruthlessly cut and replant the vines to keep it bushy. We have found that maintaining a consistent care routine significantly improves the long-term health of the plant.",
+    "ogImage": "/assets/images/tradescantia-nanouk.webp",
+    "ogImageAlt": "Thick, fuzzy leaves heavily striped with green, white, and intense pink",
+    "heroImage": "/assets/images/tradescantia-nanouk.webp",
+    "heroImageAlt": "Close up of the vibrant magenta undersides of the Nanouk leaves",
+    "featuredImageAlt": "A bushy Tradescantia Nanouk trailing from a bright white hanging basket",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves on my Tradescantia Nanouk getting ugly brown spots?",
+            "diagnosis": "Water sitting on leaves \u2013 causes rot and browning",
+            "treatment": "Bottom-water only; remove affected leaves; increase air circulation.",
+            "prevention": "Always water from the bottom; keep leaves dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my plant growing long, bare vines with huge gaps between the leaves?",
+            "diagnosis": "Insufficient light \u2013 etiolation",
+            "treatment": "Move to brighter light; prune leggy stems to encourage fullness.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my bright pink plant turning completely green?",
+            "diagnosis": "Low light \u2013 loss of pink colour",
+            "treatment": "Move to brighter indirect light; new growth will be pink.",
+            "prevention": "Give bright light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is the top of the pot completely bald?",
+            "diagnosis": "Natural leaf loss \u2013 needs pruning and propagation to fill top",
+            "treatment": "Take stem cuttings and plant them back into the top of the pot; prune regularly.",
+            "prevention": "Regular pruning and replanting cuttings.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Bottom Watering",
+            "definition": "A technique where a plant pot is placed in a bowl of water, allowing the soil to absorb moisture upward through the drainage holes. This keeps the leaves dry and prevents fungal rot."
+        },
+        {
+            "term": "Chop and Prop",
+            "definition": "A slang term in the houseplant community for aggressively cutting vines (chopping) and immediately sticking them back into the soil to root (propagating) to create a bushier plant."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Tradescantia Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Texture",
+            "Color Pattern"
+        ],
+        "rows": [
+            [
+                "Nanouk",
+                "Thick, slightly fuzzy",
+                "Bubblegum pink, white, green"
+            ],
+            [
+                "Zebrina",
+                "Thin, smooth",
+                "Silver and purple stripes"
+            ],
+            [
+                "Pallida",
+                "Long, velvety",
+                "Solid deep purple"
+            ]
+        ]
+    },
+    "h1": "Tradescantia Nanouk Care: Preventing Brown Spots & Leggy Growth",
+    "breadcrumbName": "Tradescantia Nanouk Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "brown-crispy-tips-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Misting the leaves to boost humidity\u2014water sitting on the leaves causes brown rot spots and promotes fungal issues on the soft, slightly waxy surface. Water at soil level only, and use a pebble tray or humidifier if more ambient humidity is needed."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The lower leaves naturally die and drop as the plant trails and extends\u2014this is normal senescence, not a health problem, but it leaves the base looking bare over time. Regular pruning of the trailing stems, using cuttings to repot back into the same container, is the standard practice for keeping it full."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the pink and white stripe pattern fades to pale, washed-out green because the pigments responsible for the coloring require strong light to be produced. Bright indirect light\u2014ideally within a foot or two of a window\u2014keeps those vivid stripes sharp."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "fantasy venice",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tradescantia pink",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "inch plant nanouk",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "tradescantia nanouk brown spots",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "bottom watering houseplants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Tradescantia Nanouk",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light to maintain vivid pink and green variegation.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Pinch back growth regularly to maintain a compact, bushy shape.",
+        "Avoid low light, which can cause new growth to lose its pink coloring."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 11,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen trailing perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water only when the top 2 inches of soil are dry. Absolutely hates getting water on its leaves.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Trailing 1-2 feet",
+        "growthRate": "Very fast",
+        "soil": "Well-draining, peat-free potting mix with perlite",
+        "soilDrainage": "good",
+        "fertilizer": "General-purpose fertilizer diluted to half strength monthly, spring through fall",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Intermittent, small pink flowers",
+        "petSafety": "toxic",
+        "nativeRegion": "Cultivar (developed in the Netherlands)",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://bloomscape.com/plant-care-guide/tradescantia/"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/tradescantia-nanouk/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://bloomscape.com/plant-care-guide/tradescantia/"
+        ]
+    },
+    "contentText": "Overview Developed in the Netherlands in 2012 specifically for the houseplant market, the Tradescantia albiflora 'Nanouk' (often sold as Fantasy Venice) was engineered to be the ultimate colorful trailing plant. Compared to the classic Zebrina (Inch Plant), the Nanouk has much thicker, fleshier stems and larger, fuzzier leaves. Its coloration is truly spectacular: the tops of the leaves are heavily striped with pale green, white, and intense bubblegum pink, while the undersides glow a vibrant magenta-purple. It grows at an astonishing speed, quickly cascading over the sides of a hanging basket. However, while it was bred to be hardy, it has one major flaw: it absolutely despises getting its leaves wet. Mastering the Nanouk requires changing how you water and learning to be completely ruthless with a pair of scissors. The Brown Spot Epidemic: Bottom Watering The single most common complaint about the Nanouk is that the beautiful pink leaves suddenly develop ugly, crispy brown spots that eventually rot the entire leaf. Because the leaves are slightly fuzzy and grow tightly clustered around the stem, water gets trapped between them. If water sits on the leaves of a Nanouk, it causes immediate fungal rot (brown spots). You cannot water this plant from the top with a watering can. You must bottom-water it. Fill a bowl with a few inches of water, set the pot in the bowl, and let the soil soak the water up from the bottom drainage holes through capillary action. This keeps the delicate leaves perfectly dry. Light Requirements: Keeping the Pink Light is the key to maintaining the Nanouk's brilliant pink and purple stripes. If you place the plant in a dark corner, it will rapidly stretch its vines out (etiolation), leaving huge, ugly bare gaps between the leaves. Furthermore, it will completely stop producing pink pigment, turning a dull, muddy green in order to survive the low light. You must place the plant in bright, indirect light. An east-facing or south-facing window is perfect. A few hours of gentle, direct morning sun will actually intensify the pink coloring, but avoid blazing, hot afternoon sun, which will bleach the leaves. Watering the Soil The thick stems of the Nanouk store a significant amount of water, making it surprisingly drought-tolerant. You must allow the top 2 inches of the potting soil to dry out completely before you bottom-water it. If you keep the soil constantly wet, the thick, fleshy stems will turn black and mushy at the soil line, and the entire vine will collapse from rot. Soil and Potting Because stem rot is such a major issue, standard potting soil holds water for far too long. You must use a fast-draining mix. Amend high-quality indoor potting soil with at least 30% to 40% perlite to ensure excellent drainage and oxygenation for the roots. The Secret to a Bushy Plant: Ruthless Pruning Tradescantias are not meant to live forever as a single, long vine. In nature, they crawl across the ground, abandoning their oldest, back leaves to push new growth forward. Indoors in a hanging basket, this results in a plant with long, stringy vines that are completely bald at the top of the pot. To fix this, you must be ruthless. Every few weeks, take scissors and snip the tips off the longest vines. Take those cut tips, poke a hole in the bare soil at the top of the pot, and stick the cutting right in. It will root in a matter of days. This continuous \"chop and prop\" cycle is the only way to keep a Tradescantia Nanouk looking full, bushy, and beautiful. Toxicity Warning The thick stems of the Nanouk are filled with a clear sap. This sap is toxic to cats and dogs. It is a severe skin irritant; if a dog brushes against a broken stem, it will often develop an intense, blistering rash (contact dermatitis). If chewed, it causes painful stomach upset, drooling, and vomiting. Keep the trailing vines out of reach.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/tradescantia-nanouk/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

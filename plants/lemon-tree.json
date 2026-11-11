@@ -1,0 +1,310 @@
+{
+    "quickAnswer": "Indoor Lemon Trees need at least 8 hours of bright direct light, deep watering only when the topsoil dries out, and regular citrus fertilizer during the growing season. Leaf drop is commonly caused by insufficient light, underwatering, or sudden temperature changes. Fruit production requires ample light and hand-pollination indoors.",
+    "summary": "Growing a lemon tree indoors is rewarding but genuinely light-intensive; citrus trees rank among the most light-hungry houseplants and often struggle in average indoor conditions without some form of supplemental grow lighting. Consistent feeding and watering routines matter just as much as light for healthy foliage and reliable fruit set, since irregular care tends to show up quickly as dropped leaves or stalled flowering. Even a well-placed south-facing window often benefits from a few extra hours of artificial light during the darker winter months, and patient, steady attention over the seasons tends to matter more than any single fix.",
+    "keyTakeaways": [
+        "Provide at least 8 hours of bright direct light, using grow lights if needed.",
+        "Water deeply only when the top few inches of soil have dried out.",
+        "Feed with a citrus-specific fertilizer during spring and summer growth.",
+        "Hand-pollinate flowers indoors, since natural pollinators aren't present.",
+        "Move trees outdoors in summer to boost fruiting and overall vigor."
+    ],
+    "readingTime": 5,
+    "lastReviewed": "2026-09-10",
+    "schemaVersion": "2.0.0",
+    "id": "lemon-tree",
+    "seoTitle": "Indoor Lemon Tree Care: Stop Leaf Drop, Boost Fruit",
+    "commonName": "Lemon Tree",
+    "facts": {
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "species": "limon",
+        "nativeRange": "Northeastern India",
+        "growthHabit": "Evergreen Fruit Tree"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Requires a loose, slightly acidic mix (often amended with pine bark) to ensure oxygen reaches the roots, but functions as a terrestrial tree.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9007",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Stores very little water. High transpiration rate from large leaves. Will curl its leaves and drop fruit if allowed to dry out completely.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9008",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Roots are moderately sensitive. Responds poorly to having its root ball ripped apart during repotting, leading to temporary chlorosis.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9009",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Highly susceptible to Phytophthora root rot if drainage is poor or if watered too frequently during winter dormancy.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9010",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Extremely sensitive to winter relocation. Bringing it indoors from a sunny patio to a dry, heated room often results in complete defoliation.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9011",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 2,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.9,
+                "editorReasoning": "Cannot tolerate freezing. Temperatures below 0\u00c2\u00b0C will damage fruit and cause severe tissue death on young branches.",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9012",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "lemon-tree",
+    "entityType": "plant",
+    "status": "published",
+    "metaDescription": "Stop leaf drop and improve fruit production on an indoor lemon tree with proper light, watering, feeding and winter care techniques.",
+    "featuredImage": "/assets/images/lemon-tree.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves on my lemon tree turning yellow?",
+            "diagnosis": "Nutrient deficiency (often nitrogen) or overwatering",
+            "treatment": "Fertilise with a citrus-specific fertilizer; check drainage; water when topsoil is dry.",
+            "prevention": "Feed regularly in growing season; use well-draining soil.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves curling?",
+            "diagnosis": "Aphids or underwatering",
+            "treatment": "Check for pests; if none, water deeply; apply insecticidal soap if aphids are present.",
+            "prevention": "Monitor for pests; maintain consistent watering.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why isn't my lemon tree flowering?",
+            "diagnosis": "Insufficient light or lack of winter chill",
+            "treatment": "Move to sunniest spot; ensure temperatures cool slightly in winter (but above freezing).",
+            "prevention": "Give full sun and a winter rest.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "h1": "Indoor Lemon Tree Care Guide",
+    "breadcrumbName": "Lemon Tree",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Evergreen fruit tree",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water deeply when the top 2-3 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": true,
+        "humidity": "50% - 70%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "4-6 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Slightly acidic, well-draining citrus mix",
+        "soilDrainage": "good",
+        "fertilizer": "Citrus-specific fertilizer every 1-2 months in spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard with excellent drainage",
+        "propagation": "Stem cuttings or seeds",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Asia",
+        "usdaZones": "9-11",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "taxonomy": {
+        "sciName": "Citrus \u00d7 limon",
+        "family": "Rutaceae",
+        "taxonType": "hybrid"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/lemon-tree/",
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Lemon Tree (<em>Citrus limon</em>) is an evergreen citrus tree valued for its fragrant flowers, glossy foliage, and edible yellow fruit. Lemon Trees can be grown outdoors in warm climates or cultivated in containers indoors, particularly when compact or dwarf varieties are chosen. Container-grown trees require strong light, well-draining soil, consistent moisture, and regular feeding to maintain healthy growth and support flowering and fruit production."
+        },
+        {
+            "id": "indoor-growing",
+            "content": "Yes, you can grow a Lemon Tree indoors, especially when using a compact or dwarf variety. The main challenge is providing enough light for healthy growth, flowering, and fruit production. Place the tree in the brightest available location, ideally where it receives several hours of direct sunlight each day. If natural light is insufficient, supplement it with a suitable grow light. A Lemon Tree may survive in lower indoor light, but flowering and fruit production are much less likely. Indoor trees also benefit from good air circulation and consistent care."
+        },
+        {
+            "id": "light",
+            "content": "Lemon Trees require abundant light and generally perform best with several hours of direct sunlight each day. When grown indoors, place the tree near the brightest available south- or west-facing window where possible. If the available natural light is weak, particularly during winter, use a suitable grow light to supplement it. Insufficient light can result in weak growth, leaf drop, poor flowering, and reduced fruit production. Introduce plants gradually when moving them from lower-light indoor conditions into strong outdoor sunlight to reduce the risk of leaf scorch."
+        },
+        {
+            "id": "watering",
+            "content": "Water Lemon Trees thoroughly when the upper portion of the growing medium has begun to dry, then allow excess water to drain freely. Avoid keeping the roots continuously saturated, but do not allow a container-grown tree to remain severely dry for prolonged periods. Watering frequency varies with temperature, light, container size, and season, so check the growing medium rather than following a fixed calendar. Reduce watering when growth slows in cooler or darker conditions, while continuing to monitor the soil for excessive dryness."
+        },
+        {
+            "id": "soil",
+            "content": "Use a fertile, well-draining growing medium for container-grown Lemon Trees. A quality citrus or container potting mix that allows excess water to drain readily is preferable to heavy garden soil. Choose a container with adequate drainage holes and avoid allowing the pot to stand in collected water. Repot when the roots have substantially filled the container or the growing medium has deteriorated, moving to a moderately larger container rather than making a very large jump in pot size."
+        },
+        {
+            "id": "temperature",
+            "content": "Lemon Trees prefer warm conditions during active growth and can be sensitive to cold temperatures. Protect container-grown trees from frost, freezing conditions, cold drafts, and sudden temperature changes. When growing a Lemon Tree indoors during winter, keep it away from cold windows and heating vents where temperature fluctuations or very dry air can cause stress. Warm, stable conditions generally support better growth and flowering."
+        },
+        {
+            "id": "humidity",
+            "content": "Potted Lemon Trees generally perform well in moderate to high humidity, especially during active growth, flowering, and fruit development. When growing citrus indoors over winter, dry air from heating can contribute to leaf stress and may encourage spider mites. A room humidifier can provide more consistent humidity than occasional misting. Maintain good air circulation around the foliage and avoid keeping leaves persistently wet."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Lemon Trees are relatively heavy feeders when actively growing and benefit from a fertilizer formulated for citrus or one that provides balanced nutrition along with appropriate micronutrients. Follow the product instructions and adjust feeding according to the plant's growth, container size, and season. Avoid excessive fertilizer, which can contribute to salt buildup and root stress. Reduce or pause feeding when growth slows significantly during darker or cooler periods."
+        },
+        {
+            "id": "flowering-and-fruiting",
+            "content": "Flowering and fruit production require substantially more light and consistent growing conditions than simply keeping a Lemon Tree alive. Provide strong light, adequate nutrition, appropriate moisture, and suitable temperatures to encourage flowering. Container-grown trees may take time to establish before producing significant fruit, and young nursery trees can also vary in how quickly they begin flowering. A healthy tree can sometimes flower indoors, but insufficient light is one of the most common reasons an indoor Lemon Tree grows without producing fruit."
+        },
+        {
+            "id": "pollination",
+            "content": "Lemon flowers generally contain both male and female reproductive structures, so a single healthy tree can potentially produce fruit without another Lemon Tree nearby. When growing citrus indoors, however, natural pollinators may be absent. During flowering, gently transferring pollen between flowers with a small clean paintbrush or cotton swab can help improve the chances of fruit set. Good light and overall plant health remain important because hand-pollination cannot compensate for inadequate growing conditions."
+        },
+        {
+            "id": "container-growing",
+            "content": "Compact and dwarf Lemon Trees are particularly suitable for container growing. Choose a sturdy container with drainage holes and enough weight to support the tree as it grows. Do not use an excessively large pot, because the additional unused soil can remain wet for too long after watering. As the tree matures, prune selectively to maintain a manageable size while preserving a healthy framework of branches."
+        },
+        {
+            "id": "pruning",
+            "content": "Prune Lemon Trees primarily to remove dead, damaged, diseased, or poorly positioned growth and to maintain a manageable shape. Container-grown trees can be lightly shaped when necessary, but avoid removing large amounts of healthy growth at once. Remove shoots emerging from below the graft union if present, because these can compete with the desired variety. Use clean pruning tools and make deliberate cuts rather than repeatedly trimming leaf tips or small portions of healthy branches."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot a container-grown Lemon Tree when roots have substantially filled the container, growth has slowed despite suitable care, or the growing medium has deteriorated. Move the plant into a container only moderately larger than the current one and use fresh, well-draining citrus or container potting mix. Repotting during active growth can help the tree establish in its new container, but avoid repeatedly disturbing the roots unnecessarily."
+        },
+        {
+            "id": "outdoor-transition",
+            "content": "A Lemon Tree grown indoors can benefit from being moved outdoors during suitable warm weather, where stronger natural light can support vigorous growth and flowering. Acclimate the tree gradually over several days or weeks rather than placing it immediately into intense direct sunlight. Begin with a sheltered bright location and progressively increase exposure. Before bringing the tree back indoors, inspect the foliage and growing medium for pests and allow the plant to adjust to the lower indoor light level."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Yellowing leaves, leaf drop, poor growth, and failure to fruit can have several causes, including insufficient light, inconsistent watering, root problems, nutrient imbalance, temperature stress, or pests. Yellow leaves do not automatically indicate a need for more fertilizer or water. Check the growing medium, drainage, light exposure, recent environmental changes, and roots before changing the care routine. Indoor Lemon Trees should also be monitored for common pests such as spider mites, scale, and aphids."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "During the brighter and warmer growing season, provide strong light, regular watering based on soil moisture, and appropriate feeding to support active growth and fruit development. In winter, indoor Lemon Trees may receive less light and naturally slow their growth. Move the tree to the brightest suitable location, adjust watering to the slower rate of moisture use, and reduce or pause fertilizer when active growth declines. Protect the tree from cold drafts and sudden temperature changes."
+        },
+        {
+            "id": "propagation",
+            "content": "Lemon Trees can be propagated from seeds, cuttings, or grafted nursery plants, although seed-grown trees may not produce fruit identical to the parent and can take many years to reach productive maturity. Grafted or otherwise propagated nursery trees are generally preferable when the goal is reliable fruit production. Propagation method also affects mature size, flowering time, and the characteristics of the resulting tree."
+        },
+        {
+            "id": "toxicity",
+            "content": "Lemon Trees are generally grown for their edible fruit, but the plant's leaves, stems, and other parts can cause gastrointestinal upset if consumed in significant quantities by pets or children. The fruit itself is commonly used as food, although excessive consumption of acidic citrus can cause digestive irritation. Keep plants and fallen plant material away from pets or children that may chew on them."
+        }
+    ],
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "32\u00b0F - 100\u00b0F (0\u00b0C - 38\u00b0C)"
+        }
+    },
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": []
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/lemon-tree/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

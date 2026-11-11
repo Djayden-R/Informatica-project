@@ -1,0 +1,339 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-aloe-aristata",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "aloe-aristata",
+    "seoTitle": "Lace Aloe Care: Pet-Safe Aloe Alternative",
+    "metaDescription": "Lace Aloe is a compact, pet-friendly succulent that's easy to grow. Find out how to fix brown tips, water correctly, and keep Aristaloe aristata thriving.",
+    "featuredImage": "/assets/images/aloe-aristata.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "pet-safe",
+        "compact"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Aristaloe aristata",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Toxic and Non-Toxic Plants",
+            "source": "ASPCA Animal Poison Control Center",
+            "url": "https://www.aspca.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Aristaloe aristata (formerly Aloe aristata)",
+        "family": "Asphodelaceae",
+        "origin": "South Africa",
+        "type": "Evergreen succulent perennial",
+        "nativeClimate": "Semi-arid, rocky grasslands",
+        "commonUses": [
+            "Sunny windowsills",
+            "Succulent arrangements",
+            "Pet-safe homes"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Bright, indirect light with a few hours of direct morning sun. Can handle lower light than a standard Aloe Vera.",
+        "watering": "Water only when the soil is 100% bone dry. Overwatering can quickly lead to root rot.",
+        "soil": "Extremely fast-draining cactus and succulent mix.",
+        "pruning": "Snip off dead, dry lower leaves. Cut off the flower stalk once it finishes blooming.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Non-toxic and safe for cats and dogs. Unlike Aloe Vera, the Lace Aloe does not contain toxic compounds.",
+        "bestFor": "Plant owners who want the look of an Aloe Vera but need a plant that won't poison their cats."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "6-8 inches indoors",
+        "matureSpread": "6-8 inches wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer (produces a tall stalk with tubular, orange-red flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Prefers bright, indirect light with some direct morning sun. Unlike true Aloes that want blasting midday sun, the Lace Aloe will turn brown and close up if baked in intense, hot afternoon sun.",
+        "sunlightHours": "4-6 hours indirect + 2 hours direct morning sun",
+        "intensity": "medium-high",
+        "indoorWindow": "East or South-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Requires very little fertilizer.",
+        "fertilizerFrequency": "Once in the spring with a diluted cactus fertilizer.",
+        "organicOptions": "A pinch of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Highly susceptible to root rot and crown rot if water is left sitting in the center rosette."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the tips of my Lace Aloe turning brown and crispy?",
+            "answer": "This is almost always a sign of underwatering. While it is a succulent, it still needs water. When the soil has been bone dry for too long, the plant sacrifices the tips of its leaves to conserve moisture for the core."
+        },
+        {
+            "question": "Why is the whole plant turning a muddy brown/red color and curling inward?",
+            "answer": "This is a severe stress response called \"sun stress.\" The Lace Aloe is actually quite sensitive to harsh, blasting afternoon sunlight. If you put it in a west-facing window in the middle of summer, it will essentially get a sunburn. Move it to bright, indirect light."
+        },
+        {
+            "question": "Why are the bottom leaves turning yellow, translucent, and mushy?",
+            "answer": "Yellow, mushy, translucent leaves are the definitive sign of overwatering. This indicates the roots are drowning, and the plant is beginning to rot from the bottom up. Stop watering immediately and check the roots."
+        },
+        {
+            "question": "What is the difference between Lace Aloe and Haworthia?",
+            "answer": "They look incredibly similar! However, the Lace Aloe has tiny, soft white teeth (spines) along the edges of its leaves, ending in a distinct, hair-like bristle at the very tip (hence the name 'aristata'). Haworthias generally have smooth edges."
+        },
+        {
+            "question": "Is the Lace Aloe toxic to cats?",
+            "answer": "No. The standard Aloe Vera is considered toxic to cats and dogs. The Lace Aloe (Aristaloe aristata) belongs to a completely different genus and is listed as non-toxic by the ASPCA. Always verify with your vet if you have concerns."
+        }
+    ],
+    "shortDesc": "The Lace Aloe is a compact, beautiful succulent that looks like an Aloe Vera but is completely non-toxic to pets. It features dark green leaves covered in raised white bumps and soft, lace-like bristles.",
+    "content": "<h2>Overview</h2><p>If you love the architectural look of an Aloe Vera but have a cat that loves to chew on plants, you are usually out of luck, as the Aloe Vera is considered highly toxic. Fortunately, the Lace Aloe (<em>Aristaloe aristata</em>, formerly <em>Aloe aristata</em>) is an excellent alternative. It looks incredibly similar to a true Aloe, but it belongs to a completely different genus and is listed as non-toxic and pet-safe by the ASPCA.</p><p>Native to South Africa, it is a compact, stemless succulent that grows in a tight, spherical rosette. Its dark green, fleshy leaves are heavily speckled with raised white bumps (tubercles) and edged with soft, white, tooth-like spines. The very tip of each leaf ends in a long, soft, white bristle, giving the plant a delicate, \"lacy\" appearance.</p><h3>Light Requirements: Avoiding Sunburn</h3><p>Because it looks like an Aloe Vera, most people make the mistake of placing it in the hottest, brightest, most blasting direct sunlight they can find. <strong>The Lace Aloe actually despises harsh afternoon sun.</strong> In the wild, it grows tucked beneath larger shrubs that shade it during the hottest part of the day.</p><p>If you bake the plant in a west-facing window, it will suffer severe sun stress. The leaves will curl tightly inward into a ball to protect the center, and the entire plant will turn a muddy, unhealthy brown or reddish-purple. It prefers bright, indirect light, with perhaps a few hours of gentle, direct morning sun from an east-facing window.</p><h3>Watering: The Drought and Drench Method</h3><p>Like all succulents, the Lace Aloe stores water in its thick, fleshy leaves. It is highly drought-tolerant and highly susceptible to root rot if overwatered.</p><p>You must allow the potting soil to dry out 100% completely before you water again. To test this, stick a wooden skewer deep into the pot; if it comes out slightly damp, wait another week. When the soil is completely bone dry, soak the pot thoroughly until water flows out the drainage holes. </p><p><strong>Crucial rule:</strong> Never pour water directly into the center of the rosette. If water sits in the tight crown of the leaves, it will cause fungal crown rot, which can quickly lead to plant loss. Always water the soil directly.</p><h3>The Brown Tips Issue</h3><p>While overwatering causes yellow, mushy leaves, underwatering causes the tips of the leaves to dry up, turn brown, and become crispy. While the plant can survive a long drought, if you leave it completely dry for months, it will sacrifice the thin tips of its leaves to keep the core of the plant alive. If you notice brown, crispy tips, you likely need to increase your watering frequency slightly during the summer growing season.</p><h3>Soil and Potting</h3><p>Standard indoor potting soil can hold too much moisture and may quickly lead to severe root rot in this plant, as it tends to suffocate the shallow root system. You must use a fast-draining cactus and succulent mix. Amend standard cactus soil with 50% perlite or pumice to ensure that excess water drains away instantly. It has a very shallow root system, so plant it in a wide, shallow pot rather than a deep one.</p><h2>The Flowers</h2><p>If kept happy, the Lace Aloe will surprise you in the summer by shooting up a tall, slender stalk (often 1 to 2 feet high) topped with tubular, bright orange-red flowers. These flowers are spectacular and are known to attract hummingbirds if the plant is kept outdoors. Once the flowers die and dry up, use sterile scissors to cut the stalk off at the base.</p>",
+    "quickAnswer": "Aloe aristata, or Lace Aloe, requires bright light including several hours of direct sun, deep watering only after soil has completely dried, and a fast-draining cactus or succulent soil mix. This compact South African species forms attractive rosettes with white-spotted leaves and tolerates neglect better than overattention. Avoid overwatering, which causes the fastest decline in this drought-adapted succulent.",
+    "ogImage": "/assets/images/aloe-aristata.webp",
+    "ogImageAlt": "Dark green succulent leaves covered in white bumps with soft bristles at the tips",
+    "heroImage": "/assets/images/aloe-aristata.webp",
+    "heroImageAlt": "Close up of the raised white tubercles and lace-like tips",
+    "featuredImageAlt": "A compact Lace Aloe sitting on a bright wooden windowsill",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why are the tips of my Lace Aloe turning brown and crispy?",
+            "diagnosis": "Underwatering or low humidity",
+            "treatment": "Water the plant deeply when the soil is completely dry. Increase ambient humidity by placing a tray of water nearby or misting occasionally.",
+            "prevention": "Water thoroughly and allow the soil to dry completely between waterings, but do not leave it dry for extended periods; maintain moderate humidity.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is the whole plant turning a muddy brown/red color and curling inward?",
+            "diagnosis": "Sun stress from excessive direct sunlight",
+            "treatment": "Move the plant to a location with bright, indirect light or filtered sun. The colour should normalise over a few weeks.",
+            "prevention": "Provide morning sun or bright indirect light; avoid harsh afternoon sun.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the bottom leaves turning yellow, translucent, and mushy?",
+            "diagnosis": "Overwatering and root rot",
+            "treatment": "Stop watering; remove the plant from its pot, trim any mushy roots, and repot in dry, well-draining succulent mix. Do not water for at least a week.",
+            "prevention": "Use a gritty, well-draining potting mix and water only when the soil is completely dry.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Crown Rot",
+            "definition": "A deadly fungal infection caused by water sitting trapped in the tight center (crown) of a rosette-shaped plant. This is why you must only water the soil."
+        },
+        {
+            "term": "Tubercles",
+            "definition": "The small, raised, wart-like white bumps that cover the leaves of the Lace Aloe, giving it a rough, textured appearance."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Aloe vs. Lace Aloe Comparison",
+        "headers": [
+            "Feature",
+            "Aloe Vera",
+            "Lace Aloe (Aristaloe)"
+        ],
+        "rows": [
+            [
+                "Toxicity",
+                "Toxic to pets",
+                "Pet-Safe (ASPCA listed)"
+            ],
+            [
+                "Leaf Edges",
+                "Sharp, hard spikes",
+                "Soft, white bristles"
+            ],
+            [
+                "Light Need",
+                "Full, blasting sun",
+                "Bright indirect / morning sun"
+            ]
+        ]
+    },
+    "h1": "Lace Aloe (Aristaloe aristata)",
+    "breadcrumbName": "Aloe Aristata",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "brown-crispy-tips-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Watering it on a houseplant schedule rather than a succulent one\u2014the fleshy leaves store water for weeks, so frequent watering causes the base to turn mushy and translucent from the inside out. Wait until the soil is completely dry before watering again."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Unlike most aloes, it tolerates lower light levels\u2014but the white tubercle 'lace' markings fade and leaves become elongated and leggy without adequate brightness. Bright indirect sun is what keeps the distinctive speckled texture sharp."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dim winter months it enters a near-complete rest, requiring almost no water at all. Continuing summer watering during this dormant period is the most common cause of death indoors."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "lace aloe vs haworthia",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aristaloe aristata",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "lace aloe turning brown",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pet safe aloe",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "lace aloe watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Aloe Aristata",
+    "summary": "Lace Aloe is a charming, compact succulent native to South African mountains where it endures intense sun and extended dry periods. Its small rosettes feature distinctive white tubercles that create a lacy appearance against dark green flesh. This guide covers optimal light exposure including direct morning sun, precise watering intervals that prevent root rot, ideal soil composition, and propagation through offsets. You will learn to distinguish healthy firm leaves from overwatered mushy tissue and maintain this low-maintenance species for years.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for compact growth.",
+        "Water deeply only after the soil has completely dried out between waterings.",
+        "Use a fast-draining succulent or cactus soil mix to prevent root rot.",
+        "Avoid overwatering, the leading cause of decline in this succulent."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water only when the soil is 100% bone dry.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "6-8 inches indoors",
+        "growthRate": "Slow",
+        "soil": "Cactus or succulent mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Diluted succulent fertilizer once in spring",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Shallow, wide pot",
+        "propagation": "Division of offsets",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "South Africa",
+        "usdaZones": "7-10",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/aloe",
+            "https://succulentes.net/en/aloe-vera-toxic-to-cats-and-dogs/"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/aloe-aristata/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/aloe",
+            "https://succulentes.net/en/aloe-vera-toxic-to-cats-and-dogs/"
+        ]
+    },
+    "contentText": "Overview If you love the architectural look of an Aloe Vera but have a cat that loves to chew on plants, you are usually out of luck, as the Aloe Vera is considered highly toxic. Fortunately, the Lace Aloe ( Aristaloe aristata , formerly Aloe aristata ) is an excellent alternative. It looks incredibly similar to a true Aloe, but it belongs to a completely different genus and is listed as non-toxic and pet-safe by the ASPCA. Native to South Africa, it is a compact, stemless succulent that grows in a tight, spherical rosette. Its dark green, fleshy leaves are heavily speckled with raised white bumps (tubercles) and edged with soft, white, tooth-like spines. The very tip of each leaf ends in a long, soft, white bristle, giving the plant a delicate, \"lacy\" appearance. Light Requirements: Avoiding Sunburn Because it looks like an Aloe Vera, most people make the mistake of placing it in the hottest, brightest, most blasting direct sunlight they can find. The Lace Aloe actually despises harsh afternoon sun. In the wild, it grows tucked beneath larger shrubs that shade it during the hottest part of the day. If you bake the plant in a west-facing window, it will suffer severe sun stress. The leaves will curl tightly inward into a ball to protect the center, and the entire plant will turn a muddy, unhealthy brown or reddish-purple. It prefers bright, indirect light, with perhaps a few hours of gentle, direct morning sun from an east-facing window. Watering: The Drought and Drench Method Like all succulents, the Lace Aloe stores water in its thick, fleshy leaves. It is highly drought-tolerant and highly susceptible to root rot if overwatered. You must allow the potting soil to dry out 100% completely before you water again. To test this, stick a wooden skewer deep into the pot; if it comes out slightly damp, wait another week. When the soil is completely bone dry, soak the pot thoroughly until water flows out the drainage holes. Crucial rule: Never pour water directly into the center of the rosette. If water sits in the tight crown of the leaves, it will cause fungal crown rot, which can quickly lead to plant loss. Always water the soil directly. The Brown Tips Issue While overwatering causes yellow, mushy leaves, underwatering causes the tips of the leaves to dry up, turn brown, and become crispy. While the plant can survive a long drought, if you leave it completely dry for months, it will sacrifice the thin tips of its leaves to keep the core of the plant alive. If you notice brown, crispy tips, you likely need to increase your watering frequency slightly during the summer growing season. Soil and Potting Standard indoor potting soil can hold too much moisture and may quickly lead to severe root rot in this plant, as it tends to suffocate the shallow root system. You must use a fast-draining cactus and succulent mix. Amend standard cactus soil with 50% perlite or pumice to ensure that excess water drains away instantly. It has a very shallow root system, so plant it in a wide, shallow pot rather than a deep one. The Flowers If kept happy, the Lace Aloe will surprise you in the summer by shooting up a tall, slender stalk (often 1 to 2 feet high) topped with tubular, bright orange-red flowers. These flowers are spectacular and are known to attract hummingbirds if the plant is kept outdoors. Once the flowers die and dry up, use sterile scissors to cut the stalk off at the base.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/aloe-aristata/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

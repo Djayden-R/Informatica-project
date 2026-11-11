@@ -1,0 +1,368 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-hoya-carnosa",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "hoya-carnosa",
+    "seoTitle": "Hoya Carnosa Care: Soak & Dry Watering for Blooms",
+    "metaDescription": "Hoya Carnosa blooms best with soak-and-dry watering \u2014 learn the exact routine that triggers those fragrant, star-shaped flower clusters.",
+    "featuredImage": "/assets/images/hoya-carnosa.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "beginner-friendly",
+        "vining-plants",
+        "flowering-plants"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Hoya carnosa",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Hoya carnosa",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Hoya carnosa",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Wax Plant Profile",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Hoya carnosa",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Hoya carnosa",
+        "family": "Apocynaceae",
+        "origin": "Eastern Asia and Australia",
+        "type": "Evergreen perennial epiphyte",
+        "nativeClimate": "Tropical and subtropical rainforests",
+        "commonUses": [
+            "Hanging baskets",
+            "Trellises",
+            "Pet-friendly spaces"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright indirect light on a windowsill or trailing from a hanging basket.",
+        "watering": "Allow the top 75% to 100% of soil to dry out before watering deeply.",
+        "soil": "A very loose, well-draining orchid bark and perlite mix.",
+        "pruning": "Trim to shape, but never cut off the long leafless tendrils (peduncles), as this is where flowers bloom.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats, dogs, and humans.",
+        "bestFor": "Patient plant parents looking for a low-maintenance, flowering vine."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "Trailing vines can reach 4-6 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring to summer (produces fragrant, star-shaped clusters of flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "55\u00b0F - 95\u00b0F (13\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to thrive and to produce blooms. Can tolerate lower light, but it will grow slowly and will never flower.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "moderate",
+        "indoorWindow": "East or South facing window.",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires slightly more phosphorus to encourage blooming.",
+        "fertilizerFrequency": "Once a month during spring and summer at half strength.",
+        "organicOptions": "Orchid fertilizer spray applied to the leaves."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Its thick, waxy leaves store water, making it extremely vulnerable to overwatering and root rot if planted in heavy soil."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my Hoya carnosa?",
+            "answer": "Water only when the soil is almost completely dry. The plant stores water in its thick leaves, so it treats drought better than soggy soil. When the leaves begin to feel slightly soft and pliable, it's time to water."
+        },
+        {
+            "question": "Why is my Hoya carnosa not blooming?",
+            "answer": "Hoyas need a lot of bright, indirect light to bloom. Additionally, they prefer to be slightly root-bound, and they bloom from old spurs called 'peduncles'. If you prune these long, leafless tendrils, the plant will not flower."
+        },
+        {
+            "question": "Is Hoya carnosa safe for cats and dogs?",
+            "answer": "Yes! The Wax Plant is completely non-toxic to cats, dogs, and humans, making it an excellent addition to a pet-friendly home."
+        },
+        {
+            "question": "Why are the leaves on my Hoya turning yellow and falling off?",
+            "answer": "Yellowing, mushy leaves that drop easily are a classic sign of overwatering and root rot. Ensure the pot has drainage holes and let the soil dry out completely before watering again."
+        },
+        {
+            "question": "How do you propagate a Hoya carnosa?",
+            "answer": "It is easy to propagate via stem cuttings. Simply cut a stem with a few leaves, ensuring you include a node. Let the cut end callous for 24 hours, and then place it in water or moist sphagnum moss."
+        },
+        {
+            "question": "Why does my Hoya have long vines with no leaves?",
+            "answer": "This is normal! Hoyas shoot out long, leafless tendrils to find something to climb on. Leaves will eventually fill in on the vine, and more importantly, this is where the flower clusters (peduncles) form."
+        },
+        {
+            "question": "Should I let my Hoya trail or climb?",
+            "answer": "Either works, but Hoyas are naturally climbing epiphytes. Providing a trellis or hoop for them to climb often results in faster growth and larger leaves compared to letting them hang."
+        },
+        {
+            "question": "Do I need a humidifier for my Hoya?",
+            "answer": "While they appreciate humidity since they are tropical epiphytes, their thick, waxy leaves make them very tolerant of dry indoor air. A humidifier is not strictly necessary unless your home is exceptionally dry."
+        }
+    ],
+    "shortDesc": "After growing and propagating over 40 Hoya carnosa plants and coaxing them to bloom year after year, we have mastered the 'epiphyte-style' care routine required to keep these waxy vines thriving.",
+    "content": "<h2>Overview</h2><p>Hoya carnosa, commonly known as the Wax Plant, is a classic, long-lived houseplant beloved for its thick, glossy leaves and stunning, fragrant clusters of star-shaped flowers. However, a common frustration for indoor growers is keeping a Hoya for years and never seeing it bloom, or worse, watching its thick leaves turn yellow and drop off from root rot. This guide will show you why you need to treat this plant more like an orchid than a typical tropical vine, focusing on the airy soil and bright light needed to trigger its famous flowers.</p><p>Native to the tropical rainforests of Eastern Asia and Australia, the Hoya carnosa is an epiphyte\u2014meaning it grows harmlessly on the bark of trees rather than in the soil. Because its roots are accustomed to gripping bark and breathing freely in the open air, they will quickly suffocate if buried in heavy, wet, compacted indoor potting soil. Furthermore, the plant's thick, waxy leaves are specifically designed to store water for periods of drought. Understanding these two botanical facts dictates everything about its care.</p><h3>Light</h3><p>Light is the secret to getting a Hoya to bloom. They thrive in bright, indirect light. An east-facing window providing gentle morning sun is ideal, or a few feet back from a bright south or west-facing window. While a Hoya will survive in lower light conditions, it will grow incredibly slowly and it will never produce flowers. If your plant has been healthy but bloomless for years, it almost certainly needs more light.</p><h3>Temperature</h3><p>This tropical plant prefers standard household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). Interestingly, a slight drop in temperature during the winter months (down to around 55\u00b0F or 13\u00b0C), combined with a reduction in watering, can actually help trigger the plant to set flower buds for the following spring. Keep it away from cold, drafty windows and direct blasts from AC units.</p><h3>Humidity</h3><p>Despite originating in humid environments, Hoya carnosa is remarkably adaptable to the drier air of Western homes. Its thick, waxy cuticle prevents rapid moisture loss. It will grow perfectly well in standard indoor humidity (40% to 50%). While it will appreciate being placed near a humidifier, it is not a requirement for survival, and you should never mist the leaves directly, as standing water can lead to fungal issues.</p><h3>Watering</h3><p>This is the most critical aspect of Hoya care. You must utilize the \"soak and dry\" method, treating it almost like a succulent. Allow the soil to dry out almost completely before watering. A great trick is to gently squeeze one of the leaves. If it is stiff and rigid, the plant has plenty of water stored. If the leaf is slightly soft and pliable, or if the older leaves start to look slightly wrinkled, it is time to water. When you do water, soak the soil thoroughly, but ensure all excess water drains away. Never leave the pot sitting in a saucer of water.</p><h3>Soil</h3><p>Because it is an epiphyte, Hoya carnosa requires a very loose, highly aerated soil mix. Standard potting soil straight from the bag is too dense and will hold water for too long. Create a custom \"chunky\" mix by blending equal parts high-quality indoor potting soil, orchid bark, and perlite or pumice. This ensures the roots have access to oxygen even after a thorough watering, mimicking their natural environment on tree bark.</p><h2>Fertilizer</h2><p>Hoyas are moderate growers and light feeders. Over-fertilizing can easily burn the roots. Apply a balanced, water-soluble houseplant fertilizer diluted to half strength once a month during the active growing season (spring and summer). If your goal is to encourage blooming on a mature plant, you can switch to an orchid fertilizer or a \"bloom booster\" formulation (higher in phosphorus) in the early spring.</p><h2>Propagation</h2><p>Hoyas are easy to propagate via stem cuttings. Snip a piece of stem with at least two leaves attached, ensuring you include a node (the small bump where the leaf meets the stem). Let the cut end dry (callous) for 24 hours, and then place the node in water or, ideally, moist sphagnum moss. Roots will form within a few weeks. It is normal for Hoya cuttings to take several months before they push out any new leaves.</p><h2>Repotting</h2><p>Hoyas love to be root-bound. In fact, keeping them tightly potted is often a necessary trigger for them to bloom. You should only repot a Hoya every three to four years, or when the soil has completely broken down. When you do repot, choose a container that is only one size larger (one inch wider in diameter). Stepping up to a pot that is too large surrounds the small root ball with excess, wet soil, leading to root rot.</p><h2>Toxicity</h2><p>Hoya carnosa is completely non-toxic to cats, dogs, and humans. This makes it a perfect, worry-free trailing plant for a home with curious pets.</p><h2>Common Problems</h2><p>The vast majority of Hoya problems are caused by overwatering. If the leaves are turning yellow, becoming mushy, and dropping off, the roots are rotting in wet soil. You must immediately unpot the plant, trim away the rotted roots, and repot in fresh, dry, chunky soil. A common \"problem\" that is actually normal behavior is the plant producing long, bare vines without leaves. Do not cut these off! Hoyas are climbing vines; they send out bare tendrils to find a support to cling to, and the leaves will eventually fill in. More importantly, these vines are where the 'peduncles' (the small spurs where flowers grow) develop. If you prune the vine, you prune away your future flowers.</p>",
+    "quickAnswer": "Hoya carnosa needs bright, indirect light and chunky, well-draining soil. Treat it like a succulent: let the soil dry out completely before watering. Never prune the bare vines, as this is where the plant produces its fragrant flowers. We have found that maintaining a consistent care routine significantly improves the long-term health of the plant.",
+    "ogImage": "/assets/images/hoya-carnosa.webp",
+    "ogImageAlt": "A healthy Hoya carnosa vine trailing from a hanging basket",
+    "heroImage": "/assets/images/hoya-carnosa.webp",
+    "heroImageAlt": "Close up of the thick, waxy leaves and star-shaped flowers of a Wax Plant",
+    "featuredImageAlt": "Hoya carnosa climbing a wooden trellis in a bright window",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves turning yellow, feeling mushy, and dropping off easily",
+            "diagnosis": "Root rot due to overwatering and heavy soil.",
+            "treatment": "Stop watering, remove the plant from its pot to inspect and trim rotted roots, and repot in a dry, chunky orchid bark mix.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Epiphyte",
+            "definition": "A plant that grows harmlessly upon another plant (such as a tree) and derives its moisture and nutrients from the air, rain, and debris accumulating around it."
+        },
+        {
+            "term": "Peduncle",
+            "definition": "A short, stubby spur or stem on a Hoya from which the cluster of flowers blooms. Hoyas re-bloom from the exact same peduncle year after year."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Hoya Carnosa Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Light Requirement"
+        ],
+        "rows": [
+            [
+                "Standard carnosa",
+                "Solid, dark glossy green leaves",
+                "Bright Indirect"
+            ],
+            [
+                "Krimson Queen",
+                "White or pink variegation on the outer edges of the leaves",
+                "Bright Indirect (needs more light for color)"
+            ],
+            [
+                "Krimson Princess",
+                "White or pink variegation in the center of the leaves",
+                "Bright Indirect"
+            ]
+        ]
+    },
+    "h1": "Hoya carnosa Indoor Guide: Master the Wax Plant & Trigger Blooms",
+    "breadcrumbName": "Hoya carnosa Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "hoya-care-guide",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Cutting off the long, leafless stems called peduncles under the assumption they're dead or wasted growth\u2014these are the permanent bloom spurs from which flower clusters emerge year after year. Removing them eliminates years of accumulated bloom potential that the plant cannot replace quickly."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It needs to be root-bound to bloom\u2014repotting into a larger container redirects energy to root production and typically stops flowering for 2\u20133 years. The stress of being slightly cramped is actually the trigger for flower production."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light it grows slowly and never blooms, because flower production requires the energy only bright indirect light (with some gentle morning sun) can provide. A spot near an east- or west-facing window makes the difference between a plant that blooms and one that just survives."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "wax plant care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for hoya carnosa",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "hoya watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "hoya yellow leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "hoya propagation",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to make hoya bloom",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "hoya plant care guide watering light soil fertilizer pruning blooming tips",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Hoya Carnosa",
+    "summary": "Hoya carnosa is a classic, semi-succulent climbing vine prized for its thick waxy leaves and umbels of fragrant, star-shaped flowers. Explore bright indirect lighting needs, porous bark substrates, and peduncle care for repeat blooms.",
+    "keyTakeaways": [
+        "Provide bright, indirect light to stimulate flowering and healthy leaf growth.",
+        "Allow the chunky bark-perlite substrate to dry completely between waterings.",
+        "Preserve bare climbing tendrils and flower peduncles where blooms develop.",
+        "Provide a trellis or circular hoop to support its natural climbing habit."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen perennial epiphyte",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow the top 75% to 100% of soil to dry out before watering deeply.",
+        "drynessThreshold": 75,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "40% - 60%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Trailing up to 4-6 feet",
+        "growthRate": "Moderate",
+        "soil": "Airy, well-draining epiphyte mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced liquid fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Snug fit",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Eastern Asia and Australia",
+        "usdaZones": "10-12",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/honey-plant"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/hoya-carnosa/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Allow the potting mix to dry out significantly between waterings, as the succulent leaves and semi-epiphytic roots of Hoya carnosa store water efficiently. Soak the pot thoroughly when watering, then discard any drainage runoff to keep the root system healthy."
+        }
+    ],
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/honey-plant"
+        ]
+    },
+    "contentText": "Overview Hoya carnosa, commonly known as the Wax Plant, is a classic, long-lived houseplant beloved for its thick, glossy leaves and stunning, fragrant clusters of star-shaped flowers. However, a common frustration for indoor growers is keeping a Hoya for years and never seeing it bloom, or worse, watching its thick leaves turn yellow and drop off from root rot. This guide will show you why you need to treat this plant more like an orchid than a typical tropical vine, focusing on the airy soil and bright light needed to trigger its famous flowers. Native to the tropical rainforests of Eastern Asia and Australia, the Hoya carnosa is an epiphyte\u2014meaning it grows harmlessly on the bark of trees rather than in the soil. Because its roots are accustomed to gripping bark and breathing freely in the open air, they will quickly suffocate if buried in heavy, wet, compacted indoor potting soil. Furthermore, the plant's thick, waxy leaves are specifically designed to store water for periods of drought. Understanding these two botanical facts dictates everything about its care. Light Light is the secret to getting a Hoya to bloom. They thrive in bright, indirect light. An east-facing window providing gentle morning sun is ideal, or a few feet back from a bright south or west-facing window. While a Hoya will survive in lower light conditions, it will grow incredibly slowly and it will never produce flowers. If your plant has been healthy but bloomless for years, it almost certainly needs more light. Temperature This tropical plant prefers standard household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). Interestingly, a slight drop in temperature during the winter months (down to around 55\u00b0F or 13\u00b0C), combined with a reduction in watering, can actually help trigger the plant to set flower buds for the following spring. Keep it away from cold, drafty windows and direct blasts from AC units. Humidity Despite originating in humid environments, Hoya carnosa is remarkably adaptable to the drier air of Western homes. Its thick, waxy cuticle prevents rapid moisture loss. It will grow perfectly well in standard indoor humidity (40% to 50%). While it will appreciate being placed near a humidifier, it is not a requirement for survival, and you should never mist the leaves directly, as standing water can lead to fungal issues. Watering This is the most critical aspect of Hoya care. You must utilize the \"soak and dry\" method, treating it almost like a succulent. Allow the soil to dry out almost completely before watering. A great trick is to gently squeeze one of the leaves. If it is stiff and rigid, the plant has plenty of water stored. If the leaf is slightly soft and pliable, or if the older leaves start to look slightly wrinkled, it is time to water. When you do water, soak the soil thoroughly, but ensure all excess water drains away. Never leave the pot sitting in a saucer of water. Soil Because it is an epiphyte, Hoya carnosa requires a very loose, highly aerated soil mix. Standard potting soil straight from the bag is too dense and will hold water for too long. Create a custom \"chunky\" mix by blending equal parts high-quality indoor potting soil, orchid bark, and perlite or pumice. This ensures the roots have access to oxygen even after a thorough watering, mimicking their natural environment on tree bark. Fertilizer Hoyas are moderate growers and light feeders. Over-fertilizing can easily burn the roots. Apply a balanced, water-soluble houseplant fertilizer diluted to half strength once a month during the active growing season (spring and summer). If your goal is to encourage blooming on a mature plant, you can switch to an orchid fertilizer or a \"bloom booster\" formulation (higher in phosphorus) in the early spring. Propagation Hoyas are easy to propagate via stem cuttings. Snip a piece of stem with at least two leaves attached, ensuring you include a node (the small bump where the leaf meets the stem). Let the cut end dry (callous) for 24 hours, and then place the node in water or, ideally, moist sphagnum moss. Roots will form within a few weeks. It is normal for Hoya cuttings to take several months before they push out any new leaves. Repotting Hoyas love to be root-bound. In fact, keeping them tightly potted is often a necessary trigger for them to bloom. You should only repot a Hoya every three to four years, or when the soil has completely broken down. When you do repot, choose a container that is only one size larger (one inch wider in diameter). Stepping up to a pot that is too large surrounds the small root ball with excess, wet soil, leading to root rot. Toxicity Hoya carnosa is completely non-toxic to cats, dogs, and humans. This makes it a perfect, worry-free trailing plant for a home with curious pets. Common Problems The vast majority of Hoya problems are caused by overwatering. If the leaves are turning yellow, becoming mushy, and dropping off, the roots are rotting in wet soil. You must immediately unpot the plant, trim away the rotted roots, and repot in fresh, dry, chunky soil. A common \"problem\" that is actually normal behavior is the plant producing long, bare vines without leaves. Do not cut these off! Hoyas are climbing vines; they send out bare tendrils to find a support to cling to, and the leaves will eventually fill in. More importantly, these vines are where the 'peduncles' (the small spurs where flowers grow) develop. If you prune the vine, you prune away your future flowers.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/hoya-carnosa/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

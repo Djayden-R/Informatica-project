@@ -1,0 +1,334 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-creeping-fig",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ficus-pumila",
+    "seoTitle": "Creeping Fig Care: Fix Crispy Leaves Indoors",
+    "metaDescription": "Learn how to grow Creeping Fig indoors. Discover proper watering routines, humidity needs, and pruning tips to prevent crispy leaves and encourage lush.",
+    "featuredImage": "/assets/images/ficus-pumila.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "toxic-to-pets",
+        "humidity-loving",
+        "terrarium-plant"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ficus pumila",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Ficus",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus pumila",
+        "family": "Moraceae",
+        "origin": "East Asia",
+        "type": "Evergreen climbing vine",
+        "nativeClimate": "Subtropical and tropical forests",
+        "commonUses": [
+            "Terrariums",
+            "Topiary forms",
+            "Hanging baskets"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Bright, indirect light. Needs high humidity and absolutely refuses to dry out.",
+        "watering": "Keep the soil evenly moist at all times. If it dries out even once, the plant will die.",
+        "soil": "A rich, moisture-retaining potting mix.",
+        "pruning": "Prune vigorously to keep the fast-growing vines under control.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. The milky white latex sap causes severe oral irritation and skin rashes.",
+        "bestFor": "Plant owners building closed terrariums, or highly disciplined waterers who never forget a schedule.",
+        "water": "High / Consistently Moist"
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "very fast",
+        "matureHeight": "Climbing vines 10+ feet",
+        "matureSpread": "Spreading indefinitely",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 90%",
+            "survivable": "40% - 100%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Prefers bright, indirect light. Direct sun will instantly scorch and crisp the delicate, paper-thin leaves. Can tolerate medium light, but growth will slow.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East or North-facing window.",
+        "shadeTolerance": "medium"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Extremely sensitive to fertilizer burn. Dilute to 1/4 strength.",
+        "fertilizerFrequency": "Once a month during spring and summer with a highly diluted liquid fertilizer.",
+        "organicOptions": "A light layer of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Highly prone to spider mites if the indoor air is too dry."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-humidity"
+    ],
+    "faq": [
+        {
+            "question": "Why did my Creeping Fig suddenly turn crispy and die overnight?",
+            "answer": "The Creeping Fig has exactly zero drought tolerance. If the soil completely dries out for even a single day, the paper-thin leaves will instantly shrivel up, turn crispy, and die. It is incredibly unforgiving of missed waterings."
+        },
+        {
+            "question": "Is the Creeping Fig a good terrarium plant?",
+            "answer": "It is arguably the best terrarium plant in existence. Because it demands constantly moist soil and 80%+ humidity, it thrives in closed glass terrariums where other plants would rot."
+        },
+        {
+            "question": "Will a Creeping Fig climb my walls?",
+            "answer": "Yes, and it will destroy them. The plant produces a biological adhesive that cements its roots to surfaces. If you let it climb your painted drywall, it will strip the paint and ruin the drywall when you try to remove it."
+        },
+        {
+            "question": "Why are the leaves turning yellow?",
+            "answer": "If the leaves are yellowing and mushy, you have managed to overwater it and caused root rot. While it needs to be moist, it cannot sit in a stagnant swamp of mud without drainage."
+        },
+        {
+            "question": "Is the Creeping Fig toxic to pets?",
+            "answer": "Yes. Like all Ficus species, it bleeds a milky white latex sap when cut. This sap causes severe mouth irritation and vomiting if chewed, and causes skin rashes on humans."
+        }
+    ],
+    "shortDesc": "The Creeping Fig is a vigorous, fast-growing vine with paper-thin leaves. It is the ultimate terrarium plant, but growing it as a standard houseplant requires strict watering discipline, as it will die instantly if it dries out.",
+    "content": "<h2>Overview</h2><p>The Creeping Fig (<em>Ficus pumila</em>) is a wildly popular, incredibly fast-growing vine. Unlike the massive Fiddle Leaf Fig or Rubber Tree, this Ficus species produces tiny, delicate, paper-thin leaves on thin, wiry stems. Outdoors in tropical climates, it is heavily used to cover ugly concrete walls, completely engulfing them in a dense mat of green within a single season.</p><p>Indoors, it is the undisputed king of terrarium plants. However, growing it as a standard houseplant in a hanging basket is a completely different story. The Creeping Fig is notoriously unforgiving. While most houseplants (like Pothos or Philodendrons) prefer to dry out between waterings, the Creeping Fig has absolutely zero drought tolerance. If you forget to water it for even one day too long, the entire plant will crisp up and die overnight. It is a plant for highly disciplined waterers only.</p><h3>Watering: The One Rule</h3><p>Watering is the only thing that matters when caring for a Creeping Fig. The soil must be kept evenly, consistently moist at all times, exactly like a wrung-out sponge. You should water the plant the moment the top half-inch of soil feels dry. </p><p>Because the leaves are paper-thin, they have no ability to store water. If the pot dries out completely, the plant will catastrophically collapse. The leaves will immediately shrivel, turn brown and crispy, and fall off. There is no reviving a severely dried-out Creeping Fig. However, you must also ensure the pot has drainage; if it sits in a swamp of stagnant water, the roots will rot.</p><h3>Light Requirements</h3><p>To support its rapid growth, the Creeping Fig requires bright, indirect light. An east or north-facing window is ideal. Never place this plant in direct, hot afternoon sun. The thin leaves have no waxy cuticle to protect them and will instantly scorch, bleach, and crisp up under direct rays. It can tolerate medium, shadowy light, but its growth will slow down significantly.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Keep it strictly away from heating vents and radiators, which will instantly bake the delicate leaves.</p><p>Humidity is critical. It demands high humidity (60% to 80%). If grown in the dry air of a centrally heated home, the edges of the leaves will constantly turn brown and crispy, and the plant will become a magnet for spider mites. This is why the plant thrives so beautifully inside closed glass terrariums, where the humidity is locked at 90%.</p><h3>Soil and Potting</h3><p>Unlike aroids that need chunky, airy soil, the Creeping Fig needs a soil mix that retains significant moisture. A high-quality standard potting soil mixed with 25% peat moss (or coco coir) is perfect. Ensure the pot has a drainage hole to prevent stagnant water from pooling at the bottom.</p><h2>The Wall Destroyer</h2><p>If you place a Creeping Fig near a wall, it will immediately attempt to climb it. It does this by secreting a biological adhesive from its aerial roots, literally cementing itself to the surface. <strong>Do not let this plant climb your interior walls.</strong> When you eventually try to pull it down, it will rip the paint off and severely damage the drywall underneath. Keep it trimmed in a hanging basket, or let it climb a designated moss pole or topiary wire.</p><h2>Toxicity Warning</h2><p>Like all plants in the Ficus family, the Creeping Fig contains a milky white latex sap. If a stem is cut or a leaf is torn, this sap will bleed out. The sap is toxic to cats and dogs, causing intense oral irritation, drooling, and vomiting if chewed. It also causes severe contact dermatitis (skin rashes and blisters) in sensitive humans. Always wash your hands after pruning.</p>",
+    "quickAnswer": "The Creeping Fig requires bright, indirect light and constantly moist soil. If the soil dries out completely, the plant will quickly turn crispy and die back. It thrives in high-humidity terrariums and enclosed growing spaces. Monitoring the plant regularly helps catch early signs of stress before they cause any lasting damage.",
+    "ogImage": "/assets/images/ficus-pumila.webp",
+    "ogImageAlt": "Delicate, tiny green leaves of the Creeping Fig vine",
+    "heroImage": "/assets/images/ficus-pumila.webp",
+    "heroImageAlt": "Close up of the paper-thin foliage of Ficus pumila",
+    "featuredImageAlt": "A lush Creeping Fig thriving inside a closed glass terrarium",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why did my Creeping Fig suddenly turn crispy and die overnight?",
+            "diagnosis": "Severe underwatering \u2013 no drought tolerance",
+            "treatment": "If leaves are crispy, the plant may be dead; water immediately if there is any green; otherwise, start fresh.",
+            "prevention": "Never allow soil to dry out; keep consistently moist.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning yellow?",
+            "diagnosis": "Overwatering \u2013 root rot if soil is wet",
+            "treatment": "Reduce watering; allow soil to dry slightly; improve drainage.",
+            "prevention": "Water when surface feels dry; ensure pot has drainage.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Terrarium",
+            "definition": "A sealable glass container containing soil and plants. It creates a highly humid microclimate, making it the perfect environment for moisture-loving plants like the Creeping Fig."
+        },
+        {
+            "term": "Latex",
+            "definition": "A milky fluid found in many plants, such as Ficus, which exudes when the plant is cut. It is highly irritating to the skin and toxic to pets."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Terrarium Vine Comparison",
+        "headers": [
+            "Plant",
+            "Leaf Size",
+            "Moisture Need"
+        ],
+        "rows": [
+            [
+                "Creeping Fig (Pumila)",
+                "Tiny, delicate",
+                "Must never dry out"
+            ],
+            [
+                "String of Turtles",
+                "Small, succulent",
+                "Allow top to dry"
+            ],
+            [
+                "English Ivy",
+                "Medium, lobed",
+                "Keep evenly moist"
+            ]
+        ]
+    },
+    "h1": "Creeping Fig Indoor Guide: Avoid Crispy Leaves & Death",
+    "breadcrumbName": "Creeping Fig Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "brown-crispy-tips-houseplants",
+        "wilting-houseplants-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Letting it dry out\u2014the tiny leaves have almost no water storage capacity and desiccate rapidly, causing mass leaf drop within a day or two of the soil drying out completely. Soil should be kept consistently moist but not waterlogged."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Once established and climbing, the leaves transform completely from tiny, delicate, heart-shaped juveniles into large, thick, leathery adult leaves that look like an entirely different plant\u2014many owners don't realize these two growth stages belong to the same species."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air, it becomes a persistent target for spider mites because the small leaves and dense growth provide ideal hiding conditions. Misting daily or using a humidifier is the most reliable prevention in heated homes."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "ficus pumila indoors",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "climbing fig care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "creeping fig crispy leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "terrarium vine",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus pumila dying overnight",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ficus Pumila",
+    "summary": "Ficus pumila is a fast-growing, creeping evergreen vine with delicate heart-shaped leaves that climbs surfaces or covers soil. Discover constant moisture needs, high humidity preferences, and terrarium care best practices.",
+    "keyTakeaways": [
+        "Keep potting soil consistently moist; avoid letting the mix dry out completely.",
+        "Maintain high relative humidity (60\u201390%), making it an ideal terrarium plant.",
+        "Provide bright, indirect sunlight to sustain dense, compact creeping growth.",
+        "Prune vigorously to prevent aerial roots from adhering to and damaging drywall."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen climbing vine",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep soil evenly moist but not waterlogged. Do not let it dry out completely.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60% - 90%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Climbing vines 10+ feet",
+        "growthRate": "Fast",
+        "soil": "Moisture-retentive potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in spring and summer",
+        "repottingFrequency": "Annually",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Central and southern China to temperate eastern Asia and Indochina",
+        "usdaZones": "8-11",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "alternateName": [
+        "Climbing Fig",
+        "Creeping Ficus"
+    ],
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-pumila/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/weeping-fig"
+        ]
+    },
+    "contentText": "Overview The Creeping Fig ( Ficus pumila ) is a wildly popular, incredibly fast-growing vine. Unlike the massive Fiddle Leaf Fig or Rubber Tree, this Ficus species produces tiny, delicate, paper-thin leaves on thin, wiry stems. Outdoors in tropical climates, it is heavily used to cover ugly concrete walls, completely engulfing them in a dense mat of green within a single season. Indoors, it is the undisputed king of terrarium plants. However, growing it as a standard houseplant in a hanging basket is a completely different story. The Creeping Fig is notoriously unforgiving. While most houseplants (like Pothos or Philodendrons) prefer to dry out between waterings, the Creeping Fig has absolutely zero drought tolerance. If you forget to water it for even one day too long, the entire plant will crisp up and die overnight. It is a plant for highly disciplined waterers only. Watering: The One Rule Watering is the only thing that matters when caring for a Creeping Fig. The soil must be kept evenly, consistently moist at all times, exactly like a wrung-out sponge. You should water the plant the moment the top half-inch of soil feels dry. Because the leaves are paper-thin, they have no ability to store water. If the pot dries out completely, the plant will catastrophically collapse. The leaves will immediately shrivel, turn brown and crispy, and fall off. There is no reviving a severely dried-out Creeping Fig. However, you must also ensure the pot has drainage; if it sits in a swamp of stagnant water, the roots will rot. Light Requirements To support its rapid growth, the Creeping Fig requires bright, indirect light. An east or north-facing window is ideal. Never place this plant in direct, hot afternoon sun. The thin leaves have no waxy cuticle to protect them and will instantly scorch, bleach, and crisp up under direct rays. It can tolerate medium, shadowy light, but its growth will slow down significantly. Temperature and Humidity Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Keep it strictly away from heating vents and radiators, which will instantly bake the delicate leaves. Humidity is critical. It demands high humidity (60% to 80%). If grown in the dry air of a centrally heated home, the edges of the leaves will constantly turn brown and crispy, and the plant will become a magnet for spider mites. This is why the plant thrives so beautifully inside closed glass terrariums, where the humidity is locked at 90%. Soil and Potting Unlike aroids that need chunky, airy soil, the Creeping Fig needs a soil mix that retains significant moisture. A high-quality standard potting soil mixed with 25% peat moss (or coco coir) is perfect. Ensure the pot has a drainage hole to prevent stagnant water from pooling at the bottom. The Wall Destroyer If you place a Creeping Fig near a wall, it will immediately attempt to climb it. It does this by secreting a biological adhesive from its aerial roots, literally cementing itself to the surface. Do not let this plant climb your interior walls. When you eventually try to pull it down, it will rip the paint off and severely damage the drywall underneath. Keep it trimmed in a hanging basket, or let it climb a designated moss pole or topiary wire. Toxicity Warning Like all plants in the Ficus family, the Creeping Fig contains a milky white latex sap. If a stem is cut or a leaf is torn, this sap will bleed out. The sap is toxic to cats and dogs, causing intense oral irritation, drooling, and vomiting if chewed. It also causes severe contact dermatitis (skin rashes and blisters) in sensitive humans. Always wash your hands after pruning.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-pumila/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

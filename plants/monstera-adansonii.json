@@ -1,0 +1,349 @@
+{
+    "quickAnswer": "Monstera Adansonii (Swiss Cheese Vine) needs bright indirect light, watering when the top 1-2 inches of soil dry out, and support like a trellis or moss pole to encourage climbing. Its signature perforated leaves develop more fully with adequate light and maturity. It's more compact and faster-growing than Monstera deliciosa.",
+    "summary": "Monstera Adansonii, known as the Swiss Cheese Vine for its distinctive perforated leaves, is a smaller, faster-growing relative of Monstera deliciosa, well-suited to hanging baskets or trellised climbing indoors. Leaf perforation develops as the plant matures and receives sufficient light, similar to fenestration in its larger relative.\n\nThis vine can be grown either trailing from a hanging basket or trained to climb a support, with climbing generally producing larger, more deeply perforated leaves than a trailing habit allows.",
+    "keyTakeaways": [
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Provide bright indirect light for fuller leaf perforation over time.",
+        "Train onto a trellis or moss pole for larger, more mature leaves.",
+        "Expect faster growth and a more compact size than Monstera deliciosa.",
+        "Grow trailing in a hanging basket as an easy alternative to climbing."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "monstera-adansonii",
+    "seoTitle": "Monstera Adansonii Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Swiss Cheese Vine. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Swiss Cheese Vine",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Monstera",
+        "species": "adansonii",
+        "nativeRange": "Central and South America",
+        "growthHabit": "Evergreen climbing epiphyte"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00500",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00501",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00502",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2004",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.85,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00503",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 13,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00504",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "monstera-adansonii",
+    "heroImage": "/assets/images/monstera-adansonii.webp",
+    "heroImageAlt": "Swiss Cheese Vine",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves on my Monstera Adansonii turning yellow?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Allow soil to dry; reduce watering; check roots.",
+            "prevention": "Water when top 2 inches are dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my Adansonii growing small leaves?",
+            "diagnosis": "Insufficient light or lack of nutrients",
+            "treatment": "Move to brighter indirect light; fertilise monthly in growing season.",
+            "prevention": "Provide bright indirect light and regular feeding.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning brown and crispy?",
+            "diagnosis": "Low humidity or dry air",
+            "treatment": "Increase humidity; mist regularly; keep away from vents.",
+            "prevention": "Maintain moderate humidity.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Tropical climbing vine",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 1-2 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "medium-high",
+        "temperature": "65\u00b0F - 81\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "6-10 feet indoors with support",
+        "growthRate": "Fast",
+        "soil": "Chunky, well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in growing season",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Central and South America",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87464-1"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Swiss Cheese Vine (Monstera adansonii) is a tropical climbing vine valued for its heart-shaped leaves decorated with natural holes and elongated fenestrations. It is a vigorous grower when provided with warmth, bright indirect light, adequate moisture, and humidity. The plant naturally climbs using aerial roots, although it can also be grown as a trailing vine. Its main care challenges are avoiding waterlogged soil, maintaining sufficient humidity, and providing appropriate support as the stems become longer."
+        },
+        {
+            "id": "watering",
+            "content": "Water Swiss Cheese Vine when the upper portion of the growing medium has dried, then water thoroughly until excess drains freely from the container. Avoid keeping the soil continuously saturated because prolonged wetness can contribute to root problems. During warm, bright periods of active growth, the plant may require more frequent watering. Allow the growing medium to dry somewhat more between waterings when temperatures and light levels decline."
+        },
+        {
+            "id": "light",
+            "content": "Provide Swiss Cheese Vine with bright indirect or filtered light for vigorous growth and well-developed foliage. It can tolerate moderate light, but insufficient light may result in slower growth, smaller leaves, and longer spaces between leaves. Avoid prolonged intense direct afternoon sunlight, which can scorch the foliage. A bright position near a window protected from harsh direct sun is generally suitable."
+        },
+        {
+            "id": "soil",
+            "content": "Use a loose, well-draining and well-aerated growing medium that retains moderate moisture without becoming saturated. A quality tropical houseplant mix containing organic material combined with components that improve drainage and airflow can work well. Avoid dense soil that stays wet for extended periods, and use a container with drainage holes to help protect the root system."
+        },
+        {
+            "id": "temperature",
+            "content": "Swiss Cheese Vine prefers warm, stable conditions and generally grows well around 18\u201327\u00b0C (65\u201381\u00b0F). Protect it from cold drafts, sudden temperature changes, and prolonged exposure to temperatures near freezing. Keep it away from frequently opened exterior doors and strong heating or cooling vents that can create rapid changes in temperature and humidity."
+        },
+        {
+            "id": "humidity",
+            "content": "Swiss Cheese Vine benefits substantially from moderate to high humidity, which preserves its delicate leaf windows and lush green color. While it adapts to average indoor air, running a humidifier or placing it in a well-lit bathroom encourages vigorous vining and larger leaves."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Swiss Cheese Vine during active growth with a balanced houseplant fertilizer according to the product instructions. Because it can grow vigorously under favorable conditions, regular moderate feeding can support continued vine and leaf production. Avoid excessive fertilizer, which can contribute to salt buildup and root stress. Reduce or pause feeding during periods of low light or slow growth."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Swiss Cheese Vine when roots have substantially filled the container, the plant dries out unusually quickly, growth has slowed because of root crowding, or the growing medium has deteriorated. Move the plant into a container only moderately larger than the current one and use fresh, well-draining mix. Because the vine can grow quickly, younger plants may need repotting sooner than established specimens."
+        },
+        {
+            "id": "growth",
+            "content": "Swiss Cheese Vine produces long, flexible stems that naturally climb through vegetation in its native environment. As the plant matures and receives suitable support, leaves can become larger and develop more pronounced fenestrations. Growth is generally fastest in warm, bright conditions and slows when light or temperature declines. Without support, the stems can trail and become increasingly elongated."
+        },
+        {
+            "id": "support",
+            "content": "Provide Swiss Cheese Vine with a moss pole, coir pole, trellis, or another sturdy vertical structure if you want it to climb. Its aerial roots can help anchor the plant to suitable support. Climbing encourages a more natural growth habit and can contribute to larger, more mature foliage. A trailing plant can still grow successfully, but its leaves may remain smaller and the stems may become longer and more widely spaced."
+        },
+        {
+            "id": "pruning",
+            "content": "Pruning is useful for controlling the length of Swiss Cheese Vine, encouraging branching, and maintaining a fuller appearance. Use clean, sharp scissors or pruners to cut just above a healthy node. Long stems can be shortened and healthy cut sections can be used for propagation. Remove damaged or diseased foliage as needed, but avoid removing large amounts of healthy growth at once."
+        },
+        {
+            "id": "propagation",
+            "content": "Swiss Cheese Vine is readily propagated from stem cuttings containing at least one viable node. Cut below a node and root the cutting in water, sphagnum, or another suitable propagation medium under warm conditions and bright indirect light. Once a healthy root system develops, transfer the cutting to a well-draining tropical houseplant mix. Keep newly established cuttings evenly moist while they adapt to their new growing medium."
+        },
+        {
+            "id": "fenestration",
+            "content": "The holes and splits in Swiss Cheese Vine leaves are natural fenestrations and are one of the plant's defining features. Young plants and juvenile leaves may have fewer or different fenestrations than mature foliage. Strong indirect light, adequate nutrition, warmth, and suitable climbing conditions support mature growth, but individual leaves can vary. A plant does not necessarily develop identical fenestrations on every new leaf."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Small leaves, long spaces between leaves, and weak stems can occur when light is insufficient or the plant lacks suitable climbing support. Yellowing leaves can be associated with excessive moisture or root problems, while brown edges may result from dry air, inconsistent watering, or environmental stress. Sudden leaf decline can follow major changes in light, temperature, watering, or location. Check the growing medium, light, humidity, and support before making several changes at once."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Swiss Cheese Vine generally grows most actively during warm, bright periods and may use water and nutrients more quickly during this time. When light levels and temperatures decline, growth slows and the growing medium may remain moist for longer. Adjust watering accordingly and reduce or pause fertilizer when growth becomes minimal. Protect the plant from cold drafts and sudden winter temperature changes."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Swiss Cheese Vine can be grown outdoors in warm, frost-free climates where it receives bright filtered light or partial shade and has consistently well-draining soil. Plants moved outdoors from indoor conditions should be acclimated gradually to stronger light and increased airflow. Protect the foliage from intense direct sunlight and prolonged cold. In cooler climates, container-grown plants should be brought indoors before temperatures become unsuitable."
+        },
+        {
+            "id": "toxicity",
+            "content": "Swiss Cheese Vine contains insoluble calcium oxalate crystals and is toxic if chewed or ingested. Contact with the plant can cause irritation, while ingestion can cause oral discomfort and other symptoms. Keep the plant away from pets and children who may chew the leaves or stems, and wash hands after handling if irritation occurs."
+        }
+    ],
+    "faq": [
+        {
+            "question": "Why doesn't my Swiss Cheese Vine have holes in its leaves?",
+            "answer": "Young plants and juvenile leaves may naturally have fewer or no fenestrations. Insufficient light, immature growth, and unfavorable growing conditions can also contribute to less-developed foliage. Providing bright indirect light, warmth, adequate nutrition, and suitable climbing support can encourage more mature leaves over time."
+        },
+        {
+            "question": "Does Swiss Cheese Vine need a moss pole?",
+            "answer": "It does not strictly require a moss pole, but vertical support is beneficial if you want the plant to climb and develop a more natural growth habit. A moss pole, coir pole, trellis, or similar structure can provide support for its climbing stems and aerial roots."
+        },
+        {
+            "question": "How often should I water Swiss Cheese Vine?",
+            "answer": "Water when the upper portion of the growing medium has dried, then water thoroughly and allow excess water to drain. Avoid keeping the soil continuously wet. The plant generally needs more water during warm, bright periods of active growth and less when conditions are cooler or darker."
+        },
+        {
+            "question": "How fast does Swiss Cheese Vine grow?",
+            "answer": "Swiss Cheese Vine can grow quickly under warm, bright, and humid conditions. Growth slows when light levels decline, temperatures become cooler, or the plant experiences environmental stress. Providing a suitable climbing structure can also help it develop a more vigorous mature growth habit."
+        },
+        {
+            "question": "How do I make my Swiss Cheese Vine leaves bigger?",
+            "answer": "Provide bright indirect light, consistent moisture, adequate nutrition, and warm conditions. Training the plant to climb can encourage more mature growth and larger foliage. Juvenile plants naturally produce smaller leaves, so leaf size can increase as the plant matures."
+        },
+        {
+            "question": "Can Swiss Cheese Vine grow as a trailing plant?",
+            "answer": "Yes. It can be grown in a hanging container or allowed to trail from a shelf. However, its natural growth habit is climbing, and providing vertical support can encourage larger, more mature foliage and a more structured appearance."
+        },
+        {
+            "question": "How do I propagate Swiss Cheese Vine?",
+            "answer": "Take a healthy stem cutting containing at least one node and root it in water or a suitable propagation medium. Keep the cutting warm and in bright indirect light while roots develop. Once established, transfer it to a well-draining tropical houseplant mix."
+        },
+        {
+            "question": "Why are my Swiss Cheese Vine leaves turning yellow?",
+            "answer": "Yellowing can have several causes, but consistently wet soil and excessive watering are common possibilities. Older leaves may also yellow naturally. Check the moisture level, drainage, light, and recent watering pattern before changing the plant's care."
+        },
+        {
+            "question": "Does Swiss Cheese Vine need high humidity?",
+            "answer": "It benefits from moderate to high humidity, particularly during active growth. It can adapt to average household conditions, but very dry air may contribute to brown leaf edges and slower growth. A humidifier can provide more consistent humidity than occasional misting."
+        },
+        {
+            "question": "Can Swiss Cheese Vine grow in low light?",
+            "answer": "It can tolerate moderate or somewhat lower light, but bright indirect light is preferable for vigorous growth and well-developed foliage. Insufficient light can result in smaller leaves, longer spaces between leaves, and less mature-looking growth."
+        },
+        {
+            "question": "Is Swiss Cheese Vine toxic to cats and dogs?",
+            "answer": "Yes. Swiss Cheese Vine contains insoluble calcium oxalate crystals and can cause irritation if chewed or swallowed. Keep the plant away from pets and children, particularly those likely to chew plant foliage."
+        },
+        {
+            "question": "Can Swiss Cheese Vine be grown outdoors?",
+            "answer": "Yes, in warm, frost-free climates with bright filtered light or partial shade. Plants moved outdoors should be acclimated gradually, particularly if they were previously grown indoors. Protect them from intense direct sun and unsuitable cold temperatures."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Monstera adansonii",
+        "family": "Araceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/monstera-adansonii/",
+    "breadcrumbName": "Swiss Cheese Vine",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:87464-1"
+        ]
+    },
+    "h1": "Swiss Cheese Vine Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/monstera-adansonii/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

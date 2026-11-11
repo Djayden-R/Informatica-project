@@ -1,0 +1,346 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-oxalis-triangularis",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "oxalis-triangularis",
+    "seoTitle": "False Shamrock Care: Dormancy & Drooping Fix",
+    "metaDescription": "False Shamrock leaves fold at night and die back seasonally. Find out why Oxalis triangularis goes dormant, how to water it, and how to keep the purple.",
+    "featuredImage": "/assets/images/oxalis-triangularis.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "flowering",
+        "toxic-to-pets",
+        "moderate-care",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Oxalis triangularis",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Oxalis",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Oxalis triangularis",
+        "family": "Oxalidaceae",
+        "origin": "Brazil and South America",
+        "type": "Bulbous perennial",
+        "nativeClimate": "Subtropical woodland understory",
+        "commonUses": [
+            "Sunny windowsills",
+            "Holiday gifts (St. Patrick's Day)",
+            "Desktop displays"
+        ]
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Bright, indirect light with a few hours of morning sun. Too hot, and it will faint.",
+        "watering": "Water when the top inch of soil is dry. It will aggressively droop if thirsty, but recovers quickly.",
+        "soil": "A rich, well-draining indoor potting mix.",
+        "pruning": "Pinch off dead stems at the base to encourage new growth from the bulb.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs due to soluble calcium oxalates. Causes drooling, vomiting, and in severe cases, kidney failure.",
+        "bestFor": "Observant plant parents who enjoy interactive plants that move daily."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "6-12 inches",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial (goes dormant)",
+        "floweringSeason": "Spring/Summer (produces delicate white or pale pink trumpet flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "60\u00b0F - 75\u00b0F (15\u00b0C - 24\u00b0C)",
+            "survivable": "50\u00b0F - 85\u00b0F (10\u00b0C - 29\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to maintain its deep purple color. However, harsh afternoon sun will scorch the delicate leaves and cause the plant to collapse from heat stress.",
+        "sunlightHours": "4-6 hours bright indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East-facing is ideal.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "high",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires regular feeding during its active growth phase to support its massive leaf turnover.",
+        "fertilizerFrequency": "Every two weeks during spring and summer with a balanced liquid fertilizer.",
+        "organicOptions": "Bone meal mixed into the soil during spring repotting."
+    },
+    "relationships": [
+        {
+            "target": "heat-stress",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Oxalis prefers cooler indoor temperatures. If placed near a hot radiator or in blazing afternoon sun, it will completely collapse."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why does my Purple Shamrock close its leaves at night?",
+            "answer": "This is a natural phenomenon called 'nyctinasty.' The plant responds to light levels, opening its leaves flat like an umbrella during the day to catch the sun, and folding them down like a closed umbrella at night."
+        },
+        {
+            "question": "Why did my False Shamrock suddenly die?",
+            "answer": "It likely didn't die; it went dormant! Oxalis grows from small underground bulbs. In response to extreme heat, cold, or dry soil, it will drop all its leaves and go dormant. Simply stop watering it, put it in a dark place for a month, and then bring it back out and water it to restart growth."
+        },
+        {
+            "question": "Is the Purple Shamrock toxic to cats and dogs?",
+            "answer": "Yes. It contains soluble calcium oxalates, which give it a sour taste but are toxic to pets. Ingestion causes severe drooling, vomiting, and can damage the kidneys if eaten in large quantities."
+        },
+        {
+            "question": "Why is my plant completely flat and drooping during the day?",
+            "answer": "If it is drooping during the day, it is not nyctinasty; it is either severely thirsty or suffering from heat stress. Check the soil. If it is dry, soak it immediately. If it is wet, move it away from the hot window."
+        },
+        {
+            "question": "Why are the purple leaves turning green?",
+            "answer": "Fading color is a sign of insufficient light. The plant is trying to produce more chlorophyll to survive the low light. Move it to a brighter east-facing window."
+        }
+    ],
+    "shortDesc": "The False Shamrock is a spectacular, deep-purple indoor plant famous for its 'dancing' leaves that open during the day and close at night. Understanding its dramatic dormancy cycle is key.",
+    "content": "<h2>Overview</h2><p>The False Shamrock (<em>Oxalis triangularis</em>), commonly known as the Purple Shamrock, is a truly captivating indoor plant. Native to the subtropical woodlands of Brazil, it features striking, deep-purple, triangular leaves that look like a flock of butterflies hovering over the pot. </p><p>Its most famous trait is its daily \"dance.\" Through a process called nyctinasty, the plant is highly reactive to light. During the day, the leaves open wide to catch the sun; at night (or on very cloudy days), they fold down like closed umbrellas. While it is incredibly rewarding to grow, it frequently terrifies beginners due to its dramatic fainting spells and its habit of suddenly dying back to the soil line when stressed.</p><h3>Light Requirements</h3><p>To maintain that intense, dark purple color, the False Shamrock requires bright, indirect light. An east-facing window is ideal, as it will receive gentle morning sun but avoid the harsh afternoon rays. If you place it in a dim room, the stems will stretch out (become leggy), and the leaves will revert to a dull green color. Conversely, if you place it in a scorching, south-facing window without a sheer curtain, the delicate leaves will burn and collapse from heat stress.</p><h3>Watering: The Dramatic Droop</h3><p>Watering is a delicate balance. Allow the top inch of the soil to dry out before watering. If you forget to water it, the Oxalis will violently droop, collapsing over the edge of the pot. As long as you catch it within a day, a thorough soaking will cause the stems to stand back up within a few hours. However, do not overwater. The plant grows from small underground bulbs (corms), which will quickly rot if left sitting in stagnant, wet soil.</p><h3>Temperature and Humidity</h3><p>Unlike many tropical houseplants, Oxalis prefers it slightly cool. Ideal indoor temperatures range from 60\u00b0F to 75\u00b0F (15\u00b0C - 24\u00b0C). If the temperature regularly exceeds 80\u00b0F, the plant may assume it is experiencing a summer drought and trigger a dormancy phase, dropping all its leaves. It is not fussy about humidity and will do perfectly well in the standard dry air of centrally heated or air-conditioned homes.</p><h3>Soil and Potting</h3><p>A standard, rich indoor potting mix works perfectly. Ensure the pot has adequate drainage holes. Because the plant grows from small bulbs that multiply quickly beneath the soil, it looks best when many bulbs are crowded together in a wide, shallow pot. You only need to repot every few years when the bulbs completely fill the container.</p><h2>The Dormancy Cycle: Don't Throw It Away!</h2><p>The number one mistake people make with the False Shamrock is throwing it in the trash when it \"dies.\" Oxalis is a bulbous perennial. In response to stress\u2014whether that is intense heat, cold drafts, or a missed watering schedule\u2014the plant will shut down. The stems will collapse, the leaves will shrivel, and the pot will look completely dead.</p><p><strong>This is normal dormancy.</strong> If this happens, stop watering immediately. Cut away the dead foliage. Move the pot to a cool, dark place (like a closet or basement) and ignore it for 3 to 4 weeks. After it has rested, bring the pot back into the light and resume normal watering. Within days, you will see fresh new purple sprouts emerging from the soil.</p><h2>Toxicity Warning</h2><p>Oxalis triangularis is toxic to cats, dogs, and horses. It contains soluble calcium oxalates. While the bitter taste usually deters pets from eating large quantities, ingestion causes severe drooling, vomiting, and tremors. In massive quantities, it can lead to kidney failure. Keep it elevated and completely out of reach of curious pets.</p>",
+    "quickAnswer": "The False Shamrock is a dynamic plant whose leaves open in the sun and close at night. Keep it in bright indirect light, water when the top inch of soil is dry, and don't throw it away if it goes dormant.",
+    "ogImage": "/assets/images/oxalis-triangularis.webp",
+    "ogImageAlt": "Purple Shamrock plant with delicate flowers in a modern planter",
+    "heroImage": "/assets/images/oxalis-triangularis.webp",
+    "heroImageAlt": "Close up of Oxalis triangularis leaves folded open in the daylight",
+    "featuredImageAlt": "A bushy Purple Shamrock sitting on a bright desktop",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why does my Purple Shamrock close its leaves at night?",
+            "diagnosis": "Nyctinasty \u2013 normal movement",
+            "treatment": "No action; indicates health.",
+            "prevention": "None.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why did my False Shamrock suddenly die?",
+            "diagnosis": "Dormancy \u2013 plant drops leaves in response to stress or seasonal change",
+            "treatment": "Stop watering; place in a cool, dark spot for a month; resume watering to restart growth.",
+            "prevention": "Allow dormancy; don't throw away.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my plant completely flat and drooping during the day?",
+            "diagnosis": "Thirst or heat stress \u2013 not nyctinasty",
+            "treatment": "Water if soil is dry; move away from hot window.",
+            "prevention": "Maintain consistent moisture and avoid heat extremes.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the purple leaves turning green?",
+            "diagnosis": "Low light \u2013 increased chlorophyll",
+            "treatment": "Move to brighter indirect light; new leaves will be purple.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Nyctinasty",
+            "definition": "The circadian rhythmic nastic movement of higher plants in response to the onset of darkness. Famous in Prayer Plants and Oxalis."
+        },
+        {
+            "term": "Corm",
+            "definition": "A short, vertical, swollen underground plant stem that serves as a storage organ used by some plants to survive winter or summer drought."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Plants That Move at Night Comparison",
+        "headers": [
+            "Plant",
+            "Movement Type",
+            "Toxicity"
+        ],
+        "rows": [
+            [
+                "False Shamrock (Oxalis)",
+                "Folds down like an umbrella",
+                "Toxic"
+            ],
+            [
+                "Prayer Plant (Maranta)",
+                "Folds upward like praying hands",
+                "Non-Toxic"
+            ],
+            [
+                "Calathea",
+                "Folds upward to reveal undersides",
+                "Non-Toxic"
+            ]
+        ]
+    },
+    "h1": "False Shamrock Care: Fixing the Drooping & Managing Dormancy",
+    "breadcrumbName": "False Shamrock Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "maranta-prayer-plant-care",
+        "wilting-houseplants-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Continuing to water when the plant dies back in winter\u2014oxalis naturally goes fully dormant even indoors, and the bulbs need a dry rest period to recharge. Watering dormant bulbs causes them to rot, destroying what would otherwise reliably regrow each spring."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The leaves close up at night and open during daylight as part of a circadian rhythm tied to light and temperature changes. If leaves stay closed during the day, it's a reliable signal of too-bright direct sun burning the tissue or of severe drought stress."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light, the rich purple color fades to a washed-out greenish hue and the leaf production slows significantly. Bright indirect light is what keeps the foliage a deep, saturated purple and the plant bushy."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "oxalis triangularis fainting",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "why does my purple plant close at night",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for false shamrock",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "indoor bulb plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "oxalis dormancy",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Oxalis Triangularis",
+    "summary": "Oxalis triangularis features triangular purple foliage and delicate pale blooms that fold closed at night in response to light levels. Learn indirect lighting needs, bulb watering routines, and seasonal dormancy management.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to maintain deep purple leaf coloration.",
+        "Allow the top inch of soil to dry out between thorough waterings.",
+        "Observe normal nyctinastic movement as leaves fold down like umbrellas at night.",
+        "Withhold water if the plant enters winter dormancy, resuming care when new shoots emerge."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Bulbous perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 1 inch of soil is dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "40-60%",
+        "temperature": "60\u00b0F - 75\u00b0F (15\u00b0C - 24\u00b0C)",
+        "matureSize": "6-12 inches",
+        "growthRate": "Fast",
+        "soil": "Standard well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Bulb division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "nativeRegion": "Brazil and South America",
+        "usdaZones": "8-11",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/good-luck-plant"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/oxalis-triangularis/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/good-luck-plant"
+        ]
+    },
+    "contentText": "Overview The False Shamrock ( Oxalis triangularis ), commonly known as the Purple Shamrock, is a truly captivating indoor plant. Native to the subtropical woodlands of Brazil, it features striking, deep-purple, triangular leaves that look like a flock of butterflies hovering over the pot. Its most famous trait is its daily \"dance.\" Through a process called nyctinasty, the plant is highly reactive to light. During the day, the leaves open wide to catch the sun; at night (or on very cloudy days), they fold down like closed umbrellas. While it is incredibly rewarding to grow, it frequently terrifies beginners due to its dramatic fainting spells and its habit of suddenly dying back to the soil line when stressed. Light Requirements To maintain that intense, dark purple color, the False Shamrock requires bright, indirect light. An east-facing window is ideal, as it will receive gentle morning sun but avoid the harsh afternoon rays. If you place it in a dim room, the stems will stretch out (become leggy), and the leaves will revert to a dull green color. Conversely, if you place it in a scorching, south-facing window without a sheer curtain, the delicate leaves will burn and collapse from heat stress. Watering: The Dramatic Droop Watering is a delicate balance. Allow the top inch of the soil to dry out before watering. If you forget to water it, the Oxalis will violently droop, collapsing over the edge of the pot. As long as you catch it within a day, a thorough soaking will cause the stems to stand back up within a few hours. However, do not overwater. The plant grows from small underground bulbs (corms), which will quickly rot if left sitting in stagnant, wet soil. Temperature and Humidity Unlike many tropical houseplants, Oxalis prefers it slightly cool. Ideal indoor temperatures range from 60\u00b0F to 75\u00b0F (15\u00b0C - 24\u00b0C). If the temperature regularly exceeds 80\u00b0F, the plant may assume it is experiencing a summer drought and trigger a dormancy phase, dropping all its leaves. It is not fussy about humidity and will do perfectly well in the standard dry air of centrally heated or air-conditioned homes. Soil and Potting A standard, rich indoor potting mix works perfectly. Ensure the pot has adequate drainage holes. Because the plant grows from small bulbs that multiply quickly beneath the soil, it looks best when many bulbs are crowded together in a wide, shallow pot. You only need to repot every few years when the bulbs completely fill the container. The Dormancy Cycle: Don't Throw It Away! The number one mistake people make with the False Shamrock is throwing it in the trash when it \"dies.\" Oxalis is a bulbous perennial. In response to stress\u2014whether that is intense heat, cold drafts, or a missed watering schedule\u2014the plant will shut down. The stems will collapse, the leaves will shrivel, and the pot will look completely dead. This is normal dormancy. If this happens, stop watering immediately. Cut away the dead foliage. Move the pot to a cool, dark place (like a closet or basement) and ignore it for 3 to 4 weeks. After it has rested, bring the pot back into the light and resume normal watering. Within days, you will see fresh new purple sprouts emerging from the soil. Toxicity Warning Oxalis triangularis is toxic to cats, dogs, and horses. It contains soluble calcium oxalates. While the bitter taste usually deters pets from eating large quantities, ingestion causes severe drooling, vomiting, and tremors. In massive quantities, it can lead to kidney failure. Keep it elevated and completely out of reach of curious pets.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/oxalis-triangularis/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

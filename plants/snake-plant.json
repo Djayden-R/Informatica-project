@@ -1,0 +1,363 @@
+{
+    "quickAnswer": "Snake Plant (Dracaena trifasciata) tolerates low light and infrequent watering better than almost any common houseplant, needing water only every 3-4 weeks once soil fully dries. It thrives in bright indirect light but adapts to dim rooms and irregular care. Overwatering is by far the most common way this otherwise nearly indestructible plant is killed.",
+    "summary": "Snake Plant is one of the most tolerant and low-maintenance houseplants available, adapted to survive in low light and infrequent watering thanks to its succulent-like, water-storing leaves. It's frequently recommended for beginners or low-light spaces where other plants would struggle.\n\nDespite its resilience, the plant's single major vulnerability is overwatering, since its thick leaves and rhizomes are prone to rot when soil stays consistently moist. Allowing soil to fully dry between infrequent waterings is the key to avoiding this common mistake.",
+    "keyTakeaways": [
+        "Water only every 3-4 weeks, letting soil fully dry out between.",
+        "Tolerate low light well, though bright indirect light supports best growth.",
+        "Avoid overwatering, the primary cause of decline in this hardy plant.",
+        "Use a fast-draining, succulent-style potting mix to prevent rot.",
+        "Expect very slow growth and minimal fertilizing needs overall."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-09-10",
+    "schemaVersion": "2.0.0",
+    "id": "snake-plant",
+    "seoTitle": "Snake Plant Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Snake Plant. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Snake Plant",
+    "facts": {
+        "family": "Asparagaceae",
+        "genus": "Dracaena",
+        "species": "trifasciata",
+        "nativeRange": "West Africa",
+        "growthHabit": "Succulent foliage plant"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01100",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01101",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01102",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2010",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01103",
+                        "weight": 1
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 10,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01104",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "snake-plant",
+    "heroImage": "/assets/images/snake-plant.webp",
+    "heroImageAlt": "Snake Plant",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are my Snake Plant leaves turning yellow and soft?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Stop watering; check roots; repot in dry soil if needed.",
+            "prevention": "Water only when soil is bone dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are my Snake Plant leaves wrinkling and falling over?",
+            "diagnosis": "Underwatering (if dry) or root rot (if wet)",
+            "treatment": "If dry, water deeply; if wet, unpot and treat rot.",
+            "prevention": "Water when dry; use well-draining soil.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why isn't my Snake Plant growing?",
+            "diagnosis": "Insufficient light or cool temperatures",
+            "treatment": "Move to brighter indirect light; keep above 15\u00b0C.",
+            "prevention": "Provide bright light and warmth.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Drought-tolerant succulent-like perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect to low",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Allow the soil to dry completely between waterings, then water thoroughly.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "low-medium",
+        "temperature": "65\u00b0F - 86\u00b0F (18\u00b0C - 30\u00b0C)",
+        "matureSize": "1-4 feet (30-120 cm)",
+        "growthRate": "Slow to moderate",
+        "soil": "Cactus or succulent well-draining mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once or twice during spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard or terracotta",
+        "propagation": "Leaf cuttings or division",
+        "flowering": true,
+        "floweringSeason": "Spring",
+        "petSafety": "toxic",
+        "nativeRegion": "Tropical West Africa",
+        "usdaZones": "9-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Snake Plant (Dracaena trifasciata) is a drought-tolerant perennial recognized for its stiff, upright leaves and strong ability to adapt to indoor conditions. It stores water in its thick leaves and underground rhizomes, allowing it to tolerate periods of dryness better than most tropical houseplants. Its main care challenge is avoiding excessive watering, particularly when the plant is grown in low light or a moisture-retentive growing medium."
+        },
+        {
+            "id": "watering",
+            "content": "Allow the growing medium to dry out thoroughly before soaking the root zone, ensuring all excess water drains freely away. During the winter rest period, reduce watering to once every several weeks, watering only enough to prevent the foliage from wrinkling."
+        },
+        {
+            "id": "light",
+            "content": "Snake Plant tolerates a wide range of indoor light levels, from relatively low light to bright indirect light. Bright indirect light generally produces stronger growth, while lower light may slow growth and reduce the intensity of some leaf markings. Strong direct afternoon sun can scorch foliage if the plant has not been acclimated. When increasing light exposure, do so gradually."
+        },
+        {
+            "id": "soil",
+            "content": "Use a fast-draining growing medium that does not remain wet for prolonged periods. A cactus or succulent mix amended with additional drainage material can work well. Choose a container with drainage holes and avoid heavy soil that retains excessive moisture. Because Snake Plant tolerates drought well, excessive moisture around the roots is generally a greater concern than moderate dryness."
+        },
+        {
+            "id": "temperature",
+            "content": "Snake Plant prefers warm indoor conditions and generally performs well around 18\u201330\u00b0C (65\u201386\u00b0F). Protect it from prolonged exposure to temperatures below about 10\u201313\u00b0C (50\u201355\u00b0F), cold drafts, and sudden temperature changes. Freezing conditions can cause serious tissue damage and may kill exposed foliage."
+        },
+        {
+            "id": "humidity",
+            "content": "Snake Plant naturally tolerates low to average indoor humidity without requiring misting or humidifiers. Focus on providing good airflow and well-draining soil rather than elevating ambient moisture."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Snake Plant sparingly during active growth with a balanced houseplant or succulent fertilizer used according to the product instructions, or consult our <a href=\"/calculators/fertilizer/snake-plant/\">Snake Plant fertilizer dosage calculator</a> for safe dilution rates. Because the plant grows relatively slowly and is adapted to nutrient-poor conditions, excessive fertilizer is unnecessary and can contribute to salt buildup or root stress. Reduce or pause feeding during periods of low light or slow growth."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Snake Plant when the rhizomes have substantially filled the container, roots are crowded, the pot becomes unstable, or the growing medium has deteriorated. Snake Plants tolerate being somewhat root-bound and usually do not require frequent repotting. Choose a sturdy container only moderately larger than the existing one and use a <a href=\"/calculators/potting-mix-calculator/snake-plant/\">fast-draining medium</a>."
+        },
+        {
+            "id": "growth",
+            "content": "Snake Plant grows from underground rhizomes that produce upright, fleshy leaves in clusters. Growth is generally slow to moderate indoors and is strongly influenced by light, temperature, and watering. Mature plants can gradually expand sideways as new shoots emerge from the rhizomes. Individual cultivars vary substantially in height, leaf width, coloration, and growth habit."
+        },
+        {
+            "id": "rhizomes",
+            "content": "Underground rhizomes are an important part of Snake Plant's growth and water-storage strategy. They produce new leaf clusters and allow the plant to spread gradually within a container. Healthy rhizomes should be firm rather than soft or mushy. During repotting, overcrowded rhizomes can be divided to create additional plants."
+        },
+        {
+            "id": "pruning",
+            "content": "Snake Plant requires very little routine pruning. Remove leaves that are completely damaged, diseased, or collapsed by cutting them near the soil line with a clean tool. Avoid repeatedly trimming healthy leaf tips simply to control height, because cut tips remain visible. If a leaf has become too tall or damaged, removing the entire leaf generally produces a cleaner result."
+        },
+        {
+            "id": "propagation",
+            "content": "Snake Plant can be propagated by division, leaf cuttings, or separation of offsets depending on the cultivar. Division is generally the most reliable way to preserve the characteristics of variegated plants because the new plant retains its rhizome and existing growth pattern. Leaf cuttings can produce new plants, but some variegated cultivars may produce offspring that lose their original leaf pattern."
+        },
+        {
+            "id": "flowering",
+            "content": "Mature Snake Plants can occasionally produce tall flower stalks carrying clusters of small, fragrant, typically pale flowers. Flowering is uncommon indoors and can occur when an established plant experiences favorable growing conditions or becomes somewhat root-restricted. A plant does not need to flower to be healthy, and the absence of flowers is normal for most indoor specimens."
+        },
+        {
+            "id": "variegation",
+            "content": "Snake Plant cultivars can display stripes, bands, yellow margins, silver markings, or other patterns. Light influences the intensity and maintenance of some coloration, but variegation is primarily determined by the cultivar's genetics. Some variegated forms grow more slowly than predominantly green forms because portions of their leaves contain less chlorophyll."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Soft or collapsing leaves, yellowing, and foul-smelling soil are commonly associated with excessive moisture and root or rhizome problems. Wrinkled leaves can indicate prolonged dehydration, although they can also occur when damaged roots prevent normal water uptake. Brown patches may result from cold injury, sun scorch, physical damage, or watering stress. Check the root zone, drainage, light, and temperature before increasing watering."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Snake Plant generally grows more actively during warm, brighter periods and slows considerably when temperatures and light levels decline. Allow the growing medium to dry more thoroughly during cooler or darker periods because the plant uses less water. Reduce or pause fertilizer when growth becomes minimal and protect the plant from cold conditions."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Snake Plant can be grown outdoors in warm, frost-free climates where it receives filtered light, partial shade, or gradually acclimated sunlight. Plants moved outdoors from indoor conditions should be introduced to stronger light gradually to reduce scorch. Outdoor plants are particularly vulnerable to prolonged heavy rain if planted in poorly draining soil. Bring container-grown plants indoors before temperatures become unsuitable."
+        },
+        {
+            "id": "toxicity",
+            "content": "Snake Plant contains saponins and is toxic if ingested. Chewing or consuming the leaves can cause gastrointestinal irritation and symptoms such as vomiting, diarrhea, or nausea in susceptible animals. Keep Snake Plant away from pets and children who may chew the foliage."
+        }
+    ],
+    "faq": [
+        {
+            "question": "How often should I water a Snake Plant?",
+            "answer": "Allow the growing medium to dry thoroughly before watering again. Then water deeply and allow all excess water to drain. Snake Plants tolerate drought well, so it is generally safer to wait for the soil to dry than to water too frequently."
+        },
+        {
+            "id": "difficulty",
+            "content": "Snake Plant is one of the easiest houseplants to care for and is particularly well suited to beginners. It tolerates a wide range of indoor light levels, handles periods of dryness well, and does not require high humidity or frequent feeding. The main care mistake to avoid is overwatering, especially when the plant is kept in low light or poorly draining soil. If you provide a container with drainage, allow the growing medium to dry thoroughly between waterings, and give the plant suitable indoor light, Snake Plant is a low-maintenance choice for beginners."
+        },
+        {
+            "question": "Can Snake Plant grow in low light?",
+            "answer": "Yes. Snake Plant is one of the more tolerant houseplants for relatively low-light conditions. However, low light generally slows growth and can reduce the intensity of some leaf markings. Bright indirect light usually produces stronger growth."
+        },
+        {
+            "question": "How much light does a Snake Plant need?",
+            "answer": "Snake Plant tolerates low to bright indirect light. Bright indirect light is generally best for vigorous growth, while direct afternoon sun should be introduced gradually to avoid leaf scorch."
+        },
+        {
+            "question": "Why are my Snake Plant leaves turning yellow?",
+            "answer": "Yellow leaves can be caused by excessive watering, poor drainage, root or rhizome problems, or natural aging of older leaves. Check whether the soil remains wet for long periods before increasing watering."
+        },
+        {
+            "question": "Why are my Snake Plant leaves soft or falling over?",
+            "answer": "Soft, collapsing, or unstable leaves can result from excessive moisture and root or rhizome rot, although severe dehydration or cold damage can also cause leaf decline. Check the roots and rhizomes if the soil has been staying wet."
+        },
+        {
+            "question": "How do I make my Snake Plant grow faster?",
+            "answer": "Provide bright indirect light, warm temperatures, appropriate watering, and modest feeding during active growth. Snake Plants are naturally slow to moderate growers, so even healthy plants may take time to produce substantial new growth."
+        },
+        {
+            "question": "Does a Snake Plant need a lot of humidity?",
+            "answer": "No. Snake Plants generally adapt well to normal household humidity and do not require misting. Good drainage and careful watering are much more important."
+        },
+        {
+            "question": "When should I repot a Snake Plant?",
+            "answer": "Repot when the rhizomes and roots have substantially filled the container, the plant becomes unstable, or the growing medium has deteriorated. Snake Plants tolerate being somewhat root-bound and usually do not need frequent repotting."
+        },
+        {
+            "question": "How do I propagate Snake Plant?",
+            "answer": "Division is generally the most reliable method, especially for preserving the characteristics of variegated cultivars. Leaf cuttings can also work, although some variegated forms may produce offspring with different or reduced markings."
+        },
+        {
+            "question": "Can I grow a Snake Plant from a leaf cutting?",
+            "answer": "Yes. Healthy leaves can be divided into sections and rooted under suitable conditions. However, leaf propagation does not reliably preserve the variegation of every cultivar, so division is preferable when maintaining a particular variegated form matters."
+        },
+        {
+            "question": "Does Snake Plant flower indoors?",
+            "answer": "It can, but flowering is uncommon indoors. Mature plants may occasionally produce a fragrant flower stalk under favorable conditions. A Snake Plant does not need to flower to be healthy."
+        },
+        {
+            "question": "Is Snake Plant toxic to cats and dogs?",
+            "answer": "Yes. Snake Plant contains saponins and can cause gastrointestinal irritation if chewed or swallowed. Keep it away from pets and children."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Dracaena trifasciata",
+        "family": "Asparagaceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/snake-plant/",
+    "parameters": {
+        "temperature": {
+            "recommended": "70\u00b0F - 90\u00b0F (21\u00b0C - 32\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        }
+    },
+    "breadcrumbName": "Snake Plant",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "h1": "Snake Plant Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/snake-plant/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

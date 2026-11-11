@@ -1,0 +1,382 @@
+{
+    "quickAnswer": "Fiddle Leaf Fig needs bright, indirect light, consistent watering only when the top 2-3 inches of soil are dry, and stable humidity above 40%. Brown spots usually indicate overwatering or root stress, while leaf drop often follows sudden changes in light, temperature, or drafts. Consistency in care matters more than any single factor.",
+    "summary": "Fiddle Leaf Fig (Ficus lyrata) is a popular but notoriously finicky indoor tree known for its large, violin-shaped leaves. It rewards a stable environment and predictable watering rhythm, but reacts visibly and quickly to inconsistency, whether that's a sudden move, temperature swings, or erratic watering.\n\nMost fiddle leaf fig problems, from brown spots to dropped leaves, stem from root stress caused by either overwatering or underwatering rather than pests or disease. Establishing a consistent watering schedule based on soil moisture (not a fixed calendar) and keeping the plant away from drafts and heating vents resolves the majority of issues.",
+    "keyTakeaways": [
+        "Water only when the top 2-3 inches of soil feel dry to the touch.",
+        "Provide bright, indirect light and avoid cold drafts or heating vents.",
+        "Keep the plant in a stable spot, since it dislikes being moved frequently.",
+        "Brown spots on the leaves typically signal overwatering or inconsistent root moisture.",
+        "Maintain humidity above 40% for the healthiest, most consistent growth."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-09-10",
+    "schemaVersion": "2.0.0",
+    "id": "ficus-lyrata",
+    "seoTitle": "Fiddle Leaf Fig Care: Fix Brown Spots and Leaf Drop",
+    "commonName": "Fiddle Leaf Fig",
+    "facts": {
+        "family": "Moraceae",
+        "genus": "Ficus",
+        "species": "lyrata",
+        "nativeRange": "West Africa",
+        "growthHabit": "Evergreen tree"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00100",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00101",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.75,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00102",
+                        "weight": 0.7
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2000",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00103",
+                        "weight": 1
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 15,
+                "unit": "\u00b0C",
+                "confidence": 0.9,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00104",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "ficus-lyrata",
+    "entityType": "plant",
+    "status": "published",
+    "metaDescription": "Diagnose and treat fiddle leaf fig problems like brown spots, leaf drop and slow growth with the right light, watering and humidity levels.",
+    "featuredImage": "/assets/images/fiddle-leaf-fig.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Fiddle Leaf Fig dropping leaves?",
+            "diagnosis": "Environmental shock, overwatering, or dry air",
+            "treatment": "Stabilize environment; water when top 2 inches dry; increase humidity.",
+            "prevention": "Keep consistent care; avoid sudden changes.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are there brown spots on the leaves?",
+            "diagnosis": "Root rot from overwatering",
+            "treatment": "Reduce watering; inspect roots; repot in dry soil if rot is present.",
+            "prevention": "Water only when soil is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves curling?",
+            "diagnosis": "Underwatering or low humidity",
+            "treatment": "Water thoroughly; increase humidity with a humidifier.",
+            "prevention": "Maintain consistent moisture and moderate humidity.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Brown spots with yellow halos",
+            "diagnosis": "Bacterial leaf spot (often Xanthomonas) triggered by overwatering and poor airflow.",
+            "treatment": "Remove affected leaves with sterile shears, improve air circulation, and reduce watering frequency.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Soft brown patches on lower leaves",
+            "diagnosis": "Root rot due to anaerobic, waterlogged soil.",
+            "treatment": "Unpot the plant, trim away black or mushy roots, and repot in a fresh, fast-draining aroid mix.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Crispy brown leaf edges",
+            "diagnosis": "Low atmospheric humidity (below 40%) or severe underwatering.",
+            "treatment": "Increase relative humidity using an ultrasonic room humidifier and ensure thorough, deep waterings.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Dropping lower leaves",
+            "diagnosis": "Sudden environmental shift, such as cold drafts, relocation shock, or heating vent exposure.",
+            "treatment": "Move the plant to a stable environment away from drafts and vents, and avoid further relocation.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Dropping new or upper leaves",
+            "diagnosis": "Severe underwatering or extreme lack of light.",
+            "treatment": "Check soil moisture deep in the pot and ensure the plant is receiving bright indirect light.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Reddish-brown dots on new leaves",
+            "diagnosis": "Edema (cells bursting from rapid water uptake).",
+            "treatment": "Ensure consistent watering practices. The spots typically fade harmlessly as the leaf matures.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Fine webbing under leaves",
+            "diagnosis": "Spider mites, which thrive in hot, dry indoor air.",
+            "treatment": "Wipe leaves with a damp cloth, apply insecticidal soap or neem oil, and increase ambient humidity.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "White cottony masses in leaf crevices",
+            "diagnosis": "Mealybugs.",
+            "treatment": "Dab pests with a cotton swab soaked in 70% isopropyl alcohol, then treat the plant with horticultural oil.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Small brown, raised bumps on stems and leaves",
+            "diagnosis": "Scale insects.",
+            "treatment": "Physically remove the bumps and treat the foliage consistently with an appropriate systemic or topical insecticidal soap.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Pale, small new growth",
+            "diagnosis": "Nutrient deficiency or insufficient light.",
+            "treatment": "Supplement with a balanced liquid fertilizer during the growing season and move closer to a bright window.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "h1": "Fiddle Leaf Fig Care Guide",
+    "breadcrumbName": "Fiddle Leaf Fig",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Broadleaf evergreen tree",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water thoroughly when the top 2-3 inches of soil dry out. Do not overwater.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50% to 75%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "6-10 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Rich, well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "High-nitrogen fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Air layering or stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Western and west-central tropical Africa",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water Fiddle Leaf Fig thoroughly until water exits the pot base, then allow the upper soil layer to dry before watering again. Consistent soil moisture balance is critical\u2014avoid letting the root ball dry out completely or sit in standing water, as both extremes trigger leaf browning and drop."
+        },
+        {
+            "id": "winter-care",
+            "content": "During winter, Fiddle Leaf Figs typically experience a seasonal growth slowdown. Maximize available bright light to compensate for shorter days, but avoid sudden changes in placement or unnecessary relocation, as they can be sensitive to environmental shifts. Keep the plant away from cold drafts and heating vents. Check the soil before watering and allow the upper portion to dry between waterings, adjusting frequency to match the plant's reduced winter water use. Reduce or pause fertilizer when active growth stalls. Maintain adequate humidity to reduce dry-air stress, and monitor for leaf drop or other signs of stress as indoor conditions change."
+        }
+    ],
+    "aliases": [],
+    "faq": [
+        {
+            "question": "How often should I water my Fiddle Leaf Fig?",
+            "answer": "Water only when the top 2 to 3 inches of the soil are completely dry. During peak summer growth, this may be every 7 to 10 days, but in cooler seasons, it can take 2 to 3 weeks. Always check the soil manually rather than relying on a strict schedule to prevent root rot."
+        },
+        {
+            "question": "Why are the leaves falling off my Fiddle Leaf Fig?",
+            "answer": "Leaf drop is a shock response primarily caused by sudden environmental changes, such as cold drafts, relocation, or severe overwatering. When a Ficus lyrata experiences metabolic stress, it sheds lower leaves to conserve energy for the apical bud."
+        },
+        {
+            "question": "Is the Fiddle Leaf Fig safe for cats and dogs?",
+            "answer": "No, it is toxic to both cats and dogs. The plant contains a milky white latex sap full of calcium oxalate crystals and ficin enzymes. Ingestion causes oral irritation, excessive drooling, and vomiting."
+        },
+        {
+            "question": "What is the best soil for a Ficus lyrata?",
+            "answer": "They require a fast-draining, highly aerated aroid mix. A blend of 60% high-quality potting soil, 20% coarse perlite, and 20% chunky orchid bark is ideal for creating macro-pores that allow oxygen to reach the roots."
+        },
+        {
+            "question": "Why does my Fiddle Leaf Fig have brown crispy edges?",
+            "answer": "Brown, crispy edges are usually caused by a severe lack of atmospheric moisture. In heated homes during winter, indoor humidity can fall below 30%, causing leaves to lose water rapidly. Use a room humidifier to maintain levels above 50%."
+        },
+        {
+            "question": "How do I branch or prune a Fiddle Leaf Fig?",
+            "answer": "To force a single-trunk Fiddle Leaf Fig to branch out, use sterile shears to pinch or cut off the very top growth bud. This removes apical dominance and signals the tree to push out new growth from the lateral nodes."
+        },
+        {
+            "question": "Can Ficus lyrata survive in low light?",
+            "answer": "No. Fiddle Leaf Figs are canopy trees that require bright, filtered light. If placed in a dark corner, the plant will stall its growth, produce smaller leaves, and eventually shed foliage."
+        },
+        {
+            "question": "Why are there little red spots on new leaves?",
+            "answer": "These tiny reddish-brown dots are called edema. It occurs when roots absorb water faster than the young leaves can transpire it, causing cells to swell and burst. It is harmless and usually fades naturally as the leaf matures."
+        },
+        {
+            "question": "When should I repot my Fiddle Leaf Fig?",
+            "answer": "Repot only every 2 to 3 years during the spring or early summer, and only when roots are densely circling the bottom of the pot. Ficus lyrata is sensitive to root disturbance, so expect a brief adjustment period."
+        },
+        {
+            "question": "How do I propagate a Fiddle Leaf Fig?",
+            "answer": "Take a 6 to 8-inch tip cutting containing at least two healthy leaves and a node. Let the toxic white sap callous for an hour, then place the cutting in clean water in a bright, warm spot. Roots generally develop in 4 to 8 weeks."
+        }
+    ],
+    "references": [],
+    "undefined": [
+        "Water only when the top 2-3 inches of soil feel dry to the touch.",
+        "Provide bright, indirect light; direct sun can scorch the large leaves.",
+        "Keep humidity above 40% and away from cold drafts or heating vents.",
+        "Avoid moving the plant frequently, since fiddle leaf figs dislike change.",
+        "Brown spots typically signal overwatering or inconsistent root moisture."
+    ],
+    "taxonomy": {
+        "sciName": "Ficus lyrata",
+        "family": "Moraceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-lyrata/",
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 75\u00b0F (18\u00b0C - 24\u00b0C)",
+            "survivable": "55\u00b0F - 85\u00b0F (13\u00b0C - 29\u00b0C)"
+        }
+    },
+    "searchIntents": [
+        {
+            "text": "ficus lyrata winter care",
+            "type": "secondary",
+            "source": "manual",
+            "approved": true
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/weeping-fig"
+        ]
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-lyrata/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

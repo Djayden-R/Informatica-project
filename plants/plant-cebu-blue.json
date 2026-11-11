@@ -1,0 +1,336 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-cebu-blue",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "epipremnum-pinnatum",
+    "seoTitle": "Cebu Blue Pothos Care: Get Fenestrated Leaves",
+    "metaDescription": "Cebu Blue Pothos develops split leaves once it matures and climbs. Find out Epipremnum pinnatum's climbing needs, light requirements, and care for silvery.",
+    "featuredImage": "/assets/images/cebu-blue.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "climbing-plants",
+        "toxic-to-pets",
+        "fast-growing",
+        "foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Epipremnum pinnatum",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Aroid Cultivation",
+            "source": "International Aroid Society",
+            "url": "https://www.aroid.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Epipremnum pinnatum 'Cebu Blue'",
+        "family": "Araceae",
+        "origin": "Cebu Island, Philippines",
+        "type": "Evergreen climbing vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Hanging baskets",
+            "Moss poles",
+            "High shelves"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright, indirect light. Can be trailed from a basket or trained up a moss pole.",
+        "watering": "Water when the top 2-3 inches of soil are dry. It is highly forgiving of missed waterings.",
+        "soil": "A standard, well-draining indoor potting mix.",
+        "pruning": "Trim trailing vines to encourage bushier growth at the crown of the plant.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs due to insoluble calcium oxalates. Causes severe oral pain and vomiting.",
+        "bestFor": "Beginners who want a fast-growing, unique, silvery-blue alternative to the standard Golden Pothos."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trailing vines up to 10+ feet",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 95\u00b0F (13\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Thrives in bright, indirect light. While it can survive in low light, the leaves will lose their metallic blue sheen and revert to a dull green. Avoid direct afternoon sun.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East-facing or near a bright south window.",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Very forgiving, but regular feeding speeds up the already rapid growth.",
+        "fertilizerFrequency": "Once a month during spring and summer with a standard houseplant fertilizer.",
+        "organicOptions": "A light layer of worm castings in spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 6,
+            "notes": "Like all Epipremnum, it will suffer root rot if planted in heavy mud without drainage holes."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "How do I get my Cebu Blue Pothos to split its leaves?",
+            "answer": "To get fenestrations (splits), the plant must be given a moss pole to climb vertically, and it must receive very bright, indirect light. Trailing vines hanging from a basket will never produce split leaves."
+        },
+        {
+            "question": "Why is my Cebu Blue losing its silvery-blue color?",
+            "answer": "The metallic blue sheen is highly dependent on light. If the plant is kept in a dark corner, the leaves will produce more green chlorophyll to survive, overriding the blue color. Move it to a brighter location."
+        },
+        {
+            "question": "Is the Cebu Blue toxic to cats?",
+            "answer": "Yes. Like all pothos varieties, the Cebu Blue contains calcium oxalate crystals. Chewing the plant causes severe mouth pain, swelling, and vomiting in pets."
+        },
+        {
+            "question": "Why are the leaves on my Cebu Blue turning yellow?",
+            "answer": "Yellowing leaves at the base of the plant usually indicate overwatering. Ensure the top few inches of soil are drying out completely before watering again."
+        },
+        {
+            "question": "Is Cebu Blue a true Pothos?",
+            "answer": "Yes! While many plants called 'Pothos' (like the Satin Pothos) actually belong to different genera, the Cebu Blue is a true Epipremnum, making it a direct relative of the classic Golden Pothos."
+        }
+    ],
+    "shortDesc": "The Cebu Blue Pothos is a highly sought-after vine prized for its metallic, silvery-blue foliage. If trained up a moss pole, it undergoes a spectacular transformation, growing massive, split leaves.",
+    "content": "<h2>Overview</h2><p>The Cebu Blue Pothos (<em>Epipremnum pinnatum 'Cebu Blue'</em>) is one of the most stunning and highly coveted varieties in the aroid family. Discovered on the island of Cebu in the Philippines, it stands out entirely from the standard Golden or Marble Queen pothos due to its incredible color: a shimmering, metallic, silvery-blue hue that seems to glow in indirect light.</p><p>As a juvenile plant (which is how it is almost always sold), the leaves are small, elongated, and lance-shaped. It makes a phenomenal, fast-growing trailing plant for hanging baskets. However, the true magic of the Cebu Blue lies in its mature form. If given the right conditions to climb, this delicate trailing vine transforms into a jungle monster with massive, palm-sized leaves filled with deep splits and fenestrations.</p><h3>Light Requirements: Keeping the Blue</h3><p>While standard pothos plants are famous for surviving in dark, windowless offices, the Cebu Blue demands a bit more respect. To maintain its signature silvery-blue color, it requires bright, indirect light. An east-facing window is ideal. If you place it in a low-light environment, the plant will survive, but the leaves will lose their metallic sheen and revert to a standard, dull green. Avoid harsh, direct afternoon sun, which will scorch and yellow the thin leaves.</p><h3>Watering Strategy</h3><p>Like all Epipremnum varieties, the Cebu Blue is incredibly resilient and forgiving. The golden rule is to let the top 2 to 3 inches of soil dry out completely before watering. If you stick your finger into the soil and it feels damp, wait a few more days. When it is time to water, soak the pot thoroughly until water flows out the drainage holes. It will recover quickly from an accidental drought, but it will not survive sitting in stagnant, swampy water.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Protect it from freezing winter drafts. While it is native to the tropical rainforest and appreciates high humidity, the Cebu Blue is highly adaptable. It will grow vigorously in the standard 40% to 50% humidity found in most centrally heated or air-conditioned homes.</p><h3>Soil and Potting</h3><p>A well-draining, airy potting mix is essential to prevent root rot. Standard indoor potting soil works, but it is highly recommended to amend it with 30% perlite and a handful of orchid bark. This provides the roots with pockets of oxygen and ensures excess water drains away rapidly.</p><h2>The Secret to Fenestrations: Climbing</h2><p>The most common question growers ask is, \"How do I get my Cebu Blue to split?\" In the wild, Epipremnum pinnatum climbs hundreds of feet up massive trees. As the vine climbs vertically toward the canopy light, the plant matures, and the leaves grow exponentially larger, eventually developing deep cuts (fenestrations) similar to a Monstera.</p><p>If you leave your Cebu Blue hanging in a basket, the leaves will remain small and solid forever. To unlock its mature form indoors, you must provide a sturdy moss pole or wooden plank for the aerial roots to grab onto. Combine vertical climbing with intense, bright indirect light, and within a year, the new leaves at the top of the pole will begin to split.</p><h2>Propagation</h2><p>Propagating Cebu Blue is as easy as propagating any pothos. Snip a piece of the vine ensuring it has at least one leaf and one node (the small brown bump on the stem). Place the stem in a jar of water. Within two weeks, long white roots will form. Once the roots are a few inches long, plant it back into the top of the mother pot to create a fuller, bushier crown.</p><h2>Toxicity</h2><p>Like all members of the Araceae family, the Cebu Blue contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or humans, the crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines out of reach of curious pets.</p>",
+    "quickAnswer": "The Cebu Blue Pothos requires bright indirect light to keep its silvery-blue color and should be watered when the top 3 inches of soil are dry. To force the leaves to grow large and split, it must climb a moss pole.",
+    "ogImage": "/assets/images/cebu-blue.webp",
+    "ogImageAlt": "Silvery blue, lance-shaped leaves of a Cebu Blue Pothos trailing from a pot",
+    "heroImage": "/assets/images/cebu-blue.webp",
+    "heroImageAlt": "Close up of the metallic foliage of Epipremnum pinnatum Cebu Blue",
+    "featuredImageAlt": "Mature Cebu Blue pothos climbing a moss pole with large fenestrated leaves",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Cebu Blue losing its silvery-blue color?",
+            "diagnosis": "Low light \u2013 excess chlorophyll production",
+            "treatment": "Move to brighter indirect light; new leaves will regain blue sheen.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves on my Cebu Blue turning yellow?",
+            "diagnosis": "Overwatering (if soil wet) or natural leaf senescence (if only oldest leaves)",
+            "treatment": "If overwatering, let soil dry; if natural, no action.",
+            "prevention": "Water when top 2 inches are dry.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Node",
+            "definition": "The joint on a plant stem where leaves and aerial roots attach. A node is absolutely required to successfully propagate a pothos cutting."
+        },
+        {
+            "term": "Fenestration",
+            "definition": "The natural holes or splits that develop in the mature leaves of certain aroids, allowing light to pass through to the lower leaves in dense jungle environments."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Epipremnum (Pothos) Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Color",
+            "Leaf Shape"
+        ],
+        "rows": [
+            [
+                "Cebu Blue",
+                "Silvery, metallic blue-green",
+                "Narrow, lance-shaped"
+            ],
+            [
+                "Golden Pothos",
+                "Green with heavy yellow variegation",
+                "Wide, heart-shaped"
+            ],
+            [
+                "Neon Pothos",
+                "Solid, bright chartreuse/neon yellow",
+                "Wide, heart-shaped"
+            ]
+        ]
+    },
+    "h1": "Cebu Blue Pothos Care: Unlock Silver Leaves & Fenestrations",
+    "breadcrumbName": "Cebu Blue Pothos Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "golden-pothos-care",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Expecting it to develop fenestrations (holes or splits) while trailing from a shelf\u2014leaf maturation in this species is triggered by climbing upward, not by age alone. Only by mounting it on a moss pole and giving it bright light will the leaves develop their characteristic mature slits."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The distinctive blue-silver iridescence is only visible in adequate light\u2014in low light, the leaves appear plain grey-green and lose their shimmer entirely. The metallic quality is a structural light-reflection effect that requires brightness to be seen."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In a typical hanging basket in a dim room, it stays in juvenile form indefinitely with small, unspectacular leaves. To see what this plant can actually become, it needs to climb something and receive genuinely bright indirect light."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "epipremnum pinnatum cebu blue",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for cebu blue pothos",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "cebu blue fenestrations",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "silvery trailing plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pothos climbing moss pole",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "cebu blue pothos epipremnum pinnatum",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Epipremnum Pinnatum",
+    "summary": "Epipremnum pinnatum 'Cebu Blue' is a striking vining aroid known for its silvery-blue juvenile foliage and mature fenestrated leaves. Learn vertical moss pole training, aerated substrate recipes, and indirect light placement.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to enhance metallic silvery-blue foliar sheen.",
+        "Allow the top 2 inches of aerated aroid mix to dry out between waterings.",
+        "Attach to a moist moss pole to stimulate mature leaf sizing and fenestrations.",
+        "Propagate easily using single-node stem cuttings in water or sphagnum moss."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen climbing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 2-3 inches of soil are dry. It is highly forgiving of missed waterings.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40% - 60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Trailing up to 10 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Cebu Island, Philippines",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/epipremnum-pinnatum/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The Cebu Blue Pothos ( Epipremnum pinnatum 'Cebu Blue' ) is one of the most stunning and highly coveted varieties in the aroid family. Discovered on the island of Cebu in the Philippines, it stands out entirely from the standard Golden or Marble Queen pothos due to its incredible color: a shimmering, metallic, silvery-blue hue that seems to glow in indirect light. As a juvenile plant (which is how it is almost always sold), the leaves are small, elongated, and lance-shaped. It makes a phenomenal, fast-growing trailing plant for hanging baskets. However, the true magic of the Cebu Blue lies in its mature form. If given the right conditions to climb, this delicate trailing vine transforms into a jungle monster with massive, palm-sized leaves filled with deep splits and fenestrations. Light Requirements: Keeping the Blue While standard pothos plants are famous for surviving in dark, windowless offices, the Cebu Blue demands a bit more respect. To maintain its signature silvery-blue color, it requires bright, indirect light. An east-facing window is ideal. If you place it in a low-light environment, the plant will survive, but the leaves will lose their metallic sheen and revert to a standard, dull green. Avoid harsh, direct afternoon sun, which will scorch and yellow the thin leaves. Watering Strategy Like all Epipremnum varieties, the Cebu Blue is incredibly resilient and forgiving. The golden rule is to let the top 2 to 3 inches of soil dry out completely before watering. If you stick your finger into the soil and it feels damp, wait a few more days. When it is time to water, soak the pot thoroughly until water flows out the drainage holes. It will recover quickly from an accidental drought, but it will not survive sitting in stagnant, swampy water. Temperature and Humidity Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Protect it from freezing winter drafts. While it is native to the tropical rainforest and appreciates high humidity, the Cebu Blue is highly adaptable. It will grow vigorously in the standard 40% to 50% humidity found in most centrally heated or air-conditioned homes. Soil and Potting A well-draining, airy potting mix is essential to prevent root rot. Standard indoor potting soil works, but it is highly recommended to amend it with 30% perlite and a handful of orchid bark. This provides the roots with pockets of oxygen and ensures excess water drains away rapidly. The Secret to Fenestrations: Climbing The most common question growers ask is, \"How do I get my Cebu Blue to split?\" In the wild, Epipremnum pinnatum climbs hundreds of feet up massive trees. As the vine climbs vertically toward the canopy light, the plant matures, and the leaves grow exponentially larger, eventually developing deep cuts (fenestrations) similar to a Monstera. If you leave your Cebu Blue hanging in a basket, the leaves will remain small and solid forever. To unlock its mature form indoors, you must provide a sturdy moss pole or wooden plank for the aerial roots to grab onto. Combine vertical climbing with intense, bright indirect light, and within a year, the new leaves at the top of the pole will begin to split. Propagation Propagating Cebu Blue is as easy as propagating any pothos. Snip a piece of the vine ensuring it has at least one leaf and one node (the small brown bump on the stem). Place the stem in a jar of water. Within two weeks, long white roots will form. Once the roots are a few inches long, plant it back into the top of the mother pot to create a fuller, bushier crown. Toxicity Like all members of the Araceae family, the Cebu Blue contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or humans, the crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines out of reach of curious pets.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/epipremnum-pinnatum/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

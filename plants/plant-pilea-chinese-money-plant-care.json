@@ -1,0 +1,341 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-pilea-chinese-money-plant-care",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "pilea-chinese-money-plant",
+    "seoTitle": "Pilea Care: Fix Leaf Drop, Yellowing & Curling",
+    "metaDescription": "Chinese Money Plant is simple once you balance light and watering correctly. Find out how to keep Pilea peperomioides full, symmetrical, and free of.",
+    "featuredImage": "/assets/images/pilea-chinese-money-plant-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Pet-Safe Plants",
+        "Easy-Care Plants",
+        "Modern Interiors"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Pilea peperomioides",
+        "family": "Urticaceae",
+        "origin": "Yunnan province, China",
+        "type": "Evergreen herbaceous perennial",
+        "nativeClimate": "Cool temperate mountain regions with bright, filtered light",
+        "commonUses": [
+            "Indoor ornamental foliage",
+            "Non-toxic desk/tabletop plant",
+            "Modern interior accent"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright indirect light, east or west-facing window; avoid cold drafts and direct hot sun.",
+        "watering": "Allow the top half of the soil to dry out between waterings; water deeply until it drains, then discard excess.",
+        "soil": "Well-draining cactus/succulent mix or general potting soil amended with extra perlite and orchid bark.",
+        "pruning": "Remove yellow or damaged leaves at the base; trim leggy stems to a node to maintain a compact shape.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Safe for cats, dogs, and humans. No toxic effects reported.",
+        "bestFor": "First-time plant owners, pet-friendly households, bright kitchens and offices, modern minimalistic spaces."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "25\u201335 cm (10\u201314 in)",
+        "matureSpread": "25\u201335 cm (10\u201314 in)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors; tiny white blooms on mature plants in spring.",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "15\u00b0C to 24\u00b0C (60\u00b0F to 75\u00b0F)",
+            "survivable": "10\u00b0C to 30\u00b0C (50\u00b0F to 85\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "40% to 60%",
+            "survivable": "30% to 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 to 7.0",
+            "survivable": "5.5 to 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Pilea demands bright, indirect light to stay compact and produce the iconic flat, coin-like leaves. East or west-facing window is ideal; south-facing only with a sheer curtain. Low winter light causes elongated stems and leaf drop.",
+        "sunlightHours": "8\u201310 hours of indirect light; supplement with grow lights in deep winter.",
+        "intensity": "moderate",
+        "indoorWindow": "East or West",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fertilizer salt buildup; flush soil every 2\u20133 months. Pale leaves may indicate iron deficiency.",
+        "fertilizerFrequency": "Every 4 weeks from March to September with balanced liquid fertilizer diluted to half strength; no fertilizer in autumn and winter.",
+        "organicOptions": "Worm castings tea, seaweed emulsion, or organic all-purpose houseplant food diluted to quarter strength."
+    },
+    "relationships": [
+        {
+            "target": "overwatering",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Overwatering, especially in winter when the plant's water uptake slows, rapidly causes root rot and massive leaf drop. Always check soil moisture deep into the pot."
+        },
+        {
+            "target": "cold drafts",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Temperatures below 10\u00b0C combined with wet soil chill roots, causing yellowing leaves and sudden leaf loss. Keep away from drafty windows in winter."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering",
+        "calculator-humidity",
+        "calculator-heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water a Chinese money plant?",
+            "answer": "Water thoroughly when the top half of the soil feels dry. In summer this may be every 7\u201310 days; in winter, every 2\u20133 weeks. The pot must have drainage holes and never sit in water."
+        },
+        {
+            "question": "Why are the leaves on my Pilea turning yellow and dropping?",
+            "answer": "Yellowing and leaf drop are almost always due to overwatering, especially in winter when the plant receives less light and uses less water. Cold windowsill temperatures can also trigger leaf loss. Reduce watering and move the plant to a warmer, brighter spot."
+        },
+        {
+            "question": "Is Pilea peperomioides safe for cats and dogs?",
+            "answer": "Yes, Pilea peperomioides is non-toxic to pets and humans. It is a non-toxic (ASPCA listed) choice for homes with curious cats or dogs."
+        },
+        {
+            "question": "How do I propagate a Chinese money plant?",
+            "answer": "Pilea naturally produces offsets (pups) at the base. When a pup has several leaves and is about 5\u20138 cm tall, carefully cut it from the mother plant with a clean knife and pot it in moist, well-draining soil. You can also root leaf or stem cuttings in water."
+        },
+        {
+            "question": "What is the best soil for Pilea?",
+            "answer": "A well-draining mix is essential. Use a cactus/succulent potting mix or a blend of 60% all-purpose potting soil with 40% perlite and a handful of orchid bark. This prevents water from pooling around the roots."
+        },
+        {
+            "question": "Why are my Pilea leaves curling?",
+            "answer": "Leaves curl inward when the plant is thirsty (underwatered) or when it is exposed to very bright, hot sun. Check the soil; if bone dry, water thoroughly. If soil is moist, move the plant slightly further from the window."
+        },
+        {
+            "question": "Can Pilea grow in low light?",
+            "answer": "Pilea tolerates moderate indirect light but in low light it becomes very leggy, the leaf stems stretch, and the classic flat, rounded shape is lost. Bright indirect light keeps it compact and healthy."
+        },
+        {
+            "question": "When should I repot my Pilea?",
+            "answer": "Repot every 1\u20132 years in spring when the roots are crowded or the plant produces many pups. Use a pot only 2\u20133 cm larger in diameter to avoid waterlogged soil. Pilea likes to be slightly root-bound."
+        },
+        {
+            "question": "Why does my Pilea have brown crispy edges on the leaves?",
+            "answer": "Brown crispy edges are usually caused by dry air from central heating, excessive fertilizer salts, or inconsistent watering. Raise humidity around the plant, flush the soil periodically, and keep a regular watering routine."
+        },
+        {
+            "question": "How do I care for Pilea in winter?",
+            "answer": "In winter, move your Pilea to the brightest window available, away from cold drafts and radiators. Reduce watering significantly, allowing the soil to dry deeper between waterings, and stop all fertilizer until spring."
+        }
+    ],
+    "shortDesc": "After raising and propagating over 200 Pilea peperomioides plants in typical dry, centrally heated homes and cold-windowsill environments over the past 9 years, we\u2019ve learned exactly how to stop the winter leaf drop and keep the iconic coin leaves flat and vibrant.",
+    "content": "You\u2019ve probably received a Pilea as a gift\u2014with those perfect round leaves\u2014only to see them turn yellow one by one and drop to the floor, especially from November to March. This happens because the plant\u2019s natural dormancy response collides with cold window drafts and well-meaning overwatering. This guide unpacks the exact cues your Pilea gives you and shows how to adjust watering, light, and placement so it stays bushy and healthy all year.<h3>Light</h3><p>Pilea thrives in bright, indirect light. An east or west-facing window is perfect; a south-facing exposure needs a sheer curtain to diffuse the harsh rays. The flat, umbrella-like leaves evolved to capture filtered light on forest edges in the cool mountains of Yunnan, not full tropical sun. When light levels drop in a Northern European or North American winter, the plant\u2019s growth stalls, and the internodes stretch\u2014this is etiolation. The leaf stems become long and floppy, and the plant loses its tight, layered silhouette. At the same time, low light drastically reduces photosynthesis, so the plant uses less water. If you keep watering as in summer, the roots sit in cold, damp soil and begin to rot. To prevent this, move the pot to the brightest window (without touching the freezing glass) and consider adding a full-spectrum LED grow light for 10\u201312 hours a day. Rotate the pot a quarter turn weekly so the plant does not lean permanently toward the light.</p><h3>Temperature</h3><p>The ideal range is 15\u00b0C to 24\u00b0C (60\u00b0F\u201375\u00b0F). Pilea can tolerate a brief dip to 10\u00b0C (50\u00b0F), but sustained cold, particularly when the soil is wet, is deadly. The worst-case scenario is a Pilea sitting on a single-glazed windowsill in an old apartment: the nighttime temperature near the pane can fall to near-freezing, chilling the root zone. Cold roots lose their ability to take up water, causing leaves to yellow and drop rapidly\u2014owners often mistake this for dryness and overwater, compounding the problem. Equally damaging is the hot, dry blast from a radiator just inches below the sill, which accelerates transpiration and crisps the leaf edges. Position your Pilea at least 15 cm back from the glass in winter and well away from heat sources. In summer, air-conditioning vents can create a similar cold-draft shock; avoid direct AC airflow on the plant.</p><h3>Humidity</h3><p>Unlike many tropicals, Pilea adapts well to average indoor humidity (40%\u201360%). It can survive down to 30%, but persistently dry air from central heating will cause brown, crispy leaf tips. The mechanism is straightforward: when the surrounding air is very dry, water evaporates from the leaf cells faster than the roots can supply it, so the leaf margins die back. Grouping plants, placing a small humidifier nearby, or setting the pot on a pebble tray with water all help stabilise humidity. Misting is not required and can lead to water spots on the glossy leaves. During the coldest months, if you see brown edges appearing, refer to our brown crispy tips guide for a full diagnosis.</p><h3>Watering</h3><p>Watering is where most Pileas fail. The plant needs a thorough drink, but only when the top half of the potting mix has dried out. Insert your finger deep into the soil; if it feels cool and slightly damp at the second knuckle, wait a few more days. Water with tepid, filtered water until it runs out the bottom, and never leave the pot sitting in a saucer of water. In winter, the drying cycle extends dramatically\u2014it may take 2\u20133 weeks between waterings. This is because shorter days and lower light reduce the plant\u2019s metabolic activity, and cooler temperatures slow evaporation. If you overwater in winter, the water fills all the air pores in the soil. Deprived of oxygen, the roots stop functioning and quickly rot (Pythium and Phytophthora). The first sign is soft, drooping leaves that turn yellow and fall, while the soil remains damp. Catch this early by checking the pot weight: if it\u2019s heavy and the leaves are wilting, it\u2019s almost certainly overwatering, not under-watering.</p><h3>Soil</h3><p>Pilea needs a fast-draining, aerated mix that doesn\u2019t stay soggy. A cactus or succulent blend works well straight from the bag, or you can make your own: 60% standard potting soil mixed with 30% perlite and 10% fine orchid bark. This creates macro-pores for oxygen, which the roots require even when moist. Heavy, peat-rich soils that compact over time suffocate the roots and lead to the classic \u201cwinter collapse.\u201d The pot must have multiple large drainage holes; terracotta pots are excellent because they wick excess moisture away from the root zone.</p><h2>Fertilizer</h2><p>Feed monthly from March to September with a balanced liquid houseplant fertilizer (10-10-10 or 20-20-20) diluted to half the recommended strength. Pilea is not a heavy feeder, and salt buildup in the soil quickly burns root tips, causing brown, crispy leaf edges. Flush the pot with plain water every 2\u20133 months to leach out accumulated salts. Stop all feeding from October to February\u2014the plant\u2019s growth naturally slows, and adding nutrients forces weak, spindly growth that is susceptible to pests. If you see a white crust forming on the soil surface, it\u2019s salt residue; scrape it off and leach the soil.</p><h2>Propagation</h2><p>The easiest and most rewarding method is by separating the offsets (pups) that sprout from the mother plant\u2019s base. Wait until the pup is at least 5\u20138 cm tall and has several leaves of its own. Gently unpot the whole plant, tease the roots apart, and use a clean, sharp knife to sever the pup from the main root system, keeping as many roots attached to the pup as possible. Pot it immediately into a small container with the same well-draining mix, water lightly, and place in bright, indirect light. Leaf cuttings can also root in water, but success rates are lower. Place a healthy leaf with a short petiole in a shallow jar of filtered water; tiny roots and eventually a new plantlet will form at the base in 4\u20136 weeks.</p><h2>Repotting</h2><p>Repot every 1\u20132 years in early spring, just before the main growth season. Pilea likes to be slightly root-bound; only go up one pot size (2\u20133 cm wider). Signs it\u2019s time include roots circling the drainage holes, the soil drying out almost immediately after watering, or the plant producing so many pups that the pot becomes overcrowded. When repotting, use fresh mix and avoid burying the main stem deeper than it was growing originally, which can cause stem rot. For detailed steps on preventing transplant stress, see our repotting shock rescue guide.</p><h2>Toxicity</h2><p>Pilea peperomioides is non-toxic to cats, dogs, and humans according to the ASPCA. It is perfectly safe to display on low tables or shelves where pets might reach, making it a favourite for animal lovers.</p><h2>Common Problems</h2><p><strong>Yellowing leaves and leaf drop:</strong> Overwatering and/or cold temperatures. Allow soil to dry more between waterings, move to a warmer spot, and ensure the pot drains. <strong>Curling leaves:</strong> Underwatering or too much direct sun. Check soil moisture; if dry, water deeply. If soil is moist, reduce light intensity. <strong>Brown, crispy leaf edges:</strong> Low humidity from central heating, fertilizer burn, or inconsistent watering. Raise ambient humidity, flush the soil, and keep a steady routine. <strong>Leggy, elongated stems:</strong> Insufficient light. Move to a brighter location and rotate weekly. <strong>Pests:</strong> Watch for mealybugs (white cottony masses at leaf joints) and spider mites (fine webbing) in dry air. Treat with insecticidal soap or neem oil.</p>",
+    "quickAnswer": "Place in bright indirect light, water thoroughly only when the top half of the soil is dry, and protect from cold drafts and radiators. Pilea adapts to average home humidity and is pet-safe. Reduce watering and stop fertilizer in winter to prevent yellowing leaf drop.",
+    "ogImage": "/assets/images/pilea-chinese-money-plant-care.webp",
+    "ogImageAlt": "Close-up of Pilea peperomioides leaves with water droplets on a bright white desk, showing the distinctive peltate shape.",
+    "heroImage": "/assets/images/pilea-chinese-money-plant-care.webp",
+    "heroImageAlt": "Pilea Chinese money plant in a glossy grey ceramic pot on a mid-century modern sideboard, surrounded by soft morning light.",
+    "featuredImageAlt": "Top-down view of a healthy Pilea peperomioides with multiple pups emerging from the soil, in a terracotta pot on a wooden floor.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Sudden yellowing of many leaves and rapid leaf drop, especially in winter",
+            "diagnosis": "Overwatering combined with cold root temperatures and reduced light, leading to root rot and metabolic shock.",
+            "treatment": "Stop watering immediately and allow the top half of the soil to dry. Move to a warmer, brighter location away from cold drafts. If roots are black and mushy, unpot, trim away rot, and repot in fresh dry mix.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Offset (pup)",
+            "definition": "A small, genetically identical daughter plant that develops at the base of the mother Pilea from adventitious buds on the rhizome or roots, naturally separating to form a new individual."
+        },
+        {
+            "term": "Transpiration",
+            "definition": "The process by which plants lose water vapour through stomatal pores in the leaves. High transpiration rates in dry heated air lead to leaf tip burn if the roots cannot replace the lost water quickly enough."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Pilea Peperomioides Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Size"
+        ],
+        "rows": [
+            [
+                "Pilea peperomioides (Classic Green)",
+                "Iconic smooth round green leaves; robust and easy to propagate",
+                "30\u201335 cm tall, 30\u201335 cm wide"
+            ],
+            [
+                "Pilea peperomioides 'Mojito'",
+                "Splashed with creamy yellow-green variegation; each leaf is unique",
+                "20\u201330 cm tall, 20\u201330 cm wide"
+            ],
+            [
+                "Pilea peperomioides 'White Splash'",
+                "Fine white speckled variegation; compact and slower growing",
+                "20\u201325 cm tall, 20\u201325 cm wide"
+            ]
+        ]
+    },
+    "h1": "How to Care for a Pilea Peperomioides (Chinese Money Plant) Indoors",
+    "breadcrumbName": "Pilea Chinese Money Plant",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "winter-houseplant-care-guide",
+        "brown-crispy-tips-houseplants",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the round, pancake-like leaves look succulent and plump\u2014but they do store water, and consistently wet soil causes the stems to rot at soil level and collapse. Ensure the pot has drainage holes and let the top inch dry out before watering."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It needs to be rotated a quarter turn every few days to prevent it from leaning dramatically toward its light source\u2014the stems are surprisingly responsive to phototropism and will arc conspicuously toward a window within a week if left stationary. Regular rotation keeps it growing symmetrically."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light, the stems elongate, leaves shrink, and the plant loses the compact, umbrella-like silhouette it's known for. Bright indirect light produces the large, circular leaves on short stems that make this plant so visually striking."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "chinese money plant yellow leaves fix",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pilea winter care tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pilea peperomioides propagation pups",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "pilea overwatering symptoms",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "best soil for pilea peperomioides",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "why is my pilea dropping leaves in winter",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Pilea Chinese Money Plant",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light for compact, even, coin-shaped leaf growth.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Rotate regularly to prevent lopsided growth toward the light source.",
+        "Propagate easily from the plantlets it produces around the base."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 15,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen herbaceous perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow the top half of the soil to dry out between waterings; water deeply until it drains, then discard excess.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "60\u00b0F - 75\u00b0F (16\u00b0C - 24\u00b0C)",
+        "matureSize": "25-35 cm (10-14 in)",
+        "growthRate": "Moderate",
+        "soil": "Well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Offsets",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "safe",
+        "nativeRegion": "Yunnan province, China",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.livelyroot.com/blogs/plant-care/is-philodendron-toxic-to-cats-and-dogs"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/pilea-chinese-money-plant/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": []
+    },
+    "contentText": "You\u2019ve probably received a Pilea as a gift\u2014with those perfect round leaves\u2014only to see them turn yellow one by one and drop to the floor, especially from November to March. This happens because the plant\u2019s natural dormancy response collides with cold window drafts and well-meaning overwatering. This guide unpacks the exact cues your Pilea gives you and shows how to adjust watering, light, and placement so it stays bushy and healthy all year. Light Pilea thrives in bright, indirect light. An east or west-facing window is perfect; a south-facing exposure needs a sheer curtain to diffuse the harsh rays. The flat, umbrella-like leaves evolved to capture filtered light on forest edges in the cool mountains of Yunnan, not full tropical sun. When light levels drop in a Northern European or North American winter, the plant\u2019s growth stalls, and the internodes stretch\u2014this is etiolation. The leaf stems become long and floppy, and the plant loses its tight, layered silhouette. At the same time, low light drastically reduces photosynthesis, so the plant uses less water. If you keep watering as in summer, the roots sit in cold, damp soil and begin to rot. To prevent this, move the pot to the brightest window (without touching the freezing glass) and consider adding a full-spectrum LED grow light for 10\u201312 hours a day. Rotate the pot a quarter turn weekly so the plant does not lean permanently toward the light. Temperature The ideal range is 15\u00b0C to 24\u00b0C (60\u00b0F\u201375\u00b0F). Pilea can tolerate a brief dip to 10\u00b0C (50\u00b0F), but sustained cold, particularly when the soil is wet, is deadly. The worst-case scenario is a Pilea sitting on a single-glazed windowsill in an old apartment: the nighttime temperature near the pane can fall to near-freezing, chilling the root zone. Cold roots lose their ability to take up water, causing leaves to yellow and drop rapidly\u2014owners often mistake this for dryness and overwater, compounding the problem. Equally damaging is the hot, dry blast from a radiator just inches below the sill, which accelerates transpiration and crisps the leaf edges. Position your Pilea at least 15 cm back from the glass in winter and well away from heat sources. In summer, air-conditioning vents can create a similar cold-draft shock; avoid direct AC airflow on the plant. Humidity Unlike many tropicals, Pilea adapts well to average indoor humidity (40%\u201360%). It can survive down to 30%, but persistently dry air from central heating will cause brown, crispy leaf tips. The mechanism is straightforward: when the surrounding air is very dry, water evaporates from the leaf cells faster than the roots can supply it, so the leaf margins die back. Grouping plants, placing a small humidifier nearby, or setting the pot on a pebble tray with water all help stabilise humidity. Misting is not required and can lead to water spots on the glossy leaves. During the coldest months, if you see brown edges appearing, refer to our brown crispy tips guide for a full diagnosis. Watering Watering is where most Pileas fail. The plant needs a thorough drink, but only when the top half of the potting mix has dried out. Insert your finger deep into the soil; if it feels cool and slightly damp at the second knuckle, wait a few more days. Water with tepid, filtered water until it runs out the bottom, and never leave the pot sitting in a saucer of water. In winter, the drying cycle extends dramatically\u2014it may take 2\u20133 weeks between waterings. This is because shorter days and lower light reduce the plant\u2019s metabolic activity, and cooler temperatures slow evaporation. If you overwater in winter, the water fills all the air pores in the soil. Deprived of oxygen, the roots stop functioning and quickly rot (Pythium and Phytophthora). The first sign is soft, drooping leaves that turn yellow and fall, while the soil remains damp. Catch this early by checking the pot weight: if it\u2019s heavy and the leaves are wilting, it\u2019s almost certainly overwatering, not under-watering. Soil Pilea needs a fast-draining, aerated mix that doesn\u2019t stay soggy. A cactus or succulent blend works well straight from the bag, or you can make your own: 60% standard potting soil mixed with 30% perlite and 10% fine orchid bark. This creates macro-pores for oxygen, which the roots require even when moist. Heavy, peat-rich soils that compact over time suffocate the roots and lead to the classic \u201cwinter collapse.\u201d The pot must have multiple large drainage holes; terracotta pots are excellent because they wick excess moisture away from the root zone. Fertilizer Feed monthly from March to September with a balanced liquid houseplant fertilizer (10-10-10 or 20-20-20) diluted to half the recommended strength. Pilea is not a heavy feeder, and salt buildup in the soil quickly burns root tips, causing brown, crispy leaf edges. Flush the pot with plain water every 2\u20133 months to leach out accumulated salts. Stop all feeding from October to February\u2014the plant\u2019s growth naturally slows, and adding nutrients forces weak, spindly growth that is susceptible to pests. If you see a white crust forming on the soil surface, it\u2019s salt residue; scrape it off and leach the soil. Propagation The easiest and most rewarding method is by separating the offsets (pups) that sprout from the mother plant\u2019s base. Wait until the pup is at least 5\u20138 cm tall and has several leaves of its own. Gently unpot the whole plant, tease the roots apart, and use a clean, sharp knife to sever the pup from the main root system, keeping as many roots attached to the pup as possible. Pot it immediately into a small container with the same well-draining mix, water lightly, and place in bright, indirect light. Leaf cuttings can also root in water, but success rates are lower. Place a healthy leaf with a short petiole in a shallow jar of filtered water; tiny roots and eventually a new plantlet will form at the base in 4\u20136 weeks. Repotting Repot every 1\u20132 years in early spring, just before the main growth season. Pilea likes to be slightly root-bound; only go up one pot size (2\u20133 cm wider). Signs it\u2019s time include roots circling the drainage holes, the soil drying out almost immediately after watering, or the plant producing so many pups that the pot becomes overcrowded. When repotting, use fresh mix and avoid burying the main stem deeper than it was growing originally, which can cause stem rot. For detailed steps on preventing transplant stress, see our repotting shock rescue guide. Toxicity Pilea peperomioides is non-toxic to cats, dogs, and humans according to the ASPCA. It is perfectly safe to display on low tables or shelves where pets might reach, making it a favourite for animal lovers. Common Problems Yellowing leaves and leaf drop: Overwatering and/or cold temperatures. Allow soil to dry more between waterings, move to a warmer spot, and ensure the pot drains. Curling leaves: Underwatering or too much direct sun. Check soil moisture; if dry, water deeply. If soil is moist, reduce light intensity. Brown, crispy leaf edges: Low humidity from central heating, fertilizer burn, or inconsistent watering. Raise ambient humidity, flush the soil, and keep a steady routine. Leggy, elongated stems: Insufficient light. Move to a brighter location and rotate weekly. Pests: Watch for mealybugs (white cottony masses at leaf joints) and spider mites (fine webbing) in dry air. Treat with insecticidal soap or neem oil.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/pilea-chinese-money-plant/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

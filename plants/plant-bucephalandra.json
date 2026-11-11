@@ -1,0 +1,689 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-bucephalandra",
+    "seoTitle": "Bucephalandra Care: Gluing, Emergent Growth & Buce Melt Fixes",
+    "metaDescription": "Bucephalandra care guide for aquariums and paludariums: rhizome attachment, emergent splash-zone growth, buce melt, iron dosing for color, and troubleshooting.",
+    "commonName": "Bucephalandra",
+    "commonNames": [
+        "Buce",
+        "Borneo Rheophyte",
+        "Bucephalandra"
+    ],
+    "scientificName": "Bucephalandra spp.",
+    "heroImage": "/assets/images/bucephalandra-care.webp",
+    "heroImageAlt": "Bucephalandra with iridescent blue-green leaves attached to dragon stone",
+    "family": "Araceae",
+    "genus": "Bucephalandra",
+    "origin": "Endemic to Borneo (fast-flowing tropical stream riverbeds and basalt/sandstone rapids)",
+    "growthHabit": "Slow-growing rheophytic lithophyte with woody creeping rhizomes, specialized adhesive holdfast roots, iridescent stomatal cuticle dots, and spathe-type aroid blooms",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Bucephalandra",
+        "species": "spp.",
+        "nativeRange": "Borneo",
+        "growthHabit": "Rheophytic lithophyte"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-10-03",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01",
+                        "weight": 0.8
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-10-03",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_02",
+                        "weight": 0.8
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-10-03",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_03",
+                        "weight": 0.8
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-10-03",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_04",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "applicableTo": "Aquariums and paludariums",
+                "lastReviewed": "2026-10-03",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_05",
+                        "weight": 0.8
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 20,
+                "unit": "\u00b0C",
+                "confidence": 0.8,
+                "lastReviewed": "2026-10-03",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_06",
+                        "weight": 0.75
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "bucephalandra",
+    "entityType": "plant",
+    "primaryDomain": "aquatic",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "shortDesc": "A slow-growing Bornean rheophyte that must be attached to rock or wood, never buried, and rewards stable water with metallic, iridescent foliage.",
+    "aliases": [
+        "Buce",
+        "Borneo Rheophyte",
+        "Bucephalandra",
+        "Buce plant"
+    ],
+    "relatedEntitySlugs": [
+        "calculators:paludarium-land-to-water-ratio-calculator",
+        "plants:anubias-nana",
+        "topics:paludarium-moss",
+        "topics:paludarium-water-circulation-pumps",
+        "topics:paludarium-water-land-barrier",
+        "topics:riparium-vs-paludarium",
+        "topics:vampire-crab-paludarium",
+        "calculators:semi-hydro-pon-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Should I glue or tie Bucephalandra to stone?",
+            "answer": "Either works, and the choice is about speed versus gentleness. Cyanoacrylate gel is faster and holds immediately, but it must go on the rhizome underside or the roots, never over the growing tip. Thread or wire is slower but leaves no chemical contact, and the plant's own holdfast roots will take over within a few weeks so you can remove it. If you glue, use a few small spots on the roots and the contact point only."
+        },
+        {
+            "question": "Can Bucephalandra grow completely emergent on a moss wall?",
+            "answer": "Yes, and it is one of the better uses of the plant in a paludarium. Attach it to a wet, textured ledge or a moss-covered drip wall where roots touch moving, oxygenated water and local humidity stays around 80 to 95 percent. It will not tolerate a dry, still, soil-like substrate. Keep the rhizome above the waterline in the film of moisture, not buried in wet moss."
+        },
+        {
+            "question": "Should I trim the flowering spathe?",
+            "answer": "You can leave it or cut it. A spathe is a normal aroid bloom and does not harm the plant, but flowering draws on energy a slow grower does not have to spare. If the plant looks weak or you want maximum leaf growth, snip the spathe at its base with sharp scissors. Underwater blooms often fail to develop fully anyway."
+        },
+        {
+            "question": "Why is my Bucephalandra dropping leaves after shipping?",
+            "answer": "Most commercial Buce is grown emergent and then sold into a submersed environment, so some leaf loss on arrival is the plant switching leaf types, not a sign it is dying. Attach it, keep water stable, and be patient. New submersed leaves emerge from the rhizome tip over several weeks. Only worry if the rhizome itself turns soft or black."
+        },
+        {
+            "question": "How do I propagate Bucephalandra by rhizome division?",
+            "answer": "Cut the rhizome between nodes with a sterile blade, making sure each piece has at least two or three leaves and some roots. Attach each section to its own rock or wood immediately. Rhizome pieces that include a growing tip are the most reliable. Expect slow establishment, since this is one of the slowest-growing aquatic aroids."
+        },
+        {
+            "question": "Is Bucephalandra safe with freshwater dwarf shrimp?",
+            "answer": "Yes. It is a standard companion plant for shrimp tanks because it tolerates the soft, stable water they prefer and its textured leaves support biofilm grazing. Keep iron dosing modest and avoid copper-based products, which are the real danger to shrimp, not the plant."
+        },
+        {
+            "question": "Is Bucephalandra compatible with vampire crabs?",
+            "answer": "Generally yes. Vampire crabs (Geosesarma) climb and forage on emergent surfaces but rarely damage well-attached Buce. The risk is a loose plant being dislodged or a weakly attached rhizome being picked at. Secure the plant firmly and provide moss and other cover so the crabs have alternatives."
+        },
+        {
+            "question": "Why is my Bucephalandra rhizome turning black and mushy?",
+            "answer": "Black, soft rhizome tissue almost always means it was buried or is sitting in oxygen-poor substrate. The rot can progress within one to two weeks. Lift the plant, cut away all soft tissue back to firm green or pale tissue, and reattach the healthy section to stone or wood with the rhizome fully exposed."
+        },
+        {
+            "question": "How much light does Bucephalandra need?",
+            "answer": "Low to medium light, roughly 50 to 150 PPFD at the plant. Brighter light produces richer colors but also invites algae on slow-growing leaves. If you want color without algae, favor stable moderate light plus iron over raising intensity."
+        },
+        {
+            "question": "Does Bucephalandra need CO2?",
+            "answer": "No. It grows slowly and does not need injected CO2. Stable parameters and good flow matter far more than gas supplementation. CO2 can speed growth slightly, but it is not required for healthy plants or good coloration."
+        },
+        {
+            "question": "Why do my Bucephalandra leaves have tiny holes?",
+            "answer": "Pinholes in older leaves are most commonly a potassium deficiency. Slow growers draw down potassium before new leaves show symptoms. Add a potassium source or a balanced liquid fertilizer, and expect existing holes to remain while new growth comes in clean."
+        },
+        {
+            "question": "How do I get deep blue, purple, and copper colors?",
+            "answer": "Combine moderate light, stable water, and micro-dosed chelated iron (Fe-EDDHA or Fe-DTPA). Color varies by variety and by the individual plant, so do not expect every variety to turn metallic blue. Small, steady iron doses work better than occasional heavy ones."
+        }
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Rhizome turning black, soft, or mushy",
+            "diagnosis": "Anaerobic rhizome rot from burial in substrate",
+            "treatment": "Lift the plant and cut away every soft or discolored section back to firm tissue. Reattach the healthy remainder to rock or wood with the rhizome fully exposed and roots in flowing water.",
+            "prevention": "Never plant the rhizome in gravel, sand, or soil. Attach it to hardscape and keep the rhizome clear of substrate.",
+            "confidence": 0.95,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_001",
+                    "weight": 0.95,
+                    "source": "Aquatic aroid cultivation practice",
+                    "summary": "Buried rhizomes of rheophytic aroids rot quickly in oxygen-poor substrate."
+                }
+            ]
+        },
+        {
+            "symptom": "Sudden leaf melt after purchase or transfer",
+            "diagnosis": "Emergent-to-submersed transition ('Buce melt')",
+            "treatment": "Leave the rhizome and roots intact and keep water stable. Remove fully collapsed leaves to protect water quality. New submersed leaves will develop from the rhizome tip.",
+            "prevention": "Acclimate with slow drip and high air humidity, and avoid abrupt changes in temperature, light, or water chemistry.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_002",
+                    "weight": 0.9,
+                    "source": "Commercial growing practice",
+                    "summary": "Emergent-grown leaves are shed when plants are moved into submersed conditions."
+                }
+            ]
+        },
+        {
+            "symptom": "Pinholes in older leaves",
+            "diagnosis": "Potassium deficiency",
+            "treatment": "Dose a potassium source or a balanced liquid fertilizer at label-recommended rates. Do not expect existing holes to close.",
+            "prevention": "Maintain a steady, modest fertilization schedule rather than relying on tank waste alone.",
+            "confidence": 0.85,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_003",
+                    "weight": 0.8,
+                    "source": "Aquarium plant nutrition guidance",
+                    "summary": "Potassium deficiency commonly appears as pinholes and edge decay on older leaves."
+                }
+            ]
+        },
+        {
+            "symptom": "Pale, faded, or dull iridescent coloration",
+            "diagnosis": "Iron or micronutrient deficiency, or insufficient light",
+            "treatment": "Micro-dose chelated iron (Fe-EDDHA or Fe-DTPA) in small steady amounts and confirm light is in the 50 to 150 PPFD range.",
+            "prevention": "Provide a consistent micronutrient supply and avoid abrupt swings in light or fertilizer.",
+            "confidence": 0.8,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_004",
+                    "weight": 0.8,
+                    "source": "Aquascaping practice",
+                    "summary": "Iron availability strongly affects metallic and purple leaf pigmentation in Bucephalandra."
+                }
+            ]
+        },
+        {
+            "symptom": "Black beard algae on leaf margins",
+            "diagnosis": "Excess light and unstable nutrients on slow-growing foliage",
+            "treatment": "Reduce light intensity or duration, improve flow, remove heavily affected leaves, and spot-treat with an appropriate algae control product.",
+            "prevention": "Keep light low to medium, avoid nutrient swings, and maintain stable, well-circulated water.",
+            "confidence": 0.85,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_005",
+                    "weight": 0.8,
+                    "source": "Aquarium algae management guidance",
+                    "summary": "Slow-growing leaves accumulate algae under strong light and inconsistent nutrients."
+                }
+            ]
+        },
+        {
+            "symptom": "Stunted, deformed, or curled new leaves",
+            "diagnosis": "Nutrient imbalance, unstable water parameters, or damage to the growing tip",
+            "treatment": "Check that the growing tip was not covered by glue or debris, stabilize water parameters, and provide balanced micronutrients.",
+            "prevention": "Keep parameters consistent and spot-dose adhesive away from the growth point.",
+            "confidence": 0.8,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_006",
+                    "weight": 0.75,
+                    "source": "Aquarium plant care practice",
+                    "summary": "Deformed new growth often follows unstable conditions or tip damage."
+                }
+            ]
+        },
+        {
+            "symptom": "Plant repeatedly detaching from stone or wood",
+            "diagnosis": "Insufficient attachment or disturbance from livestock or flow",
+            "treatment": "Reattach using thread, wire, or small spots of gel on the roots and underside. Leave the tip uncovered.",
+            "prevention": "Secure the plant firmly until holdfast roots establish, and monitor for crab or fish disturbance.",
+            "confidence": 0.8,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_007",
+                    "weight": 0.75,
+                    "source": "Aquascaping practice",
+                    "summary": "Holdfast roots take weeks to anchor reliably."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves browning and drying in emergent setups",
+            "diagnosis": "Low local humidity or a dry, still root zone",
+            "treatment": "Raise local humidity to 80 to 95 percent and ensure roots remain in moving, moist conditions. Trim dried leaves.",
+            "prevention": "Position plants on splash zones or drip walls where a continuous moisture film is maintained.",
+            "confidence": 0.85,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_008",
+                    "weight": 0.8,
+                    "source": "Paludarium cultivation practice",
+                    "summary": "Emergent Bucephalandra needs consistently humid air and wet roots."
+                }
+            ]
+        },
+        {
+            "symptom": "Brown or green hair algae coating the leaves",
+            "diagnosis": "Excess nutrients with insufficient flow",
+            "treatment": "Increase circulation, reduce feeding or fertilizer, and manually remove algae.",
+            "prevention": "Maintain balanced fertilization and good flow across all attached plants.",
+            "confidence": 0.8,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_BUCE_009",
+                    "weight": 0.75,
+                    "source": "Aquarium algae management guidance",
+                    "summary": "Low flow around slow-growing foliage encourages algae buildup."
+                }
+            ]
+        }
+    ],
+    "references": [],
+    "glossaryTerms": [
+        {
+            "term": "Rheophyte",
+            "definition": "A plant adapted to fast-flowing streams, often subject to seasonal submersion. Bucephalandra evolved on rocky Bornean river margins."
+        },
+        {
+            "term": "Lithophyte",
+            "definition": "A plant that grows on rock rather than in soil. Bucephalandra attaches to stone using specialized roots."
+        },
+        {
+            "term": "Rhizome",
+            "definition": "A woody, creeping stem from which leaves and roots arise. In Bucephalandra it must remain exposed to avoid rot."
+        },
+        {
+            "term": "Holdfast Roots",
+            "definition": "Adhesive anchoring roots that grip rock or wood. They replace the need for soil rooting."
+        },
+        {
+            "term": "Buce Melt",
+            "definition": "Leaf shedding that occurs when emergent-grown plants transition to submersed conditions."
+        },
+        {
+            "term": "Emergent Growth",
+            "definition": "Growth with leaves above water, supplied by humid air and wet roots."
+        },
+        {
+            "term": "Spathe",
+            "definition": "The hooded bract surrounding an aroid flower spike."
+        },
+        {
+            "term": "Cyanoacrylate Gel",
+            "definition": "A fast-curing adhesive commonly used to attach aquatic epiphytes and lithophytes to hardscape."
+        },
+        {
+            "term": "PPFD",
+            "definition": "Photosynthetic photon flux density, the amount of usable light reaching the plant per second."
+        },
+        {
+            "term": "Fe-EDDHA",
+            "definition": "A highly stable chelated iron form used to supply iron over a wide pH range."
+        },
+        {
+            "term": "Fe-DTPA",
+            "definition": "A chelated iron form that is effective in moderate pH ranges and commonly used in aquarium fertilizers."
+        },
+        {
+            "term": "Riparium",
+            "definition": "A setup where plant roots sit in water while leaves grow above it."
+        },
+        {
+            "term": "Paludarium",
+            "definition": "An enclosure combining aquatic and terrestrial zones."
+        },
+        {
+            "term": "GH and KH",
+            "definition": "General hardness and carbonate hardness, two measures of dissolved minerals that affect plant nutrition and pH stability."
+        }
+    ],
+    "referenceTables": [
+        {
+            "title": "Bucephalandra Cultivation Parameter Matrix",
+            "columns": [
+                "Parameter",
+                "Ideal Emergent / Paludarium Range",
+                "Ideal Submersed Range",
+                "Danger Threshold"
+            ],
+            "rows": [
+                [
+                    "pH",
+                    "6.0 to 7.0",
+                    "6.0 to 7.2",
+                    "Below 5.5 or above 7.8"
+                ],
+                [
+                    "TDS",
+                    "80 to 150 ppm",
+                    "80 to 180 ppm",
+                    "Above 300 ppm"
+                ],
+                [
+                    "GH",
+                    "3 to 6",
+                    "3 to 6",
+                    "Above 10"
+                ],
+                [
+                    "KH",
+                    "1 to 3",
+                    "1 to 4",
+                    "Above 8"
+                ],
+                [
+                    "Temperature",
+                    "22 to 28 \u00b0C",
+                    "22 to 28 \u00b0C",
+                    "Above 30 \u00b0C sustained"
+                ],
+                [
+                    "Light",
+                    "50 to 150 PPFD",
+                    "50 to 150 PPFD",
+                    "Above 200 PPFD sustained"
+                ],
+                [
+                    "Local humidity",
+                    "80 to 95 percent",
+                    "Not applicable",
+                    "Below 60 percent at the leaves"
+                ],
+                [
+                    "Water flow",
+                    "Moving film over roots",
+                    "Moderate, oxygen-rich",
+                    "Stagnant, anoxic water at the rhizome"
+                ]
+            ]
+        },
+        {
+            "title": "Bucephalandra vs Anubias Head-to-Head Comparison",
+            "columns": [
+                "Feature",
+                "Bucephalandra spp.",
+                "Anubias barteri var. nana",
+                "Practical Paludarium Impact"
+            ],
+            "rows": [
+                [
+                    "Growth rate",
+                    "Very slow",
+                    "Slow",
+                    "Buce fills in over many months; plan for patience"
+                ],
+                [
+                    "Leaf color",
+                    "Iridescent, metallic, varied",
+                    "Solid dark green",
+                    "Buce offers more visual interest under iron and moderate light"
+                ],
+                [
+                    "Light tolerance",
+                    "Low to medium",
+                    "Low to medium-high",
+                    "Anubias is more forgiving of brighter spots"
+                ],
+                [
+                    "Rhizome burial tolerance",
+                    "Very low",
+                    "Low",
+                    "Both must stay above substrate; Buce rots faster"
+                ],
+                [
+                    "Emergent suitability",
+                    "Good on wet ledges and spray zones",
+                    "Excellent, tolerant of many conditions",
+                    "Anubias is easier; Buce is more demanding about humidity and flow"
+                ],
+                [
+                    "Water chemistry tolerance",
+                    "Moderate; prefers stable soft to moderately hard",
+                    "Broad",
+                    "Anubias suits less controlled setups"
+                ],
+                [
+                    "Price and availability",
+                    "Higher; many named varieties",
+                    "Low; widely available",
+                    "Buce suits focal points, Anubias suits filler"
+                ]
+            ]
+        }
+    ],
+    "comparisonTable": {
+        "title": "Popular Bucephalandra Varieties Compared",
+        "headers": [
+            "Feature",
+            "Godzilla",
+            "Kedagang",
+            "Brownie Ghost",
+            "Deep Purple"
+        ],
+        "rows": [
+            [
+                "Leaf size",
+                "Large",
+                "Medium",
+                "Small to medium",
+                "Medium"
+            ],
+            [
+                "Leaf color",
+                "Dark green with a metallic sheen",
+                "Bronze-green with bluish iridescence",
+                "Brown to bronze with pale dotting",
+                "Deep purple-green with iridescent dots"
+            ],
+            [
+                "Growth rate",
+                "Slow",
+                "Slow",
+                "Very slow",
+                "Slow"
+            ],
+            [
+                "Light preference",
+                "Low to medium",
+                "Low to medium",
+                "Low to medium",
+                "Medium"
+            ],
+            [
+                "Color depends on",
+                "Light and stable water",
+                "Iron and stable water",
+                "Light and iron",
+                "Iron and moderate light"
+            ],
+            [
+                "Best use",
+                "Focal point on a large rock",
+                "Mid-ground accent",
+                "Detail accent in nano setups",
+                "Color accent near moderate light"
+            ]
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Bucephalandra is a genus of slow-growing Bornean aroids evolved on rocky stream margins. It is grown attached to stone or wood, never buried, and is valued for its iridescent leaves and compact habit. Its main challenges are rhizome rot and the transition between emergent and submersed growth."
+        },
+        {
+            "id": "natural-ecology",
+            "content": "In nature, Bucephalandra grows on volcanic rock and sandstone in fast streams subject to seasonal flooding and dry periods. Holdfast roots produce biological adhesives that grip smooth rock, so the plant does not rely on soil. This is why it must be attached to hardscape in cultivation."
+        },
+        {
+            "id": "planting",
+            "content": "Never bury the rhizome. Burial creates anaerobic conditions that cause black rot within one to two weeks. Attach the plant using thread, wire, or small spots of cyanoacrylate gel on the roots and underside, keeping the growing tip uncovered."
+        },
+        {
+            "id": "emergent-vs-submersed",
+            "content": "Emergent plants thrive on splash zones and drip walls with 80 to 95 percent local humidity and roots in moving oxygenated water. Moving emergent plants into submersed conditions often triggers leaf loss, known as buce melt. Slow acclimation and stable humidity reduce the shock."
+        },
+        {
+            "id": "water-chemistry",
+            "content": "Target pH 6.0 to 7.2 and soft to moderately hard water with TDS of 80 to 180 ppm, GH 3 to 6, and KH 1 to 4. Stability matters more than hitting exact numbers."
+        },
+        {
+            "id": "lighting",
+            "content": "Provide low to medium light of about 50 to 150 PPFD. Slow-growing leaves are susceptible to staghorn, spot, and black beard algae under high direct light."
+        },
+        {
+            "id": "nutrition",
+            "content": "Micro-dose chelated iron such as Fe-EDDHA or Fe-DTPA to support deep blue, purple, copper, and oil-slick sheens. Also supply potassium and balanced micronutrients to avoid pinholes and pale growth."
+        },
+        {
+            "id": "propagation",
+            "content": "Propagate by dividing the rhizome with a sterile blade, ensuring each piece has leaves and roots, then reattach each section to its own surface."
+        },
+        {
+            "id": "livestock",
+            "content": "Bucephalandra is safe with freshwater dwarf shrimp and generally compatible with vampire crabs when firmly attached. Avoid copper-based products."
+        }
+    ],
+    "quickAnswer": "Bucephalandra is a slow-growing Bornean rheophyte that must be attached to stone or wood and never buried, since a buried rhizome rots within one to two weeks. Keep water stable at pH 6.0 to 7.2 with low to medium light of 50 to 150 PPFD. Micro-dose chelated iron for color, and expect leaf loss when moving emergent plants into water.",
+    "featuredImage": "/assets/images/bucephalandra.webp",
+    "ogImage": "/assets/images/bucephalandra.webp",
+    "featuredImageAlt": "Bucephalandra with iridescent leaves attached to dragon stone in a planted aquarium",
+    "ogImageAlt": "Bucephalandra with iridescent leaves attached to dragon stone in a planted aquarium",
+    "author": "PlantZone Editorial Team",
+    "publishedAt": "2026-10-03",
+    "updatedAt": "2026-10-03",
+    "content": "<h2>Overview</h2><p>Bucephalandra is a genus of slow-growing aroids from Borneo, grown for its compact habit and iridescent, metallic leaves. It is a rheophytic lithophyte, which means it evolved clinging to rock in fast-flowing streams rather than rooting in soil. Almost every failure with this plant comes from ignoring that fact.</p><h2>Natural Rheophyte Ecology</h2><p>Bucephalandra evolved along rocky tropical streams on basalt and sandstone, where seasonal flash floods submerge it for weeks and dry or humid periods leave it emergent. Specialized holdfast roots secrete natural adhesives that grip smooth volcanic rock, dragon stone, or driftwood. The plant does not root into loose terrestrial soil, and trying to make it do so is the most common mistake in cultivation.</p><ul><li>Fast, oxygen-rich water around the roots</li><li>Hard, inert surfaces for anchoring</li><li>Alternating submerged and emergent phases</li></ul><h2>The Cardinal Rule of Rhizome Planting</h2><p>Never bury the rhizome. Burying it in gravel, sand, or soil starves it of oxygen and causes anaerobic rot, with black, mushy tissue appearing within 7 to 14 days. Attach the plant to hardscape instead.</p><h3>Superglue Gel vs Thread or Wire</h3><p>Cyanoacrylate gel is the quickest method, holding the plant immediately. Apply small spots to the roots and the rhizome underside, and never cover the growing tip. Thread or wire is slower but chemical-free, and the plant's own holdfast roots will take over within a few weeks, at which point the tie can be removed.</p><ol><li>Choose a rough stone or textured wood surface.</li><li>Pat the plant and the contact area dry.</li><li>Apply small spots of gel to the roots and rhizome underside, or tie with thread.</li><li>Keep the growing tip fully exposed.</li><li>Place the plant in flowing, oxygenated water.</li></ol><h2>Submersed vs Emergent Cultivation</h2><h3>Emergent Paludarium Splash Zone</h3><p>In a paludarium, Bucephalandra thrives on waterfall spray ledges and drip walls where a constant moving film keeps local relative humidity at 80 to 95 percent while the roots sit in moving, oxygen-rich water. Setting the land and water zones correctly matters here, so see our guide to the <a href=\"/topics/paludarium-water-land-barrier\">paludarium water-land barrier</a>, and use the <a href=\"/calculators/paludarium-land-to-water-ratio-calculator\">paludarium land-to-water ratio calculator</a> to plan the layout. If you are deciding between setups, compare <a href=\"/topics/riparium-vs-paludarium\">riparium vs paludarium</a> designs.</p><p>Flow keeps the roots oxygenated and the splash zone wet, which is covered in our guide to <a href=\"/topics/paludarium-water-circulation-pumps\">paludarium water circulation pumps</a>. A textured, moisture-holding surface helps too, and <a href=\"/topics/paludarium-moss\">paludarium moss</a> makes an excellent companion on drip walls.</p><h3>The Emergent-to-Submersed 'Buce Melt'</h3><p>Most commercial Bucephalandra is grown emergent. When it is moved into a fully submersed tank, osmotic and moisture shifts trigger leaf shedding, known as buce melt. The plant is not dying: the rhizome survives and produces new submersed leaves within weeks. Slow drip acclimation and constant air humidity during the transition reduce the collapse.</p><h2>Water Chemistry and Lighting</h2><p>Bucephalandra does best in stable, soft to moderately hard water. Stability matters more than chasing exact numbers.</p><table><thead><tr><th>Parameter</th><th>Target</th></tr></thead><tbody><tr><td>pH</td><td>6.0 to 7.2</td></tr><tr><td>TDS</td><td>80 to 180 ppm</td></tr><tr><td>GH</td><td>3 to 6</td></tr><tr><td>KH</td><td>1 to 4</td></tr><tr><td>Light</td><td>50 to 150 PPFD</td></tr></tbody></table><p>Light should stay low to medium. Slow-growing leaves are vulnerable to staghorn, spot, and black beard algae (BBA) when exposed to high direct light, so favor stable moderate light over intensity.</p><h2>Heavy Iron and Micronutrient Uptake</h2><p>Metallic blue, purple, copper, and oil-slick sheens depend on a steady supply of iron. Micro-dose chelated iron such as Fe-EDDHA or Fe-DTPA in small, frequent amounts rather than occasional heavy doses. Also provide potassium and balanced trace elements, since slow growers show deficiency as pinholes in older leaves and pale, faded color.</p><h2>Bucephalandra vs Anubias</h2><p>Bucephalandra is often compared with <a href=\"/plants/anubias-nana\">Anubias nana</a>. Anubias is tougher and more tolerant of brighter light and fluctuating conditions, while Bucephalandra offers more varied color and finer texture but is slower and less forgiving. Both must be attached to hardscape with the rhizome exposed.</p><h2>Popular Varieties</h2><p>Named varieties differ in leaf size, color, and light preference. 'Godzilla' is large and dark with a metallic sheen, 'Kedagang' is bronze-green with bluish iridescence, 'Brownie Ghost' is small with pale dotting on brown leaves, and 'Deep Purple' shows purple-green tones with iridescent dots. Color expression varies with light, iron, and the individual plant.</p><h2>Livestock Compatibility</h2><p>Bucephalandra is safe with freshwater dwarf shrimp, whose biofilm grazing benefits from its textured leaves. Avoid copper-based products. It is also generally compatible with crabs such as those described in our <a href=\"/topics/vampire-crab-paludarium\">vampire crab paludarium</a> guide, provided the plant is firmly attached so it is not dislodged.</p><h2>Propagation</h2><p>Divide the rhizome with a sterile blade, making sure each piece has at least two or three leaves and some roots. Reattach each section immediately to its own surface. Growth is slow, so expect establishment to take weeks to months.</p><h2>Common Problems</h2><p>Black, mushy rhizome means burial or oxygen-poor conditions. Sudden leaf melt after purchase is a normal transition. Pinholes in older leaves point to potassium deficiency, pale color points to iron or light, and algae on leaf margins points to excess light or unstable nutrients.</p>",
+    "summary": "Bucephalandra is a genus of slow-growing, iridescent aroids endemic to Borneo, evolved as rheophytic lithophytes on rocky stream margins. It must be attached to stone or wood with the rhizome exposed, because burying it causes anaerobic rot within one to two weeks. Stable water at pH 6.0 to 7.2, low to medium light, and micro-dosed chelated iron produce healthy growth and metallic color. Emergent plants thrive on humid paludarium splash zones, while moving them into submersed conditions often triggers temporary leaf loss known as buce melt. This guide covers attachment methods, emergent and submersed cultivation, water chemistry, iron dosing, propagation, livestock compatibility, and diagnosis of common problems.",
+    "keyTakeaways": [
+        "Never bury the rhizome; attach Bucephalandra to stone or wood with the growing tip uncovered.",
+        "Expect leaf loss when moving emergent plants into water, and let new submersed leaves develop from the rhizome.",
+        "Keep water stable at pH 6.0 to 7.2 with TDS 80 to 180 ppm and low to medium light of 50 to 150 PPFD.",
+        "Micro-dose chelated iron (Fe-EDDHA or Fe-DTPA) alongside potassium to bring out metallic color and prevent pinholes.",
+        "In paludariums, place Bucephalandra on splash zones or drip walls where humidity stays at 80 to 95 percent and roots sit in moving water."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-10-03",
+    "plantHero": {
+        "plantType": "Aquatic rheophytic aroid",
+        "difficulty": "intermediate",
+        "light": "Low to medium",
+        "lightMin": "low",
+        "lightMax": "medium",
+        "water": "Submersed or constantly wet",
+        "drynessThreshold": 0,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "80-95% (emergent)",
+        "temperature": "72\u00b0F - 82\u00b0F (22\u00b0C - 28\u00b0C)",
+        "matureSize": "2-6 inches",
+        "growthRate": "Very slow",
+        "soil": "None; attach to rock or wood",
+        "soilDrainage": "not-applicable",
+        "fertilizer": "Micro-dosed chelated iron and balanced liquid fertilizer",
+        "repottingFrequency": "Not applicable",
+        "potPreference": "Attach to stone or driftwood",
+        "propagation": "Rhizome division",
+        "flowering": true,
+        "floweringSeason": "Year-round when established",
+        "petSafety": "unknown",
+        "petSafetyNote": "Aroids often contain calcium oxalate; keep away from curious pets.",
+        "nativeRegion": "Borneo",
+        "usdaZones": "11-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "taxonomy": {
+        "sciName": "Bucephalandra spp.",
+        "family": "Araceae",
+        "taxonType": "genus"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/bucephalandra/",
+    "breadcrumbName": "Bucephalandra",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": []
+    },
+    "h1": "Bucephalandra Care Guide: Attachment, Emergent Growth & Color",
+    "contentText": "Overview Bucephalandra is a genus of slow-growing aroids from Borneo, grown for its compact habit and iridescent, metallic leaves. It is a rheophytic lithophyte, which means it evolved clinging to rock in fast-flowing streams rather than rooting in soil. Almost every failure with this plant comes from ignoring that fact. Natural Rheophyte Ecology Bucephalandra evolved along rocky tropical streams on basalt and sandstone, where seasonal flash floods submerge it for weeks and dry or humid periods leave it emergent. Specialized holdfast roots secrete natural adhesives that grip smooth volcanic rock, dragon stone, or driftwood. The plant does not root into loose terrestrial soil, and trying to make it do so is the most common mistake in cultivation. Fast, oxygen-rich water around the roots Hard, inert surfaces for anchoring Alternating submerged and emergent phases The Cardinal Rule of Rhizome Planting Never bury the rhizome. Burying it in gravel, sand, or soil starves it of oxygen and causes anaerobic rot, with black, mushy tissue appearing within 7 to 14 days. Attach the plant to hardscape instead. Superglue Gel vs Thread or Wire Cyanoacrylate gel is the quickest method, holding the plant immediately. Apply small spots to the roots and the rhizome underside, and never cover the growing tip. Thread or wire is slower but chemical-free, and the plant's own holdfast roots will take over within a few weeks, at which point the tie can be removed. Choose a rough stone or textured wood surface. Pat the plant and the contact area dry. Apply small spots of gel to the roots and rhizome underside, or tie with thread. Keep the growing tip fully exposed. Place the plant in flowing, oxygenated water. Submersed vs Emergent Cultivation Emergent Paludarium Splash Zone In a paludarium, Bucephalandra thrives on waterfall spray ledges and drip walls where a constant moving film keeps local relative humidity at 80 to 95 percent while the roots sit in moving, oxygen-rich water. Setting the land and water zones correctly matters here, so see our guide to the paludarium water-land barrier , and use the paludarium land-to-water ratio calculator to plan the layout. If you are deciding between setups, compare riparium vs paludarium designs. Flow keeps the roots oxygenated and the splash zone wet, which is covered in our guide to paludarium water circulation pumps . A textured, moisture-holding surface helps too, and paludarium moss makes an excellent companion on drip walls. The Emergent-to-Submersed 'Buce Melt' Most commercial Bucephalandra is grown emergent. When it is moved into a fully submersed tank, osmotic and moisture shifts trigger leaf shedding, known as buce melt. The plant is not dying: the rhizome survives and produces new submersed leaves within weeks. Slow drip acclimation and constant air humidity during the transition reduce the collapse. Water Chemistry and Lighting Bucephalandra does best in stable, soft to moderately hard water. Stability matters more than chasing exact numbers. Parameter Target pH 6.0 to 7.2 TDS 80 to 180 ppm GH 3 to 6 KH 1 to 4 Light 50 to 150 PPFD Light should stay low to medium. Slow-growing leaves are vulnerable to staghorn, spot, and black beard algae (BBA) when exposed to high direct light, so favor stable moderate light over intensity. Heavy Iron and Micronutrient Uptake Metallic blue, purple, copper, and oil-slick sheens depend on a steady supply of iron. Micro-dose chelated iron such as Fe-EDDHA or Fe-DTPA in small, frequent amounts rather than occasional heavy doses. Also provide potassium and balanced trace elements, since slow growers show deficiency as pinholes in older leaves and pale, faded color. Bucephalandra vs Anubias Bucephalandra is often compared with Anubias nana . Anubias is tougher and more tolerant of brighter light and fluctuating conditions, while Bucephalandra offers more varied color and finer texture but is slower and less forgiving. Both must be attached to hardscape with the rhizome exposed. Popular Varieties Named varieties differ in leaf size, color, and light preference. 'Godzilla' is large and dark with a metallic sheen, 'Kedagang' is bronze-green with bluish iridescence, 'Brownie Ghost' is small with pale dotting on brown leaves, and 'Deep Purple' shows purple-green tones with iridescent dots. Color expression varies with light, iron, and the individual plant. Livestock Compatibility Bucephalandra is safe with freshwater dwarf shrimp, whose biofilm grazing benefits from its textured leaves. Avoid copper-based products. It is also generally compatible with crabs such as those described in our vampire crab paludarium guide, provided the plant is firmly attached so it is not dislodged. Propagation Divide the rhizome with a sterile blade, making sure each piece has at least two or three leaves and some roots. Reattach each section immediately to its own surface. Growth is slow, so expect establishment to take weeks to months. Common Problems Black, mushy rhizome means burial or oxygen-poor conditions. Sudden leaf melt after purchase is a normal transition. Pinholes in older leaves point to potassium deficiency, pale color points to iron or light, and algae on leaf margins points to excess light or unstable nutrients.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/bucephalandra/",
+        "lastReviewed": "2026-10-03",
+        "license": "CC BY 4.0"
+    }
+}

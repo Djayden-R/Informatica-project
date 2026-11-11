@@ -1,0 +1,315 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ficus-elastica-burgundy",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ficus-elastica-burgundy",
+    "seoTitle": "Burgundy Rubber Tree Care: Keep Leaves Dark & Healthy",
+    "metaDescription": "Burgundy Rubber Tree care hinges on balancing light and water \u2014 learn how to keep Ficus elastica leaves dark, glossy, and red-black.",
+    "featuredImage": "/assets/images/ficus-elastica-burgundy.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trees",
+        "toxic-to-pets",
+        "high-light",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ficus elastica",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Ficus",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus elastica 'Burgundy'",
+        "family": "Moraceae",
+        "origin": "Cultivar (Species native to Southeast Asia)",
+        "type": "Evergreen broadleaf tree",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Minimalist living rooms",
+            "Office corners",
+            "Statement floor plants"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Requires incredibly bright, indirect light to maintain its nearly black, dark burgundy color.",
+        "watering": "Water only when the top 3-4 inches of soil are dry. Overwatering will cause immediate leaf drop.",
+        "soil": "A fast-draining, chunky indoor potting mix.",
+        "pruning": "Wipe the large leaves to remove dust. Prune the top to force the tree to branch out.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. The milky white latex sap causes severe oral irritation, vomiting, and skin rashes.",
+        "bestFor": "Plant owners who want a moody, dramatic, nearly black indoor tree that is much easier to care for than a Fiddle Leaf Fig."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "6-10 feet indoors",
+        "matureSpread": "2-3 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 95\u00b0F (13\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires massive amounts of bright light to maintain its dark color. If kept in a dim room, the leaves will fade to a dull, muddy green. It thrives with a few hours of direct sunlight.",
+        "sunlightHours": "6-8 hours bright indirect + 2-3 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or West-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Feed regularly during the summer to support its large, thick leaves.",
+        "fertilizerFrequency": "Once a month during spring and summer with a balanced liquid fertilizer.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Highly susceptible to root rot if overwatered, which quickly manifests as drooping, yellowing lower leaves."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Burgundy Rubber Tree turning green?",
+            "answer": "Loss of the dark, almost black/burgundy color is a direct result of low light. The plant is producing more green chlorophyll to survive in a dark corner. Move the tree directly in front of a bright window, and the new leaves will emerge dark again."
+        },
+        {
+            "question": "Why are the bottom leaves turning yellow and falling off?",
+            "answer": "Yellowing lower leaves that eventually drop off are the classic, definitive sign of overwatering. You are drowning the roots. Let the top 3-4 inches of soil dry out completely before you water again."
+        },
+        {
+            "question": "How do I make my Rubber Tree branch out?",
+            "answer": "Rubber trees naturally want to grow straight up as a single tall pole. To force the tree to branch out and become bushy, you must cut the top of the tree off (beheading), or use a technique called \"notching\" above a leaf node."
+        },
+        {
+            "question": "What is the red spike at the top of the plant?",
+            "answer": "That bright red spike is called the sheath. It protects the brand new leaf as it forms. Eventually, the sheath will split open, the new leaf will unfurl, and the red sheath will dry up and fall off."
+        },
+        {
+            "question": "Is the Rubber Tree toxic to pets?",
+            "answer": "Yes. If a leaf is broken, the tree bleeds a thick, milky white latex sap. This sap is highly toxic to cats and dogs, causing intense mouth pain and vomiting. It also causes rashes on human skin."
+        }
+    ],
+    "shortDesc": "The Burgundy Rubber Tree is a dramatic, moody indoor tree featuring thick, glossy leaves that are so dark red they appear almost black. It requires intense light to maintain its stunning color.",
+    "content": "<h2>Overview</h2><p>The Burgundy Rubber Tree (<em>Ficus elastica 'Burgundy'</em>) is the ultimate moody statement plant. While the standard Rubber Tree has plain green leaves, the Burgundy cultivar features thick, incredibly glossy, leathery leaves that are so deeply red they appear almost black. When a new leaf emerges, it is protected by a brilliant, fire-engine red sheath, creating a stunning contrast against the dark foliage.</p><p>While it belongs to the Ficus family (alongside the notoriously dramatic Fiddle Leaf Fig and Weeping Fig), the Rubber Tree is significantly hardier and much more forgiving of beginner mistakes. It rarely drops its leaves due to a simple cold draft. However, keeping the plant looking its absolute best\u2014specifically, keeping the leaves dark black/red rather than a dull green\u2014requires a mastery of indoor lighting.</p><h3>Light Requirements: Keeping it Dark</h3><p>The dark burgundy pigmentation is an active response to intense light. If you place a Burgundy Rubber Tree in a dimly lit corner, it will realize it is starving. To compensate, it will flood its leaves with green chlorophyll to maximize photosynthesis. The result? Your stunning, nearly black tree will fade into a dull, muddy, standard green.</p><p>To maintain the dark, dramatic color, the tree must be placed directly in front of a massive, bright window (south or west-facing is ideal). It absolutely thrives when it receives a few hours of direct sunlight hitting its thick, waxy leaves.</p><h3>Watering: The Cause of Leaf Drop</h3><p>While a Fiddle Leaf Fig will drop its leaves if you simply look at it wrong, a Rubber Tree usually only drops its leaves for one reason: severe overwatering. The thick, rubbery leaves store a significant amount of water, meaning the tree is quite drought-tolerant.</p><p>You must allow the top 3 to 4 inches of the potting soil to dry out completely before you water. Stick your finger deep into the pot; if it feels damp, wait another week. When you do water, soak the pot thoroughly until water flows out the drainage holes, but never let the tree sit in a saucer of stagnant water. If the lowest leaves turn yellow, droop, and fall off, you are watering too frequently.</p><h3>Temperature and Humidity</h3><p>This is a tropical tree that requires warm temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it away from freezing winter doors and air conditioning vents. Thanks to its thick, waxy leaves, it has absolutely zero need for a humidifier and perfectly tolerates the dry air of centrally heated homes.</p><h3>Soil and Potting</h3><p>Standard indoor potting soil holds water for far too long and will eventually suffocate the roots. You must use a chunky, fast-draining mix. Amending a high-quality potting soil with 30-40% perlite and some coarse orchid bark will provide the perfect balance of moisture retention and aeration. Rubber trees grow into massive, top-heavy plants, so potting them in a heavy, glazed ceramic or terracotta pot is highly recommended to prevent them from tipping over.</p><h2>Pruning and Maintenance</h2><p>Because the leaves are so large and dark, they show dust instantly. A thick layer of dust will block sunlight from reaching the chloroplasts, causing the plant to slowly starve. You must wipe the leaves down with a soft, damp microfiber cloth every few weeks. Do not use chemical leaf-shine products, as they clog the plant's pores.</p><p>Left to its own devices, the tree will grow straight up to the ceiling as a single pole. To force it to branch out and become a bushy tree, you must prune the top of the main stem off in the spring.</p><h2>Toxicity Warning</h2><p>Like all plants in the Ficus family, the Rubber Tree bleeds a thick, sticky, milky white latex sap when a leaf is torn or a branch is cut. This sap is toxic to cats and dogs, causing intense oral irritation and vomiting. It is also highly irritating to human skin. If you get the sap on your hands while pruning, wash it off immediately with soap and hot water to prevent a rash.</p>",
+    "quickAnswer": "The Burgundy Rubber Tree needs intense bright light to keep its leaves dark; in low light, they will fade to green. Water only when the top 3-4 inches of soil are dry. Yellowing, dropping lower leaves means you are overwatering.",
+    "ogImage": "/assets/images/ficus-elastica-burgundy.webp",
+    "ogImageAlt": "Thick, glossy, nearly black leaves of the Burgundy Rubber Tree",
+    "heroImage": "/assets/images/ficus-elastica-burgundy.webp",
+    "heroImageAlt": "Close up of the bright red sheath protecting a new Rubber Tree leaf",
+    "featuredImageAlt": "A tall, dramatic Burgundy Rubber Tree in a bright, modern living room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [],
+    "glossaryTerms": [
+        {
+            "term": "Sheath",
+            "definition": "A protective, modified leaf that encloses a new, developing leaf. On the Rubber Tree, the sheath is bright red and eventually dries up and falls off."
+        },
+        {
+            "term": "Latex",
+            "definition": "A milky fluid found in many plants, such as Ficus, which exudes when the plant is cut. It is highly irritating to the skin and toxic to pets."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Rubber Tree Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Color",
+            "Light Need"
+        ],
+        "rows": [
+            [
+                "Burgundy",
+                "Nearly black / Dark red",
+                "High (To keep dark)"
+            ],
+            [
+                "Tineke",
+                "Green, cream, and pink camo",
+                "Very High (To keep pink)"
+            ],
+            [
+                "Robusta",
+                "Solid emerald green",
+                "Moderate"
+            ]
+        ]
+    },
+    "h1": "Burgundy Rubber Tree Care: Resolve Fading & Leaf Drop",
+    "breadcrumbName": "Burgundy Rubber Tree Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "ficus-elastica-tineke",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the large leaves look like they need consistent moisture\u2014but the thick, waxy leaves store water, and the tree's roots rot quickly in soggy soil. Wait until the top 2 inches of soil are dry, and in winter, let it dry even further between drinks."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The deep burgundy-black color is essentially a biological sunscreen produced in response to intense light\u2014in low light, the plant has no need for it, so new leaves emerge green instead of dark. Bright light is required to maintain the color the plant is named for."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light corners, growth slows to a near standstill and the dark color fades, making the plant look underwhelming. Moving it to a spot with bright indirect light\u2014or even some filtered direct sun\u2014is the single most impactful change you can make."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "dark rubber tree",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "burgundy rubber plant dropping leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "black rubber tree",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "indoor tree care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus elastica turning green",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ficus Elastica Burgundy",
+    "summary": "Ficus elastica 'Burgundy' features thick, glossy leaves in a deep, near-black crimson tone. Discover high-light requirements to sustain rich coloration, substrate drying intervals, and pruning practices to encourage branching.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to maintain deep, near-black burgundy foliage.",
+        "Allow the top 3 to 4 inches of soil to dry out completely before re-watering.",
+        "Wipe broad, glossy leaves monthly with a damp cloth to clear dust from stomata.",
+        "Prune or notch the central stem in spring to encourage lateral branching."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen broadleaf tree",
+        "difficulty": "beginner",
+        "light": "Full sun to bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water only when the top 3-4 inches of soil are dry. Overwatering will cause immediate leaf drop.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40% - 60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "6-10 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings or air layering",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Nepal to China (western Yunnan) and western Malesia",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-elastica-burgundy/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "contentText": "Overview The Burgundy Rubber Tree ( Ficus elastica 'Burgundy' ) is the ultimate moody statement plant. While the standard Rubber Tree has plain green leaves, the Burgundy cultivar features thick, incredibly glossy, leathery leaves that are so deeply red they appear almost black. When a new leaf emerges, it is protected by a brilliant, fire-engine red sheath, creating a stunning contrast against the dark foliage. While it belongs to the Ficus family (alongside the notoriously dramatic Fiddle Leaf Fig and Weeping Fig), the Rubber Tree is significantly hardier and much more forgiving of beginner mistakes. It rarely drops its leaves due to a simple cold draft. However, keeping the plant looking its absolute best\u2014specifically, keeping the leaves dark black/red rather than a dull green\u2014requires a mastery of indoor lighting. Light Requirements: Keeping it Dark The dark burgundy pigmentation is an active response to intense light. If you place a Burgundy Rubber Tree in a dimly lit corner, it will realize it is starving. To compensate, it will flood its leaves with green chlorophyll to maximize photosynthesis. The result? Your stunning, nearly black tree will fade into a dull, muddy, standard green. To maintain the dark, dramatic color, the tree must be placed directly in front of a massive, bright window (south or west-facing is ideal). It absolutely thrives when it receives a few hours of direct sunlight hitting its thick, waxy leaves. Watering: The Cause of Leaf Drop While a Fiddle Leaf Fig will drop its leaves if you simply look at it wrong, a Rubber Tree usually only drops its leaves for one reason: severe overwatering. The thick, rubbery leaves store a significant amount of water, meaning the tree is quite drought-tolerant. You must allow the top 3 to 4 inches of the potting soil to dry out completely before you water. Stick your finger deep into the pot; if it feels damp, wait another week. When you do water, soak the pot thoroughly until water flows out the drainage holes, but never let the tree sit in a saucer of stagnant water. If the lowest leaves turn yellow, droop, and fall off, you are watering too frequently. Temperature and Humidity This is a tropical tree that requires warm temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it away from freezing winter doors and air conditioning vents. Thanks to its thick, waxy leaves, it has absolutely zero need for a humidifier and perfectly tolerates the dry air of centrally heated homes. Soil and Potting Standard indoor potting soil holds water for far too long and will eventually suffocate the roots. You must use a chunky, fast-draining mix. Amending a high-quality potting soil with 30-40% perlite and some coarse orchid bark will provide the perfect balance of moisture retention and aeration. Rubber trees grow into massive, top-heavy plants, so potting them in a heavy, glazed ceramic or terracotta pot is highly recommended to prevent them from tipping over. Pruning and Maintenance Because the leaves are so large and dark, they show dust instantly. A thick layer of dust will block sunlight from reaching the chloroplasts, causing the plant to slowly starve. You must wipe the leaves down with a soft, damp microfiber cloth every few weeks. Do not use chemical leaf-shine products, as they clog the plant's pores. Left to its own devices, the tree will grow straight up to the ceiling as a single pole. To force it to branch out and become a bushy tree, you must prune the top of the main stem off in the spring. Toxicity Warning Like all plants in the Ficus family, the Rubber Tree bleeds a thick, sticky, milky white latex sap when a leaf is torn or a branch is cut. This sap is toxic to cats and dogs, causing intense oral irritation and vomiting. It is also highly irritating to human skin. If you get the sap on your hands while pruning, wash it off immediately with soap and hot water to prevent a rash.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-elastica-burgundy/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

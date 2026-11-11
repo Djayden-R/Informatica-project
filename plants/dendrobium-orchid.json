@@ -1,0 +1,244 @@
+{
+    "quickAnswer": "Dendrobium Orchids need bright indirect light, a bark-based orchid mix, and a distinct dry, cool rest period after flowering to encourage rebloom. Water thoroughly during active growth, then reduce significantly during dormancy. Overwatering during the rest period is the most common cause of bud drop and rot in this genus.",
+    "summary": "Dendrobium Orchids form a large and diverse genus, but most commonly cultivated hybrids share a preference for bright indirect light and a bark-based growing medium that drains quickly after watering. Their care cycle typically alternates between an active growing season and a distinct rest period.\n\nThe rest period, usually following flowering, requires significantly reduced watering and often cooler temperatures to encourage the plant to rebloom the following season. Continuing normal watering through this phase is a frequent cause of stunted or aborted flower spikes.",
+    "keyTakeaways": [
+        "Reduce watering significantly during the post-bloom rest period.",
+        "Use a fast-draining, bark-based orchid mix.",
+        "Provide bright indirect light throughout the growing cycle.",
+        "Allow cooler temperatures during dormancy to encourage reblooming.",
+        "Avoid overwatering during rest, the top cause of bud and root loss."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "dendrobium-orchid",
+    "seoTitle": "Dendrobium Orchid Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Dendrobium Orchid. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Dendrobium Orchid",
+    "facts": {
+        "family": "Orchidaceae",
+        "genus": "Dendrobium",
+        "species": "spp.",
+        "nativeRange": "Asia & Australia",
+        "growthHabit": "Sympodial Epiphyte"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Epiphytic, but generally grown in tighter bark/moss than Phalaenopsis. Still demands significant root aeration and cannot tolerate potting soil.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4007",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Utilizes thick cane-like pseudobulbs that store substantial water to survive extended dry monsoonal winter rests in its native habitat.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4008",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.85,
+                "editorReasoning": "Roots are much finer than Phalaenopsis and easily damaged or desiccated if the media is too coarse or disturbed during repotting.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4009",
+                        "weight": 0.85
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Highly sensitive to stagnant water. Decaying media (like broken-down moss) quickly leads to root death and pseudobulb rot.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4010",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Requires very high light to thrive. Moving from high light to a dim interior often causes yellowing leaves and failure to bloom.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4011",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 10,
+                "unit": "\u00b0C",
+                "confidence": 0.9,
+                "editorReasoning": "Many Nobile-type Dendrobiums actually require a cool winter rest (around 10C) to set flower buds, making them more cold-tolerant than Moth Orchids.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4012",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "dendrobium-orchid",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "featuredImage": "/assets/images/dendrobium-orchid.webp",
+    "troubleshooting": [
+        {
+            "symptom": "Why are my Dendrobium leaves turning yellow and dropping?",
+            "diagnosis": "Normal seasonal leaf drop for deciduous types, or overwatering for evergreen types",
+            "treatment": "If deciduous, it's normal; if evergreen, reduce watering and allow medium to dry.",
+            "prevention": "Know your Dendrobium type; water accordingly.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why isn't my Dendrobium producing flowers?",
+            "diagnosis": "Insufficient light or lack of winter rest",
+            "treatment": "Provide bright light and a cool, dry rest period in winter to initiate flowering.",
+            "prevention": "Give adequate light and seasonal rest.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the canes turning yellow and soft?",
+            "diagnosis": "Overwatering causing root rot",
+            "treatment": "Unpot, trim dead roots, repot in fresh bark; water sparingly.",
+            "prevention": "Allow medium to dry between waterings.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic orchid",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow the potting medium to dry out slightly between waterings; heavily reduce watering in winter.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": true,
+        "humidity": "50% - 70%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "1-3 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Orchid bark mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced orchid fertilizer weakly, weekly in growing season",
+        "repottingFrequency": "Every 2 years",
+        "potPreference": "Snug fit in a well-ventilated orchid pot",
+        "propagation": "Keikis (offsets) or division",
+        "flowering": true,
+        "floweringSeason": "Spring",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Asia and Australia",
+        "usdaZones": "9-12",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "taxonomy": {
+        "sciName": "Dendrobium spp.",
+        "family": "Orchidaceae",
+        "taxonType": "genus"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/dendrobium-orchid/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Maintain relative humidity at 50% or higher to keep Dendrobium canes firm and encourage prolific bud initiation. Pair this elevated humidity with steady, gentle air movement to protect the root system and flower spikes."
+        }
+    ],
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        }
+    },
+    "breadcrumbName": "Dendrobium Orchid",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "h1": "Dendrobium Orchid Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/dendrobium-orchid/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

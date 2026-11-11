@@ -1,0 +1,437 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-calathea-orbifolia",
+    "facts": {
+        "family": "Marantaceae",
+        "genus": "Goeppertia",
+        "species": "orbifolia",
+        "nativeRange": "Bolivia",
+        "growthHabit": "Evergreen perennial"
+    },
+    "entityType": "plant",
+    "status": "published",
+    "slug": "calathea-orbifolia",
+    "seoTitle": "Calathea Orbifolia Care: Fix Curling Leaves & Crispy Edges",
+    "metaDescription": "Calathea orbifolia leaves curling or crispy? Check humidity, tap water and soil moisture first, then follow this diagnosis guide and care routine.",
+    "featuredImage": "/assets/images/calathea-orbifolia.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "humidity-loving",
+        "foliage",
+        "moderate-care"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Goeppertia orbifolia",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Calathea",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Goeppertia orbifolia (formerly Calathea orbifolia)",
+        "family": "Marantaceae",
+        "origin": "Bolivia",
+        "type": "Evergreen perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Humid bathrooms",
+            "Statement foliage",
+            "Pet-safe indoor ornamental"
+        ]
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Requires bright, indirect light and high humidity. Keep away from drafts and heating vents.",
+        "watering": "Keep the soil evenly moist but never soggy. Must use filtered, distilled, or rainwater.",
+        "soil": "A rich, moisture-retaining but well-draining mix (peat/coir heavily amended with perlite).",
+        "pruning": "Trim crispy edges with sterilized scissors following the natural curve of the leaf.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "non-toxic to pets for cats and dogs.",
+        "bestFor": "Diligent plant owners who can provide high humidity and consistent moisture."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Native to the terrestrial rainforest floor. Roots require a breathable, airy mix (like peat and perlite) but not the extreme aeration of epiphytic orchids.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5001",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Massive, paper-thin leaves completely lack water-storing tissues. Transpiration happens so rapidly in dry air that the plant curls its leaves and desiccates within days without constant root moisture.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5002",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "The root system is fine and delicate. Strongly resents root disturbance; only repot when severely root-bound to prevent shock.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5003",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Despite requiring evenly moist soil, the roots are highly susceptible to rot if water pools in the bottom of the pot, shutting off oxygen exchange.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5004",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Extremely dramatic in response to environmental shifts. A sudden drop in ambient humidity (e.g., turning on central heating) causes immediate, irreversible crispy brown edges.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5005",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 15,
+                "unit": "\u00b0C",
+                "confidence": 0.95,
+                "editorReasoning": "Strictly tropical. Prolonged exposure below 15\u00b0C disrupts cellular water uptake, causing the plant to wilt as if dehydrated.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5006",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "2-3 feet indoors",
+        "matureSpread": "2-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "60\u00b0F - 85\u00b0F (15\u00b0C - 29\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 80%",
+            "survivable": "50% - 90%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, filtered indirect light. Direct sunlight will bleach the leaves and scorch them instantly. Too little light will slow growth and reduce the bold striping.",
+        "sunlightHours": "4-8 hours indirect",
+        "intensity": "medium",
+        "indoorWindow": "North or east-facing windows.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Extremely sensitive to salt buildup from synthetic fertilizers.",
+        "fertilizerFrequency": "Once a month during spring and summer at quarter strength.",
+        "organicOptions": "Worm castings or a mild organic fish emulsion."
+    },
+    "relationships": [
+        {
+            "target": "tap-water",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Highly sensitive to chlorine, chloramine, and fluoride in municipal tap water. This is the primary cause of crispy brown edges."
+        },
+        {
+            "target": "low-humidity",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Dry indoor air (especially from central heating in winter) causes the leaves to curl and edges to brown."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-humidity",
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why does my Calathea Orbifolia have crispy brown edges?",
+            "answer": "Brown edges are usually caused by one of two things: a lack of humidity (air is too dry) or a reaction to the minerals and chemicals (chlorine, fluoride) in your tap water. Switch to distilled or rainwater and increase humidity."
+        },
+        {
+            "question": "How often should I water my Calathea Orbifolia?",
+            "answer": "You should water when the top 1 to 2 inches of soil feel dry. The goal is to keep the root ball 'evenly moist'\u2014like a wrung-out sponge\u2014but never sitting in a pool of standing water."
+        },
+        {
+            "question": "Is Calathea Orbifolia toxic to cats and dogs?",
+            "answer": "No. Like all members of the Marantaceae (Prayer Plant) family, it is completely non-toxic and pet-safe."
+        },
+        {
+            "question": "Why are the leaves on my Calathea curling inward?",
+            "answer": "Curling leaves are a defense mechanism. The plant is trying to conserve water. This happens if the soil is too dry, the air is too dry, or it is receiving too much hot, direct sunlight."
+        },
+        {
+            "question": "Does my Calathea need a humidifier?",
+            "answer": "Yes, in most Western homes, especially during winter when central heating is running. They thrive in 60% humidity or higher. Pebble trays rarely provide enough moisture for this demanding plant."
+        }
+    ],
+    "shortDesc": "The Calathea Orbifolia is a show-stopping foliage plant prized for its massive, silver-striped leaves. It requires a dedicated care routine focused on high humidity and filtered water.",
+    "content": "<h2>Overview</h2><p>The Calathea Orbifolia (recently reclassified as <em>Goeppertia orbifolia</em>) is one of the most highly sought-after indoor plants due to its massive, round leaves adorned with striking metallic silver stripes. Native to the humid understory of the Bolivian rainforest, it is accustomed to filtered light, constant moisture, and thick, humid air.</p><p>While it is an absolutely stunning statement piece, it has earned a reputation for being somewhat difficult to keep pristine in standard Western homes. Central heating in the winter and air conditioning in the summer strip the air of the moisture this plant desperately needs, leading to its most famous complaint: crispy, brown leaf edges. However, by mastering its watering and humidity requirements, you can keep an Orbifolia looking lush and vibrant.</p><h2>Why Are My Calathea Orbifolia Leaves Curling?</h2><p><strong>Quick answer:</strong> Calathea Orbifolia leaves usually curl inward when the plant is losing moisture faster than its roots can replace it. The most common causes are low humidity, soil that has dried out too far, and minerals or chemicals in tap water. Root rot from soggy soil, spider mites, too much direct sun, and cold or hot drafts can cause similar curling, so check the cause before changing your routine. See also our guide to <a href=\"/topics/curling-leaves/\">curling leaves</a>.</p><h3>How to Diagnose Leaf Curl in 5 Steps</h3><ol><li><strong>Check the soil:</strong> Push a finger 1 to 2 inches into the mix. Bone dry points to underwatering; wet, heavy or sour-smelling soil points to overwatering or root rot.</li><li><strong>Check your water:</strong> If you use untreated tap water, minerals, fluoride and chlorine compounds may be stressing the leaves.</li><li><strong>Check humidity:</strong> Measure with a small hygrometer near the plant. Dry indoor air, especially from heating or air conditioning, is a frequent trigger.</li><li><strong>Inspect the leaves:</strong> Look at the undersides and stems for fine webbing, speckling or sticky residue, which can indicate spider mites or other pests.</li><li><strong>Check placement:</strong> Look for direct sun, hot or cold drafts, and nearby heating or AC vents.</li></ol><table><thead><tr><th>What You See</th><th>Likely Cause</th><th>What to Do</th></tr></thead><tbody><tr><td>Leaves curled inward, soil dry, crispy edges</td><td>Underwatering or low humidity</td><td>Water thoroughly with filtered or distilled water and raise humidity.</td></tr><tr><td>Curling with wet soil, yellowing or drooping, musty smell</td><td>Overwatering or root rot</td><td>Stop watering, check the roots, and repot into fresh, well-draining mix if they are soft or brown.</td></tr><tr><td>Curling plus brown tips or edges, soil moisture normal</td><td>Tap water chemicals, minerals or dry air</td><td>Switch to distilled, reverse-osmosis or rainwater and add a humidifier.</td></tr><tr><td>Curling with fine webbing or speckled, dull leaves</td><td>Spider mites</td><td>Isolate the plant, rinse the leaves, and treat as directed.</td></tr><tr><td>Curling with faded or bleached patches</td><td>Too much direct light</td><td>Move to bright, indirect light.</td></tr><tr><td>Curling after a cold draft or blast of heating or AC</td><td>Temperature stress</td><td>Move away from vents, doors and drafty windows.</td></tr></tbody></table><h3>Is Some Leaf Movement Normal?</h3><p>Calatheas and their relatives raise, fold or relax their leaves in response to light, so a change in leaf position between day and night can be normal. Curling that stays through the day, or that comes with crispy edges, dry soil or a change in the plant's surroundings, is a sign of stress.</p><h3>Will Curled Leaves Uncurl?</h3><p>Leaves that curled because of temporary dryness can relax once the cause is corrected, and recovery time varies with the plant and how long it was stressed. Tissue that has turned crispy and brown will not turn green again. You can trim only the damaged portion with clean scissors, following the natural shape of the leaf, and rely on new growth to replace it.</p><h2>Calathea Orbifolia Care Requirements</h2><h3>Light Requirements</h3><p>In its native habitat, the Orbifolia grows on the forest floor, protected by the canopy above. Indoors, it needs bright, indirect light. An east-facing window that gets gentle morning sun or a north-facing window is ideal. You must protect it from harsh, direct afternoon sunlight, which will quickly bleach the beautiful silver striping and scorch the delicate leaves.</p><h3>Watering: The Filtered Water Rule</h3><p>Calatheas are notoriously dramatic when it comes to water quality. Municipal tap water in North America and Europe often contains chlorine, chloramine, fluoride, and heavy minerals. The Orbifolia cannot process these chemicals; it pushes them to the tips and edges of its leaves, resulting in chemical burns (brown, crispy edges).</p><p><strong>You must use filtered, distilled, or rainwater.</strong></p><p>Leaving tap water out overnight lets some chlorine escape, but it does not remove chloramine, fluoride or dissolved minerals, and a basic carbon pitcher filter may not remove fluoride or minerals either. Distilled, reverse-osmosis or rainwater is the safer choice. Use room-temperature water. Read more about <a href=\"/topics/water-quality/\">water quality for houseplants</a>.</p><p>The soil should be kept \"evenly moist.\" Do not let the pot dry out completely, but do not let it sit in a saucer of water, which will cause <a href=\"/topics/root-rot/\">root rot</a>. Water thoroughly when the top inch or two of soil feels dry to the touch. <a href=\"/calculators/watering/calathea-orbifolia/\">Calculate how often to water your Calathea Orbifolia</a> based on your pot size, soil, temperature and humidity.</p><h3>Temperature and Drafts</h3><p>Keep your Orbifolia in a warm room between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is highly sensitive to sudden temperature changes. Keep it well away from drafty winter windows, exterior doors, and direct blasts from heating vents or AC units.</p><h3>Humidity: The Non-Negotiable</h3><p>This is a high-humidity plant. It requires ambient humidity levels above 60% to thrive and prevent leaf curling and browning. Typical indoor winter humidity often drops to 20-30%, which will cause the plant to struggle. Misting the leaves is ineffective and can promote fungal diseases. The best solution is to place a dedicated humidifier near the plant or keep it in a bright, humid bathroom.</p><p>To raise humidity, run a humidifier near the plant, group it with other humidity-loving plants, and keep it away from vents. Pebble trays tend to have little measurable effect on a whole room. A small hygrometer lets you check the actual level instead of guessing. Learn more about <a href=\"/topics/humidity/\">humidity for houseplants</a>.</p><h3>Soil and Potting</h3><p>The ideal soil mix must strike a delicate balance: it needs to retain moisture without becoming waterlogged. A mix of 50% high-quality potting soil, 30% perlite (for drainage), and 20% orchid bark or coco coir works perfectly. Repot only when the plant is completely root-bound, usually every 1 to 2 years in the spring. Check whether it is time with the <a href=\"/calculators/repotting/calathea-orbifolia/\">Calathea Orbifolia repotting calculator</a>.</p><h2>Fertilizing</h2><p>Because they are so sensitive to mineral salts, use a very light hand with synthetic fertilizers. Feed the plant once a month during the active growing season (spring and summer) using a balanced liquid fertilizer diluted to quarter-strength. Alternatively, top-dressing the soil with organic worm castings in the spring provides gentle, safe nutrients.</p><h2>Toxicity</h2><p>One of the best features of the entire Marantaceae family is that they are completely non-toxic to cats, dogs, and humans. It is a perfectly safe addition to a pet-friendly home.</p><h2>How to Propagate a Calathea Orbifolia</h2><p>Calathea Orbifolia is normally propagated by division, not by stem or leaf cuttings, which generally do not root. The best time is at repotting in spring, while the plant is actively growing.</p><ol><li>Water the plant lightly the day before so the root ball is easy to handle.</li><li>Slide the plant out of its pot and gently shake off loose mix.</li><li>Tease apart a clump that has its own roots and several healthy leaves. Cut through tightly knotted roots only if needed.</li><li>Pot each division in a container just large enough for its roots, in fresh, moisture-retentive but well-draining mix, and water with filtered water.</li><li>Keep the divisions warm, in bright indirect light and in higher humidity while they settle. Some temporary curling or drooping is common.</li></ol><h2>Common Problems</h2><p><strong>Crispy Brown Edges:</strong> The number one issue. Caused by tap water chemicals, low humidity, or underwatering. Switch to distilled water and run a humidifier.</p><p><strong>Leaves Curling Inward:</strong> The plant is losing moisture faster than it can take it up, so it curls to reduce its exposed surface area. Common causes are low humidity, dry soil, tap water minerals and chemicals, and heat or drafts. Check the soil first; if it is bone dry, water thoroughly with filtered water. If the soil is wet, the roots may be rotting and unable to take up water, so inspect them. Use the diagnosis steps above to tell the causes apart.</p><p><strong>Yellow Leaves:</strong> Often caused by overwatering or poor drainage, but low light and the natural loss of an older outer leaf can also cause yellowing. Check the soil moisture and drainage before changing anything else.</p><p><strong>Drooping Leaves:</strong> Usually a watering problem in either direction. Dry soil leaves the plant limp, while waterlogged roots cannot supply water to the leaves. Check the soil before watering.</p><p><strong>Pests (Spider Mites):</strong> Dry air favors spider mites, which cause speckled, dull leaves and fine webbing on the undersides. Isolate the plant, wipe or rinse the leaves, and treat as directed. <a href=\"/calculators/neem-oil-calculator/calathea-orbifolia/\">Calculate a neem oil mix for your Calathea Orbifolia</a>.</p><p><strong>Faded Colors/No New Growth:</strong> This usually indicates that the plant is not receiving enough bright indirect light. Move it closer to a window, but out of direct sun.</p><h2>Related Plant Guides</h2><p>Looking for similar plants? See <a href=\"/plants/calathea-ornata/\">Calathea Ornata</a>, <a href=\"/plants/calathea-rattlesnake/\">Calathea Rattlesnake</a> and the <a href=\"/plants/maranta-prayer-plant-care/\">Maranta prayer plant</a>.</p>",
+    "quickAnswer": "Calathea Orbifolia needs high humidity, evenly moist soil, and bright, indirect light. Crucially, you must water it with distilled or rainwater to prevent the crispy, brown leaf edges that tap water minerals commonly cause. Monitoring the plant regularly helps catch early signs of stress before they cause any lasting damage.",
+    "ogImage": "/assets/images/calathea-orbifolia.webp",
+    "ogImageAlt": "Large, round leaves of a Calathea Orbifolia showing silver and green stripes",
+    "heroImage": "/assets/images/calathea-orbifolia.webp",
+    "heroImageAlt": "Close up of the stunning striped foliage of Calathea Orbifolia",
+    "featuredImageAlt": "Calathea Orbifolia sitting in a bright, humid indoor setting",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves developing dry, crispy, brown edges",
+            "diagnosis": "Chemical burn from tap water or severely low ambient humidity.",
+            "treatment": "Switch immediately to distilled or rainwater. Increase room humidity to at least 60% using a humidifier.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [],
+    "comparisonTable": {
+        "title": "Prayer Plant Family Comparison",
+        "headers": [
+            "Plant",
+            "Leaf Pattern",
+            "Care Difficulty"
+        ],
+        "rows": [
+            [
+                "Calathea Orbifolia",
+                "Round, silver & green stripes",
+                "Moderate"
+            ],
+            [
+                "Maranta Leuconeura",
+                "Oval, red veins, dark spots",
+                "Moderate"
+            ],
+            [
+                "Calathea Medallion",
+                "Round, dark green with pink/white rings",
+                "High"
+            ]
+        ]
+    },
+    "h1": "Calathea Orbifolia Care: Resolve Crispy Edges & Keep Leaves Lush",
+    "breadcrumbName": "Calathea Orbifolia Care",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "topics:watering",
+        "maranta-prayer-plant-care"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Using tap water\u2014the chlorine, fluoride, and dissolved minerals it contains cause brown leaf edges and crispy tips that appear within days and are permanent. Rainwater, distilled water, or filtered water is the only reliable solution."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The leaves fold upward vertically each night and flatten out again in daylight\u2014this 'praying' movement is driven by changes in water pressure in specialized cells. When movement stops, it's one of the earliest signs the plant is under stress from drought, cold, or root problems."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry heated or air-conditioned homes, leaf edges begin browning and curling within days regardless of correct watering, because the large leaf surface loses moisture to the air faster than the roots can supply it. A humidifier running nearby is essentially mandatory for pristine leaves."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "goeppertia orbifolia care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for calathea orbifolia",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "calathea crispy edges",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "calathea watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "prayer plant orbifolia",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to keep a calathea orbifolia alive",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Calathea Orbifolia",
+    "summary": "Goeppertia orbifolia is an ornamental prayer plant celebrated for its large, rounded leaves adorned with metallic silver stripes. Learn humidity control, filtered water practices, and substrate moisture management to prevent brown edges.",
+    "keyTakeaways": [
+        "Provide bright, indirect light to protect metallic silver striping from fading.",
+        "Maintain ambient relative humidity above 60% to prevent brown, crispy edges.",
+        "Keep substrate evenly moist using aerated, peat-perlite potting mixes.",
+        "Irrigate exclusively with distilled water, reverse-osmosis water, or rainwater."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Moderate",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "2-3 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Moisture-retaining but well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Diluted balanced fertilizer monthly",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Bolivia",
+        "usdaZones": "10-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/calathea"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity",
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/calathea-orbifolia/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/calathea"
+        ]
+    },
+    "contentText": "Overview The Calathea Orbifolia (recently reclassified as Goeppertia orbifolia ) is one of the most highly sought-after indoor plants due to its massive, round leaves adorned with striking metallic silver stripes. Native to the humid understory of the Bolivian rainforest, it is accustomed to filtered light, constant moisture, and thick, humid air. While it is an absolutely stunning statement piece, it has earned a reputation for being somewhat difficult to keep pristine in standard Western homes. Central heating in the winter and air conditioning in the summer strip the air of the moisture this plant desperately needs, leading to its most famous complaint: crispy, brown leaf edges. However, by mastering its watering and humidity requirements, you can keep an Orbifolia looking lush and vibrant. Why Are My Calathea Orbifolia Leaves Curling? Quick answer: Calathea Orbifolia leaves usually curl inward when the plant is losing moisture faster than its roots can replace it. The most common causes are low humidity, soil that has dried out too far, and minerals or chemicals in tap water. Root rot from soggy soil, spider mites, too much direct sun, and cold or hot drafts can cause similar curling, so check the cause before changing your routine. See also our guide to curling leaves . How to Diagnose Leaf Curl in 5 Steps Check the soil: Push a finger 1 to 2 inches into the mix. Bone dry points to underwatering; wet, heavy or sour-smelling soil points to overwatering or root rot. Check your water: If you use untreated tap water, minerals, fluoride and chlorine compounds may be stressing the leaves. Check humidity: Measure with a small hygrometer near the plant. Dry indoor air, especially from heating or air conditioning, is a frequent trigger. Inspect the leaves: Look at the undersides and stems for fine webbing, speckling or sticky residue, which can indicate spider mites or other pests. Check placement: Look for direct sun, hot or cold drafts, and nearby heating or AC vents. What You See Likely Cause What to Do Leaves curled inward, soil dry, crispy edges Underwatering or low humidity Water thoroughly with filtered or distilled water and raise humidity. Curling with wet soil, yellowing or drooping, musty smell Overwatering or root rot Stop watering, check the roots, and repot into fresh, well-draining mix if they are soft or brown. Curling plus brown tips or edges, soil moisture normal Tap water chemicals, minerals or dry air Switch to distilled, reverse-osmosis or rainwater and add a humidifier. Curling with fine webbing or speckled, dull leaves Spider mites Isolate the plant, rinse the leaves, and treat as directed. Curling with faded or bleached patches Too much direct light Move to bright, indirect light. Curling after a cold draft or blast of heating or AC Temperature stress Move away from vents, doors and drafty windows. Is Some Leaf Movement Normal? Calatheas and their relatives raise, fold or relax their leaves in response to light, so a change in leaf position between day and night can be normal. Curling that stays through the day, or that comes with crispy edges, dry soil or a change in the plant's surroundings, is a sign of stress. Will Curled Leaves Uncurl? Leaves that curled because of temporary dryness can relax once the cause is corrected, and recovery time varies with the plant and how long it was stressed. Tissue that has turned crispy and brown will not turn green again. You can trim only the damaged portion with clean scissors, following the natural shape of the leaf, and rely on new growth to replace it. Calathea Orbifolia Care Requirements Light Requirements In its native habitat, the Orbifolia grows on the forest floor, protected by the canopy above. Indoors, it needs bright, indirect light. An east-facing window that gets gentle morning sun or a north-facing window is ideal. You must protect it from harsh, direct afternoon sunlight, which will quickly bleach the beautiful silver striping and scorch the delicate leaves. Watering: The Filtered Water Rule Calatheas are notoriously dramatic when it comes to water quality. Municipal tap water in North America and Europe often contains chlorine, chloramine, fluoride, and heavy minerals. The Orbifolia cannot process these chemicals; it pushes them to the tips and edges of its leaves, resulting in chemical burns (brown, crispy edges). You must use filtered, distilled, or rainwater. Leaving tap water out overnight lets some chlorine escape, but it does not remove chloramine, fluoride or dissolved minerals, and a basic carbon pitcher filter may not remove fluoride or minerals either. Distilled, reverse-osmosis or rainwater is the safer choice. Use room-temperature water. Read more about water quality for houseplants . The soil should be kept \"evenly moist.\" Do not let the pot dry out completely, but do not let it sit in a saucer of water, which will cause root rot . Water thoroughly when the top inch or two of soil feels dry to the touch. Calculate how often to water your Calathea Orbifolia based on your pot size, soil, temperature and humidity. Temperature and Drafts Keep your Orbifolia in a warm room between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is highly sensitive to sudden temperature changes. Keep it well away from drafty winter windows, exterior doors, and direct blasts from heating vents or AC units. Humidity: The Non-Negotiable This is a high-humidity plant. It requires ambient humidity levels above 60% to thrive and prevent leaf curling and browning. Typical indoor winter humidity often drops to 20-30%, which will cause the plant to struggle. Misting the leaves is ineffective and can promote fungal diseases. The best solution is to place a dedicated humidifier near the plant or keep it in a bright, humid bathroom. To raise humidity, run a humidifier near the plant, group it with other humidity-loving plants, and keep it away from vents. Pebble trays tend to have little measurable effect on a whole room. A small hygrometer lets you check the actual level instead of guessing. Learn more about humidity for houseplants . Soil and Potting The ideal soil mix must strike a delicate balance: it needs to retain moisture without becoming waterlogged. A mix of 50% high-quality potting soil, 30% perlite (for drainage), and 20% orchid bark or coco coir works perfectly. Repot only when the plant is completely root-bound, usually every 1 to 2 years in the spring. Check whether it is time with the Calathea Orbifolia repotting calculator . Fertilizing Because they are so sensitive to mineral salts, use a very light hand with synthetic fertilizers. Feed the plant once a month during the active growing season (spring and summer) using a balanced liquid fertilizer diluted to quarter-strength. Alternatively, top-dressing the soil with organic worm castings in the spring provides gentle, safe nutrients. Toxicity One of the best features of the entire Marantaceae family is that they are completely non-toxic to cats, dogs, and humans. It is a perfectly safe addition to a pet-friendly home. How to Propagate a Calathea Orbifolia Calathea Orbifolia is normally propagated by division, not by stem or leaf cuttings, which generally do not root. The best time is at repotting in spring, while the plant is actively growing. Water the plant lightly the day before so the root ball is easy to handle. Slide the plant out of its pot and gently shake off loose mix. Tease apart a clump that has its own roots and several healthy leaves. Cut through tightly knotted roots only if needed. Pot each division in a container just large enough for its roots, in fresh, moisture-retentive but well-draining mix, and water with filtered water. Keep the divisions warm, in bright indirect light and in higher humidity while they settle. Some temporary curling or drooping is common. Common Problems Crispy Brown Edges: The number one issue. Caused by tap water chemicals, low humidity, or underwatering. Switch to distilled water and run a humidifier. Leaves Curling Inward: The plant is losing moisture faster than it can take it up, so it curls to reduce its exposed surface area. Common causes are low humidity, dry soil, tap water minerals and chemicals, and heat or drafts. Check the soil first; if it is bone dry, water thoroughly with filtered water. If the soil is wet, the roots may be rotting and unable to take up water, so inspect them. Use the diagnosis steps above to tell the causes apart. Yellow Leaves: Often caused by overwatering or poor drainage, but low light and the natural loss of an older outer leaf can also cause yellowing. Check the soil moisture and drainage before changing anything else. Drooping Leaves: Usually a watering problem in either direction. Dry soil leaves the plant limp, while waterlogged roots cannot supply water to the leaves. Check the soil before watering. Pests (Spider Mites): Dry air favors spider mites, which cause speckled, dull leaves and fine webbing on the undersides. Isolate the plant, wipe or rinse the leaves, and treat as directed. Calculate a neem oil mix for your Calathea Orbifolia . Faded Colors/No New Growth: This usually indicates that the plant is not receiving enough bright indirect light. Move it closer to a window, but out of direct sun. Related Plant Guides Looking for similar plants? See Calathea Ornata , Calathea Rattlesnake and the Maranta prayer plant .",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/calathea-orbifolia/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

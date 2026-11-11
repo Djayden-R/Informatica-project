@@ -1,0 +1,329 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-euphorbia-trigona",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "euphorbia-trigona",
+    "seoTitle": "African Milk Tree Care: Watering & Toxic Sap Guide",
+    "metaDescription": "African Milk Tree is a succulent shrub, not a true cactus. Find out why Euphorbia trigona drops teardrop leaves, how to water it, and how to handle its.",
+    "featuredImage": "/assets/images/euphorbia-trigona.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "toxic-to-pets",
+        "high-light",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Euphorbia trigona",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Euphorbia Toxicity",
+            "source": "University of California Agriculture and Natural Resources",
+            "url": "https://ucanr.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Euphorbia trigona",
+        "family": "Euphorbiaceae",
+        "origin": "Central Africa",
+        "type": "Evergreen succulent shrub",
+        "nativeClimate": "Semi-arid savanna",
+        "commonUses": [
+            "Sunny corners",
+            "Desert-themed arrangements",
+            "Floor plants"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Requires massive amounts of bright light. Perfect for a hot, sunny window.",
+        "watering": "Water only when the soil is 100% bone dry (every 3-6 weeks).",
+        "soil": "Extremely fast-draining cactus and succulent mix.",
+        "pruning": "Wear thick gloves and eye protection. The white sap is highly toxic and irritating.",
+        "toxicity": "toxic",
+        "toxicityNote": "Highly toxic to pets and humans. The latex sap causes severe skin blisters, eye damage, and intense oral pain.",
+        "bestFor": "Plant owners who have lots of sun, little time for watering, and no pets or small children."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "6-8 feet indoors",
+        "matureSpread": "2-3 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 90\u00b0F (18\u00b0C - 32\u00b0C)",
+            "survivable": "55\u00b0F - 100\u00b0F (13\u00b0C - 38\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.5",
+            "survivable": "5.5 - 8.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires intense, bright light to thrive. It can handle hours of blazing, direct afternoon sun. The popular 'Rubra' variety requires direct sun to maintain its red color.",
+        "sunlightHours": "6-8 hours indirect + 4+ hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or West-facing window.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Requires very little fertilizer.",
+        "fertilizerFrequency": "Once in spring and once in summer with a cactus fertilizer diluted to half strength.",
+        "organicOptions": "A light layer of worm castings in spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Highly susceptible to rot if overwatered. The thick green stems will quickly turn yellow and mushy at the base."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Is the African Milk Tree a cactus?",
+            "answer": "No! Despite looking exactly like one, it is a succulent belonging to the Euphorbia family. True cacti do not bleed white sap when cut, and very few cacti produce the small, teardrop leaves that grow along the ridges of the African Milk Tree."
+        },
+        {
+            "question": "Why is my African Milk Tree dropping all its leaves?",
+            "answer": "It is completely normal for it to drop its small leaves during the winter or if it experiences a sudden drought. However, if the stems are also turning yellow and mushy, the leaf drop is caused by root rot from overwatering."
+        },
+        {
+            "question": "Why is my red African Milk Tree (Rubra) turning green?",
+            "answer": "The beautiful ruby-red color of the 'Rubra' cultivar is brought out entirely by \"sun stress.\" If the plant is kept in a dim room, it will produce more chlorophyll to survive, turning the plant completely green. It needs direct sunlight to stay red."
+        },
+        {
+            "question": "How do I propagate the African Milk Tree?",
+            "answer": "You can cut an arm off the main stem. However, you must let the cutting dry out (callus) for a full week before planting it in dry soil. If you plant a fresh cutting, it will rot immediately."
+        },
+        {
+            "question": "How dangerous is the white sap?",
+            "answer": "Very. The latex sap of Euphorbias is a severe irritant. If you get it on your skin, it can cause severe rashes and blisters. If you rub your eyes with sap on your fingers, it can cause temporary or permanent blindness. Always wear gloves when handling."
+        }
+    ],
+    "shortDesc": "The African Milk Tree is a towering, architectural succulent that looks like a cactus but behaves entirely differently. It is famous for its extreme drought tolerance and its highly toxic white sap.",
+    "content": "<h2>Overview</h2><p>The African Milk Tree (<em>Euphorbia trigona</em>) is a spectacular, fast-growing architectural plant that brings a distinct desert vibe to any room. It features tall, three-sided, triangular green stems with sharp thorns running along the ridges. Between the thorns, it grows dozens of small, teardrop-shaped green (or red) leaves.</p><p>Because of its appearance, 90% of people assume it is a cactus. It is not. It belongs to the Euphorbia family (the same family as the Poinsettia). Unlike a cactus, it grows leaves, and more importantly, it bleeds a thick, milky white sap when damaged. While it is incredibly easy to care for and highly drought-tolerant, its toxic sap requires extreme caution, making it unsuitable for homes with curious pets or small children.</p><h3>Light Requirements: Sun Stressing the Rubra</h3><p>The African Milk Tree is a true sun-worshiper. It must be placed directly in front of the brightest window in your home, preferably a south or west-facing one. It thrives in blazing, direct afternoon sunlight that would scorch most other houseplants.</p><p>If you have the highly sought-after <em>Euphorbia trigona 'Rubra'</em> (which features stunning ruby-red stems and leaves), light is doubly important. The red coloring is an active response to intense light (often called sun stressing). If you place a Rubra in a dim room, it will completely revert to solid green in order to maximize its ability to photosynthesize. To keep it red, bake it in the sun.</p><h3>Watering Strategy</h3><p>Because it is a succulent, the thick, three-sided stems act as massive water reservoirs. Overwatering is the fastest and most common way to kill it. You must allow the potting soil to dry out 100% completely\u2014all the way to the bottom of the pot\u2014before watering.</p><p>Depending on the heat and light, this means you may only water it once a month in the summer, and perhaps only three times during the entire winter. When you do water, soak the pot thoroughly to hydrate the roots, then let it drain completely. If the base of the plant turns yellow, wrinkled, and mushy, it is suffering from root rot caused by wet soil.</p><h3>Temperature and Humidity</h3><p>It prefers high temperatures between 65\u00b0F and 90\u00b0F (18\u00b0C - 32\u00b0C). As a desert-adapted plant, it has zero need for humidity and perfectly tolerates the bone-dry air of centrally heated homes. Keep it far away from freezing drafts; temperatures below 50\u00b0F (10\u00b0C) will cause permanent cellular damage.</p><h3>Soil and Potting</h3><p>Standard potting soil will hold water for far too long and kill the roots. You must use a fast-draining cactus and succulent mix, heavily amended with coarse sand, perlite, or pumice. Because it grows very tall very quickly, it can easily become top-heavy. It is highly recommended to plant it in a heavy, unglazed terracotta pot to prevent it from tipping over, as the unglazed clay also helps pull excess moisture out of the soil.</p><h2>The \"Leaf Drop\" Panic</h2><p>Many new owners panic when their African Milk Tree suddenly drops all of its small teardrop leaves. Do not panic! This is a natural response to seasonal changes or drought. During the winter, or if the plant goes too long without water, it will shed its leaves to conserve energy. As long as the main stems are green and firm (not mushy), the plant is perfectly healthy. It will push out a brand new flush of leaves in the spring.</p><h2>Toxicity Warning: The \"Milk\"</h2><p>The \"milk\" in the African Milk Tree is a thick latex sap. <strong>This sap is highly toxic and caustic.</strong> It is an extreme irritant to the skin and mucous membranes. If you get it on your hands, it can cause severe rashes and chemical burns. If it gets in your eyes, it requires immediate medical attention and can cause blindness. If chewed by a pet, it causes intense, burning pain in the mouth and throat. Whenever you are pruning or repotting this plant, you must wear thick gloves and protective eyewear.</p>",
+    "quickAnswer": "Euphorbia trigona, or African Milk Tree, requires bright light with some direct sun for upright angular stem growth. Water only after soil dries completely, as this succulent tolerates drought through water-storing stems. Handle with care since the milky latex sap irritates skin and eyes, and use a fast-draining succulent mix to prevent stem base rot.",
+    "ogImage": "/assets/images/euphorbia-trigona.webp",
+    "ogImageAlt": "Tall, triangular green stems of an African Milk Tree",
+    "heroImage": "/assets/images/euphorbia-trigona.webp",
+    "heroImageAlt": "Close up of the thorns and small teardrop leaves of Euphorbia trigona",
+    "featuredImageAlt": "A towering red African Milk Tree (Rubra) in a bright, sunny room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my African Milk Tree dropping all its leaves?",
+            "diagnosis": "Normal winter leaf drop or overwatering stress",
+            "treatment": "If stems are firm, it's normal; if stems mushy, reduce water and check for rot.",
+            "prevention": "Water sparingly in winter; ensure good drainage.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my red African Milk Tree (Rubra) turning green?",
+            "diagnosis": "Insufficient sun stress \u2013 needs more light for red colour",
+            "treatment": "Move to brighter, direct sunlight; red colour will return on new growth.",
+            "prevention": "Provide full sun.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Sun Stressing",
+            "definition": "A phenomenon where succulents produce red or purple pigments (anthocyanins) to protect themselves from intense sunlight. This is what gives the 'Rubra' variety its red color."
+        },
+        {
+            "term": "Callus",
+            "definition": "The hard, dry tissue that forms over a plant wound. When taking a succulent cutting, you must let it callus for a week before planting, or it will rot."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Euphorbia vs. Cactus Comparison",
+        "headers": [
+            "Feature",
+            "Euphorbia (African Milk Tree)",
+            "True Cactus"
+        ],
+        "rows": [
+            [
+                "Sap",
+                "Bleeds thick, toxic white latex",
+                "Bleeds clear water/gel"
+            ],
+            [
+                "Foliage",
+                "Grows small teardrop leaves",
+                "Rarely grows true leaves"
+            ],
+            [
+                "Spines",
+                "Grows pairs of sharp thorns",
+                "Grows clusters of needles (areoles)"
+            ]
+        ]
+    },
+    "h1": "African Milk Tree Care: Prevent Leaf Drop & Handle Safely",
+    "breadcrumbName": "African Milk Tree Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "potting-mix-calculator",
+        "stem-rot-vs-root-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because its upright, lush-looking form suggests it needs regular moisture\u2014but it's a succulent that stores water in its triangular stems, and the stems rot from the base upward when soil stays wet. Let the soil dry out completely between waterings."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The white latex sap that bleeds from any wound is severely caustic\u2014it causes chemical burns on skin, and eye contact can cause temporary or permanent damage. Always wear gloves and eye protection when pruning, and keep it away from pets and children."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light it grows tall and thin with the stem leaning dramatically toward the window, unable to support its own weight without staking. A very sunny south-facing spot is needed to keep it growing straight and with a robust, thick stem."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "euphorbia trigona rubra",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "cathedral cactus",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "red african milk tree dropping leaves",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "euphorbia toxic sap",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "euphorbia trigona turning yellow",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Euphorbia Trigona",
+    "summary": "Despite its common name, African Milk Tree is a succulent euphorbia rather than a true tree or cactus. Its three-angled stems with paired thorns create an architectural silhouette that resembles a candelabra. Native to Central Africa, it grows rapidly in proper conditions. This guide covers light needs for straight upright growth, safe handling due to toxic sap, watering protocols that prevent the stem softening of rot, and support for tall specimens.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for upright growth.",
+        "Water only after soil has dried out; this succulent tolerates drought well.",
+        "Handle carefully, since the sap can irritate skin and eyes.",
+        "Use a fast-draining succulent mix to help prevent stem rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent shrub",
+        "difficulty": "beginner",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water only when the soil is 100% bone dry (every 3-6 weeks).",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30% - 50%",
+        "temperature": "65\u00b0F - 90\u00b0F (18\u00b0C - 32\u00b0C)",
+        "matureSize": "6-8 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Cactus or succulent gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Terracotta",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Central Africa",
+        "usdaZones": "9-11",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/euphorbia-trigona/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://plants.ces.ncsu.edu/plants/euphorbia-milii/common-name/crown-of-thorns/"
+        ]
+    },
+    "contentText": "Overview The African Milk Tree ( Euphorbia trigona ) is a spectacular, fast-growing architectural plant that brings a distinct desert vibe to any room. It features tall, three-sided, triangular green stems with sharp thorns running along the ridges. Between the thorns, it grows dozens of small, teardrop-shaped green (or red) leaves. Because of its appearance, 90% of people assume it is a cactus. It is not. It belongs to the Euphorbia family (the same family as the Poinsettia). Unlike a cactus, it grows leaves, and more importantly, it bleeds a thick, milky white sap when damaged. While it is incredibly easy to care for and highly drought-tolerant, its toxic sap requires extreme caution, making it unsuitable for homes with curious pets or small children. Light Requirements: Sun Stressing the Rubra The African Milk Tree is a true sun-worshiper. It must be placed directly in front of the brightest window in your home, preferably a south or west-facing one. It thrives in blazing, direct afternoon sunlight that would scorch most other houseplants. If you have the highly sought-after Euphorbia trigona 'Rubra' (which features stunning ruby-red stems and leaves), light is doubly important. The red coloring is an active response to intense light (often called sun stressing). If you place a Rubra in a dim room, it will completely revert to solid green in order to maximize its ability to photosynthesize. To keep it red, bake it in the sun. Watering Strategy Because it is a succulent, the thick, three-sided stems act as massive water reservoirs. Overwatering is the fastest and most common way to kill it. You must allow the potting soil to dry out 100% completely\u2014all the way to the bottom of the pot\u2014before watering. Depending on the heat and light, this means you may only water it once a month in the summer, and perhaps only three times during the entire winter. When you do water, soak the pot thoroughly to hydrate the roots, then let it drain completely. If the base of the plant turns yellow, wrinkled, and mushy, it is suffering from root rot caused by wet soil. Temperature and Humidity It prefers high temperatures between 65\u00b0F and 90\u00b0F (18\u00b0C - 32\u00b0C). As a desert-adapted plant, it has zero need for humidity and perfectly tolerates the bone-dry air of centrally heated homes. Keep it far away from freezing drafts; temperatures below 50\u00b0F (10\u00b0C) will cause permanent cellular damage. Soil and Potting Standard potting soil will hold water for far too long and kill the roots. You must use a fast-draining cactus and succulent mix, heavily amended with coarse sand, perlite, or pumice. Because it grows very tall very quickly, it can easily become top-heavy. It is highly recommended to plant it in a heavy, unglazed terracotta pot to prevent it from tipping over, as the unglazed clay also helps pull excess moisture out of the soil. The \"Leaf Drop\" Panic Many new owners panic when their African Milk Tree suddenly drops all of its small teardrop leaves. Do not panic! This is a natural response to seasonal changes or drought. During the winter, or if the plant goes too long without water, it will shed its leaves to conserve energy. As long as the main stems are green and firm (not mushy), the plant is perfectly healthy. It will push out a brand new flush of leaves in the spring. Toxicity Warning: The \"Milk\" The \"milk\" in the African Milk Tree is a thick latex sap. This sap is highly toxic and caustic. It is an extreme irritant to the skin and mucous membranes. If you get it on your hands, it can cause severe rashes and chemical burns. If it gets in your eyes, it requires immediate medical attention and can cause blindness. If chewed by a pet, it causes intense, burning pain in the mouth and throat. Whenever you are pruning or repotting this plant, you must wear thick gloves and protective eyewear.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/euphorbia-trigona/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

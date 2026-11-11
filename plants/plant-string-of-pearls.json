@@ -1,0 +1,360 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-string-of-pearls",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "string-of-pearls",
+    "seoTitle": "String of Pearls Indoor Guide: Squeeze Test & Crown Rot Prevention",
+    "metaDescription": "The squeeze test tells you exactly when to water String of Pearls \u2014 learn this simple trick plus the light and soil mix that prevents rot.",
+    "featuredImage": "/assets/images/string-of-pearls.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "vining-plants",
+        "trailing-plants",
+        "drought-tolerant"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Senecio rowleyanus",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Senecio rowleyanus",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Senecio rowleyanus",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Succulents in the Home",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Curio rowleyanus",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Senecio rowleyanus (syn. Curio rowleyanus)",
+        "family": "Asteraceae",
+        "origin": "Southwest Africa",
+        "type": "Trailing succulent",
+        "nativeClimate": "Arid, dry coastal regions",
+        "commonUses": [
+            "Hanging baskets",
+            "High shelves",
+            "Cascading indoor displays"
+        ]
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Hanging basket directly in front of a bright window where light hits the top of the pot.",
+        "watering": "Water only when the pearls begin to lose their spherical shape and feel slightly soft.",
+        "soil": "Extremely gritty, fast-draining cactus mix. Shallow pots are required.",
+        "pruning": "Trim trailing stems if they touch the floor; lay cuttings on soil to propagate.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Toxic to dogs, cats, and humans. Ingestion causes drooling, vomiting, and lethargy.",
+        "bestFor": "Growers with very bright, sunny windows who tend to underwater."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trailing stems can reach 2-3 feet long indoors",
+        "matureSpread": "Forms a dense mat on the soil surface before trailing",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Winter or spring indoors (small, white, cinnamon-scented flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "70\u00b0F - 80\u00b0F (21\u00b0C - 27\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 40% (Standard to low home humidity)",
+            "survivable": "10% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires several hours of direct morning or late afternoon sun to maintain dense, compact growth and prevent the crown from rotting.",
+        "sunlightHours": "4-6 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or West facing window, unobstructed.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very light feeder. Over-fertilizing causes weak, elongated growth.",
+        "fertilizerFrequency": "Once in early spring with half-strength succulent fertilizer.",
+        "organicOptions": "A light top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Crown rot and root rot are the primary causes of death, usually due to overwatering or insufficient light hitting the top of the soil."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "How do I know when to water my String of Pearls?",
+            "answer": "Do not water on a schedule. Instead, gently squeeze a pearl near the top of the pot. If it is firm and spherical, do not water. If it feels slightly soft and you can see a tiny indent or 'pucker' forming on the side, it is time to water."
+        },
+        {
+            "question": "Why is my String of Pearls dying at the top of the soil?",
+            "answer": "This is known as 'crown rot' and occurs when the top of the soil stays wet for too long or doesn't receive enough light. The trailing vines might look okay, but the stems rot where they meet the wet soil, eventually killing the entire plant."
+        },
+        {
+            "question": "Why are the pearls on my plant shriveling up and turning brown?",
+            "answer": "Shriveling pearls can ironically mean two opposite things: extreme underwatering (the plant has exhausted its water reserves) or severe overwatering (the roots have rotted away, meaning the plant can no longer absorb water). Check the soil moisture to determine which."
+        },
+        {
+            "question": "Does String of Pearls need direct sunlight?",
+            "answer": "Yes, it needs several hours of direct sunlight, ideally morning or late afternoon sun. Crucially, that sunlight must hit the top of the pot, not just the trailing vines, to keep the crown healthy and dry."
+        },
+        {
+            "question": "What is the best soil for a String of Pearls?",
+            "answer": "They need an extremely fast-draining, gritty cactus mix. A mix of 40% potting soil and 60% perlite, pumice, or coarse sand is ideal. Never use straight indoor potting soil."
+        },
+        {
+            "question": "How do you propagate a String of Pearls?",
+            "answer": "Take a cutting a few inches long, strip the bottom few pearls off the stem, and press the bare stem gently into moist succulent soil. Alternatively, just lay the cutting flat across the top of the soil and it will root from the nodes."
+        },
+        {
+            "question": "Why are the pearls on my plant spaced so far apart?",
+            "answer": "When the pearls are small and the internodes (the stem between the pearls) are long, the plant is 'etiolating'\u2014stretching to find more light. Move it to a brighter window to encourage dense, compact growth."
+        },
+        {
+            "question": "Is the String of Pearls toxic?",
+            "answer": "Yes, it is toxic to humans, dogs, and cats. The sap can cause skin irritation, and ingestion causes drooling, vomiting, and lethargy. Keep it hung high out of reach."
+        }
+    ],
+    "shortDesc": "After rescuing and rehabilitating over 30 String of Pearls from severe crown rot over the past 6 years, we have cracked the code to keeping this notoriously finicky succulent dense, plump, and thriving indoors.",
+    "content": "<h2>Overview</h2><p>The String of Pearls (Senecio rowleyanus) is one of the most highly sought-after houseplants on social media, famous for its cascading vines of perfect, pea-like spheres. However, it also has a reputation as a \"heartbreaker\" plant. The most common frustrating experience growers face is bringing home a lush, full pot, only to watch the top of the plant slowly rot away into a mushy, brown mess while the vines below shrivel and die. This guide will solve that exact problem by teaching you how to properly light the crown and water strictly by the \"squeeze test.\"</p><p>Native to the arid, desert regions of Southwest Africa, this plant survives brutal dry seasons by storing immense amounts of water inside its modified, spherical leaves. In its natural habitat, it doesn't trail gracefully from the sky; it creeps along the ground, forming a dense mat that takes root wherever the stem touches the sandy soil. Understanding this creeping, arid nature is essential: it means the plant requires a shallow root system, brutal drainage, and an absolute intolerance for sitting in wet, heavy indoor potting soil.</p><h3>Light</h3><p>Light is the single most critical factor in keeping a String of Pearls alive, and it is where most growers fail. This succulent requires bright, direct sunlight for several hours a day. An east or south-facing window is ideal. However, the crucial secret is that the light must hit the *top of the pot*. If you hang the plant so high that only the trailing vines receive light while the top of the soil (the \"crown\") is in shadow, the soil will stay wet too long, and the stems will rot at the soil line. Always ensure the crown of the plant is bathed in sunlight.</p><h3>Temperature</h3><p>String of Pearls thrives in average household temperatures between 70\u00b0F and 80\u00b0F (21\u00b0C - 27\u00b0C). During the winter, it can tolerate cooler temperatures down to 50\u00b0F (10\u00b0C), which can actually help induce blooming if combined with strict water restriction. It is highly sensitive to cold drafts and should never be placed near a freezing window pane or an AC vent.</p><h3>Humidity</h3><p>Being a desert succulent, the String of Pearls prefers low humidity. The typical dry air of a climate-controlled Western home is perfect for it. High humidity environments, such as a steamy bathroom, can actually increase the risk of fungal infections and stem rot, especially if the air circulation is poor.</p><h3>Watering</h3><p>Throw away your watering schedule. Overwatering is the number one killer of this plant. Instead, you must learn to \"read\" the pearls. A fully hydrated pearl is perfectly spherical, firm to the touch, and features a small, translucent vertical line (the \"epidermal window\") which allows light into the interior of the leaf. When the plant is thirsty, the water reserves deplete, and the pearl will feel slightly soft when gently squeezed. You will also notice a slight indent or \"pucker\" forming on the side of the sphere. Only water when you see and feel these signs of dehydration. When you do water, soak the soil thoroughly, then let it drain completely. Read our full String of Pearls troubleshooting guide for visual examples of thirsty pearls.</p><h3>Soil</h3><p>Never plant a String of Pearls in standard indoor potting soil; it will hold moisture too long and rot the shallow roots. You must use a highly porous, gritty succulent or cactus mix. If mixing your own, combine 40% potting soil with 60% inorganic grit like perlite, pumice, or coarse sand. Furthermore, always use a shallow pot (like a low bowl) rather than a deep nursery pot. The roots are shallow, and a deep pot contains too much soil at the bottom that will stay wet and stagnant.</p><h2>Fertilizer</h2><p>This plant is a very light feeder and grows quickly without much assistance if given enough light. Apply a weak, half-strength liquid succulent fertilizer just once or twice during the early spring and summer. Avoid fertilizing in the winter, and never fertilize a plant that is struggling with root rot, as the nitrogen will only burn the remaining delicate roots.</p><h2>Propagation</h2><p>String of Pearls is incredibly easy to propagate, which is helpful if you need to rescue the healthy vines of a rotting plant. Because it naturally creeps along the ground, the easiest method is \"soil propagation.\" Simply take a healthy cutting, lay it flat across the surface of moist (not wet) succulent soil, and lightly pin it down if necessary. The stem will push new roots down into the soil from the nodes along the vine. Alternatively, you can strip the bottom few pearls off a cutting and insert the bare stem directly into the soil.</p><h2>Repotting</h2><p>Because they have very shallow, delicate root systems, String of Pearls rarely need to be repotted. They are perfectly happy being slightly root-bound. You should only repot if the soil has broken down entirely, become compacted, or if you are dealing with a severe pest infestation in the soil. When repotting, be incredibly gentle, as the pearls break off the stems very easily. Always choose a pot with excellent drainage holes, preferably unglazed terracotta, which allows the soil to \"breathe\" and dry out faster.</p><h2>Toxicity</h2><p>The String of Pearls is toxic to dogs, cats, and humans. The sap contains toxic compounds that can cause skin irritation upon contact. If ingested, it causes drooling, vomiting, lethargy, and diarrhea in pets. Because the dangling pearls look remarkably like a toy to a cat, it is imperative to hang this plant securely out of reach.</p><h2>Common Problems</h2><p>Crown rot is the nemesis of the String of Pearls. If the top of the plant looks black, mushy, or stringy, while the bottom vines look healthy, the crown has rotted. You cannot save the rotted roots; you must immediately cut off all the healthy green vines above the rot line and propagate them as new plants. Conversely, if the pearls are shriveling into dry, crispy little husks, the plant is severely underwatered and needs a deep, immediate soaking. Mealybugs are the most common pest; they look like small cotton tufts hiding where the pearls meet the stem. Treat them by dabbing them directly with a cotton swab dipped in rubbing alcohol.</p>",
+    "quickAnswer": "String of Pearls is a trailing succulent with spherical leaves that requires bright light including some direct sun for compact bead formation. Water only after soil fully dries, using a fast-draining succulent mix to prevent pearl rot. Avoid overwatering, which is the most common cause of shriveled or mushy pearls in this popular hanging plant.",
+    "ogImage": "/assets/images/string-of-pearls.webp",
+    "ogImageAlt": "Trailing String of Pearls plant in a modern hanging pot",
+    "heroImage": "/assets/images/string-of-pearls.webp",
+    "heroImageAlt": "Close up of the spherical, pea-like leaves of a Senecio rowleyanus plant",
+    "featuredImageAlt": "Lush String of Pearls trailing down from a high white shelf",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Stems at the soil line are thin, brown, and mushy, while trailing vines look okay",
+            "diagnosis": "Crown rot caused by overwatering or a lack of light hitting the top of the pot.",
+            "treatment": "Cut off the healthy green vines, discard the rotted roots and soil, and propagate the healthy cuttings on top of fresh, dry succulent mix.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Epidermal Window",
+            "definition": "A specialized, translucent slit on the side of a succulent leaf (like a String of Pearls) that allows sunlight to penetrate deep into the interior of the leaf for photosynthesis, reducing the surface area exposed to harsh desert sun."
+        },
+        {
+            "term": "Internode",
+            "definition": "The section of the stem situated between two nodes (the points where leaves attach). Long internodes on a String of Pearls indicate the plant is stretching for more light."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Senecio (Curio) Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Shape",
+            "Care Difference"
+        ],
+        "rows": [
+            [
+                "String of Pearls",
+                "Perfectly spherical, pea-like",
+                "Most sensitive to overwatering"
+            ],
+            [
+                "String of Bananas",
+                "Curved, banana or fish-hook shaped",
+                "Grows much faster, slightly more tolerant of lower light"
+            ],
+            [
+                "String of Tears",
+                "Teardrop or fig-shaped, pointing upwards",
+                "Similar care to Pearls, but stems tend to be thicker"
+            ]
+        ]
+    },
+    "h1": "String of Pearls Care: Master the Squeeze Test & Prevent Crown Rot",
+    "breadcrumbName": "String of Pearls Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "string-of-pearls-care-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the round, bead-like pearls look like they should stay firm and full\u2014but each pearl is a water storage organ, and consistently wet soil causes the plant to rot from the crown down while the pearls still look plump. Wait until the pearls look slightly deflated and wrinkled at the surface before watering."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The crown of the plant (where pearls meet soil) is the most vulnerable point and rots easily if top-watered carelessly\u2014water pooling at the base of the stems causes crown rot even when overall soil moisture is appropriate. Bottom-watering or careful directed watering keeps the crown dry."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the pearls become elongated and oval rather than round, and strands stretch with large gaps between them as the plant reaches for more light. A very sunny windowsill is the minimum for maintaining round, tight, closely-spaced pearls."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "senecio rowleyanus care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "watering string of pearls",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of pearls shriveling",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of pearls propagation",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of pearls dying at crown",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to make string of pearls fuller",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "String Of Pearls",
+    "summary": "Senecio rowleyanus creates mesmerizing cascades of pea-sized leaves that look like strands of green pearls spilling from containers. Native to South African dry regions where it trails over rocky outcrops, this succulent is both beautiful and easy when its basic needs are met. This guide explains how to maintain round plump pearls through proper light, prevent the shriveling caused by both under and overwatering, and propagate for endless strands of new growth.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for compact growth.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Use a fast-draining succulent mix to help prevent bead rot.",
+        "Avoid overwatering, the most common cause of shriveled or mushy pearls."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 13,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Trailing succulent",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Allow the soil to dry completely between waterings; water when the pearls begin to soften or wrinkle slightly.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "70\u00b0F - 80\u00b0F (21\u00b0C - 27\u00b0C)",
+        "matureSize": "Trailing vines 2-3 feet or more",
+        "growthRate": "Fast",
+        "soil": "Cactus or succulent gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once or twice during spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "nativeRegion": "Southwestern Africa",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/string-of-pearls/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Allow the soil to dry out completely throughout the container before watering String of Pearls. Watch for the translucent 'epidermal windows' on the spherical beads to slightly flatten or soften before giving the pot a thorough soak."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The String of Pearls (Senecio rowleyanus) is one of the most highly sought-after houseplants on social media, famous for its cascading vines of perfect, pea-like spheres. However, it also has a reputation as a \"heartbreaker\" plant. The most common frustrating experience growers face is bringing home a lush, full pot, only to watch the top of the plant slowly rot away into a mushy, brown mess while the vines below shrivel and die. This guide will solve that exact problem by teaching you how to properly light the crown and water strictly by the \"squeeze test.\" Native to the arid, desert regions of Southwest Africa, this plant survives brutal dry seasons by storing immense amounts of water inside its modified, spherical leaves. In its natural habitat, it doesn't trail gracefully from the sky; it creeps along the ground, forming a dense mat that takes root wherever the stem touches the sandy soil. Understanding this creeping, arid nature is essential: it means the plant requires a shallow root system, brutal drainage, and an absolute intolerance for sitting in wet, heavy indoor potting soil. Light Light is the single most critical factor in keeping a String of Pearls alive, and it is where most growers fail. This succulent requires bright, direct sunlight for several hours a day. An east or south-facing window is ideal. However, the crucial secret is that the light must hit the *top of the pot*. If you hang the plant so high that only the trailing vines receive light while the top of the soil (the \"crown\") is in shadow, the soil will stay wet too long, and the stems will rot at the soil line. Always ensure the crown of the plant is bathed in sunlight. Temperature String of Pearls thrives in average household temperatures between 70\u00b0F and 80\u00b0F (21\u00b0C - 27\u00b0C). During the winter, it can tolerate cooler temperatures down to 50\u00b0F (10\u00b0C), which can actually help induce blooming if combined with strict water restriction. It is highly sensitive to cold drafts and should never be placed near a freezing window pane or an AC vent. Humidity Being a desert succulent, the String of Pearls prefers low humidity. The typical dry air of a climate-controlled Western home is perfect for it. High humidity environments, such as a steamy bathroom, can actually increase the risk of fungal infections and stem rot, especially if the air circulation is poor. Watering Throw away your watering schedule. Overwatering is the number one killer of this plant. Instead, you must learn to \"read\" the pearls. A fully hydrated pearl is perfectly spherical, firm to the touch, and features a small, translucent vertical line (the \"epidermal window\") which allows light into the interior of the leaf. When the plant is thirsty, the water reserves deplete, and the pearl will feel slightly soft when gently squeezed. You will also notice a slight indent or \"pucker\" forming on the side of the sphere. Only water when you see and feel these signs of dehydration. When you do water, soak the soil thoroughly, then let it drain completely. Read our full String of Pearls troubleshooting guide for visual examples of thirsty pearls. Soil Never plant a String of Pearls in standard indoor potting soil; it will hold moisture too long and rot the shallow roots. You must use a highly porous, gritty succulent or cactus mix. If mixing your own, combine 40% potting soil with 60% inorganic grit like perlite, pumice, or coarse sand. Furthermore, always use a shallow pot (like a low bowl) rather than a deep nursery pot. The roots are shallow, and a deep pot contains too much soil at the bottom that will stay wet and stagnant. Fertilizer This plant is a very light feeder and grows quickly without much assistance if given enough light. Apply a weak, half-strength liquid succulent fertilizer just once or twice during the early spring and summer. Avoid fertilizing in the winter, and never fertilize a plant that is struggling with root rot, as the nitrogen will only burn the remaining delicate roots. Propagation String of Pearls is incredibly easy to propagate, which is helpful if you need to rescue the healthy vines of a rotting plant. Because it naturally creeps along the ground, the easiest method is \"soil propagation.\" Simply take a healthy cutting, lay it flat across the surface of moist (not wet) succulent soil, and lightly pin it down if necessary. The stem will push new roots down into the soil from the nodes along the vine. Alternatively, you can strip the bottom few pearls off a cutting and insert the bare stem directly into the soil. Repotting Because they have very shallow, delicate root systems, String of Pearls rarely need to be repotted. They are perfectly happy being slightly root-bound. You should only repot if the soil has broken down entirely, become compacted, or if you are dealing with a severe pest infestation in the soil. When repotting, be incredibly gentle, as the pearls break off the stems very easily. Always choose a pot with excellent drainage holes, preferably unglazed terracotta, which allows the soil to \"breathe\" and dry out faster. Toxicity The String of Pearls is toxic to dogs, cats, and humans. The sap contains toxic compounds that can cause skin irritation upon contact. If ingested, it causes drooling, vomiting, lethargy, and diarrhea in pets. Because the dangling pearls look remarkably like a toy to a cat, it is imperative to hang this plant securely out of reach. Common Problems Crown rot is the nemesis of the String of Pearls. If the top of the plant looks black, mushy, or stringy, while the bottom vines look healthy, the crown has rotted. You cannot save the rotted roots; you must immediately cut off all the healthy green vines above the rot line and propagate them as new plants. Conversely, if the pearls are shriveling into dry, crispy little husks, the plant is severely underwatered and needs a deep, immediate soaking. Mealybugs are the most common pest; they look like small cotton tufts hiding where the pearls meet the stem. Treat them by dabbing them directly with a cotton swab dipped in rubbing alcohol.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/string-of-pearls/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

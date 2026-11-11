@@ -1,0 +1,289 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ashwagandha",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ashwagandha",
+    "seoTitle": "Ashwagandha Plant Care: Grow & Harvest at Home",
+    "metaDescription": "Ashwagandha thrives in full sun with well-draining soil. Find out how to grow this adaptogenic herb at home, plus tips for harvesting and drying the roots.",
+    "featuredImage": "/assets/images/ashwagandha.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "medicinal-herbs",
+        "ayurvedic",
+        "drought-tolerant",
+        "full-sun",
+        "medicinal-plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Withania somnifera",
+        "family": "Solanaceae",
+        "origin": "India, North Africa, Middle East",
+        "type": "Perennial shrub (often grown as annual)",
+        "nativeClimate": "Dry, sub-tropical regions",
+        "commonUses": [
+            "Medicinal root harvesting",
+            "Ayurvedic remedies",
+            "Stress relief adaptogen"
+        ]
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Full Sun",
+        "watering": "Low. Highly drought-tolerant once established. Allow soil to dry completely between waterings.",
+        "soil": "Sandy, extremely well-draining soil. Cannot tolerate waterlogging.",
+        "pruning": "Pinch back early growth to encourage a bushier habit.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Leaves and berries contain withanolides which can be toxic to pets if ingested in large quantities.",
+        "bestFor": "Herb gardens and medicinal plant enthusiasts with sunny, dry spots."
+    },
+    "vastu": {
+        "enabled": true,
+        "direction": "East or North-East",
+        "benefits": [
+            "Promotes physical strength and vitality",
+            "Reduces stress and anxiety in the household"
+        ]
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "2-3 feet",
+        "matureSpread": "2 feet",
+        "lifeCycle": "Perennial (in zones 9-11)",
+        "floweringSeason": "Mid-summer to late autumn",
+        "containerFriendly": "yes",
+        "indoorCapable": "no"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "70-95\u00b0F (21-35\u00b0C)",
+            "survivable": "50-100\u00b0F (10-38\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30-50%",
+            "survivable": "20-70%"
+        },
+        "soilPH": {
+            "recommended": "7.5-8.0",
+            "survivable": "6.5-8.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires full sun to develop a strong root system and high concentrations of active medicinal compounds.",
+        "sunlightHours": "6-8+ hours of direct sunlight",
+        "intensity": "high",
+        "indoorWindow": "south-facing window (if grown indoors)",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "high",
+        "micronutrientNotes": "Does not require heavy feeding. Too much nitrogen encourages leafy growth at the expense of root development.",
+        "fertilizerFrequency": "Feed once lightly in early spring with a balanced organic fertilizer.",
+        "organicOptions": "Bone meal or a light application of compost."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Extremely susceptible to root rot in heavy clay or waterlogged soils."
+        }
+    ],
+    "calculatorReferences": [],
+    "faq": [
+        {
+            "question": "Are Ashwagandha berries safe to eat?",
+            "answer": "No \u2014 the bright red berries are mildly toxic and can cause stomach upset. Only the roots and leaves are used for medicinal purposes. Always discard the berries when harvesting the plant."
+        },
+        {
+            "question": "Is it legal to grow Ashwagandha at home?",
+            "answer": "Yes \u2014 it is perfectly legal to cultivate Withania somnifera in your home garden. It is an unregulated medicinal herb. Just ensure you are buying seeds from a reputable nursery."
+        },
+        {
+            "question": "How long does it take to grow Ashwagandha from seed to harvest?",
+            "answer": "About 150 to 180 days. You should plant seeds in early spring after the last frost and harvest the roots in late fall once the plant's leaves begin drying out."
+        },
+        {
+            "question": "Can I grow Ashwagandha indoors in a pot?",
+            "answer": "Yes \u2014 provided you use a deep pot of at least 12 inches to accommodate its massive taproot. Place the pot in a south-facing window receiving at least 6 hours of direct sunlight."
+        },
+        {
+            "question": "What is the best soil mix for this herb?",
+            "answer": "Very sandy, fast-draining soil with a pH of 7.5 to 8.0. Mix standard potting soil with 50% coarse sand or perlite. It naturally grows in rocky, arid environments and hates heavy clay."
+        },
+        {
+            "question": "Why are the leaves on my Ashwagandha wilting?",
+            "answer": "Root rot is the most likely cause. Because it is highly drought-tolerant, overwatering suffocates the roots. Stop watering immediately, check the drainage holes, and mix more sand into the soil."
+        },
+        {
+            "question": "Why isn't my plant producing any berries?",
+            "answer": "Lack of direct sunlight or excessive nitrogen fertilizer. Move the plant to a full-sun location and stop feeding it. Too much nitrogen forces leafy growth instead of flowers and roots."
+        },
+        {
+            "question": "How do I process the roots after harvesting?",
+            "answer": "Wash them thoroughly, cut them into 2-inch pieces, and dry them in a shaded, well-ventilated area for a week. Once fully dried, you can grind them into powder or explore our medicinal herbs processing guide."
+        }
+    ],
+    "shortDesc": "An incredibly resilient medicinal herb revered in Ayurveda, known for its stress-relieving roots and drought tolerance.",
+    "content": "<h2>Overview</h2><p>Ashwagandha (Withania somnifera), often called Indian Ginseng, is one of the most important herbs in Ayurveda. Known for its powerful adaptogenic properties, it has been used for millennia to relieve stress, increase energy levels, and improve concentration. As a garden plant, it is a hardy, drought-tolerant shrub that thrives in hot, dry conditions.</p><h2>Planting and Soil Requirements</h2><p>The key to successfully growing Ashwagandha is excellent drainage. It naturally grows in dry, rocky, or sandy soils. Heavy clay soils that retain moisture will quickly lead to root rot. If growing in pots, mix standard potting soil with coarse sand or perlite in a 1:1 ratio. It prefers slightly alkaline soil with a pH between 7.5 and 8.0.</p><h2>Sunlight and Watering</h2><p>This medicinal herb loves the sun. Plant it in a location that receives at least 6 to 8 hours of direct, unfiltered sunlight daily. Full sun is essential for the plant to produce a robust root system (which is the primary medicinal part). Once established, Ashwagandha is highly drought-tolerant. Only water when the soil is completely dry to the touch.</p><h2>Harvesting the Roots</h2><p>The roots are the prized harvest of the Ashwagandha plant. They are typically ready to be harvested in late fall, approximately 150-180 days after planting. Wait until the plant's leaves start drying out and the berries turn bright red. Carefully dig around the base to extract the long taproot, wash it thoroughly, and dry it in a well-ventilated, shaded area before processing.</p>",
+    "quickAnswer": "Ashwagandha needs full sun, highly well-draining sandy soil, and very infrequent watering to thrive and produce its medicinal roots. It tolerates drought well once established and generally struggles more from overwatering than from neglect. Monitoring the plant regularly helps catch early signs of stress before they cause any lasting damage.",
+    "ogImage": "/assets/images/ashwagandha.webp",
+    "ogImageAlt": "Ashwagandha plant with bright red berries",
+    "heroImage": "/assets/images/ashwagandha.webp",
+    "heroImageAlt": "Ashwagandha plant with bright red berries",
+    "featuredImageAlt": "Ashwagandha plant with bright red berries",
+    "category": "Ayurvedic Plants",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Wilting despite moist soil",
+            "diagnosis": "Root rot from poor drainage or overwatering.",
+            "treatment": "Stop watering immediately and amend the soil with sand. If in a pot, ensure drainage holes are not blocked.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Adaptogen",
+            "definition": "A natural substance considered to help the body adapt to stress and exert a normalizing effect upon bodily processes."
+        },
+        {
+            "term": "Taproot",
+            "definition": "A large, central, and dominant root from which other roots sprout laterally. This is the part of the Ashwagandha plant harvested for medicinal use."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Medicinal Herb Growing Comparison",
+        "headers": [
+            "Herb",
+            "Primary Benefit",
+            "Growth Habit"
+        ],
+        "rows": [
+            [
+                "Ashwagandha",
+                "Stress relief and vitality",
+                "Bushy shrub (2-3 ft)"
+            ],
+            [
+                "Tulsi (Holy Basil)",
+                "Immunity and respiratory health",
+                "Leafy herb (1-2 ft)"
+            ],
+            [
+                "Neem",
+                "Detoxification and skin health",
+                "Large tree"
+            ]
+        ]
+    },
+    "relatedEntitySlugs": [
+        "sowing-calendar",
+        "sunlight",
+        "grow-bag-calculator",
+        "organic-compost"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering indoors because owners treat it like a culinary herb that needs regular moisture\u2014but ashwagandha evolved in arid regions and its roots rot quickly in consistently damp soil. Let the soil dry completely between waterings."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It requires a cool, dry winter dormancy to build root potency\u2014forcing year-round growth by keeping it warm and watered produces weak, leggy plants with low concentrations of medicinal withanolides. Reduce water and lower temperatures to 50\u201360\u00b0F in winter."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light indoor conditions it grows tall, floppy, and fails to produce its characteristic red berries. It genuinely needs a very sunny south-facing window or supplemental grow lights to thrive as more than a green stick."
+        }
+    ],
+    "h1": "Ashwagandha Plant Care: How to Grow and Harvest at Home",
+    "breadcrumbName": "Ashwagandha Plant Care",
+    "commonName": "Ashwagandha",
+    "summary": "Withania somnifera is a durable medicinal shrub adapted to arid environments, full sun exposure, and gritty, well-draining soils. Explore seed germination techniques, container depth requirements, and root harvesting practices.",
+    "keyTakeaways": [
+        "Provide full, direct sunlight (minimum 6 hours daily) for robust development.",
+        "Plant in deep containers filled with fast-draining, sandy alkaline potting mix.",
+        "Water moderately, allowing the substrate to dry out between applications.",
+        "Harvest taproots in late autumn after 150 to 180 days of growth."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 7,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Perennial shrub (often grown as annual)",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Low",
+        "drynessThreshold": 75,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "70-95\u00b0F (21-35\u00b0C)",
+        "matureSize": "2-3 feet",
+        "growthRate": "Moderate",
+        "soil": "Sandy, well-draining soil",
+        "soilDrainage": "fast",
+        "fertilizer": "Low nitrogen organic fertilizer",
+        "repottingFrequency": "Annually if container grown",
+        "potPreference": "Standard",
+        "propagation": "Seeds",
+        "flowering": true,
+        "floweringSeason": "Summer-Fall",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "India, North Africa, Middle East",
+        "usdaZones": "8-12",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ashwagandha/",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": [],
+        "note": "Used as an herbal supplement for pets at controlled dosages; raw ingestion may cause GI upset. Omitted from explicit ASPCA lists."
+    },
+    "contentText": "Overview Ashwagandha (Withania somnifera), often called Indian Ginseng, is one of the most important herbs in Ayurveda. Known for its powerful adaptogenic properties, it has been used for millennia to relieve stress, increase energy levels, and improve concentration. As a garden plant, it is a hardy, drought-tolerant shrub that thrives in hot, dry conditions. Planting and Soil Requirements The key to successfully growing Ashwagandha is excellent drainage. It naturally grows in dry, rocky, or sandy soils. Heavy clay soils that retain moisture will quickly lead to root rot. If growing in pots, mix standard potting soil with coarse sand or perlite in a 1:1 ratio. It prefers slightly alkaline soil with a pH between 7.5 and 8.0. Sunlight and Watering This medicinal herb loves the sun. Plant it in a location that receives at least 6 to 8 hours of direct, unfiltered sunlight daily. Full sun is essential for the plant to produce a robust root system (which is the primary medicinal part). Once established, Ashwagandha is highly drought-tolerant. Only water when the soil is completely dry to the touch. Harvesting the Roots The roots are the prized harvest of the Ashwagandha plant. They are typically ready to be harvested in late fall, approximately 150-180 days after planting. Wait until the plant's leaves start drying out and the berries turn bright red. Carefully dig around the base to extract the long taproot, wash it thoroughly, and dry it in a well-ventilated, shaded area before processing.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ashwagandha/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

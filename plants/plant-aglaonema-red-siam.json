@@ -1,0 +1,331 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-aglaonema-red-siam",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "aglaonema-red-siam",
+    "seoTitle": "Red Siam Aglaonema Care: Light, Water & Color Guide",
+    "metaDescription": "Red Siam Aglaonema stays vibrant with the right light balance. Find out the watering schedule, ideal placement, and how to prevent root rot in this.",
+    "featuredImage": "/assets/images/aglaonema-red-siam.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "low-light-tolerant",
+        "toxic-to-pets",
+        "statement-foliage",
+        "easy-care"
+    ],
+    "references": [
+        {
+            "title": "Aroid Cultivation",
+            "source": "International Aroid Society",
+            "url": "https://www.aroid.org/"
+        },
+        {
+            "title": "Aglaonema Production Guide",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://mrec.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Aglaonema 'Siam Aurora'",
+        "family": "Araceae",
+        "origin": "Cultivar (Species native to Southeast Asia)",
+        "type": "Evergreen herbaceous perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Office desks",
+            "Dim living rooms",
+            "Colorful centerpieces"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Highly adaptable. Survives in low light, but needs bright, indirect light to keep its neon red borders.",
+        "watering": "Water only when the top 2-3 inches of soil are dry. Very forgiving of missed waterings.",
+        "soil": "A standard, well-draining indoor potting mix.",
+        "pruning": "Snip off older, yellowing leaves at the base as they naturally die.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Contains calcium oxalate crystals; causes severe oral pain and vomiting.",
+        "bestFor": "Beginners who want a massive pop of neon red color without the extreme difficulty of caring for a Calathea or Croton."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "1-2 feet indoors",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer (produces a small, green/white spathe and spadix)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 90\u00b0F (15\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "While older green Aglaonemas can survive in pitch darkness, red varieties like the Siam Aurora require bright, indirect light to maintain their intense red borders.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium",
+        "indoorWindow": "East or North-facing window.",
+        "shadeTolerance": "high (but loses red color)"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very slow grower; requires minimal feeding.",
+        "fertilizerFrequency": "Once every two months during spring and summer with a diluted liquid fertilizer.",
+        "organicOptions": "A light top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Highly susceptible to rot if overwatered, leading to yellowing, mushy stems."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Red Siam Aglaonema losing its red color?",
+            "answer": "Loss of the vibrant red borders is caused by low light. While the plant can survive in a dark corner, it will slowly stop producing the red pigmentation and turn solid green to maximize its ability to photosynthesize. Move it to a brighter spot."
+        },
+        {
+            "question": "Why are the bottom leaves turning yellow and mushy?",
+            "answer": "Yellow, mushy leaves at the base of the plant are a classic sign of overwatering and root rot. You must let the top few inches of the soil dry out completely before watering again."
+        },
+        {
+            "question": "Can the Red Aglaonema survive in a windowless office?",
+            "answer": "It can survive under bright fluorescent office lights for a very long time, but it will slowly lose its red color over the course of a year. It really prefers to be near a window."
+        },
+        {
+            "question": "Are the tiny white flowers worth keeping?",
+            "answer": "Aglaonemas occasionally produce a small spathe-and-spadix flower. Most growers cut them off immediately because the flowers are unremarkable and drain a massive amount of energy from the plant, which is better spent growing colorful leaves."
+        },
+        {
+            "question": "Is the Red Aglaonema toxic to pets?",
+            "answer": "Yes. It contains calcium oxalate crystals. Chewing on the leaves or stems will cause intense burning, swelling, and vomiting in cats and dogs."
+        }
+    ],
+    "shortDesc": "The Red Siam Aglaonema is arguably the easiest colorful houseplant in existence. It features dark green leaves bordered with striking neon red, and it easily tolerates missed waterings and low light.",
+    "content": "<h2>Overview</h2><p>Getting a massive pop of neon color in your house usually comes with a catch. If you want the bright pink of a Stromanthe, you have to run a humidifier 24/7. If you want the blazing red of a Croton, you have to bake it in direct sunlight. Enter the Red Siam Aglaonema (<em>Aglaonema 'Siam Aurora'</em>).</p><p>This cultivar of the classic Chinese Evergreen is an absolute game-changer. It features lance-shaped, dark green leaves that are heavily outlined and veined in brilliant, glowing neon red and pink. The true beauty of this plant, however, is not just its color\u2014it's the fact that it is practically indestructible. It is highly forgiving of missed waterings, doesn't care about humidity, and happily tolerates lower light levels, making it the perfect colorful centerpiece for beginners.</p><h3>Light Requirements: The Color Tradeoff</h3><p>Standard green and silver Aglaonemas are famous for surviving in dark, windowless offices for years. The Red Siam, however, has a tradeoff. Because it has less green chlorophyll (due to the massive red borders), it requires more light to survive.</p><p>If you place the Red Siam in a dark corner, it won't die immediately, but it will enter a survival state. It will stop producing the beautiful red edges and push out solid green leaves to maximize photosynthesis. To keep the plant brilliantly red, you must place it in bright, indirect light. An east or north-facing window is ideal. Avoid direct, hot afternoon sun, which will scorch the delicate leaves.</p><h3>Watering: Erring on the Dry Side</h3><p>The Red Siam Aglaonema has thick, fleshy roots that hold a significant amount of water. This makes it highly tolerant of drought, but incredibly susceptible to root rot if overwatered. </p><p>You must allow the top 2 to 3 inches of the potting soil to dry out completely before you water. If you stick your finger into the soil and it feels damp, wait a few more days. When the soil is properly dry, soak the pot thoroughly until water flows out the drainage holes, but ensure it never sits in a saucer of standing water. If the lowest leaves turn a sickly yellow and the stems feel mushy, you are drowning the plant.</p><h3>Temperature and Humidity</h3><p>As a tropical understory plant, it requires warm indoor temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). It is highly sensitive to cold drafts; temperatures below 60\u00b0F (15\u00b0C) can cause permanent cellular damage and leaf drop. Fortunately, it is completely unfazed by dry indoor air and does not require a humidifier.</p><h3>Soil and Potting</h3><p>Because the roots rot easily, a fast-draining potting mix is essential. Standard indoor potting soil should be amended with 30% perlite to ensure excess water drains away rapidly. It is a very slow grower and prefers to be slightly root-bound, so it rarely needs to be repotted.</p><h2>The Flowers</h2><p>If your Red Siam is perfectly happy, it may suddenly produce a flower during the summer. The flower looks like a small, pale green Peace Lily (a spathe and spadix). While exciting, the flower is not very pretty and drains a massive amount of energy from the plant. It is highly recommended to use sterile scissors to cut the flower off at the base as soon as it appears, forcing the plant to redirect that energy back into growing its spectacular red leaves.</p><h2>Toxicity</h2><p>Like all plants in the Araceae family, the Aglaonema contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or children, these microscopic crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the plant safely out of reach.</p>",
+    "quickAnswer": "The Red Siam Aglaonema needs bright, indirect light to keep its vivid red borders vibrant; in low light, the coloring will fade back to green over time. Water only when the top 3 inches of soil are dry. Yellow, mushy bottom leaves almost always mean you are overwatering, so ease off and check drainage.",
+    "ogImage": "/assets/images/aglaonema-red-siam.webp",
+    "ogImageAlt": "Dark green leaves with brilliant neon red borders and veins",
+    "heroImage": "/assets/images/aglaonema-red-siam.webp",
+    "heroImageAlt": "Close up of the striking red variegation on an Aglaonema leaf",
+    "featuredImageAlt": "A vibrant Red Siam Aglaonema sitting on a modern wooden desk",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Red Siam Aglaonema losing its red color?",
+            "diagnosis": "Low light stress causing loss of red pigmentation",
+            "treatment": "Move the plant to a location with bright, indirect light for at least 6 hours daily. The red borders will reappear on new leaves. Avoid direct sun which can scorch the leaves.",
+            "prevention": "Provide consistent bright indirect light and rotate the pot weekly to ensure even light exposure. If natural light is insufficient, supplement with a full-spectrum grow light.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the bottom leaves turning yellow and mushy?",
+            "diagnosis": "Overwatering leading to root rot",
+            "treatment": "Stop watering immediately and allow the top 2\u20133 inches of soil to dry completely before the next watering. If the plant is severely affected, unpot it, trim away any brown, mushy roots, and repot in fresh, well-draining aroid mix.",
+            "prevention": "Water only when the top inch of soil feels dry; ensure the pot has drainage holes; use a porous potting mix (e.g., peat, perlite, and orchid bark) to prevent waterlogging.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Chlorophyll",
+            "definition": "The green pigment in plants responsible for absorbing light energy. If the Red Siam is put in the dark, it will produce more chlorophyll (turning green) to survive."
+        },
+        {
+            "term": "Spathe and Spadix",
+            "definition": "The signature flower structure of the Araceae family. It consists of a fleshy spike (spadix) surrounded by a leaf-like bract (spathe). Aglaonema flowers should generally be cut off to save energy."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Easy Colorful Houseplant Comparison",
+        "headers": [
+            "Plant",
+            "Color",
+            "Care Difficulty"
+        ],
+        "rows": [
+            [
+                "Red Siam Aglaonema",
+                "Neon Red & Green",
+                "Beginner (Very Forgiving)"
+            ],
+            [
+                "Croton Petra",
+                "Red, Orange, Yellow",
+                "Advanced (Needs Direct Sun)"
+            ],
+            [
+                "Stromanthe Triostar",
+                "Hot Pink & White",
+                "Advanced (Needs High Humidity)"
+            ]
+        ]
+    },
+    "h1": "Red Siam Aglaonema Care: Keeping the Red Color Vivid",
+    "breadcrumbName": "Red Siam Aglaonema Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Placing it in low light because owners assume all aglaonemas are shade lovers\u2014but without bright indirect light, the red-pink pigment breaks down and leaves revert to plain green within months. The color is produced by anthocyanins that only activate under stronger light."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Over-fertilizing actually reduces red pigmentation\u2014excess nitrogen pushes the plant toward green vegetative growth instead of the stress-response coloring. Feed lightly, no more than once a month in the growing season."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In air-conditioned rooms it grows very slowly but stays healthy as long as it's away from direct cold drafts. Cold airflow from vents or windows causes leaf edges to brown and curl within a week."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "red aglaonema care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "chinese evergreen red",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema red edges",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "easy red houseplant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema losing red color",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Aglaonema Red Siam",
+    "summary": "Aglaonema 'Red Siam' is a highly resilient ornamental aroid featuring dramatic red-pink margins and bright green variegation. Learn light positioning to sustain intense coloration, substrate drainage requirements, and basic pest prevention.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to maintain vibrant red-pink leaf margins.",
+        "Water only when the top 1 to 2 inches of potting mix feel completely dry.",
+        "Tolerate lower light levels, though red pigmentation will gradually revert to green.",
+        "Keep away from pets, as foliage contains insoluble calcium oxalate crystals."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen herbaceous perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Water only when the top 2-3 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "1-2 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Peat-based potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Diluted balanced liquid fertilizer monthly",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings or division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Southeast Asia",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chinese-evergreen"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/aglaonema-red-siam/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chinese-evergreen"
+        ]
+    },
+    "contentText": "Overview Getting a massive pop of neon color in your house usually comes with a catch. If you want the bright pink of a Stromanthe, you have to run a humidifier 24/7. If you want the blazing red of a Croton, you have to bake it in direct sunlight. Enter the Red Siam Aglaonema ( Aglaonema 'Siam Aurora' ). This cultivar of the classic Chinese Evergreen is an absolute game-changer. It features lance-shaped, dark green leaves that are heavily outlined and veined in brilliant, glowing neon red and pink. The true beauty of this plant, however, is not just its color\u2014it's the fact that it is practically indestructible. It is highly forgiving of missed waterings, doesn't care about humidity, and happily tolerates lower light levels, making it the perfect colorful centerpiece for beginners. Light Requirements: The Color Tradeoff Standard green and silver Aglaonemas are famous for surviving in dark, windowless offices for years. The Red Siam, however, has a tradeoff. Because it has less green chlorophyll (due to the massive red borders), it requires more light to survive. If you place the Red Siam in a dark corner, it won't die immediately, but it will enter a survival state. It will stop producing the beautiful red edges and push out solid green leaves to maximize photosynthesis. To keep the plant brilliantly red, you must place it in bright, indirect light. An east or north-facing window is ideal. Avoid direct, hot afternoon sun, which will scorch the delicate leaves. Watering: Erring on the Dry Side The Red Siam Aglaonema has thick, fleshy roots that hold a significant amount of water. This makes it highly tolerant of drought, but incredibly susceptible to root rot if overwatered. You must allow the top 2 to 3 inches of the potting soil to dry out completely before you water. If you stick your finger into the soil and it feels damp, wait a few more days. When the soil is properly dry, soak the pot thoroughly until water flows out the drainage holes, but ensure it never sits in a saucer of standing water. If the lowest leaves turn a sickly yellow and the stems feel mushy, you are drowning the plant. Temperature and Humidity As a tropical understory plant, it requires warm indoor temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). It is highly sensitive to cold drafts; temperatures below 60\u00b0F (15\u00b0C) can cause permanent cellular damage and leaf drop. Fortunately, it is completely unfazed by dry indoor air and does not require a humidifier. Soil and Potting Because the roots rot easily, a fast-draining potting mix is essential. Standard indoor potting soil should be amended with 30% perlite to ensure excess water drains away rapidly. It is a very slow grower and prefers to be slightly root-bound, so it rarely needs to be repotted. The Flowers If your Red Siam is perfectly happy, it may suddenly produce a flower during the summer. The flower looks like a small, pale green Peace Lily (a spathe and spadix). While exciting, the flower is not very pretty and drains a massive amount of energy from the plant. It is highly recommended to use sterile scissors to cut the flower off at the base as soon as it appears, forcing the plant to redirect that energy back into growing its spectacular red leaves. Toxicity Like all plants in the Araceae family, the Aglaonema contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or children, these microscopic crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the plant safely out of reach.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/aglaonema-red-siam/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

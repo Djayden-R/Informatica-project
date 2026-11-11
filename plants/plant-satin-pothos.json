@@ -1,0 +1,355 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-satin-pothos",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "satin-pothos",
+    "seoTitle": "Satin Pothos Care: Fix Curling Leaves on Scindapsus",
+    "metaDescription": "Satin Pothos leaves curl when light, watering, or humidity are off. Find out Scindapsus pictus' exact care needs to keep the silver shimmer vibrant.",
+    "featuredImage": "/assets/images/satin-pothos.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "toxic-plants",
+        "low-light-tolerant",
+        "beginner-friendly"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Scindapsus pictus",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Scindapsus pictus",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Scindapsus pictus",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Tropical Foliage Plant Care",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        },
+        {
+            "title": "World Flora Online - Scindapsus pictus",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Scindapsus pictus",
+        "family": "Araceae",
+        "origin": "Southeast Asia",
+        "type": "Trailing evergreen vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Hanging baskets",
+            "Trailing off high shelves",
+            "Climbing moss poles"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Hanging basket or shelf in medium to bright indirect light.",
+        "watering": "Water only when the top 2 inches of soil are dry AND the leaves begin to curl slightly.",
+        "soil": "A standard, well-draining indoor potting mix with added perlite.",
+        "pruning": "Trim long, leggy vines just below a node to encourage bushy growth at the top.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Toxic to cats, dogs, and humans. Ingestion causes oral irritation and swelling.",
+        "bestFor": "Beginners who tend to overwater, as the plant clearly signals when it is thirsty."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "Trailing vines can reach 4-10 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 90\u00b0F (15\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires medium to bright indirect light to maintain its striking silver variegation. Can survive in low light, but leaves will become smaller and solid green.",
+        "sunlightHours": "3-5 hours indirect",
+        "intensity": "moderate",
+        "indoorWindow": "East, West, or a few feet back from a South facing window.",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Requires basic nutrients during the growing season to maintain large leaf size.",
+        "fertilizerFrequency": "Once a month during spring and summer at half strength.",
+        "organicOptions": "Standard liquid houseplant fertilizer or worm tea."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Very susceptible to root rot if watered on a schedule rather than waiting for the leaves to curl."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the leaves on my Satin Pothos curling?",
+            "answer": "Curling leaves are the Satin Pothos's built-in thirst indicator! If the soil is dry and the leaves curl inward, it is time to water. However, if the soil is wet and the leaves are curling and yellowing, the roots are rotting."
+        },
+        {
+            "question": "Is a Satin Pothos a real Pothos?",
+            "answer": "Technically, no. True pothos belong to the genus Epipremnum (like the Golden Pothos). The Satin Pothos belongs to the genus Scindapsus. However, their care is nearly identical."
+        },
+        {
+            "question": "Is the Satin Pothos safe for cats and dogs?",
+            "answer": "No. Like all Araceae, it contains calcium oxalate crystals. Chewing the leaves will cause severe oral irritation, swelling, and vomiting in pets."
+        },
+        {
+            "question": "Why is my Satin Pothos losing its silver spots?",
+            "answer": "The plant is not getting enough light. In low light conditions, it stops producing the silver variegation and turns solid green to maximize its ability to photosynthesize. Move it to a brighter location."
+        },
+        {
+            "question": "How do you propagate a Satin Pothos?",
+            "answer": "It is incredibly easy to propagate via stem cuttings. Snip a vine just below a node (the little brown bump on the stem), remove the lowest leaf, and place the node in a glass of water. Roots will form in a few weeks."
+        },
+        {
+            "question": "Why is my plant growing long vines with no leaves?",
+            "answer": "This is called 'leggy' growth. It happens when the plant is desperately stretching to find more light. Prune the bare vines back and move the plant to a brighter spot."
+        },
+        {
+            "question": "Should I let my Satin Pothos trail or climb?",
+            "answer": "Either! It looks beautiful trailing from a basket. However, in nature, it is a climbing epiphyte. If you give it a moss pole to climb, the leaves will grow significantly larger."
+        },
+        {
+            "question": "How often should I water my Satin Pothos?",
+            "answer": "Do not water on a schedule. Wait until the top 2 inches of soil are dry AND the leaves just begin to curl inward slightly. Then, soak the soil thoroughly."
+        }
+    ],
+    "shortDesc": "The Satin Pothos is the ultimate communicator. We teach new plant parents how to read its curling leaves to perfectly time their watering and prevent the dreaded root rot.",
+    "content": "<h2>Overview</h2><p>The Satin Pothos (Scindapsus pictus) is a stunning trailing vine beloved for its matte, dark green leaves splashed with shimmering silver spots. While it is commonly grouped with true Pothos (Epipremnum), it is actually a different genus. However, it shares the same reputation for being incredibly hardy and beginner-friendly. The greatest feature of the Satin Pothos is its built-in communication system: it visibly tells you exactly when it needs water. This guide will teach you how to read those signs to keep the silver foliage pristine and avoid the number one killer of this plant: overwatering.</p><p>Native to the tropical rainforests of Southeast Asia, the Scindapsus pictus naturally climbs up the trunks of large trees. It is accustomed to dappled sunlight filtering through the canopy and periods of heavy rain followed by drying out. When we bring it indoors, it adapts remarkably well to the lower light levels and drier air of our homes, making it one of the most reliable trailing plants available.</p><h3>Light</h3><p>To maintain the striking silver variegation, the Satin Pothos needs medium to bright indirect light. An east or west-facing window is excellent. It is highly adaptable and will survive in low-light environments, such as a north-facing window or an office with fluorescent lights. However, in low light, the plant's growth will slow dramatically, the new leaves will emerge smaller, and it may lose its silver spots, turning a solid, dark green. Keep it out of direct, harsh afternoon sunlight, which will scorch the leaves.</p><h3>Temperature</h3><p>This tropical vine prefers standard household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). It is sensitive to cold drafts. Prolonged exposure to temperatures below 60\u00b0F (15\u00b0C) can cause the leaves to turn yellow and drop. Ensure it is kept away from poorly sealed windows during freezing winter weather.</p><h3>Humidity</h3><p>The Satin Pothos is very forgiving regarding humidity. It will thrive in standard indoor air (40% to 50% humidity). While it will certainly appreciate a more humid environment, such as a bathroom with a window, you do not need to run a humidifier specifically for this plant. Avoid misting the leaves, as the matte texture can sometimes trap water, leading to fungal spots.</p><h3>Watering: The Visual Cue</h3><p>Watering is where the Satin Pothos excels as a beginner plant. You do not need to guess when it is thirsty; you simply need to look at it. When the plant has enough water, the leaves lie flat and feel firm. When the soil dries out and the plant needs a drink, the edges of the leaves will begin to curl inward, and the leaves will feel slightly soft and pliable. \n\nYour watering routine should be: wait until the top 2 inches of soil are dry AND the leaves just begin to curl. When you see this cue, water the plant thoroughly until water runs out the drainage holes, then empty the saucer. If you water before the leaves curl, you risk overwatering. If the leaves are curling tightly into tubes, the plant is severely dehydrated.</p><h3>Soil</h3><p>A standard, high-quality indoor potting mix is generally fine. However, because you want the soil to dry out between waterings, amending the mix with 20% to 30% perlite or pumice will vastly improve drainage and prevent the roots from suffocating in wet, compacted peat.</p><h2>Fertilizer</h2><p>The Satin Pothos is a moderate grower. Feed it with a balanced liquid houseplant fertilizer diluted to half strength once a month during the active growing season (spring and summer). Stop fertilizing in the fall and winter when the plant's growth naturally slows down.</p><h2>Propagation</h2><p>Propagating a Satin Pothos is incredibly easy, making it simple to share with friends or fill out a sparse pot. Snip a vine just below a node (the small brown bump on the stem where a leaf attaches). Remove the lowest leaf to expose the node, and place the stem in a glass of water. Roots will begin to grow from the node within two to three weeks. Once the roots are an inch or two long, plant the cutting in soil. You can plant multiple cuttings in the same pot to create a bushy, full plant.</p><h2>Repotting</h2><p>They do not mind being slightly root-bound and generally only need repotting every one to two years. You will know it is time when you have to water the plant much more frequently because the roots have replaced most of the soil. When repotting, choose a container that is only one size larger (one to two inches wider in diameter) and ensure it has adequate drainage holes.</p><h2>Toxicity</h2><p>The Satin Pothos is toxic to cats, dogs, and humans. It contains insoluble calcium oxalate crystals. If chewed or ingested, these microscopic crystals act like tiny shards of glass, causing severe oral irritation, swelling of the mouth and throat, drooling, and vomiting. Keep the trailing vines out of reach of curious pets and toddlers.</p><h2>Common Problems</h2><p>Yellowing, mushy leaves at the base of the plant are a clear sign of overwatering and root rot. If the soil is wet but the leaves are curling, the roots have rotted and can no longer take up water. In this case, you must take cuttings from the healthy vines and propagate them to save the plant. If the plant is growing long, bare vines with large gaps between the leaves (leggy growth), it is not getting enough light. Prune the bare vines back and move the plant to a brighter location.</p>",
+    "quickAnswer": "Satin Pothos thrives in bright, indirect light and needs to dry out between waterings. Wait to water until the top 2 inches of soil are dry AND the leaves begin to visibly curl inward. Monitoring the plant regularly helps catch early signs of stress before they cause any lasting damage.",
+    "ogImage": "/assets/images/satin-pothos.webp",
+    "ogImageAlt": "A lush Satin Pothos trailing from a hanging basket",
+    "heroImage": "/assets/images/satin-pothos.webp",
+    "heroImageAlt": "Close up of the matte green and silver spotted leaves of Scindapsus pictus",
+    "featuredImageAlt": "Satin Pothos vine trailing across a wooden bookshelf",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves are yellowing and dropping, but soil is wet",
+            "diagnosis": "Root rot caused by watering too frequently, ignoring the plant's visual curling cue.",
+            "treatment": "Stop watering immediately. Check the roots; if mushy, propagate healthy stem cuttings in water to save the plant.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Node",
+            "definition": "The point on a plant stem where leaves are attached. In vining plants like Scindapsus, aerial roots and new growth emerge from the nodes."
+        },
+        {
+            "term": "Leggy Growth",
+            "definition": "A condition where a plant grows long, weak, stretched-out stems with very few leaves, usually caused by insufficient light."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Scindapsus Pictus Variety Comparison",
+        "headers": [
+            "Variety",
+            "Silver Pattern",
+            "Leaf Size"
+        ],
+        "rows": [
+            [
+                "Argyraeus",
+                "Small, distinct silver spots with silver margins",
+                "Small"
+            ],
+            [
+                "Exotica",
+                "Large splashes of silver covering most of the leaf",
+                "Large"
+            ],
+            [
+                "Silvery Ann",
+                "Half the leaf is solid silver, half is speckled",
+                "Small to Medium"
+            ]
+        ]
+    },
+    "h1": "Satin Pothos Care: Learn to Read the Curling Leaves",
+    "breadcrumbName": "Satin Pothos Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "neon-pothos",
+        "indoor-plants-safe-for-cats-and-dogs"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because it looks like a pothos that should tolerate wet soil\u2014but it's actually a Scindapsus, a different genus that is considerably more sensitive to root rot from saturated soil. Let the top inch dry out between waterings and never leave it sitting in a saucer of water."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The silvery spots on the leaves are a structural light-scattering effect that depends on light intensity to be visible\u2014in low light, the spots appear smaller and less metallic, and in bright indirect light they expand and develop a genuine shimmer. Light is what makes the satin quality actually visible."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air below 50% humidity, the leaf edges curl inward and growth stalls even when watering is correct, because the leaves are losing moisture to the air faster than roots can replace it. Grouping it with other plants or adding a pebble tray provides meaningful improvement."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "scindapsus pictus care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for satin pothos",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "silver pothos care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "satin pothos curling leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "satin pothos watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "toxic trailing plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Satin Pothos",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light to maintain the shimmering leaf pattern.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Maintain moderate to high humidity for the healthiest overall foliage.",
+        "Avoid confusing with true Pothos, since care needs differ slightly."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Trailing evergreen vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 2 inches of soil are dry; do not allow the roots to remain waterlogged.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Trailing vines up to 6-10 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Well-draining aroid potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Southeast Asia",
+        "usdaZones": "11-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/satin-pothos"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/satin-pothos/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/satin-pothos"
+        ]
+    },
+    "contentText": "Overview The Satin Pothos (Scindapsus pictus) is a stunning trailing vine beloved for its matte, dark green leaves splashed with shimmering silver spots. While it is commonly grouped with true Pothos (Epipremnum), it is actually a different genus. However, it shares the same reputation for being incredibly hardy and beginner-friendly. The greatest feature of the Satin Pothos is its built-in communication system: it visibly tells you exactly when it needs water. This guide will teach you how to read those signs to keep the silver foliage pristine and avoid the number one killer of this plant: overwatering. Native to the tropical rainforests of Southeast Asia, the Scindapsus pictus naturally climbs up the trunks of large trees. It is accustomed to dappled sunlight filtering through the canopy and periods of heavy rain followed by drying out. When we bring it indoors, it adapts remarkably well to the lower light levels and drier air of our homes, making it one of the most reliable trailing plants available. Light To maintain the striking silver variegation, the Satin Pothos needs medium to bright indirect light. An east or west-facing window is excellent. It is highly adaptable and will survive in low-light environments, such as a north-facing window or an office with fluorescent lights. However, in low light, the plant's growth will slow dramatically, the new leaves will emerge smaller, and it may lose its silver spots, turning a solid, dark green. Keep it out of direct, harsh afternoon sunlight, which will scorch the leaves. Temperature This tropical vine prefers standard household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). It is sensitive to cold drafts. Prolonged exposure to temperatures below 60\u00b0F (15\u00b0C) can cause the leaves to turn yellow and drop. Ensure it is kept away from poorly sealed windows during freezing winter weather. Humidity The Satin Pothos is very forgiving regarding humidity. It will thrive in standard indoor air (40% to 50% humidity). While it will certainly appreciate a more humid environment, such as a bathroom with a window, you do not need to run a humidifier specifically for this plant. Avoid misting the leaves, as the matte texture can sometimes trap water, leading to fungal spots. Watering: The Visual Cue Watering is where the Satin Pothos excels as a beginner plant. You do not need to guess when it is thirsty; you simply need to look at it. When the plant has enough water, the leaves lie flat and feel firm. When the soil dries out and the plant needs a drink, the edges of the leaves will begin to curl inward, and the leaves will feel slightly soft and pliable. Your watering routine should be: wait until the top 2 inches of soil are dry AND the leaves just begin to curl. When you see this cue, water the plant thoroughly until water runs out the drainage holes, then empty the saucer. If you water before the leaves curl, you risk overwatering. If the leaves are curling tightly into tubes, the plant is severely dehydrated. Soil A standard, high-quality indoor potting mix is generally fine. However, because you want the soil to dry out between waterings, amending the mix with 20% to 30% perlite or pumice will vastly improve drainage and prevent the roots from suffocating in wet, compacted peat. Fertilizer The Satin Pothos is a moderate grower. Feed it with a balanced liquid houseplant fertilizer diluted to half strength once a month during the active growing season (spring and summer). Stop fertilizing in the fall and winter when the plant's growth naturally slows down. Propagation Propagating a Satin Pothos is incredibly easy, making it simple to share with friends or fill out a sparse pot. Snip a vine just below a node (the small brown bump on the stem where a leaf attaches). Remove the lowest leaf to expose the node, and place the stem in a glass of water. Roots will begin to grow from the node within two to three weeks. Once the roots are an inch or two long, plant the cutting in soil. You can plant multiple cuttings in the same pot to create a bushy, full plant. Repotting They do not mind being slightly root-bound and generally only need repotting every one to two years. You will know it is time when you have to water the plant much more frequently because the roots have replaced most of the soil. When repotting, choose a container that is only one size larger (one to two inches wider in diameter) and ensure it has adequate drainage holes. Toxicity The Satin Pothos is toxic to cats, dogs, and humans. It contains insoluble calcium oxalate crystals. If chewed or ingested, these microscopic crystals act like tiny shards of glass, causing severe oral irritation, swelling of the mouth and throat, drooling, and vomiting. Keep the trailing vines out of reach of curious pets and toddlers. Common Problems Yellowing, mushy leaves at the base of the plant are a clear sign of overwatering and root rot. If the soil is wet but the leaves are curling, the roots have rotted and can no longer take up water. In this case, you must take cuttings from the healthy vines and propagate them to save the plant. If the plant is growing long, bare vines with large gaps between the leaves (leggy growth), it is not getting enough light. Prune the bare vines back and move the plant to a brighter location.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/satin-pothos/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

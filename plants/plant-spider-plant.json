@@ -1,0 +1,249 @@
+{
+    "quickAnswer": "Spider Plant needs bright indirect light and watering once the top inch of soil dries out; brown tips are commonly caused by fluoride and chlorine in tap water rather than watering habits. Switching to filtered or distilled water often resolves the issue. It's a fast-growing, nearly indestructible plant that readily produces plantlets (pups) for easy propagation.",
+    "summary": "Spider Plant, a resurgent staple of houseplant collections, is prized for being fast-growing, forgiving, and completely non-toxic to pets, though it does have a mild, harmless hallucinogenic effect on cats similar to catnip. Its main recurring complaint, brown leaf tips, is most often linked to sensitivity to minerals and chemicals in tap water rather than under- or overwatering.\n\nBeyond its resilience, Spider Plant readily produces plantlets, sometimes called spiderettes or pups, on trailing stems, making propagation in water or soil simple and a popular way to expand a collection or share with others.",
+    "keyTakeaways": [
+        "Switch to filtered or distilled water to reduce brown leaf tip formation.",
+        "Water once the top inch of soil has dried out.",
+        "Provide bright indirect light for the fullest, most vigorous growth.",
+        "Root plantlets (pups) easily in water or soil to propagate new plants.",
+        "Keep hanging baskets out of reach if cats show interest in chewing leaves."
+    ],
+    "readingTime": 6,
+    "lastReviewed": "2026-09-13",
+    "updatedAt": "2026-09-13",
+    "schemaVersion": "2.0.0",
+    "id": "plant-spider-plant",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "spider-plant",
+    "seoTitle": "Spider Plant Care: Prevent Brown Tips & Propagate Pups",
+    "metaDescription": "Spider Plant develops brown leaf tips from tap water minerals. Find out the right watering and light routine, plus how to root spiderettes (pups) in water.",
+    "heroImage": "/assets/images/spider-plant.webp",
+    "heroImageMobile": "/assets/images/spider-plant-tn.webp",
+    "ogImage": "/assets/images/spider-plant.webp",
+    "ogImageAlt": "Spider plant with trailing pups",
+    "featuredImage": "/assets/images/spider-plant.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "hanging-plants",
+        "easy-care"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Chlorophytum comosum",
+        "family": "Asparagaceae",
+        "origin": "Southern Africa",
+        "type": "Herbaceous perennial",
+        "nativeClimate": "Tropical and southern Africa",
+        "commonUses": [
+            "Hanging baskets",
+            "Air purification",
+            "Pet-safe indoor ornamental"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Indoor Bright Indirect Light to Medium Light",
+        "watering": "Water thoroughly when the top 50% of the soil is dry. They have thick tuberous roots that store water, making them drought-tolerant.",
+        "soil": "Any standard, well-draining indoor potting mix.",
+        "pruning": "Trim off any brown crispy tips with sharp scissors to maintain aesthetics.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Spider plants are non-toxic (ASPCA listed) to cats and dogs. However, they are mildly hallucinogenic to cats, so cats love to chew on them!",
+        "bestFor": "Beginners, pet owners, and anyone wanting a fast-growing hanging plant that produces 'babies'."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "1-2 feet",
+        "matureSpread": "2-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring/Summer (produces tiny white star-shaped flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "60-80\u00b0F (15-27\u00b0C)",
+            "survivable": "50-90\u00b0F (10-32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40-60%",
+            "survivable": "20-80%"
+        },
+        "soilPH": {
+            "recommended": "6.0-7.2",
+            "survivable": "5.5-7.5"
+        }
+    },
+    "lighting": {
+        "description": "Thrives in bright, indirect sunlight. It can survive in lower light, but growth will slow drastically and variegation (the white stripes) may fade to solid green.",
+        "sunlightHours": "4-8 hours of bright indirect light",
+        "intensity": "medium-bright",
+        "indoorWindow": "east or west-facing",
+        "shadeTolerance": "medium"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Extremely susceptible to fluoride toxicity from tap water.",
+        "fertilizerFrequency": "Feed sparingly. Once a month during spring/summer with a half-strength liquid fertilizer.",
+        "organicOptions": "A light top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "tap-water",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Highly sensitive to fluoride and chlorine in municipal tap water, which directly causes their tips to turn black or crispy brown."
+        }
+    ],
+    "calculatorReferences": [
+        "potting-mix-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Are spider plants really safe for cats?",
+            "answer": "Yes. They are non-toxic (ASPCA listed). However, they can have a mild hallucinogenic effect on felines (similar to catnip), so cats will aggressively chew on the leaves if left within reach."
+        },
+        {
+            "question": "How often should I water a spider plant?",
+            "answer": "Water when the top 50% of the soil is completely dry. Spider plants have thick, tuberous roots that store water, so they prefer to dry out between waterings."
+        },
+        {
+            "question": "Why do the tips of my spider plant keep turning brown?",
+            "answer": "This is almost always caused by fluoride or chlorine in municipal tap water. Switch to rainwater or distilled water to stop the tips from turning black or crispy brown."
+        },
+        {
+            "question": "How do I propagate the babies?",
+            "answer": "Wait until the 'spiderettes' on the runners develop tiny root nubs. Snip them off with sterile scissors and place the base in a jar of water to root."
+        },
+        {
+            "question": "Can spider plants survive outdoors?",
+            "answer": "Yes, in mild climates (zones 9-11) they make excellent ground cover, provided they are kept out of direct sunlight. Discover more hardy varieties in our indoor plants library."
+        }
+    ],
+    "content": "<section aria-labelledby=\"spider-plant-intro\"><h2 id=\"spider-plant-intro\">The Big Comeback</h2><p>The <strong>Spider Plant</strong> (Chlorophytum comosum) was a staple of 1970s interior design, and in 2026, it is experiencing a massive resurgence in popularity. Plant lovers are returning to this classic \"bread and butter\" plant because it is practically indestructible, incredibly fast-growing, and completely non-toxic to pets.</p></section><section aria-labelledby=\"pet-safety\"><h2 id=\"pet-safety\">A Warning for Cat Owners</h2><p>While Spider Plants are listed as non-toxic (ASPCA listed) by the ASPCA, they are known to have a mild, harmless hallucinogenic effect on felines (similar to catnip). If you have cats, you will likely find them obsessively chewing the long, grassy leaves. To preserve the aesthetic of your plant, it is best kept in a hanging basket out of feline reach.</p></section>",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "topics:humidity",
+        "houseplant-leaves-turning-yellow",
+        "topics:repotting"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the grassy, arching leaves suggest a lawn-like thirst for moisture\u2014but spider plants have thick, fleshy tuberous roots specifically designed to store water between waterings, and soggy soil causes those roots to rot. Let the top inch of soil dry out before watering again."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Brown leaf tips are almost universally caused by fluoride and dissolved salts in tap water accumulating in the leaf tissue over time\u2014not underwatering, not low humidity, and not any deficiency. Switching to distilled or filtered water stops new browning, though existing brown tips won't reverse."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the plant stops producing the hanging stolons (runners) with baby plantlets that make it iconic, because it needs sufficient energy from light to invest in reproduction. Bright indirect light triggers the production of those cascading babies."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Spider Plant Variety Comparison"
+    },
+    "h1": "Spider Plant Care: Prevent Brown Tips and Propagate Pups",
+    "breadcrumbName": "Spider Plant Care",
+    "commonName": "Spider Plant",
+    "troubleshooting": [
+        {
+            "symptom": "Why do the tips of my spider plant keep turning brown?",
+            "diagnosis": "Fluoride/chlorine toxicity from tap water",
+            "treatment": "Switch to distilled or rainwater; trim brown tips.",
+            "prevention": "Use purified water.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Herbaceous perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water thoroughly when the top 50% of the soil is dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "60\u00b0F - 80\u00b0F (15\u00b0C - 27\u00b0C)",
+        "matureSize": "1-2 feet",
+        "growthRate": "Fast",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Plantlets or division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "safe",
+        "nativeRegion": "Southern Africa",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.ohiotropics.com/2021/04/14/curly-spider-plant-bonnie/"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": [
+            "watering",
+            "humidity",
+            "repotting"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/spider-plant/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water Spider Plant thoroughly when the top inch or two of soil becomes dry to the touch. Their fleshy tuberous roots store water well, so aim for moderate, even soil moisture and avoid letting the pot sit in standing drainage water."
+        }
+    ],
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.ohiotropics.com/2021/04/14/curly-spider-plant-bonnie/"
+        ]
+    },
+    "contentText": "The Big Comeback The Spider Plant (Chlorophytum comosum) was a staple of 1970s interior design, and in 2026, it is experiencing a massive resurgence in popularity. Plant lovers are returning to this classic \"bread and butter\" plant because it is practically indestructible, incredibly fast-growing, and completely non-toxic to pets. A Warning for Cat Owners While Spider Plants are listed as non-toxic (ASPCA listed) by the ASPCA, they are known to have a mild, harmless hallucinogenic effect on felines (similar to catnip). If you have cats, you will likely find them obsessively chewing the long, grassy leaves. To preserve the aesthetic of your plant, it is best kept in a hanging basket out of feline reach.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/spider-plant/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

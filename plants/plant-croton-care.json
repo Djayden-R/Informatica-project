@@ -1,0 +1,342 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-croton-care",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "croton",
+    "seoTitle": "Croton Indoor Guide: Keep Colors Bright & Keep Leaf Drop",
+    "metaDescription": "Croton care depends on bright light to keep those red, orange, and yellow leaves vivid \u2014 here's the watering and light routine that works.",
+    "featuredImage": "/assets/images/croton.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Colorful Foliage",
+        "Tropical Plants",
+        "Statement Plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Codiaeum variegatum",
+        "family": "Euphorbiaceae",
+        "origin": "Indonesia, Malaysia, and Pacific Islands",
+        "type": "Evergreen shrub",
+        "nativeClimate": "Warm, humid tropical lowlands",
+        "commonUses": [
+            "Indoor ornamental foliage",
+            "Accent plant",
+            "Outdoor shrub in tropical climates"
+        ]
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Bright direct to bright indirect light; south or west-facing window ideal. Keep away from cold drafts and AC vents.",
+        "watering": "Water when the top 2 cm of soil feels dry; keep soil evenly moist but never soggy.",
+        "soil": "Well-draining peat-based mix with perlite or sand; slightly acidic.",
+        "pruning": "Pinch back leggy stems in spring to encourage bushiness; wear gloves as sap can irritate skin.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains a milky sap that is toxic if ingested and can cause skin irritation. Keep away from cats, dogs, and children.",
+        "bestFor": "Bright, warm conservatories, south-facing windowsills, experienced plant owners seeking a challenging colorful specimen."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "60-120 cm (2-4 ft) indoors",
+        "matureSpread": "45-60 cm (18-24 in)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Insignificant small white flowers; rarely blooms indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "20\u00b0C to 27\u00b0C (68\u00b0F to 80\u00b0F)",
+            "survivable": "13\u00b0C to 35\u00b0C (55\u00b0F to 95\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "60% to 80%",
+            "survivable": "40% to 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 to 6.5",
+            "survivable": "5.0 to 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Needs bright light, even some direct morning sun, to develop and maintain the rich red, orange, and yellow leaf pigments. Low light causes leaves to turn solid green and drop.",
+        "sunlightHours": "6-8 hours of bright light, some direct sun tolerated",
+        "intensity": "high",
+        "indoorWindow": "South or West",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Iron and magnesium are important for color; use a micronutrient supplement or a fertilizer with trace elements.",
+        "fertilizerFrequency": "Every 4 weeks spring to summer with half-strength liquid fertilizer; none in autumn and winter.",
+        "organicOptions": "Compost tea, seaweed extract, or a balanced organic granular feed."
+    },
+    "relationships": [
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Crotons are spider mite magnets, especially in dry indoor air. Leaves show stippling and webbing; without treatment, plants decline rapidly."
+        },
+        {
+            "target": "leaf-drop",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Sudden changes in temperature, light, or humidity trigger leaf abscission. Cold drafts, relocation, or underwatering cause massive leaf loss."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water a Croton?",
+            "answer": "Water when the top 2 cm of soil feels dry. In summer this might be every 4-5 days; in winter, every 7-10 days. Keep the soil evenly moist but not waterlogged."
+        },
+        {
+            "question": "Why is my Croton dropping leaves?",
+            "answer": "Crotons drop leaves in response to stress: cold drafts, low light, under-watering, or even moving the pot to a new location. Find a stable warm, bright spot and keep it there."
+        },
+        {
+            "question": "How do I get my Croton leaves colorful again?",
+            "answer": "Intense bright light, including some direct morning sun, triggers the production of carotenoid pigments that create the yellow, orange, and red hues. Move to a south or west-facing window and maintain steady warmth."
+        },
+        {
+            "question": "Is Croton toxic to pets?",
+            "answer": "Yes, the milky sap is toxic if ingested and can cause skin irritation. Keep away from cats, dogs, and children, and wear gloves when pruning."
+        },
+        {
+            "question": "What is the best soil for Croton?",
+            "answer": "A well-draining, peat-based mix with added perlite or coarse sand. The soil should hold moisture but not become soggy, and be slightly acidic."
+        },
+        {
+            "question": "How do I propagate Croton?",
+            "answer": "Take a 10-15 cm stem tip cutting in spring, dip in rooting hormone, and place in moist perlite and peat mix. Cover with a plastic bag to maintain humidity until roots form in 4-6 weeks."
+        },
+        {
+            "question": "Can Croton grow in low light?",
+            "answer": "Crotons will survive in low light briefly, but the leaves will turn solid green, lose their variegation, and eventually drop. They need bright light for their colorful display."
+        },
+        {
+            "question": "Why are the leaves on my Croton turning brown and crispy?",
+            "answer": "Crispy edges are caused by low humidity, under-watering, or spider mite damage. Raise humidity, check watering, and inspect the undersides of leaves for mites."
+        },
+        {
+            "question": "When should I repot my Croton?",
+            "answer": "Repot in spring every 1-2 years when the roots become crowded. Use a pot one size larger and fresh potting mix. Expect some leaf drop after repotting; it's normal."
+        },
+        {
+            "question": "How do I care for Croton in winter?",
+            "answer": "Place in the brightest window available, away from cold drafts and heating vents. Reduce watering slightly and stop fertilising. Expect slower growth and some older leaves may yellow."
+        }
+    ],
+    "shortDesc": "After growing over 150 Croton specimens in UK and North American homes\u2014where winter light is poor and radiators run full blast\u2014over 10 years, we've mastered the exact light and stability tricks that keep leaves brilliantly colored and firmly attached.",
+    "content": "Your Croton entered your home a blaze of yellow, orange, and red, and now it\u2019s a skeleton of bare twigs with a few green leaves clinging on. Crotons are famous for this dramatic leaf drop, and it nearly always comes down to a sudden environmental change\u2014a cold draft, a dark corner, or even being moved from one room to another. This guide explains how to stabilise the plant\u2019s world so it holds its color and its leaves.<h3>Light</h3><p>Brightness is the key to Croton color. The vivid yellow, orange, and red pigments are carotenoids and anthocyanins that develop in response to high light intensity. Without enough light, new leaves emerge green and stay that way, while the plant diverts energy into stretching its stems. Place your Croton in a south or west-facing window where it receives several hours of direct morning or late afternoon sun. A sheer curtain can diffuse the harshest midday rays in summer. In a dim Northern European winter, the plant will almost certainly lose some lower leaves as light levels fall\u2014this is the plant shedding inefficient solar panels. A full-spectrum grow light positioned 30 cm above the foliage for 10 hours a day can keep color alive and prevent leaf drop. Do not move the Croton once you've found a spot it likes; they are notoriously sensitive to relocation and will drop leaves from the shock of a changed light angle or intensity.</p><h3>Temperature</h3><p>Crotons demand steady warmth: 20\u00b0C to 27\u00b0C (68\u00b0F\u201380\u00b0F) is ideal. They will protest at anything below 15\u00b0C (60\u00b0F) by dropping leaves. The most common killer is a cold windowsill draft. Even on double-glazed windows, temperatures can drop sharply at night. Place the pot 15\u201320 cm back from the glass in winter or use a thermal curtain as a barrier after dark. Equally damaging is the blast from a nearby radiator, which creates an ultra-dry hot zone that cooks the leaves and encourages spider mites. A consistent temperature, without sudden swings, is the only way to keep Croton leaves on the stems. Summer air conditioning also causes temperature shock; keep the plant out of the direct air stream.</p><h3>Humidity</h3><p>As a tropical lowland plant, Croton craves high humidity\u201460% to 80%. Indoor heating in winter can drop this to 30%. Low humidity causes leaf tips and edges to brown and crisp, and it also opens the door to spider mites, which are a Croton\u2019s worst enemy. Use a humidifier in the room, set the pot on a large pebble tray, and group it with other plants to raise ambient moisture. Misting alone won\u2019t suffice in a dry house, but it can help if done daily with tepid water, especially on the undersides of leaves where mites tend to congregate. A humid environment also reduces the shock from temperature fluctuations.</p><h3>Watering</h3><p>Water when the top 2 cm of the potting mix feels dry. Crotons like consistent moisture but hate wet feet. Use tepid, filtered water to avoid fluoride damage, which shows as brown leaf tips. Water thoroughly until it drains, then empty the saucer. During winter, reduce the frequency slightly to allow the top 3 cm to dry between waterings, matching the slower uptake. Underwatering causes leaf wilt and drop; overwatering causes root rot and the same leaf drop. The key is checking the soil with your finger each time. If the pot feels very light and leaves are drooping, water immediately. If the soil is damp and leaves are dropping, you\u2019ve overwatered.</p><h3>Soil</h3><p>A well-draining, slightly acidic mix is essential. Combine 60% peat moss or coco coir, 20% perlite, and 20% coarse sand or fine orchid bark. This retains moisture without compacting, allowing air to reach the roots. Dense, heavy soil suffocates the roots and leads to rapid decline. When repotting, do not compress the soil; keep it light and fluffy.</p><h2>Fertilizer</h2><p>Feed every 4 weeks from March to August with a balanced liquid fertilizer (such as 10-10-10) diluted to half strength. Croton benefits from micronutrients like iron and magnesium to support color development, so choose a formula with trace elements. Stop feeding entirely in autumn and winter. Excess fertilizer salts in the soil will burn the leaf tips; flush the soil with plain water every 6-8 weeks to prevent buildup. Organic alternatives like compost tea work well but should be applied more frequently at quarter strength.</p><h2>Propagation</h2><p>Propagation is done by stem cuttings. In spring, cut a 10\u201315 cm length from a healthy tip with 3\u20134 leaves. Remove the bottom leaves, dip the cut end in rooting hormone, and insert into a pot of moist, equal parts perlite and peat. Cover with a clear plastic bag to maintain high humidity and keep in bright, indirect light. Roots should develop in 4\u20136 weeks. Croton sap is milky and can irritate skin, so wear gloves. Water propagation is less reliable for Crotons.</p><h2>Repotting</h2><p>Repot every 1\u20132 years in spring, just before the growing season. Signs include roots poking from drainage holes or the plant drying out too quickly. Choose a pot only 2\u20133 cm larger in diameter. After repotting, expect some leaf drop\u2014this is normal. Keep the plant in the same location and maintain high humidity to minimize shock. For a detailed guide on reducing transplant stress, see our repotting shock rescue guide.</p><h2>Toxicity</h2><p>Codiaeum variegatum contains a toxic, milky sap that can cause skin irritation and is harmful if ingested. Keep it away from pets and children, and always wear gloves when pruning or handling broken stems. Wash your hands thoroughly after contact.</p><h2>Common Problems</h2><p><strong>Mass leaf drop:</strong> Triggered by cold drafts, low light, or being moved. Stabilise conditions and wait; new leaves will appear. <strong>Green, lacklustre leaves:</strong> Insufficient light. Move gradually to a brighter spot. <strong>Brown crispy leaf edges:</strong> Low humidity or under-watering. Increase humidity and water more consistently. <strong>Fine webbing and stippled leaves:</strong> Spider mites. Mist regularly, apply neem oil, and raise humidity. <strong>Sticky residue on leaves:</strong> Scale insects or mealybugs. Dab with alcohol-soaked cotton. For the most common issue, read our guide on spider mite control.</p>",
+    "quickAnswer": "Place in bright light, including some direct morning sun, to maintain vibrant leaf color. Keep soil evenly moist and humidity above 60%. Avoid cold drafts and moving the plant; sudden leaf drop is common but recoverable. Toxic to pets, sap can irritate skin.",
+    "ogImage": "/assets/images/croton.webp",
+    "ogImageAlt": "Close-up of a brilliantly variegated Croton leaf with yellow, orange, and red veins against a dark green background.",
+    "heroImage": "/assets/images/croton.webp",
+    "heroImageAlt": "A potted Croton with multicoloured leaves on a south-facing windowsill, showing the vivid yellow and red markings.",
+    "featuredImageAlt": "Three different Croton varieties in decorative pots, arranged on a wooden floor in a sunlit room with a humidifier in the corner.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Sudden, massive leaf drop within days of purchase or moving",
+            "diagnosis": "Environmental stress\u2014cold draft, low light, or relocation shock. Croton leaves have an abscission layer that activates under sudden change.",
+            "treatment": "Place in the brightest, warmest spot and avoid moving it. Maintain steady watering and humidity. Do not fertilize until new growth appears.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Carotenoid",
+            "definition": "A class of yellow, orange, and red pigments found in plant leaves. In Crotons, they are revealed as chlorophyll breaks down in high light, producing the bright variegation."
+        },
+        {
+            "term": "Abscission",
+            "definition": "The natural process by which a plant sheds leaves, flowers, or fruits. In Crotons, cold or stress triggers a hormone (ethylene) that weakens the cell walls at the leaf base, causing leaf drop."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Croton Variety Comparison for Indoor Growers",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Size"
+        ],
+        "rows": [
+            [
+                "Codiaeum 'Petra'",
+                "Classic broad yellow and red veins; most common and relatively easier",
+                "60-100 cm tall"
+            ],
+            [
+                "Codiaeum 'Mammy'",
+                "Narrow, twisted leaves with bright red and orange highlights; compact",
+                "50-80 cm tall"
+            ],
+            [
+                "Codiaeum 'Gold Dust'",
+                "Small, dark green leaves speckled with bright yellow spots; smaller habit",
+                "40-60 cm tall"
+            ]
+        ]
+    },
+    "h1": "How to Care for a Croton Plant Indoors: Vibrant Leaves & No Leaf Drop",
+    "breadcrumbName": "How to Care for a Croton Plant Indoors",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "golden-pothos-care",
+        "spider-mites-on-houseplants",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Moving it to a new location\u2014crotons are extremely sensitive to environmental change and respond by shedding all their leaves as a stress response, sometimes within 48 hours. Choose the brightest available spot and commit to it from day one."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The vivid reds, oranges, and yellows only appear when the plant receives intense bright light\u2014in low light, new leaves emerge solid green because the plant doesn't produce the pigments it doesn't need. Existing colorful leaves won't change back once green."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air, spider mites establish themselves on the undersides of leaves within weeks, feeding on the plant's moisture-rich tissues. Frequent leaf wiping with a damp cloth is more effective than any spray for long-term prevention."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "croton leaf drop fix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "why are my croton leaves turning green",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "croton spider mites treatment",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "croton watering winter",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "croton light requirements",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "codiaeum variegatum propagation",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Croton",
+    "summary": "Codiaeum variegatum features thick, leathery leaves ablaze with vivid patterns of red, yellow, and orange. Master direct sunlight requirements, warm temperature stabilization, and humidity practices to prevent sudden leaf drop.",
+    "keyTakeaways": [
+        "Provide 4 to 6 hours of bright light, including direct morning sun, for vivid color.",
+        "Keep peat-based potting soil evenly moist, watering when the top inch dries.",
+        "Maintain warm, stable temperatures above 18\u00b0C (65\u00b0F) and shield from cold drafts.",
+        "Avoid moving the container once situated to prevent stress-induced leaf drop."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 13,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen shrub",
+        "difficulty": "intermediate",
+        "light": "Bright direct or indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water when the top 1-2 inches of soil are dry; prone to dropping leaves if kept too dry.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60% to 80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "3-8 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Rich, well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Indonesia, Malaysia, and Pacific Islands",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/croton/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.petpoisonhelpline.com/poison/croton/"
+        ]
+    },
+    "contentText": "Your Croton entered your home a blaze of yellow, orange, and red, and now it\u2019s a skeleton of bare twigs with a few green leaves clinging on. Crotons are famous for this dramatic leaf drop, and it nearly always comes down to a sudden environmental change\u2014a cold draft, a dark corner, or even being moved from one room to another. This guide explains how to stabilise the plant\u2019s world so it holds its color and its leaves. Light Brightness is the key to Croton color. The vivid yellow, orange, and red pigments are carotenoids and anthocyanins that develop in response to high light intensity. Without enough light, new leaves emerge green and stay that way, while the plant diverts energy into stretching its stems. Place your Croton in a south or west-facing window where it receives several hours of direct morning or late afternoon sun. A sheer curtain can diffuse the harshest midday rays in summer. In a dim Northern European winter, the plant will almost certainly lose some lower leaves as light levels fall\u2014this is the plant shedding inefficient solar panels. A full-spectrum grow light positioned 30 cm above the foliage for 10 hours a day can keep color alive and prevent leaf drop. Do not move the Croton once you've found a spot it likes; they are notoriously sensitive to relocation and will drop leaves from the shock of a changed light angle or intensity. Temperature Crotons demand steady warmth: 20\u00b0C to 27\u00b0C (68\u00b0F\u201380\u00b0F) is ideal. They will protest at anything below 15\u00b0C (60\u00b0F) by dropping leaves. The most common killer is a cold windowsill draft. Even on double-glazed windows, temperatures can drop sharply at night. Place the pot 15\u201320 cm back from the glass in winter or use a thermal curtain as a barrier after dark. Equally damaging is the blast from a nearby radiator, which creates an ultra-dry hot zone that cooks the leaves and encourages spider mites. A consistent temperature, without sudden swings, is the only way to keep Croton leaves on the stems. Summer air conditioning also causes temperature shock; keep the plant out of the direct air stream. Humidity As a tropical lowland plant, Croton craves high humidity\u201460% to 80%. Indoor heating in winter can drop this to 30%. Low humidity causes leaf tips and edges to brown and crisp, and it also opens the door to spider mites, which are a Croton\u2019s worst enemy. Use a humidifier in the room, set the pot on a large pebble tray, and group it with other plants to raise ambient moisture. Misting alone won\u2019t suffice in a dry house, but it can help if done daily with tepid water, especially on the undersides of leaves where mites tend to congregate. A humid environment also reduces the shock from temperature fluctuations. Watering Water when the top 2 cm of the potting mix feels dry. Crotons like consistent moisture but hate wet feet. Use tepid, filtered water to avoid fluoride damage, which shows as brown leaf tips. Water thoroughly until it drains, then empty the saucer. During winter, reduce the frequency slightly to allow the top 3 cm to dry between waterings, matching the slower uptake. Underwatering causes leaf wilt and drop; overwatering causes root rot and the same leaf drop. The key is checking the soil with your finger each time. If the pot feels very light and leaves are drooping, water immediately. If the soil is damp and leaves are dropping, you\u2019ve overwatered. Soil A well-draining, slightly acidic mix is essential. Combine 60% peat moss or coco coir, 20% perlite, and 20% coarse sand or fine orchid bark. This retains moisture without compacting, allowing air to reach the roots. Dense, heavy soil suffocates the roots and leads to rapid decline. When repotting, do not compress the soil; keep it light and fluffy. Fertilizer Feed every 4 weeks from March to August with a balanced liquid fertilizer (such as 10-10-10) diluted to half strength. Croton benefits from micronutrients like iron and magnesium to support color development, so choose a formula with trace elements. Stop feeding entirely in autumn and winter. Excess fertilizer salts in the soil will burn the leaf tips; flush the soil with plain water every 6-8 weeks to prevent buildup. Organic alternatives like compost tea work well but should be applied more frequently at quarter strength. Propagation Propagation is done by stem cuttings. In spring, cut a 10\u201315 cm length from a healthy tip with 3\u20134 leaves. Remove the bottom leaves, dip the cut end in rooting hormone, and insert into a pot of moist, equal parts perlite and peat. Cover with a clear plastic bag to maintain high humidity and keep in bright, indirect light. Roots should develop in 4\u20136 weeks. Croton sap is milky and can irritate skin, so wear gloves. Water propagation is less reliable for Crotons. Repotting Repot every 1\u20132 years in spring, just before the growing season. Signs include roots poking from drainage holes or the plant drying out too quickly. Choose a pot only 2\u20133 cm larger in diameter. After repotting, expect some leaf drop\u2014this is normal. Keep the plant in the same location and maintain high humidity to minimize shock. For a detailed guide on reducing transplant stress, see our repotting shock rescue guide. Toxicity Codiaeum variegatum contains a toxic, milky sap that can cause skin irritation and is harmful if ingested. Keep it away from pets and children, and always wear gloves when pruning or handling broken stems. Wash your hands thoroughly after contact. Common Problems Mass leaf drop: Triggered by cold drafts, low light, or being moved. Stabilise conditions and wait; new leaves will appear. Green, lacklustre leaves: Insufficient light. Move gradually to a brighter spot. Brown crispy leaf edges: Low humidity or under-watering. Increase humidity and water more consistently. Fine webbing and stippled leaves: Spider mites. Mist regularly, apply neem oil, and raise humidity. Sticky residue on leaves: Scale insects or mealybugs. Dab with alcohol-soaked cotton. For the most common issue, read our guide on spider mite control.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/croton/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

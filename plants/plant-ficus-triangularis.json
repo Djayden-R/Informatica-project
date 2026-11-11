@@ -1,0 +1,343 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ficus-triangularis",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ficus-triangularis",
+    "seoTitle": "Triangle Fig Care: Prevent Sudden Leaf Drop",
+    "metaDescription": "Triangle Fig drops leaves instantly when conditions change. Find out variegated Ficus triangularis' light requirements, watering routine, and how to keep.",
+    "featuredImage": "/assets/images/ficus-triangularis.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trees",
+        "toxic-to-pets",
+        "high-light",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ficus triangularis",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Ficus",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus triangularis 'Variegata'",
+        "family": "Moraceae",
+        "origin": "Cultivar (Species native to South Africa)",
+        "type": "Evergreen broadleaf shrub",
+        "nativeClimate": "Tropical and subtropical forests",
+        "commonUses": [
+            "Bright sunny corners",
+            "Statement floor plants",
+            "High-light living rooms"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Requires massive amounts of bright, indirect light. Do not move it once placed.",
+        "watering": "Water only when the top 2-3 inches of soil are completely dry. Inconsistent watering triggers immediate leaf drop.",
+        "soil": "A fast-draining, chunky indoor potting mix.",
+        "pruning": "Prune lightly in the spring to encourage a bushy, tree-like shape.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. The milky white latex sap causes severe oral irritation and vomiting.",
+        "bestFor": "Patient plant owners with extremely bright windows who understand that moving a Ficus causes it to drop leaves."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "3-6 feet indoors",
+        "matureSpread": "2-3 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors (produces tiny, inedible figs in the wild)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 95\u00b0F (15\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50% - 70%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires massive amounts of bright, indirect light to maintain its heavy white variegation. Low light is an absolute death sentence and will cause the tree to drop every single leaf.",
+        "sunlightHours": "6-8 hours bright indirect",
+        "intensity": "high",
+        "indoorWindow": "South or West-facing window.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Requires very little fertilizer due to its slow growth rate.",
+        "fertilizerFrequency": "Once a month during spring and summer with a diluted liquid fertilizer.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Highly susceptible to root rot if potted in heavy, dense soil that holds water for too long."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why did my Triangle Fig drop all of its leaves overnight?",
+            "answer": "This is the classic Ficus panic response. If you just bought it, the change in light from the nursery to your home triggered the leaf drop. Alternatively, moving the plant, a cold draft, or a sudden change in your watering routine will cause it to unceremoniously drop every leaf in protest."
+        },
+        {
+            "question": "Will the dropped leaves grow back?",
+            "answer": "Yes. Do not throw the bare twigs in the trash! Leave the plant exactly where it is. Once it acclimates to the new light levels (which can take a month), it will push out a completely new set of leaves."
+        },
+        {
+            "question": "Why are the leaves turning yellow before dropping?",
+            "answer": "Yellowing leaves (specifically the older leaves near the bottom) are a classic sign of overwatering and root rot. Ensure you are letting the top 2-3 inches of soil dry out before watering again."
+        },
+        {
+            "question": "Why are the white sections of the leaves turning brown?",
+            "answer": "The white, variegated sections contain no chlorophyll and are highly delicate. They will turn brown and crispy if exposed to blazing, direct afternoon sun, or if the ambient air is far too dry."
+        },
+        {
+            "question": "Is the Triangle Fig toxic to pets?",
+            "answer": "Yes. Like all Ficus species, it bleeds a milky white latex sap when a leaf is torn. This sap is highly toxic to cats and dogs, causing intense mouth pain and vomiting."
+        }
+    ],
+    "shortDesc": "The Variegated Triangle Fig is a stunning, slow-growing tree famous for its perfectly triangular, deeply variegated leaves. However, it is an extreme diva that will drop all its leaves if moved.",
+    "content": "<h2>Overview</h2><p>If you love the drama of a Fiddle Leaf Fig but want something smaller and more uniquely shaped, the Variegated Triangle Fig (<em>Ficus triangularis 'Variegata'</em>) is the perfect candidate. Native to South Africa, it produces a dense canopy of thick, perfectly triangular, heart-shaped leaves. In the variegated form, the deep green centers are heavily bordered with stunning, irregular splashes of bright white and cream.</p><p>However, this beauty comes at a high cost. It is arguably one of the most dramatic, unforgiving plants you can bring into your home. It demands stability above all else. A slight change in watering, a cold draft, or simply moving the pot a few feet across the room will trigger a massive stress response, causing the tree to instantly drop all of its leaves. Growing it successfully requires finding the perfect, incredibly bright spot, and then leaving it alone forever.</p><h3>The Leaf Drop Phenomenon: Don't Panic!</h3><p>If you just bought a Triangle Fig and brought it home, it is going to drop leaves. This is unavoidable. Ficus trees calibrate their leaves to perfectly match the exact angle and intensity of the light they receive.</p><p>When you move the tree, the light hits the leaves differently. The tree realizes the old leaves are no longer operating at peak efficiency, so it ruthlessly severs them. <strong>Do not panic, and do not overwater it in an attempt to \"save\" it.</strong> Leave the bare tree exactly where it is. Within 3 to 4 weeks, the tree will acclimate and grow a completely new set of leaves adapted for its new home.</p><h3>Light Requirements: Maximum Brightness</h3><p>Because the leaves are heavily variegated with white (which contains zero chlorophyll), the green sections must work overtime to feed the plant. The Triangle Fig requires massive amounts of bright, indirect light. It should be placed directly in front of a large, unobstructed south or west-facing window.</p><p>If you place this tree in a dark corner, the canopy will rapidly thin out. The tree simply cannot support leaves if it is not receiving enough solar energy. However, be careful with blazing, direct afternoon sun, as it can scorch the delicate white sections of the leaves.</p><h3>Watering: Consistency is Key</h3><p>While moving the plant causes green leaves to drop, watering mistakes cause yellow leaves to drop. The Triangle Fig likes its soil to be kept evenly moist but never soggy. Allow the top 2 to 3 inches of the soil to dry out completely before watering.</p><p>When you water, soak the pot thoroughly until water drains out the bottom. Do not let the tree sit in a tray of standing water. <strong>Consistency is critical.</strong> If you let the tree become bone-dry, it will drop leaves. If you overwater it and drown the roots, it will drop leaves.</p><h3>Temperature and Drafts</h3><p>This is a tropical tree that requires temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it away from exterior doors, drafty windows, and especially air conditioning vents. A sudden blast of cold air will trigger immediate leaf drop. </p><h3>Soil and Potting</h3><p>A fast-draining potting mix is essential. Use a high-quality indoor potting soil heavily amended with perlite and some orchid bark to ensure excellent drainage. Triangle Figs grow very slowly indoors, so only repot every 2 to 3 years into a pot that is only 1-2 inches wider than the previous one.</p><h2>Toxicity Warning</h2><p>Like all plants in the Ficus genus, when a leaf is pulled off or a branch is cut, the tree bleeds a thick, milky white latex sap. This sap is toxic to cats and dogs, causing intense oral irritation and vomiting. It is also highly irritating to human skin. If you get the sap on your hands while pruning, wash it off immediately with soap and hot water to prevent a rash.</p>",
+    "quickAnswer": "The Variegated Triangle Fig drops its leaves anytime it is moved or watered inconsistently. Find a spot with intense bright light, water when the top 2-3 inches of soil are dry, and never move the pot once settled. For best results, we suggest keeping an eye on the plant's response throughout the active growing season.",
+    "ogImage": "/assets/images/ficus-triangularis.webp",
+    "ogImageAlt": "Perfectly triangular, deep green leaves heavily variegated with white",
+    "heroImage": "/assets/images/ficus-triangularis.webp",
+    "heroImageAlt": "Close up of the triangular foliage on a Variegated Triangle Fig",
+    "featuredImageAlt": "A lush Triangle Fig standing in a very bright, sunny window",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why did my Triangle Fig drop all of its leaves overnight?",
+            "diagnosis": "Ficus stress response \u2013 change in environment",
+            "treatment": "Place in stable location; avoid moving; provide consistent care; new leaves will regrow.",
+            "prevention": "Avoid relocating; keep away from drafts.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning yellow before dropping?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Allow soil to dry; reduce watering; check roots if necessary.",
+            "prevention": "Water only when top 2 inches are dry.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the white sections of the leaves turning brown?",
+            "diagnosis": "Dry air or direct sun scorching variegated areas",
+            "treatment": "Increase humidity; move to indirect light.",
+            "prevention": "Maintain moderate humidity and avoid direct sun.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Leaf Drop",
+            "definition": "A severe stress response in plants (especially Ficus trees) where they rapidly shed their foliage due to sudden changes in light, temperature, or moisture."
+        },
+        {
+            "term": "Variegation",
+            "definition": "The appearance of differently colored zones in the leaves. The white variegation on the Triangle Fig lacks chlorophyll, making the plant dependent on high light."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Indoor Ficus Tree Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Shape",
+            "Temperament"
+        ],
+        "rows": [
+            [
+                "Triangle Fig",
+                "Small, triangular, variegated",
+                "Extremely Dramatic"
+            ],
+            [
+                "Weeping Fig",
+                "Small, tear-shaped",
+                "Extremely Dramatic"
+            ],
+            [
+                "Rubber Tree",
+                "Large, thick, oval",
+                "Moderately Forgiving"
+            ]
+        ]
+    },
+    "h1": "Triangle Fig Care: Prevent Leaf Drop",
+    "breadcrumbName": "Triangle Fig Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the unusual triangular leaves make owners curious and attentive\u2014but those thick leaves store water, and the tree drops leaves rapidly when roots sit in soggy soil. Let the top half of the soil dry out before watering again."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It's an exceptionally slow grower that can remain in the same pot comfortably for several years\u2014frequent repotting disrupts the roots unnecessarily and often triggers a leaf-dropping response. Only repot when roots are visibly circling or escaping the drainage holes."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the stiff triangular leaves lose their firmness and become noticeably floppy, and the plant's sculptural quality disappears. Bright indirect light is what keeps the leaves rigid and the unusual shape well-defined."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "sweetheart tree",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "variegated triangle fig dropping leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus triangularis dying",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "triangle leaf ficus",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus dropping leaves after moving",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "triangulated variegated ficus dropped almost every leaf",
+            "type": "content_gap",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ficus Triangularis",
+    "summary": "Ficus triangularis is a distinctive shrub or small tree featuring unique triangular leaves and slender woody stems. Learn bright light requirements, acclimation protocols, and proper watering to prevent sudden leaf drop.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to protect unique triangular foliage.",
+        "Allow the top 2 inches of potting mix to dry before watering thoroughly.",
+        "Avoid relocating the plant, which often triggers rapid acclimation leaf drop.",
+        "Shield variegated forms from intense midday sun to prevent foliar scorch."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen broadleaf shrub",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water only when the top 2-3 inches of soil are completely dry. Inconsistent watering triggers immediate leaf drop.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50% - 70%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "3-6 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in active growth",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "South Africa",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-triangularis/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/weeping-fig"
+        ]
+    },
+    "contentText": "Overview If you love the drama of a Fiddle Leaf Fig but want something smaller and more uniquely shaped, the Variegated Triangle Fig ( Ficus triangularis 'Variegata' ) is the perfect candidate. Native to South Africa, it produces a dense canopy of thick, perfectly triangular, heart-shaped leaves. In the variegated form, the deep green centers are heavily bordered with stunning, irregular splashes of bright white and cream. However, this beauty comes at a high cost. It is arguably one of the most dramatic, unforgiving plants you can bring into your home. It demands stability above all else. A slight change in watering, a cold draft, or simply moving the pot a few feet across the room will trigger a massive stress response, causing the tree to instantly drop all of its leaves. Growing it successfully requires finding the perfect, incredibly bright spot, and then leaving it alone forever. The Leaf Drop Phenomenon: Don't Panic! If you just bought a Triangle Fig and brought it home, it is going to drop leaves. This is unavoidable. Ficus trees calibrate their leaves to perfectly match the exact angle and intensity of the light they receive. When you move the tree, the light hits the leaves differently. The tree realizes the old leaves are no longer operating at peak efficiency, so it ruthlessly severs them. Do not panic, and do not overwater it in an attempt to \"save\" it. Leave the bare tree exactly where it is. Within 3 to 4 weeks, the tree will acclimate and grow a completely new set of leaves adapted for its new home. Light Requirements: Maximum Brightness Because the leaves are heavily variegated with white (which contains zero chlorophyll), the green sections must work overtime to feed the plant. The Triangle Fig requires massive amounts of bright, indirect light. It should be placed directly in front of a large, unobstructed south or west-facing window. If you place this tree in a dark corner, the canopy will rapidly thin out. The tree simply cannot support leaves if it is not receiving enough solar energy. However, be careful with blazing, direct afternoon sun, as it can scorch the delicate white sections of the leaves. Watering: Consistency is Key While moving the plant causes green leaves to drop, watering mistakes cause yellow leaves to drop. The Triangle Fig likes its soil to be kept evenly moist but never soggy. Allow the top 2 to 3 inches of the soil to dry out completely before watering. When you water, soak the pot thoroughly until water drains out the bottom. Do not let the tree sit in a tray of standing water. Consistency is critical. If you let the tree become bone-dry, it will drop leaves. If you overwater it and drown the roots, it will drop leaves. Temperature and Drafts This is a tropical tree that requires temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it away from exterior doors, drafty windows, and especially air conditioning vents. A sudden blast of cold air will trigger immediate leaf drop. Soil and Potting A fast-draining potting mix is essential. Use a high-quality indoor potting soil heavily amended with perlite and some orchid bark to ensure excellent drainage. Triangle Figs grow very slowly indoors, so only repot every 2 to 3 years into a pot that is only 1-2 inches wider than the previous one. Toxicity Warning Like all plants in the Ficus genus, when a leaf is pulled off or a branch is cut, the tree bleeds a thick, milky white latex sap. This sap is toxic to cats and dogs, causing intense oral irritation and vomiting. It is also highly irritating to human skin. If you get the sap on your hands while pruning, wash it off immediately with soap and hot water to prevent a rash.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-triangularis/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

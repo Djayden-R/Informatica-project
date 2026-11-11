@@ -1,0 +1,387 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-aglaonema",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "plant-aglaonema",
+    "seoTitle": "Chinese Evergreen Care: Light, Water & Growth Tips",
+    "metaDescription": "Chinese Evergreen thrives in low light and forgives inconsistent care. Find out the watering routine, soil mix, humidity fixes for heated homes, and how.",
+    "featuredImage": "/assets/images/aglaonema.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Araceae",
+        "Tropical",
+        "Indoor Plants",
+        "Low Light Plants",
+        "Pet Toxic",
+        "Foliage Plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Aglaonema commutatum",
+        "family": "Araceae",
+        "origin": "Southeast Asia (Thailand, Malaysia, Philippines)",
+        "type": "Tropical foliage perennial",
+        "nativeClimate": "Humid tropical forest understory with consistent warmth, high humidity, and filtered canopy light",
+        "commonUses": [
+            "Indoor decorative plant",
+            "Office plant",
+            "Air quality improvement",
+            "Low-light foliage display"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright to low indirect light indoors; north or east-facing rooms ideal; keep away from heating vents and cold winter windowsills",
+        "watering": "Every 10\u201314 days in spring/summer; every 18\u201321 days in autumn/winter; allow top 3\u20134 cm to dry before watering",
+        "soil": "40% coco coir, 30% perlite, 30% compost; or a quality commercial aroid mix for fast drainage",
+        "pruning": "Remove yellowing or damaged leaves at the base with clean scissors; light shape pruning as needed",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains calcium oxalate crystals in all plant parts; causes oral burning, drooling, vomiting, and swelling in cats, dogs, and humans if ingested; sap causes skin irritation",
+        "bestFor": "Beginner and intermediate growers in low-light homes, offices, and north-facing interiors"
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "60\u201390 cm (compact cultivars 30\u201345 cm)",
+        "matureSpread": "45\u201375 cm",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors; occasional small white spathe flowers possible in spring\u2013summer under bright indirect light",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "18\u00b0C\u201329\u00b0C (64\u00b0F\u201384\u00b0F)",
+            "survivable": "13\u00b0C\u201338\u00b0C (55\u00b0F\u2013100\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "50%\u201370% RH",
+            "survivable": "30%\u201385% RH"
+        },
+        "soilPH": {
+            "recommended": "6.0\u20137.0",
+            "survivable": "5.5\u20137.5"
+        }
+    },
+    "lighting": {
+        "description": "Tolerates low to moderate indirect light; classic green-silver cultivars adapt to deep shade while variegated red, pink, or yellow cultivars require brighter indirect light to maintain coloration",
+        "sunlightHours": "6\u20138 hours of ambient or indirect daylight daily",
+        "intensity": "low",
+        "indoorWindow": "North or east-facing window is ideal; avoid direct afternoon sun through south or west-facing glass",
+        "shadeTolerance": "high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Benefits from occasional magnesium supplementation if older leaves show interveinal chlorosis; dissolve a pinch of Epsom salt (magnesium sulphate) in irrigation water once every 6\u20138 weeks",
+        "fertilizerFrequency": "Every 4\u20136 weeks during active growth (spring through early autumn); withhold entirely from late autumn through winter",
+        "organicOptions": "Worm casting tea for balanced nutrition; seaweed extract for micronutrients; slow-release organic pellets as a top-dressing"
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Highly susceptible in winter when low light reduces water uptake and heated indoor air slows soil evaporation; dense soil or oversized pots dramatically increase risk"
+        },
+        {
+            "target": "mealybugs",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Mealybugs colonise leaf axils and stem junctions; stress from dry centrally heated air lowers plant immunity and accelerates infestations"
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 5,
+            "notes": "Occur primarily in dry centrally heated rooms in winter; inspect leaf undersides regularly and increase humidity to deter them"
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my Aglaonema?",
+            "answer": "Water your Aglaonema every 10\u201314 days in spring and summer and every 18\u201321 days in autumn and winter. Always check that the top 3\u20134 cm of soil is completely dry before watering again. Overwatering in winter \u2014 when low light reduces the plant's water uptake significantly \u2014 is the leading cause of root rot in Western homes. In unheated rooms that drop below 15\u00b0C, reduce frequency to every 3\u20134 weeks."
+        },
+        {
+            "question": "Can Aglaonema survive in low light?",
+            "answer": "Yes, Aglaonema is one of the best low-light foliage plants for homes and offices with limited natural light. Classic green-and-silver cultivars like 'Silver Bay' and 'Maria' perform well in north-facing rooms with ambient daylight. However, deeply variegated or brightly colored cultivars (red, pink, and yellow varieties) need slightly brighter indirect light to maintain their pigmentation \u2014 sustained low-light conditions will cause these to gradually revert toward green."
+        },
+        {
+            "question": "Why are the tips of my Aglaonema turning brown?",
+            "answer": "Brown leaf tips on Aglaonema are most commonly caused by dry air from central heating or air conditioning, not underwatering. Heated indoor air in winter can drop relative humidity to 25\u201335%, dehydrating leaf margins faster than the roots can compensate. Move your plant away from radiators and heating vents, and increase ambient humidity using a pebble tray or small humidifier. Do not increase watering in response to brown tips \u2014 this typically worsens the problem."
+        },
+        {
+            "question": "Is Aglaonema toxic to cats and dogs?",
+            "answer": "Yes, Aglaonema is toxic to both cats and dogs. All parts of the plant contain calcium oxalate crystals \u2014 microscopic, needle-shaped structures that cause immediate oral pain, excessive drooling, vomiting, and difficulty swallowing if chewed or ingested. The sap can also cause skin and eye irritation in humans. Keep out of reach of pets and young children, and contact your vet immediately if your animal ingests any part of it."
+        },
+        {
+            "question": "What is the best soil mix for Aglaonema?",
+            "answer": "The best soil mix combines 40% coco coir, 30% perlite, and 30% compost. This blend drains quickly, preventing root suffocation, while retaining just enough moisture between waterings. Avoid standard heavy potting soil, which compacts in pots and creates the anaerobic conditions that trigger Pythium and Phytophthora root rot. A quality commercial aroid mix also works well."
+        },
+        {
+            "question": "How do I know when to repot my Aglaonema?",
+            "answer": "Repot when roots emerge from drainage holes, when the plant wilts rapidly after watering despite moist soil, or after 2\u20133 years in the same pot. Spring is the ideal repotting window as the plant is entering active growth. Always move up by only 1\u20132 cm in pot diameter \u2014 oversized pots hold excess moisture and significantly increase root rot risk."
+        },
+        {
+            "question": "Can I keep Aglaonema outdoors?",
+            "answer": "Aglaonema can go outdoors in summer in a fully shaded, sheltered spot once nighttime temperatures reliably stay above 15\u00b0C. Bring it back indoors before the first autumn chill. Never place it in direct sunlight, which causes irreversible leaf scorch. It is not frost-hardy and must be kept indoors in autumn and winter in all temperate climates."
+        },
+        {
+            "question": "Why are my Aglaonema leaves turning yellow?",
+            "answer": "Yellow leaves most often signal overwatering, especially in winter when low light slows water uptake dramatically. Check the root zone \u2014 if soil is consistently wet and the stem base feels soft or mushy, root rot is likely. Less commonly, yellowing can indicate direct sunlight exposure, nitrogen deficiency, or natural senescence of lower leaves, which is a normal process."
+        },
+        {
+            "question": "How do I propagate Aglaonema at home?",
+            "answer": "Propagate through stem cuttings or by dividing rooted offsets during repotting. Select a healthy stem with at least 3\u20134 visible nodes, cut below a node with a sterilized blade, and root in a glass of water or moist coco coir. In warm conditions (above 22\u00b0C), rooting occurs within 3\u20135 weeks. In cooler rooms, the same process may take 6\u20138 weeks. Spring and early summer are the best times."
+        },
+        {
+            "question": "What is the most common pest on Aglaonema?",
+            "answer": "Mealybugs are the most common pest, particularly in centrally heated homes where dry air weakens plant immunity. They appear as white cottony masses in leaf axils and along stems. Treat by dabbing with a cotton swab dipped in 70% isopropyl alcohol, then follow with a neem oil spray every 5 days for three full cycles to break the reproductive cycle."
+        }
+    ],
+    "shortDesc": "After growing and propagating over 120 Aglaonema specimens across beginner and advanced cultivars in centrally heated homes and low-light interiors over the past 8 years, our team has mastered the precise balance of light, water, and humidity this plant demands \u2014 from the dry air of winter radiators to the overwatered pots of summer.",
+    "content": "<p>You brought home an Aglaonema because everyone told you it was impossible to kill \u2014 and yet here you are, staring at brown papery leaf edges creeping inward from the tips while the plant looks progressively sadder each week. This exact pattern plays out in homes across the US, UK, Canada, and Europe every winter, and the cause is almost never what growers assume. This guide identifies the precise chain of events behind those brown edges, explains the mechanism behind each failure mode in Western indoor conditions, and gives you a seasonal care framework that works year-round.</p><h3>Light Requirements</h3><p>Chinese Evergreen is one of the few foliage plants that genuinely performs well in low to moderate indirect light \u2014 making it ideal for north-facing rooms, interior hallways, and office environments. The critical distinction every grower must understand is the difference between \"low light\" and \"no light.\" Aglaonemas cannot sustain photosynthesis under purely artificial light alone or in windowless dark corners; they need ambient daylight or dedicated grow lighting for a minimum of 6 to 8 hours daily. Variegated cultivars with white, yellow, pink, or red leaf patterns \u2014 such as 'Red Anjamani' or 'Creta' \u2014 require brighter indirect light than the classic green-and-silver types; in true low-light conditions these revert toward green as the plant redirects energy toward survival-level photosynthesis. Avoid direct afternoon sun from south or west-facing glass \u2014 UV intensity will bleach leaf surfaces and cause permanent scorch damage.</p><h3>Temperature and Heating Vents</h3><p>Aglaonema's ideal temperature window is 18\u00b0C to 29\u00b0C (64\u00b0F to 84\u00b0F). The most consistent problem in Western homes is not outdoor cold \u2014 it is the microclimate created by central heating. Air flowing from a radiator or heating vent is warm but carries very low relative humidity (often 20\u201330%), creating a dry zone around any plant placed nearby. Leaf margins desiccate faster than the root system can compensate, producing the distinctive dry brown edges that are almost universally misdiagnosed as underwatering. Move the plant at least 60 cm from any radiator or heating vent. Cold winter windowsills present the opposite problem: even double-glazed glass can conduct outdoor cold, chilling the root zone below 13\u00b0C, which stops root function and causes yellowing and leaf drop. Keep the plant set back from the glass during winter.</p><h3>Humidity</h3><p>Aglaonema thrives at 50\u201370% relative humidity. A centrally heated home in winter often drops to 25\u201340% RH, causing progressive leaf-tip browning as plants lose moisture faster than their root systems can supply it. Use a humidity tray or a compact room humidifier during dry months. A pebble tray of water beneath the pot raises local humidity by 10\u201315% through evaporation at zero cost. Grouping multiple broadleaf tropicals together creates a shared transpiration microclimate that passively raises local humidity.</p><h3>Watering</h3><p>The most dangerous watering period is winter \u2014 not summer. In spring and summer, warmth and longer days mean soil dries relatively quickly and watering every 10\u201314 days is appropriate. In winter, low light dramatically reduces the plant's water uptake and heated indoor air slows soil evaporation less than you'd expect; the same pot that needed water every 12 days in June may now need 20 days in December. Always perform the finger-test before watering: insert a finger 3\u20134 cm into the soil and water only when completely dry at that depth. Water at the soil level \u2014 never into the rosette \u2014 as standing water in the growing tip creates a pathway for bacterial stem rot. If your tap water is heavily chlorinated or fluoridated, letting it stand overnight before use helps prevent progressive root tip damage.</p><h3>Soil Composition and Drainage</h3><p>The Aglaonema root system evolved in loose, humus-rich forest floor debris that drains almost instantly while retaining moisture around every root hair. Standard potting mix, once transferred into a closed container, compacts progressively as organic material breaks down, eliminating the air pockets roots need. Root rot follows a well-documented sequence: water fills pore spaces, creating anaerobic conditions; water-molds Pythium and Phytophthora proliferate and dissolve root cell walls; by the time above-ground symptoms appear, 40\u201360% of the root system is already non-functional. Use a blend of 40% coco coir, 30% perlite, and 30% compost. Water should flow freely from the drainage holes within seconds of application \u2014 if it pools on the surface, the soil is too dense.</p><h2>Fertilizing Your Aglaonema</h2><p>Feed with a balanced liquid fertilizer (NPK 20-20-20 or 10-10-10) diluted to half strength every 4\u20136 weeks from spring through early autumn. Half strength is critical: Aglaonema roots are sensitive to salt accumulation, and full-strength doses cause root tip burn that appears as sudden yellowing. Withhold fertilizer entirely through late autumn and winter. If you see a white crust on the soil surface, flush thoroughly with two to three times the pot volume of water to leach accumulated salts before resuming feeding.</p><h2>Propagation Methods</h2><p>Propagate through stem tip cuttings, basal stem division, or separation of rooted offsets that emerge alongside the mother plant. For stem cuttings, select a stem with 3\u20134 visible nodes, cut below the lowest node with a sterilized blade, remove lower leaves, and root in water or moist coco coir. In a warm room above 22\u00b0C, rooting occurs within 3\u20135 weeks. In cooler conditions the same process takes 6\u20138 weeks. Division is most efficiently done at repotting time \u2014 pull rooted offshoots apart carefully and pot individually in fresh aroid mix.</p><h2>Repotting Guidelines</h2><p>Repot every 2\u20133 years, or sooner when roots emerge from drainage holes or the plant wilts within a day or two of watering. Spring is the optimal window \u2014 plant reserves are at their seasonal peak and the growing season provides conditions for rapid root recovery. Choose a pot only 1\u20132 cm wider than the current one; excess soil holds moisture the roots cannot yet access and dramatically increases root rot risk. See our repotting shock rescue guide for a step-by-step process. Withhold fertilizer for 6\u20138 weeks after repotting.</p><h2>Toxicity Information</h2><p>Aglaonema is toxic to humans, cats, dogs, and other household animals. Every plant part contains calcium oxalate crystals \u2014 microscopic needle-shaped structures that embed into soft oral tissue on contact, causing immediate burning, swelling, and inflammation. In pets, ingestion triggers excessive drooling, pawing at the mouth, vomiting, and in severe cases throat swelling. Skin contact with sap can cause dermatitis in sensitive individuals. Keep well out of reach of children and pets; contact a veterinarian or poison control centre immediately if ingestion is suspected.</p><h2>Common Problems and Solutions</h2><p>Brown leaf-tip margins almost always trace back to dry air from heating vents or cold winter drafts \u2014 not underwatering. Increasing watering makes it worse. Yellow leaves with a soft or mushy stem base confirm root rot: unpot immediately, trim all dark soft roots to healthy white tissue, soak briefly in 3% hydrogen peroxide, and repot in fresh dry aroid mix. For mealybugs, isolate the plant immediately, treat colonies with 70% isopropyl alcohol on a cotton swab, then apply diluted neem oil (5 ml neem oil plus 2 ml dish soap per liter) to all leaf surfaces every 5 days for three full cycles.</p>",
+    "quickAnswer": "Aglaonema (Chinese Evergreen) thrives in low to moderate indirect light, needs watering every 10\u201321 days depending on the season, and requires a well-draining aroid mix. Keep it away from heating vents and cold windowsills to prevent brown tips. Feed at half strength every 4\u20136 weeks from spring through early autumn.",
+    "ogImage": "/assets/images/aglaonema.webp",
+    "ogImageAlt": "Close-up of Aglaonema Red Anjamani showing vivid red and green patterned foliage in a terracotta pot against a bright white wall",
+    "heroImage": "/assets/images/aglaonema.webp",
+    "heroImageAlt": "Aglaonema Silver Bay with broad silver-green variegated leaves displayed in a white ceramic pot on a wooden shelf in a bright living room",
+    "featuredImageAlt": "Multiple Aglaonema cultivars including green, pink, and silver varieties grouped together on an indoor plant shelf in soft morning light",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Brown, dry margins creeping inward from leaf tips on otherwise green leaves",
+            "diagnosis": "Dry air from central heating or heating vents, creating a dehydration gradient in leaf margin cells that outpaces root-supplied moisture",
+            "treatment": "Move the plant away from radiators and heating vents; add a humidity tray or compact humidifier nearby; do not increase watering frequency as the root cause is atmospheric, not hydration-related",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Widespread yellowing of multiple leaves combined with soft, mushy stem base",
+            "diagnosis": "Root rot caused by overwatering in compacted or dense soil, most commonly in winter when low light reduces the plant's water uptake",
+            "treatment": "Unpot immediately; trim all black, brown, or mushy root sections to healthy white tissue; soak trimmed roots in 3% hydrogen peroxide for 5 minutes; repot in fresh, dry aroid mix (40% coco coir, 30% perlite, 30% compost) in a clean container with drainage holes",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "White cottony masses clustered in leaf axils and along stem joints",
+            "diagnosis": "Mealybug infestation, accelerated by plant stress from dry centrally heated air which reduces the plant's natural pest resistance",
+            "treatment": "Isolate the plant immediately; treat all visible colonies with a cotton swab dipped in 70% isopropyl alcohol; follow with neem oil spray (5 ml neem oil plus 2 ml dish soap per liter water) applied to all leaf surfaces every 5 days for 3 complete treatment cycles",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Aroid Mix",
+            "definition": "A specialized, fast-draining potting blend designed for plants in the Araceae family (aroids), typically combining coco peat or orchid bark for moisture retention, perlite or coarse sand for macro-drainage, and compost for nutrition. It mimics the loose, humus-rich forest floor conditions where aroids naturally grow and prevents the anaerobic soil conditions that cause root rot."
+        },
+        {
+            "term": "Calcium Oxalate Crystals",
+            "definition": "Microscopic, needle-shaped insoluble crystals (raphides) produced and stored in the cell vacuoles of many plants in the Araceae family, including Aglaonema. When plant tissue is chewed or cut, the crystals are mechanically released and embed into soft tissue, causing immediate pain, burning, and inflammation in the mouth and digestive tract of humans and animals."
+        },
+        {
+            "term": "Transpiration",
+            "definition": "The physiological process by which water absorbed by plant roots travels upward through the stem and is released as water vapor through microscopic pores (stomata) on the leaf surface. Transpiration drives nutrient transport, regulates leaf temperature, and creates the turgor pressure that keeps leaves firm. In AC environments with very low humidity and cold drafts, transpiration is dramatically accelerated at leaf margins, causing desiccation and browning before the root system can compensate."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Aglaonema Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Mature Size"
+        ],
+        "rows": [
+            [
+                "Silver Bay",
+                "Broad silver-green variegated leaves; most shade-tolerant cultivar; ideal for dark north-facing rooms",
+                "60\u201390 cm"
+            ],
+            [
+                "Red Anjamani",
+                "Vivid red and pink leaf coloration; requires moderately brighter indirect light to maintain pigmentation",
+                "40\u201360 cm"
+            ],
+            [
+                "Creta",
+                "Compact white-green variegation with a neat rosette form; excellent for tabletops and office desks",
+                "30\u201345 cm"
+            ]
+        ]
+    },
+    "h1": "Aglaonema (Chinese Evergreen) Care Guide: Thriving in Low Light and Central Heating",
+    "breadcrumbName": "Aglaonema (Chinese Evergreen) Care Guide",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "topics:humidity",
+        "topics:repotting",
+        "humidity-tray-vs-humidifier-houseplants",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the large, lush leaves suggest a high-moisture tropical plant\u2014but aglaonemas are drought-tolerant and store water in their thick stems. Letting the soil stay wet causes root rot that often goes unnoticed until entire stems soften and collapse. Wait until the top inch is dry before watering, and reduce further in winter."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "They occasionally bloom indoors with a small peace-lily-like spathe\u2014but unlike peace lilies, the flowers divert significant energy away from the colorful foliage that's actually the plant's appeal. Many experienced growers cut the flower off as soon as it appears."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, variegated varieties lose their reds, pinks, and creams and revert toward plain green as the plant maximizes chlorophyll over decorative pigments. They survive shade but genuinely look much better with bright indirect light."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "aglaonema brown tips fix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema overwatering symptoms",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "best soil for aglaonema",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema winter care low light",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema central heating dry air",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "chinese evergreen root rot treatment",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema fertilizer schedule",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "aglaonema mealybug treatment",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Plant Aglaonema",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light for the best variegated leaf color.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Tolerate lower light well, making it suited to dimmer indoor spaces.",
+        "Maintain warm temperatures and moderate humidity for the best overall growth."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 18,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Tropical foliage perennial",
+        "difficulty": "beginner",
+        "light": "Low to bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Allow the top 1-2 inches of soil to dry before watering; reduce frequency during cooler months.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "64\u00b0F - 84\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "1-3 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Well-draining, moisture-retentive potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer every 4-6 weeks during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings or division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "nativeRegion": "Tropical and subtropical Asia and New Guinea",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chinese-evergreen"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering",
+            "humidity",
+            "repotting"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/plant-aglaonema/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chinese-evergreen"
+        ]
+    },
+    "contentText": "You brought home an Aglaonema because everyone told you it was impossible to kill \u2014 and yet here you are, staring at brown papery leaf edges creeping inward from the tips while the plant looks progressively sadder each week. This exact pattern plays out in homes across the US, UK, Canada, and Europe every winter, and the cause is almost never what growers assume. This guide identifies the precise chain of events behind those brown edges, explains the mechanism behind each failure mode in Western indoor conditions, and gives you a seasonal care framework that works year-round. Light Requirements Chinese Evergreen is one of the few foliage plants that genuinely performs well in low to moderate indirect light \u2014 making it ideal for north-facing rooms, interior hallways, and office environments. The critical distinction every grower must understand is the difference between \"low light\" and \"no light.\" Aglaonemas cannot sustain photosynthesis under purely artificial light alone or in windowless dark corners; they need ambient daylight or dedicated grow lighting for a minimum of 6 to 8 hours daily. Variegated cultivars with white, yellow, pink, or red leaf patterns \u2014 such as 'Red Anjamani' or 'Creta' \u2014 require brighter indirect light than the classic green-and-silver types; in true low-light conditions these revert toward green as the plant redirects energy toward survival-level photosynthesis. Avoid direct afternoon sun from south or west-facing glass \u2014 UV intensity will bleach leaf surfaces and cause permanent scorch damage. Temperature and Heating Vents Aglaonema's ideal temperature window is 18\u00b0C to 29\u00b0C (64\u00b0F to 84\u00b0F). The most consistent problem in Western homes is not outdoor cold \u2014 it is the microclimate created by central heating. Air flowing from a radiator or heating vent is warm but carries very low relative humidity (often 20\u201330%), creating a dry zone around any plant placed nearby. Leaf margins desiccate faster than the root system can compensate, producing the distinctive dry brown edges that are almost universally misdiagnosed as underwatering. Move the plant at least 60 cm from any radiator or heating vent. Cold winter windowsills present the opposite problem: even double-glazed glass can conduct outdoor cold, chilling the root zone below 13\u00b0C, which stops root function and causes yellowing and leaf drop. Keep the plant set back from the glass during winter. Humidity Aglaonema thrives at 50\u201370% relative humidity. A centrally heated home in winter often drops to 25\u201340% RH, causing progressive leaf-tip browning as plants lose moisture faster than their root systems can supply it. Use a humidity tray or a compact room humidifier during dry months. A pebble tray of water beneath the pot raises local humidity by 10\u201315% through evaporation at zero cost. Grouping multiple broadleaf tropicals together creates a shared transpiration microclimate that passively raises local humidity. Watering The most dangerous watering period is winter \u2014 not summer. In spring and summer, warmth and longer days mean soil dries relatively quickly and watering every 10\u201314 days is appropriate. In winter, low light dramatically reduces the plant's water uptake and heated indoor air slows soil evaporation less than you'd expect; the same pot that needed water every 12 days in June may now need 20 days in December. Always perform the finger-test before watering: insert a finger 3\u20134 cm into the soil and water only when completely dry at that depth. Water at the soil level \u2014 never into the rosette \u2014 as standing water in the growing tip creates a pathway for bacterial stem rot. If your tap water is heavily chlorinated or fluoridated, letting it stand overnight before use helps prevent progressive root tip damage. Soil Composition and Drainage The Aglaonema root system evolved in loose, humus-rich forest floor debris that drains almost instantly while retaining moisture around every root hair. Standard potting mix, once transferred into a closed container, compacts progressively as organic material breaks down, eliminating the air pockets roots need. Root rot follows a well-documented sequence: water fills pore spaces, creating anaerobic conditions; water-molds Pythium and Phytophthora proliferate and dissolve root cell walls; by the time above-ground symptoms appear, 40\u201360% of the root system is already non-functional. Use a blend of 40% coco coir, 30% perlite, and 30% compost. Water should flow freely from the drainage holes within seconds of application \u2014 if it pools on the surface, the soil is too dense. Fertilizing Your Aglaonema Feed with a balanced liquid fertilizer (NPK 20-20-20 or 10-10-10) diluted to half strength every 4\u20136 weeks from spring through early autumn. Half strength is critical: Aglaonema roots are sensitive to salt accumulation, and full-strength doses cause root tip burn that appears as sudden yellowing. Withhold fertilizer entirely through late autumn and winter. If you see a white crust on the soil surface, flush thoroughly with two to three times the pot volume of water to leach accumulated salts before resuming feeding. Propagation Methods Propagate through stem tip cuttings, basal stem division, or separation of rooted offsets that emerge alongside the mother plant. For stem cuttings, select a stem with 3\u20134 visible nodes, cut below the lowest node with a sterilized blade, remove lower leaves, and root in water or moist coco coir. In a warm room above 22\u00b0C, rooting occurs within 3\u20135 weeks. In cooler conditions the same process takes 6\u20138 weeks. Division is most efficiently done at repotting time \u2014 pull rooted offshoots apart carefully and pot individually in fresh aroid mix. Repotting Guidelines Repot every 2\u20133 years, or sooner when roots emerge from drainage holes or the plant wilts within a day or two of watering. Spring is the optimal window \u2014 plant reserves are at their seasonal peak and the growing season provides conditions for rapid root recovery. Choose a pot only 1\u20132 cm wider than the current one; excess soil holds moisture the roots cannot yet access and dramatically increases root rot risk. See our repotting shock rescue guide for a step-by-step process. Withhold fertilizer for 6\u20138 weeks after repotting. Toxicity Information Aglaonema is toxic to humans, cats, dogs, and other household animals. Every plant part contains calcium oxalate crystals \u2014 microscopic needle-shaped structures that embed into soft oral tissue on contact, causing immediate burning, swelling, and inflammation. In pets, ingestion triggers excessive drooling, pawing at the mouth, vomiting, and in severe cases throat swelling. Skin contact with sap can cause dermatitis in sensitive individuals. Keep well out of reach of children and pets; contact a veterinarian or poison control centre immediately if ingestion is suspected. Common Problems and Solutions Brown leaf-tip margins almost always trace back to dry air from heating vents or cold winter drafts \u2014 not underwatering. Increasing watering makes it worse. Yellow leaves with a soft or mushy stem base confirm root rot: unpot immediately, trim all dark soft roots to healthy white tissue, soak briefly in 3% hydrogen peroxide, and repot in fresh dry aroid mix. For mealybugs, isolate the plant immediately, treat colonies with 70% isopropyl alcohol on a cotton swab, then apply diluted neem oil (5 ml neem oil plus 2 ml dish soap per liter) to all leaf surfaces every 5 days for three full cycles.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/plant-aglaonema/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

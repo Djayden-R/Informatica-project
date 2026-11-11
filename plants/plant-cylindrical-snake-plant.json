@@ -1,0 +1,327 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-cylindrical-snake-plant",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "sansevieria-cylindrica",
+    "seoTitle": "Cylindrical Snake Plant Care: Avoid Braid Rot",
+    "metaDescription": "Cylindrical Snake Plant rots easily when braided too tightly. Find out the watering rules, light needs, and why braided Sansevieria needs extra attention.",
+    "featuredImage": "/assets/images/sansevieria-cylindrica.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "succulents",
+        "low-light-tolerant",
+        "toxic-to-pets",
+        "easy-care"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Dracaena angolensis",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Sansevieria",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Sansevieria cylindrica (reclassified as Dracaena angolensis)",
+        "family": "Asparagaceae",
+        "origin": "Angola (Southern Africa)",
+        "type": "Evergreen succulent perennial",
+        "nativeClimate": "Semi-arid / Dry woodland",
+        "commonUses": [
+            "Modern architecture spaces",
+            "Low-light offices",
+            "Bedrooms"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Highly adaptable. Thrives in bright indirect light but easily survives in dark corners.",
+        "watering": "Thrives on neglect. Water only when the soil is 100% bone dry (every 3-6 weeks).",
+        "soil": "Extremely fast-draining cactus and succulent mix.",
+        "pruning": "None required. Damaged spears will not grow back from the cut tip.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Ingestion causes nausea, vomiting, and diarrhea.",
+        "bestFor": "Frequent travelers, dark apartments, and anyone who chronically forgets to water plants."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "very slow",
+        "matureHeight": "2-4 feet",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Spring (produces tall spikes of fragrant white/pink flowers, rare indoors)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 70%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.5",
+            "survivable": "5.5 - 8.0"
+        }
+    },
+    "lighting": {
+        "description": "It is famous for surviving in almost total darkness, though it won't grow under those conditions. For actual growth, it prefers bright, indirect light and can even handle a few hours of direct sun.",
+        "sunlightHours": "Adaptable (0 to 6 hours indirect)",
+        "intensity": "adaptable",
+        "indoorWindow": "Any window, or a dark interior room.",
+        "shadeTolerance": "very high"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Requires almost no fertilizer. Over-feeding will burn the roots and cause floppy growth.",
+        "fertilizerFrequency": "Once a year in spring with a cactus fertilizer diluted to half strength.",
+        "organicOptions": "A pinch of worm castings in spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Overwatering is the only way to kill this plant. It is highly susceptible to root rot if watered more than once a month in low light."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Should I unbraid my braided Cylindrical Snake Plant?",
+            "answer": "Yes, highly recommended. Nurseries forcefully braid young stems together for visual appeal, but as the thick stems grow, the braid acts like a tourniquet. The friction causes scarring, and the tight binding restricts water flow, eventually killing the inner stems."
+        },
+        {
+            "question": "Why is my Cylindrical Snake Plant turning yellow and mushy at the base?",
+            "answer": "This is a fatal case of root rot caused by overwatering. Sansevierias store water in their thick spears. If the soil never dries out, the plant drowns and rots from the bottom up. Stop watering immediately."
+        },
+        {
+            "question": "Can I grow a Cylindrical Snake Plant in a windowless bathroom?",
+            "answer": "It will survive longer than almost any other plant, but it will not grow. All plants need some light to photosynthesize. If kept in total darkness, it will just slowly decline over a year."
+        },
+        {
+            "question": "How often should I water my Cylindrical Snake Plant?",
+            "answer": "Wait until the soil is 100% bone dry all the way to the bottom of the pot. Depending on light and temperature, you may only need to water it once every 4 to 6 weeks."
+        },
+        {
+            "question": "Is the African Spear plant toxic to pets?",
+            "answer": "Yes. It contains saponins, which are toxic to cats and dogs, causing gastrointestinal upset, drooling, and vomiting."
+        }
+    ],
+    "shortDesc": "The Cylindrical Snake Plant is nearly indestructible, making it perfect for beginners. However, the popular \"braided\" versions sold in stores often choke themselves to death as they grow.",
+    "content": "<h2>Overview</h2><p>The Cylindrical Snake Plant (<em>Sansevieria cylindrica</em>, recently reclassified as <em>Dracaena angolensis</em>), also known as the African Spear Plant, is a striking, architectural succulent. Unlike standard snake plants that have flat, sword-like leaves, this species produces thick, perfectly round, tubular spears that shoot straight up from the soil. Native to the harsh, dry environments of Angola, it has evolved to be one of the most indestructible indoor plants in existence.</p><p>It thrives on neglect, requiring water only a handful of times a year. However, a major issue plagues this plant in the retail market. Nurseries frequently sell them with their young, pliable spears tightly braided together. While this looks neat on a store shelf, as the thick, rigid spears mature and expand, the braid acts as a tourniquet. The stems crush and scar each other, cutting off vascular flow and often leading to the death of the plant. Unbraiding a newly purchased plant is highly recommended for its long-term survival.</p><h3>Light Requirements: Highly Adaptable</h3><p>The Cylindrical Snake Plant is famous for its extreme light tolerance. It will survive in a dark, windowless office corner where almost any other plant would die in weeks. However, survival does not mean growth. If kept in extreme low light, the plant will simply sit in stasis, never producing a new spear. To see actual, vigorous growth, place it in bright, indirect light near an east or west-facing window. It can even handle several hours of direct, blazing sun once acclimated.</p><h3>Watering: The #1 Killer</h3><p>There is really only one way to kill a Cylindrical Snake Plant: overwatering. The massive, thick spears act as giant water reservoirs, allowing the plant to survive severe droughts in the African wilderness.</p><p>You must allow the potting soil to dry out 100% completely\u2014all the way to the bottom of the pot\u2014before watering. If you are unsure if it is dry, wait another week. In a low-light environment during the winter, you may only need to water this plant once every six to eight weeks. When it is finally time, soak the pot thoroughly until water flows out the drainage holes, ensuring the root ball is hydrated, and then ignore it again for a month.</p><h3>Temperature and Humidity</h3><p>This plant prefers warm indoor temperatures ranging from 65\u00b0F to 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it away from freezing drafts, as temperatures below 50\u00b0F (10\u00b0C) can cause cellular damage to the water-filled spears, turning them to mush. It has zero need for humidity and perfectly tolerates the bone-dry air of centrally heated homes.</p><h3>Soil and Potting</h3><p>Because they are so susceptible to root rot, proper drainage is critical. Standard potting soil is far too dense and holds moisture for too long. You must use a fast-draining cactus and succulent mix, heavily amended with coarse sand, perlite, or pumice. Furthermore, Sansevierias have strong, thick rhizomes (underground stems) that spread horizontally. They actually prefer to be somewhat root-bound and have been known to crack thin plastic or ceramic pots when they run out of room.</p><h2>Fertilizing</h2><p>This plant is an incredibly slow grower and requires almost no supplemental nutrition. Feed it only once a year, right at the start of spring, using a specialized cactus/succulent fertilizer diluted to half strength. Over-fertilizing can cause the spears to grow too fast, making them weak and floppy rather than rigid and architectural.</p><h2>Propagation</h2><p>You can propagate a Cylindrical Snake Plant by cutting a single spear into 3-inch horizontal sections. Ensure you remember which way was \"up.\" Let the cuttings callus over for a few days, then plant the bottom end into dry succulent soil. After a few weeks, they will root. However, note that leaf cuttings will often revert and produce flat, standard snake plant leaves first before eventually pushing out the mature cylindrical spears.</p><h2>Toxicity</h2><p>Like all Sansevierias, the Cylindrical Snake Plant contains saponins. If ingested by cats or dogs, it is mildly to moderately toxic, causing nausea, drooling, vomiting, and diarrhea. The rigid, stick-like appearance doesn't usually attract chewing pets, but caution is still advised.</p>",
+    "quickAnswer": "The Cylindrical Snake Plant is nearly indestructible if you ignore it. Water only when the soil is 100% bone dry (every 3-6 weeks) and unbraid store-bought plants to prevent them from crushing themselves. We recommend observing the plant closely over a few weeks to ensure it adjusts well to its environment.",
+    "ogImage": "/assets/images/sansevieria-cylindrica.webp",
+    "ogImageAlt": "Thick, round, tubular spears of the Cylindrical Snake Plant",
+    "heroImage": "/assets/images/sansevieria-cylindrica.webp",
+    "heroImageAlt": "Close up of the striped, pointed tips of Sansevieria cylindrica",
+    "featuredImageAlt": "A modern Cylindrical Snake Plant sitting in a low-light office corner",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Cylindrical Snake Plant turning yellow and mushy at the base?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Stop watering; remove plant, trim rotten roots, repot in dry, well-draining soil; water sparingly.",
+            "prevention": "Water only when soil is completely dry.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Rhizome",
+            "definition": "A continuously growing horizontal underground stem that puts out lateral shoots and adventitious roots at intervals. This is how Snake Plants spread and multiply in a pot."
+        },
+        {
+            "term": "Saponin",
+            "definition": "A class of chemical compounds found in particular plant species that produce a soap-like foam when shaken in water. They serve as an anti-herbivore defense and are toxic to pets."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Snake Plant Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Shape",
+            "Growth Habit"
+        ],
+        "rows": [
+            [
+                "Cylindrical (S. cylindrica)",
+                "Thick, round spears",
+                "Straight, vertical fans"
+            ],
+            [
+                "Mother-in-Law's Tongue (S. trifasciata)",
+                "Flat, wide swords",
+                "Tall, upright clusters"
+            ],
+            [
+                "Bird's Nest (S. hahnii)",
+                "Flat, short leaves",
+                "Low, tight rosette"
+            ]
+        ]
+    },
+    "h1": "Cylindrical Snake Plant Care: Preventing Rot in Braided Stems",
+    "breadcrumbName": "Cylindrical Snake Plant Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "stem-rot-vs-root-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the dramatic upright spikes look bold and thirsty\u2014but each cylindrical leaf stores large amounts of water, and wet soil causes root rot that spreads to the base of the leaves before any visible change on the surface. Water only when the soil is completely dry, which may mean waiting 4\u20136 weeks."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The braided or fan-style arrangements commonly sold are achieved by training and tying young leaves together while they're flexible\u2014if the ties are removed, the leaves will slowly straighten over months as they grow according to their natural growth direction. The shape is maintained by ongoing binding, not genetics."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, the cylindrical leaves become thinner and may begin to curve or lean rather than holding their characteristic rigid upright form. Bright light is what keeps those spikes firm, straight, and thickening over time."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "dracaena angolensis",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "braided snake plant care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "cylindrical snake plant turning yellow",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "african spear plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "indestructible indoor plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "cylindrical snake plant large root",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Sansevieria Cylindrica",
+    "summary": "",
+    "keyTakeaways": [
+        "Water only every 3-4 weeks, letting soil fully dry out between.",
+        "Tolerate low light well, though bright indirect light supports best growth.",
+        "Avoid overwatering, the primary cause of decline in this hardy plant.",
+        "Use a fast-draining, succulent-style potting mix to prevent root rot."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen succulent perennial",
+        "difficulty": "beginner",
+        "light": "Bright indirect to full sun",
+        "lightMin": "low",
+        "lightMax": "full",
+        "water": "Allow the soil to dry completely between waterings, then water thoroughly.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "2-4 feet",
+        "growthRate": "Slow",
+        "soil": "Cactus or succulent gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once or twice during spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Terracotta",
+        "propagation": "Leaf cuttings or division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "nativeRegion": "Angola and surrounding regions of Southern Africa",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/sansevieria-cylindrica/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The Cylindrical Snake Plant ( Sansevieria cylindrica , recently reclassified as Dracaena angolensis ), also known as the African Spear Plant, is a striking, architectural succulent. Unlike standard snake plants that have flat, sword-like leaves, this species produces thick, perfectly round, tubular spears that shoot straight up from the soil. Native to the harsh, dry environments of Angola, it has evolved to be one of the most indestructible indoor plants in existence. It thrives on neglect, requiring water only a handful of times a year. However, a major issue plagues this plant in the retail market. Nurseries frequently sell them with their young, pliable spears tightly braided together. While this looks neat on a store shelf, as the thick, rigid spears mature and expand, the braid acts as a tourniquet. The stems crush and scar each other, cutting off vascular flow and often leading to the death of the plant. Unbraiding a newly purchased plant is highly recommended for its long-term survival. Light Requirements: Highly Adaptable The Cylindrical Snake Plant is famous for its extreme light tolerance. It will survive in a dark, windowless office corner where almost any other plant would die in weeks. However, survival does not mean growth. If kept in extreme low light, the plant will simply sit in stasis, never producing a new spear. To see actual, vigorous growth, place it in bright, indirect light near an east or west-facing window. It can even handle several hours of direct, blazing sun once acclimated. Watering: The #1 Killer There is really only one way to kill a Cylindrical Snake Plant: overwatering. The massive, thick spears act as giant water reservoirs, allowing the plant to survive severe droughts in the African wilderness. You must allow the potting soil to dry out 100% completely\u2014all the way to the bottom of the pot\u2014before watering. If you are unsure if it is dry, wait another week. In a low-light environment during the winter, you may only need to water this plant once every six to eight weeks. When it is finally time, soak the pot thoroughly until water flows out the drainage holes, ensuring the root ball is hydrated, and then ignore it again for a month. Temperature and Humidity This plant prefers warm indoor temperatures ranging from 65\u00b0F to 85\u00b0F (18\u00b0C - 29\u00b0C). Keep it away from freezing drafts, as temperatures below 50\u00b0F (10\u00b0C) can cause cellular damage to the water-filled spears, turning them to mush. It has zero need for humidity and perfectly tolerates the bone-dry air of centrally heated homes. Soil and Potting Because they are so susceptible to root rot, proper drainage is critical. Standard potting soil is far too dense and holds moisture for too long. You must use a fast-draining cactus and succulent mix, heavily amended with coarse sand, perlite, or pumice. Furthermore, Sansevierias have strong, thick rhizomes (underground stems) that spread horizontally. They actually prefer to be somewhat root-bound and have been known to crack thin plastic or ceramic pots when they run out of room. Fertilizing This plant is an incredibly slow grower and requires almost no supplemental nutrition. Feed it only once a year, right at the start of spring, using a specialized cactus/succulent fertilizer diluted to half strength. Over-fertilizing can cause the spears to grow too fast, making them weak and floppy rather than rigid and architectural. Propagation You can propagate a Cylindrical Snake Plant by cutting a single spear into 3-inch horizontal sections. Ensure you remember which way was \"up.\" Let the cuttings callus over for a few days, then plant the bottom end into dry succulent soil. After a few weeks, they will root. However, note that leaf cuttings will often revert and produce flat, standard snake plant leaves first before eventually pushing out the mature cylindrical spears. Toxicity Like all Sansevierias, the Cylindrical Snake Plant contains saponins. If ingested by cats or dogs, it is mildly to moderately toxic, causing nausea, drooling, vomiting, and diarrhea. The rigid, stick-like appearance doesn't usually attract chewing pets, but caution is still advised.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/sansevieria-cylindrica/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

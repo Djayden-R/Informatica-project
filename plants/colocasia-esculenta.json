@@ -1,0 +1,246 @@
+{
+    "quickAnswer": "Elephant Ear (Colocasia esculenta) needs bright indirect light, consistently moist soil, and high humidity to thrive. Unlike most houseplants, it prefers evenly damp conditions rather than drying out between waterings. In cooler climates, tubers should be lifted and stored dry over winter to prevent rot and replanted after the last frost.",
+    "summary": "Colocasia esculenta, commonly called Elephant Ear, is a dramatic tropical plant grown for its enormous heart-shaped leaves. It thrives outdoors in warm, humid climates and works equally well as a striking indoor specimen or seasonal container plant, provided its higher water and humidity needs are met.\n\nThe main challenges growers face are yellowing leaves from underwatering or low humidity, and tuber rot from cold, wet winter storage. Understanding its preference for constant moisture (rather than the dry-down cycle typical of most houseplants) and proper dormancy handling resolves most common problems.",
+    "keyTakeaways": [
+        "Keep soil consistently moist; Colocasia dislikes drying out between waterings.",
+        "Provide high humidity and bright indirect light for lush, unblemished leaves.",
+        "Lift and store tubers dry indoors if winter temperatures drop near freezing.",
+        "Yellowing leaves often signal underwatering or humidity that's too low.",
+        "Feed regularly during the growing season to support its rapid, large-leaf growth."
+    ],
+    "content": "<h2>Overview: The Dramatic Tropical Giant</h2><p>Elephant Ear (<em>Colocasia esculenta</em>), also widely recognized as Taro, is a bold, architectural tropical perennial celebrated for its massive, heart-shaped (cordate) foliage. Native to tropical Southeast Asia and the Pacific Islands, its dramatic leaves point downwards on long, succulent stems, creating an instant jungle canopy in garden beds, patio containers, or bright indoor spaces. In addition to its ornamental grandeur, <em>Colocasia esculenta</em> has been cultivated for millennia as a staple food crop for its starchy, edible corms (tubers).</p><h2>Light & Placement Requirements</h2><p><em>Colocasia esculenta</em> thrives best in <strong>bright, filtered sunlight to partial shade</strong>. In outdoor landscapes with ample soil moisture, established plants can tolerate full morning sun, which deepens foliage coloration\u2014especially in dark cultivars like 'Black Magic' or 'Illustris'. When grown indoors or in containers on a balcony, place the plant in a bright location receiving abundant indirect light. Avoid harsh, unshaded midday sun in hot climates, as dry heat and direct radiation can scorch the margins of the tender leaves.</p><h2>Soil, Potting & Substrate Needs</h2><p>Unlike many houseplants that require rapid-draining, gritty soil, Elephant Ears are bog-tolerant marginal plants that demand <strong>rich, moisture-retentive, humus-heavy soil</strong>. An optimal potting mix consists of 40% organic compost or well-aged cow manure, 30% coco peat or peat moss, 20% quality garden loam, and 10% perlite or vermiculite to retain structure. Maintain a rich, slightly acidic to neutral pH between 5.5 and 6.5. When planting in containers, choose large, sturdy pots (minimum 12\u201316 inches wide) to support their rapid root and tuber development.</p><h2>Watering Routine & Moisture Management</h2><p>Elephant Ears are voracious drinkers. They thrive in consistently damp to wet soil and cannot tolerate drying out. During the peak summer growing season, water deeply and frequently to ensure the substrate never dries beyond the immediate surface layer. Outdoor container plants during hot spells often require daily watering. If growing in outdoor ponds or water features, <em>Colocasia</em> can even sit in shallow water margins up to 2 inches deep. Reduce watering in the cooler autumn and winter months when the plant enters dormancy.</p><h2>Humidity & Temperature Preferences</h2><p>Thriving naturally in hot, humid climates, <em>Colocasia</em> prefers ambient temperatures between <strong>20\u00b0C and 35\u00b0C (68\u00b0F\u201395\u00b0F)</strong> and relative humidity levels of <strong>60% or higher</strong>. In dry indoor air or air-conditioned rooms, leaf edges will turn brown and papery; run a humidifier nearby or group it with other tropical plants to build a humid microclimate. The plant is frost-sensitive; temperatures below 10\u00b0C (50\u00b0F) will cause the foliage to die back to the corm.</p><h2>Fertilization & Heavy Feeding</h2><p>Because they produce massive foliage in a matter of weeks, Elephant Ears are exceptionally heavy feeders. Apply a high-nitrogen, balanced water-soluble fertilizer or an organic liquid feed (such as fish emulsion or compost tea) every 2 to 3 weeks throughout the active growing season (spring through late summer). Incorporating a generous top-dressing of vermicompost or slow-release granular fertilizer at the start of the season provides the sustained nutrient drive needed for giant leaves.</p><h2>Propagation, Division & Winter Care</h2><p>Propagate <em>Colocasia esculenta</em> easily through corm division or by separating small side-pups (runners) in the spring during repotting. In temperate zones with freezing winters (below USDA Zone 8), dig up the tubers in late autumn before the first hard frost, trim back the dead stems, allow the corms to dry in a shaded area for a few days, and store them in dry peat moss or wood shavings in a cool, dark, frost-free location (10\u00b0C\u201315\u00b0C / 50\u00b0F\u201359\u00b0F) until spring replanting.</p><h2>Pest Management, Toxicity & Troubleshooting</h2><p>Dry indoor conditions frequently invite spider mites, aphids, and thrips, which cluster on the undersides of the broad leaves. Wash foliage regularly with a gentle spray of water and treat outbreaks with organic neem oil or insecticidal soap. Yellowing lower leaves are natural as older foliage is shed to fuel new center spikes; simply trim them off close to the base. <strong>Toxicity Note:</strong> All raw parts of <em>Colocasia esculenta</em> contain insoluble calcium oxalate crystals, which cause intense oral irritation and swelling if ingested by pets or humans. Keep ornamental plants out of reach of curious pets, and only consume taro tubers after proper and thorough culinary cooking.</p>",
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "colocasia-esculenta",
+    "seoTitle": "Elephant Ear Care Guide: Light, Water and Tuber Tips",
+    "commonName": "Elephant Ear",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Colocasia",
+        "species": "esculenta",
+        "nativeRange": "Southeast Asia & Indian Subcontinent",
+        "growthHabit": "Semi-Aquatic Tuberous Perennial"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Semi-aquatic bog plant. Capable of growing in heavy, muddy soils and shallow water margins where air exchange is severely limited.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6013",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Massive underground corms (tubers) act as significant water and energy reservoirs, allowing the plant to go dormant and survive seasonal dry periods despite having thirsty, thin leaves.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6014",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Robust, thick roots and large solid corms make it extremely durable against physical damage. Can be dug up completely for winter storage.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6015",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Highly tolerant of saturated, oxygen-deprived heavy clay soils and seasonal flooding, though the corm can rot in completely stagnant, foul water.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6016",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Adaptable to movement but heavily reliant on continuous high light and heat to maintain its massive foliage.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6017",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 15,
+                "unit": "\u00b0C",
+                "confidence": 0.95,
+                "editorReasoning": "Leaves are completely destroyed by frost, and the plant naturally enters dormancy below 15\u00b0C, dying back to the corm.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_6018",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "colocasia-esculenta",
+    "entityType": "plant",
+    "status": "published",
+    "metaDescription": "Care for Colocasia esculenta elephant ear plants indoors or outdoors with proper light, watering and tuber storage to prevent yellowing leaves.",
+    "featuredImage": "/assets/images/colocasia-esculenta.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves of my Elephant Ear turning yellow?",
+            "diagnosis": "Overwatering or poor drainage",
+            "treatment": "Check soil; if waterlogged, allow to dry; ensure pot has drainage. Cut off yellow leaves.",
+            "prevention": "Water when top 2 inches are dry; use well-draining soil.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my Elephant Ear not growing new leaves?",
+            "diagnosis": "Lack of light or nutrients",
+            "treatment": "Move to brighter indirect light; feed with balanced fertilizer monthly during growing season.",
+            "prevention": "Provide bright light and regular feeding.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the edges of the leaves turning brown and crispy?",
+            "diagnosis": "Low humidity or dry air",
+            "treatment": "Increase humidity with a pebble tray or humidifier; mist leaves regularly.",
+            "prevention": "Maintain high humidity (60%+).",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "h1": "Elephant Ear (Colocasia) Care Guide",
+    "breadcrumbName": "Elephant Ear",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Tropical herbaceous perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Keep the soil consistently moist or wet; do not allow to dry out completely.",
+        "drynessThreshold": 10,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "60-80%",
+        "temperature": "65-85\u00b0F (18-29\u00b0C)",
+        "matureSize": "3-6 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Rich, moisture-retentive loam",
+        "soilDrainage": "moderate",
+        "fertilizer": "Heavy feeder; fertilize every 2-3 weeks in active growth",
+        "repottingFrequency": "Annually",
+        "potPreference": "Large, moisture-retaining pot",
+        "propagation": "Tuber division",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Tropical Asia",
+        "usdaZones": "8-11",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "taxonomy": {
+        "sciName": "Colocasia esculenta",
+        "family": "Araceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/colocasia-esculenta/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Keep the growing substrate consistently moist throughout the active growing period. As a moisture-loving wetland and marginal species, Colocasia esculenta will rapidly decline if the root zone dries out, making regular, attentive watering essential during warm periods."
+        }
+    ],
+    "parameters": {
+        "temperature": {
+            "recommended": "70\u00b0F - 85\u00b0F (21\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        }
+    },
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/elephant-ears-colocasia-esculenta"
+        ]
+    },
+    "contentText": "Overview: The Dramatic Tropical Giant Elephant Ear ( Colocasia esculenta ), also widely recognized as Taro, is a bold, architectural tropical perennial celebrated for its massive, heart-shaped (cordate) foliage. Native to tropical Southeast Asia and the Pacific Islands, its dramatic leaves point downwards on long, succulent stems, creating an instant jungle canopy in garden beds, patio containers, or bright indoor spaces. In addition to its ornamental grandeur, Colocasia esculenta has been cultivated for millennia as a staple food crop for its starchy, edible corms (tubers). Light & Placement Requirements Colocasia esculenta thrives best in bright, filtered sunlight to partial shade . In outdoor landscapes with ample soil moisture, established plants can tolerate full morning sun, which deepens foliage coloration\u2014especially in dark cultivars like 'Black Magic' or 'Illustris'. When grown indoors or in containers on a balcony, place the plant in a bright location receiving abundant indirect light. Avoid harsh, unshaded midday sun in hot climates, as dry heat and direct radiation can scorch the margins of the tender leaves. Soil, Potting & Substrate Needs Unlike many houseplants that require rapid-draining, gritty soil, Elephant Ears are bog-tolerant marginal plants that demand rich, moisture-retentive, humus-heavy soil . An optimal potting mix consists of 40% organic compost or well-aged cow manure, 30% coco peat or peat moss, 20% quality garden loam, and 10% perlite or vermiculite to retain structure. Maintain a rich, slightly acidic to neutral pH between 5.5 and 6.5. When planting in containers, choose large, sturdy pots (minimum 12\u201316 inches wide) to support their rapid root and tuber development. Watering Routine & Moisture Management Elephant Ears are voracious drinkers. They thrive in consistently damp to wet soil and cannot tolerate drying out. During the peak summer growing season, water deeply and frequently to ensure the substrate never dries beyond the immediate surface layer. Outdoor container plants during hot spells often require daily watering. If growing in outdoor ponds or water features, Colocasia can even sit in shallow water margins up to 2 inches deep. Reduce watering in the cooler autumn and winter months when the plant enters dormancy. Humidity & Temperature Preferences Thriving naturally in hot, humid climates, Colocasia prefers ambient temperatures between 20\u00b0C and 35\u00b0C (68\u00b0F\u201395\u00b0F) and relative humidity levels of 60% or higher . In dry indoor air or air-conditioned rooms, leaf edges will turn brown and papery; run a humidifier nearby or group it with other tropical plants to build a humid microclimate. The plant is frost-sensitive; temperatures below 10\u00b0C (50\u00b0F) will cause the foliage to die back to the corm. Fertilization & Heavy Feeding Because they produce massive foliage in a matter of weeks, Elephant Ears are exceptionally heavy feeders. Apply a high-nitrogen, balanced water-soluble fertilizer or an organic liquid feed (such as fish emulsion or compost tea) every 2 to 3 weeks throughout the active growing season (spring through late summer). Incorporating a generous top-dressing of vermicompost or slow-release granular fertilizer at the start of the season provides the sustained nutrient drive needed for giant leaves. Propagation, Division & Winter Care Propagate Colocasia esculenta easily through corm division or by separating small side-pups (runners) in the spring during repotting. In temperate zones with freezing winters (below USDA Zone 8), dig up the tubers in late autumn before the first hard frost, trim back the dead stems, allow the corms to dry in a shaded area for a few days, and store them in dry peat moss or wood shavings in a cool, dark, frost-free location (10\u00b0C\u201315\u00b0C / 50\u00b0F\u201359\u00b0F) until spring replanting. Pest Management, Toxicity & Troubleshooting Dry indoor conditions frequently invite spider mites, aphids, and thrips, which cluster on the undersides of the broad leaves. Wash foliage regularly with a gentle spray of water and treat outbreaks with organic neem oil or insecticidal soap. Yellowing lower leaves are natural as older foliage is shed to fuel new center spikes; simply trim them off close to the base. Toxicity Note: All raw parts of Colocasia esculenta contain insoluble calcium oxalate crystals, which cause intense oral irritation and swelling if ingested by pets or humans. Keep ornamental plants out of reach of curious pets, and only consume taro tubers after proper and thorough culinary cooking.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/colocasia-esculenta/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

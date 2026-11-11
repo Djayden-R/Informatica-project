@@ -1,0 +1,492 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-tulsi-plant",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "holy-basil-tulsi-care",
+    "seoTitle": "Holy Basil (Tulsi) Care: Grow at Home Guide",
+    "metaDescription": "Holy Basil needs 6-8 hours of direct sun and warmth to thrive. Find out Tulsi's soil and watering needs, and how to grow this fragrant perennial herb.",
+    "featuredImage": "/assets/images/tulsi-plant-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "herbs",
+        "edible-plants",
+        "medicinal-plants",
+        "indoor-plants",
+        "outdoor-plants",
+        "tropical-plants",
+        "annual-plants",
+        "perennial-plants",
+        "ayurvedic-plants",
+        "vastu"
+    ],
+    "references": [
+        {
+            "title": "Ocimum tenuiflorum (syn. Ocimum sanctum) - USDA PLANTS Database",
+            "url": "https://plants.usda.gov/core/profile?symbol=OCTE",
+            "doi": ""
+        },
+        {
+            "title": "Tulsi: A Herb for All Reasons - National Institute of Ayurveda",
+            "url": "https://www.nia.nic.in/content/tulsi-herb-all-reasons",
+            "doi": ""
+        },
+        {
+            "title": "Ocimum tenuiflorum - Royal Horticultural Society",
+            "url": "https://www.rhs.org.uk/plants/details?plantid=2539",
+            "doi": ""
+        },
+        {
+            "title": "Phytochemical and Pharmacological Profile of Ocimum tenuiflorum L. - Journal of Pharmacy and Pharmacology",
+            "url": "https://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2042-7158",
+            "doi": ""
+        },
+        {
+            "title": "Tulsi - National Tropical Botanical Garden",
+            "url": "https://ntbg.org/plants/plant_details.php?plantid=11520",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ocimum tenuiflorum (syn. Ocimum sanctum)",
+        "family": "Lamiaceae",
+        "origin": "Indian subcontinent and Southeast Asia",
+        "type": "Herb",
+        "nativeClimate": "Tropical and subtropical",
+        "commonUses": [
+            "Culinary",
+            "Medicinal",
+            "Ornamental"
+        ]
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "outdoor or sunny south-facing windowsill",
+        "watering": "Water when the top 1 inch of soil is dry; typically every 2\u20133 days outdoors in summer, less frequently indoors. Avoid waterlogged soil.",
+        "soil": "Well-draining soil with a pH between 6.0 and 7.0",
+        "pruning": "Prune regularly to encourage bushy growth and prevent flowering",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Holy Basil (Tulsi) is a sacred culinary and medicinal herb consumed daily in Ayurvedic tradition. It is non-toxic to humans. Very large doses of essential oil may cause mild digestive upset in pets, but the plant is not classified as toxic.",
+        "bestFor": "Holy Basil (Tulsi) is best for gardeners who want to grow a low-maintenance, fragrant herb for culinary and medicinal use."
+    },
+    "vastu": {
+        "enabled": true,
+        "directions": [
+            "east",
+            "north-east"
+        ],
+        "rooms": [
+            "balcony",
+            "entrance"
+        ],
+        "light": [
+            "bright-indirect",
+            "full-sun"
+        ],
+        "purposes": [
+            "health",
+            "peace",
+            "air"
+        ],
+        "difficulty": "moderate",
+        "petFriendly": true,
+        "indoorSuitable": false,
+        "notes": "The north-east corner (Ishaan kona) is considered the most auspicious zone. It suits plants with uplifting energy and strong morning light needs. Keep this zone clutter-free and well-ventilated.",
+        "sourceUrl": "https://www.rhs.org.uk/plants/ocimum"
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "12-18 inches",
+        "matureSpread": "12-18 inches",
+        "lifeCycle": "tender perennial; grown as annual in frost-prone climates",
+        "floweringSeason": "summer",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65-75\u00b0F (18-24\u00b0C)",
+            "survivable": "50-90\u00b0F (10-32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50-70%",
+            "survivable": "40-80%"
+        },
+        "soilPH": {
+            "recommended": "6.0-7.0",
+            "survivable": "5.5-7.5"
+        }
+    },
+    "lighting": {
+        "description": "Holy Basil (Tulsi) requires bright, direct sunlight to photosynthesize and grow well.",
+        "sunlightHours": "6\u20138 hours of direct sunlight daily",
+        "intensity": "high",
+        "indoorWindow": "south-facing",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "medium",
+        "phosphorusDemand": "low",
+        "potassiumDemand": "medium",
+        "micronutrientNotes": "Holy Basil (Tulsi) requires adequate micronutrients like iron, magnesium, and calcium for healthy growth.",
+        "fertilizerFrequency": "Fertilize every 2-3 weeks during the growing season.",
+        "organicOptions": "Use organic fertilizers like compost or fish emulsion to promote healthy growth."
+    },
+    "relationships": [
+        {
+            "target": "sunlight",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "Holy Basil (Tulsi) requires direct sunlight for at least 6 hours a day to thrive. Insufficient sunlight can lead to weak and leggy growth."
+        },
+        {
+            "target": "watering",
+            "type": "requirement",
+            "strength": 8,
+            "notes": "Holy Basil (Tulsi) needs consistent moisture, but overwatering can be detrimental. Watering when the top inch of soil is dry helps prevent root rot."
+        },
+        {
+            "target": "potting-mix-calculator",
+            "type": "requirement",
+            "strength": 7,
+            "notes": "Holy Basil (Tulsi) prefers well-draining soil to prevent waterlogged soil conditions. A mix of compost and perlite can provide the necessary drainage."
+        },
+        {
+            "target": "fertilizer",
+            "type": "requirement",
+            "strength": 5,
+            "notes": "Holy Basil (Tulsi) benefits from regular fertilization, but excessive fertilizer can damage the plant. A balanced, water-soluble fertilizer can promote healthy growth."
+        },
+        {
+            "target": "pruning",
+            "type": "requirement",
+            "strength": 6,
+            "notes": "Regular pruning helps maintain Holy Basil (Tulsi)'s shape and encourages new growth. Pinching off flower buds can direct the plant's energy towards leaf production."
+        },
+        {
+            "target": "aphids",
+            "type": "vulnerability",
+            "strength": 4,
+            "notes": "Holy Basil (Tulsi) is susceptible to aphid infestations, which can spread plant viruses. Regularly inspecting the plant and using neem oil can help control aphid populations."
+        },
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Holy Basil (Tulsi) is prone to root rot due to overwatering. Ensuring good drainage and avoiding waterlogged soil can help prevent root rot."
+        }
+    ],
+    "calculatorReferences": [
+        "plant-watering-calculator",
+        "fertilizer-calculator",
+        "sunlight-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Is Holy Basil (Tulsi) toxic to dogs or cats?",
+            "answer": "No, Holy Basil (Tulsi) is non-toxic to dogs, cats, and humans. It is a sacred culinary and medicinal herb consumed daily in Ayurvedic tradition. Very large doses of the essential oil may cause mild digestive upset in pets, but the plant itself is safe."
+        },
+        {
+            "question": "How often should I water my Holy Basil (Tulsi) plant?",
+            "answer": "Water when the top 1 inch of soil is dry. This is typically every 2-3 days outdoors in summer, and less frequently indoors. Avoid waterlogged soil to prevent root rot. Consistent moisture is key without soaking."
+        },
+        {
+            "question": "What are the light requirements for a Holy Basil (Tulsi) plant?",
+            "answer": "Holy Basil (Tulsi) plants require 6-8 hours of direct sunlight daily to thrive. Place them outdoors in full sun or on a very sunny south-facing windowsill to ensure they receive enough light for strong, healthy growth."
+        },
+        {
+            "question": "How do I prune my Holy Basil (Tulsi) plant?",
+            "answer": "Prune regularly to encourage bushy growth and prevent it from becoming leggy. Pinch off the tips and any flower buds early on. This directs the plant's energy towards producing more of its aromatic leaves rather than seeds."
+        },
+        {
+            "question": "Why are my Holy Basil (Tulsi) plant's leaves turning yellow or brown?",
+            "answer": "Yellow or brown leaves can be caused by overwatering, underwatering, or nutrient deficiencies. The most common cause is root rot from poor drainage. Check your watering schedule, ensure the pot drains well, and fertilize lightly."
+        },
+        {
+            "question": "What are common pests that affect Holy Basil (Tulsi) plants?",
+            "answer": "Common pests include aphids, whiteflies, and spider mites. They suck sap from tender new growth. Regularly inspect the plant and use a gentle spray of water, neem oil, or insecticidal soap to control early infestations."
+        },
+        {
+            "question": "Why is my Holy Basil (Tulsi) dropping its leaves in winter?",
+            "answer": "Holy Basil (Tulsi) is a warm-weather, tender perennial that is sensitive to cold. It will drop leaves and die back if temperatures dip below 50\u00b0F (10\u00b0C) or if exposed to frost. Bring it indoors and protect it from cold drafts."
+        },
+        {
+            "question": "How do I adjust my watering schedule if I move my Holy Basil (Tulsi) indoors for winter?",
+            "answer": "When moved indoors, lower light levels and cooler temperatures mean your Holy Basil (Tulsi) will use significantly less water, making it prone to winter root rot. To calculate the exact watering frequency for indoor conditions, use our Watering Calculator."
+        }
+    ],
+    "shortDesc": "Holy Basil (Tulsi) is a sacred culinary and medicinal herb native to the Indian subcontinent and Southeast Asia.",
+    "content": "<h2>What is Tulsi?</h2>\n<p>Holy Basil, commonly known as Tulsi (<em>Ocimum tenuiflorum</em> or <em>Ocimum sanctum</em>), is a deeply revered, highly aromatic tender perennial herb native to the Indian subcontinent and Southeast Asia. In Ayurvedic medicine and Hindu tradition, it is considered a sacred plant celebrated for its adaptogenic, healing, and spiritual properties. There are several popular varieties cultivated by home growers, including <strong>Rama Tulsi</strong> (green leaves, milder flavor), <strong>Krishna Tulsi</strong> (purple-tinged leaves, peppery flavor), and <strong>Vana Tulsi</strong> (wild forest type, very fragrant).</p>\n\n<h2>Care at a Glance</h2>\n<table>\n  <caption>Quick Reference Care Guide for Holy Basil (Tulsi)</caption>\n  <thead>\n    <tr>\n      <th>Requirement</th>\n      <th>Ideal Condition</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Light</strong></td>\n      <td>Full sun (6\u20138 hours of direct sunlight daily)</td>\n    </tr>\n    <tr>\n      <td><strong>Watering</strong></td>\n      <td>Water when the top 1 inch of soil is dry. Avoid waterlogging.</td>\n    </tr>\n    <tr>\n      <td><strong>Soil</strong></td>\n      <td>Well-draining, rich potting mix (pH 6.0\u20137.0)</td>\n    </tr>\n    <tr>\n      <td><strong>Pet Safety</strong></td>\n      <td>Non-toxic to cats, dogs, and humans</td>\n    </tr>\n  </tbody>\n</table>\n\n<h2>Essential Care Requirements</h2>\n\n<h3>Light</h3>\n<p>Holy Basil (Tulsi) requires bright, direct sunlight to photosynthesize and produce its characteristic aromatic oils. Place it outdoors in full sun or on a very sunny south-facing windowsill where it can receive 6 to 8 hours of direct sunlight every day. Too little light will result in leggy, weak stems and significantly reduced fragrance.</p>\n\n<h3>Watering</h3>\n<p>Tulsi needs consistent moisture, but it is highly susceptible to root rot if left in soggy conditions. Water the plant thoroughly only when the top 1 inch of soil feels completely dry to the touch. In the heat of summer outdoors, this might be every 2\u20133 days, whereas an indoor plant in winter will need much less frequent watering.</p>\n\n<h3>Soil</h3>\n<p>A loose, well-draining potting mix is essential. While it appreciates organic richness (like compost), the soil must drain quickly. A standard potting mix amended with 20-30% perlite is ideal for preventing waterlogged roots while maintaining adequate moisture.</p>\n\n<h3>Temperature</h3>\n<p>As a tropical plant, Holy Basil thrives in temperatures between 65\u201375\u00b0F (18\u201324\u00b0C). It is extremely sensitive to cold and will quickly drop its leaves or die if exposed to frost or temperatures below 50\u00b0F (10\u00b0C). If grown in colder climates, it must be brought indoors before the first frost.</p>\n\n<h3>Humidity</h3>\n<p>Tulsi appreciates moderate to high humidity (50\u201370%). While it can adapt to average household humidity, extremely dry indoor air during winter may cause leaf crisping. If your home is very dry, consider grouping it with other plants or using a humidifier.</p>\n\n<h2>Fertilizing Holy Basil</h2>\n<p>Holy Basil is a moderate feeder. During the active growing season (spring through early fall), feed it every 3\u20134 weeks with a balanced, water-soluble organic fertilizer diluted to half strength. Avoid high-nitrogen synthetic fertilizers, as they encourage rapid, weak growth and can dilute the concentration of essential oils in the leaves. Withhold fertilizer completely during winter dormancy.</p>\n\n<h2>Toxicity and Pet Safety</h2>\n<p>Holy Basil (Tulsi) is completely non-toxic to dogs, cats, and humans. It is a widely consumed culinary and medicinal herb. While ingesting massive quantities of the concentrated essential oil can cause mild stomach upset in pets, chewing on the living plant poses no danger.</p>\n\n<h2>Propagation</h2>\n<p>Tulsi is incredibly easy to propagate from stem cuttings. Follow these simple steps:</p>\n<ol>\n<li>Take a 4\u20136 inch cutting from a healthy, non-flowering stem using sterile shears.</li>\n<li>Remove the leaves from the bottom two inches of the cutting to expose the leaf nodes.</li>\n<li>Place the cutting in a glass of clean water, ensuring no leaves are submerged, or plant it directly into moist, airy potting mix.</li>\n<li>Keep the cutting in a warm, bright spot out of direct, harsh midday sun.</li>\n<li>Roots should develop within 10\u201314 days. Once roots are an inch long, transplant the cutting into a permanent pot.</li>\n</ol>\n\n<h2>Common Problems</h2>\n<ul>\n<li><strong>Yellowing Leaves:</strong> Typically a classic sign of overwatering and impending root rot. Ensure the pot has drainage holes and allow the top inch of soil to dry out before watering again.</li>\n<li><strong>Leggy, Spindly Growth:</strong> Caused by insufficient sunlight. Move the plant to a brighter location, ideally a south-facing window, and pinch back the tips to encourage branching.</li>\n<li><strong>Premature Flowering (Bolting):</strong> When the plant begins to form flower spikes, it directs energy away from foliage production. Pinch off these flower buds immediately to maintain a bushy plant and prolong its life.</li>\n<li><strong>Pest Infestations:</strong> Aphids, whiteflies, and spider mites can occasionally attack Tulsi. Inspect the undersides of leaves regularly and treat early infestations with a gentle spray of neem oil or insecticidal soap.</li>\n</ul>",
+    "quickAnswer": "To grow Holy Basil (Tulsi) successfully, ensure it receives 6\u20138 hours of direct sunlight daily. Water when the top 1 inch of soil is dry, typically every 2\u20133 days outdoors in summer, and less frequently indoors, while avoiding waterlogged soil.",
+    "ogImage": "/assets/images/tulsi-plant-care.webp",
+    "ogImageAlt": "Healthy Holy Basil (Tulsi) plant with aromatic green foliage growing in a well-drained garden container",
+    "heroImage": "/assets/images/tulsi-plant-care.webp",
+    "heroImageAlt": "Healthy Holy Basil (Tulsi) plant with aromatic green foliage growing in a well-drained garden container",
+    "featuredImageAlt": "Healthy Holy Basil (Tulsi) plant with aromatic green foliage growing in a well-drained garden container",
+    "category": "Herbs & Edible Plants",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-09-13",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Yellow leaves",
+            "diagnosis": "Overwatering, nutrient deficiency, or too little sunlight",
+            "treatment": "Check soil moisture and adjust watering schedule. Fertilize with a balanced fertilizer during the growing season.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Wilting",
+            "diagnosis": "Underwatering, high temperatures, or root bound",
+            "treatment": "Water thoroughly and ensure the pot has good drainage. Consider transplanting into a larger pot with fresh soil.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Poor flowering",
+            "diagnosis": "Insufficient sunlight, inadequate fertilization, or pruning too frequently",
+            "treatment": "Move the plant to a sunnier location and fertilize regularly. Prune only to maintain shape and encourage new growth.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Root rot",
+            "diagnosis": "Waterlogged soil, poor drainage, or fungal infection",
+            "treatment": "Repot the plant in fresh, well-draining soil and reduce watering frequency. Treat with a fungicide if necessary.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Pests",
+            "diagnosis": "Aphids, whiteflies, or spider mites",
+            "treatment": "Spray the plant with a mild insecticidal soap solution and isolate it from other plants to prevent infestation.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaf spots",
+            "diagnosis": "Fungal or bacterial infection, often caused by overwatering",
+            "treatment": "Remove affected leaves and treat the plant with a fungicide. Improve air circulation and reduce watering frequency.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Nutrient deficiency",
+            "diagnosis": "Lack of essential micronutrients like iron or magnesium",
+            "treatment": "Fertilize with a balanced fertilizer that includes micronutrients. Consider adding a supplement specifically formulated for Tulsi plants.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Seasonal die-back",
+            "diagnosis": "Frost damage or natural dormancy",
+            "treatment": "Protect the plant from frost by bringing it indoors or covering it with a frost blanket. Prune back dead growth in spring to encourage new growth.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Tender Perennial",
+            "definition": "A plant that is sensitive to frost and typically dies back in winter, but can regrow in warmer temperatures. In frost-prone climates, tender perennials are often grown as annuals."
+        },
+        {
+            "term": "Ayurvedic Tradition",
+            "definition": "A traditional system of medicine and wellness originating from the Indian subcontinent, which emphasizes the use of natural remedies, including herbs like Tulsi, to promote health and balance."
+        },
+        {
+            "term": "Essential Oil",
+            "definition": "A concentrated plant extract, often obtained through distillation or solvent extraction, which contains the plant's aromatic and bioactive compounds. Essential oils can be used for medicinal, culinary, or cosmetic purposes."
+        },
+        {
+            "term": "Waterlogged Soil",
+            "definition": "Soil that is saturated with water, causing the roots of plants to rot and leading to root disease. Waterlogged soil can be detrimental to plant health and should be avoided by ensuring proper drainage and watering practices."
+        },
+        {
+            "term": "South-Facing Windowsill",
+            "definition": "A windowsill that receives direct sunlight for most of the day, typically from the south direction. South-facing windowsills are ideal for plants that require bright, direct light, like Holy Basil (Tulsi)."
+        },
+        {
+            "term": "Frost-Prone Climates",
+            "definition": "Regions that experience frost or freezing temperatures during the winter months, which can damage or kill sensitive plants. In frost-prone climates, plants like Tulsi may need to be protected or brought indoors during the winter."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Holy Basil Growing Method Comparison",
+        "headers": [
+            "Growing Method",
+            "Space Requirements",
+            "Growth Rate",
+            "Recommended for"
+        ],
+        "rows": [
+            [
+                "Outdoor in Ground",
+                "Minimum 12 inches deep and 18 inches wide",
+                "Faster (6-8 weeks to harvest)",
+                "Warm climates with full sun"
+            ],
+            [
+                "Container (Small)",
+                "Minimum 6-8 inches deep and 8-10 inches wide",
+                "Moderate (8-10 weeks to harvest)",
+                "Small spaces, indoor growing, or cooler climates"
+            ],
+            [
+                "Container (Large)",
+                "Minimum 12 inches deep and 18 inches wide",
+                "Faster (6-8 weeks to harvest)",
+                "Balconies, patios, or indoor growing with ample space"
+            ],
+            [
+                "Indoor on Windowsill",
+                "Minimum 6-8 inches deep and 8-10 inches wide",
+                "Slower (10-12 weeks to harvest)",
+                "Cooler climates, limited outdoor space, or year-round growing"
+            ]
+        ]
+    },
+    "h1": "Holy Basil (Tulsi) Indoor Guide: How to Grow Sacred Plants Indoors and Outdoors",
+    "breadcrumbName": "Holy Basil (Tulsi) Indoor Guide",
+    "relatedEntitySlugs": [
+        "sunlight",
+        "topics:watering",
+        "organic-compost",
+        "sowing-calendar"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because it looks like culinary basil, which needs consistent moisture\u2014but tulsi evolved in drier conditions and its roots rot quickly when soil stays wet. Let the top inch dry out between waterings and ensure excellent drainage."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Without regular pinching of growing tips, it channels energy into flowering and setting seed rather than producing aromatic leaves\u2014once it fully flowers, the plant dies as part of its natural lifecycle. Pinching back the top two pairs of leaves every few weeks keeps it productive and alive."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light, the essential oils that give tulsi its characteristic scent and medicinal potency are barely produced\u2014the plant grows green but smells weak. It genuinely needs a very sunny windowsill or supplemental grow light to produce aromatic foliage."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "Krishna Tulsi",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "Vana Tulsi",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "Growing Tulsi",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "Holy Basil Care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "herbs",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Holy Basil Tulsi Care",
+    "summary": "Ocimum tenuiflorum is a sacred aromatic herb revered for its culinary and medicinal qualities. Learn full-sunlight requirements, well-draining soil mixes, regular harvesting methods, and winter indoor care for healthy growth.",
+    "keyTakeaways": [
+        "Provide 6 to 8 hours of direct sunlight daily on outdoor patios or south windows.",
+        "Water when the top inch of soil feels dry, avoiding waterlogged conditions.",
+        "Pinch off flower spikes and stem tips regularly to promote bushy, leafy growth.",
+        "Protect from frost by moving containers indoors before winter temperatures drop below 10\u00b0C."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 18,
+    "lastReviewed": "2026-09-13",
+    "plantHero": {
+        "plantType": "Herb",
+        "difficulty": "beginner",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water when the top 1 inch of soil is dry; typically every 2\u20133 days outdoors in summer, less frequently indoors.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "65-75\u00b0F (18-24\u00b0C)",
+        "matureSize": "12-18 inches",
+        "growthRate": "Fast",
+        "soil": "Rich, well-draining potting soil",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced organic liquid fertilizer every 4 weeks",
+        "repottingFrequency": "Annually",
+        "potPreference": "Standard",
+        "propagation": "Seeds or stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Indian subcontinent and Southeast Asia",
+        "usdaZones": "10-11",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/holy-basil-tulsi-care/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": []
+    },
+    "contentText": "What is Tulsi? Holy Basil, commonly known as Tulsi ( Ocimum tenuiflorum or Ocimum sanctum ), is a deeply revered, highly aromatic tender perennial herb native to the Indian subcontinent and Southeast Asia. In Ayurvedic medicine and Hindu tradition, it is considered a sacred plant celebrated for its adaptogenic, healing, and spiritual properties. There are several popular varieties cultivated by home growers, including Rama Tulsi (green leaves, milder flavor), Krishna Tulsi (purple-tinged leaves, peppery flavor), and Vana Tulsi (wild forest type, very fragrant). Care at a Glance Quick Reference Care Guide for Holy Basil (Tulsi) Requirement Ideal Condition Light Full sun (6\u20138 hours of direct sunlight daily) Watering Water when the top 1 inch of soil is dry. Avoid waterlogging. Soil Well-draining, rich potting mix (pH 6.0\u20137.0) Pet Safety Non-toxic to cats, dogs, and humans Essential Care Requirements Light Holy Basil (Tulsi) requires bright, direct sunlight to photosynthesize and produce its characteristic aromatic oils. Place it outdoors in full sun or on a very sunny south-facing windowsill where it can receive 6 to 8 hours of direct sunlight every day. Too little light will result in leggy, weak stems and significantly reduced fragrance. Watering Tulsi needs consistent moisture, but it is highly susceptible to root rot if left in soggy conditions. Water the plant thoroughly only when the top 1 inch of soil feels completely dry to the touch. In the heat of summer outdoors, this might be every 2\u20133 days, whereas an indoor plant in winter will need much less frequent watering. Soil A loose, well-draining potting mix is essential. While it appreciates organic richness (like compost), the soil must drain quickly. A standard potting mix amended with 20-30% perlite is ideal for preventing waterlogged roots while maintaining adequate moisture. Temperature As a tropical plant, Holy Basil thrives in temperatures between 65\u201375\u00b0F (18\u201324\u00b0C). It is extremely sensitive to cold and will quickly drop its leaves or die if exposed to frost or temperatures below 50\u00b0F (10\u00b0C). If grown in colder climates, it must be brought indoors before the first frost. Humidity Tulsi appreciates moderate to high humidity (50\u201370%). While it can adapt to average household humidity, extremely dry indoor air during winter may cause leaf crisping. If your home is very dry, consider grouping it with other plants or using a humidifier. Fertilizing Holy Basil Holy Basil is a moderate feeder. During the active growing season (spring through early fall), feed it every 3\u20134 weeks with a balanced, water-soluble organic fertilizer diluted to half strength. Avoid high-nitrogen synthetic fertilizers, as they encourage rapid, weak growth and can dilute the concentration of essential oils in the leaves. Withhold fertilizer completely during winter dormancy. Toxicity and Pet Safety Holy Basil (Tulsi) is completely non-toxic to dogs, cats, and humans. It is a widely consumed culinary and medicinal herb. While ingesting massive quantities of the concentrated essential oil can cause mild stomach upset in pets, chewing on the living plant poses no danger. Propagation Tulsi is incredibly easy to propagate from stem cuttings. Follow these simple steps: Take a 4\u20136 inch cutting from a healthy, non-flowering stem using sterile shears. Remove the leaves from the bottom two inches of the cutting to expose the leaf nodes. Place the cutting in a glass of clean water, ensuring no leaves are submerged, or plant it directly into moist, airy potting mix. Keep the cutting in a warm, bright spot out of direct, harsh midday sun. Roots should develop within 10\u201314 days. Once roots are an inch long, transplant the cutting into a permanent pot. Common Problems Yellowing Leaves: Typically a classic sign of overwatering and impending root rot. Ensure the pot has drainage holes and allow the top inch of soil to dry out before watering again. Leggy, Spindly Growth: Caused by insufficient sunlight. Move the plant to a brighter location, ideally a south-facing window, and pinch back the tips to encourage branching. Premature Flowering (Bolting): When the plant begins to form flower spikes, it directs energy away from foliage production. Pinch off these flower buds immediately to maintain a bushy plant and prolong its life. Pest Infestations: Aphids, whiteflies, and spider mites can occasionally attack Tulsi. Inspect the undersides of leaves regularly and treat early infestations with a gentle spray of neem oil or insecticidal soap.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/holy-basil-tulsi-care/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

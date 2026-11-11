@@ -1,0 +1,335 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-scindapsus-treubii",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "scindapsus-treubii",
+    "seoTitle": "Treubii Moonlight Care: Prevent Curling & Root Rot",
+    "metaDescription": "Scindapsus Treubii Moonlight's silver leaves curl with inconsistent watering. Find out the correct routine and how to train this climbing houseplant.",
+    "featuredImage": "/assets/images/scindapsus-treubii.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "toxic-to-pets",
+        "slow-growing",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Scindapsus treubii",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Aroid Cultivation",
+            "source": "International Aroid Society",
+            "url": "https://www.aroid.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Scindapsus treubii 'Moonlight'",
+        "family": "Araceae",
+        "origin": "Southeast Asia",
+        "type": "Evergreen climbing vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Hanging baskets",
+            "Moss poles",
+            "High shelves"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Bright, indirect light. Needs excellent drainage and hates sitting in wet soil.",
+        "watering": "Water only when the leaves curl inward and the soil is bone dry. Highly prone to rot.",
+        "soil": "An extremely chunky, fast-draining aroid mix.",
+        "pruning": "Trim trailing vines to encourage a bushier crown, or train it up a moss pole.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Contains insoluble calcium oxalates; causes severe oral pain and vomiting.",
+        "bestFor": "Plant collectors who want a stunning silver vine but have the discipline to withhold water."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "Trailing vines 4-6 feet",
+        "matureSpread": "1 foot wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 90\u00b0F (13\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "50% - 70%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to maintain its metallic silver color. If kept in a dark corner, the plant will stop growing entirely and revert to a dull green.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very slow grower; excess fertilizer will burn the roots.",
+        "fertilizerFrequency": "Once a month during spring and summer with a diluted houseplant fertilizer.",
+        "organicOptions": "A light layer of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Extremely sensitive to overwatering. Will drop yellow leaves rapidly if the soil stays wet."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the leaves on my Treubii Moonlight curling inward?",
+            "answer": "Leaf curling is the plant's built-in thirst indicator. When the thick leaves curl up tightly like little tacos, the plant is dehydrated. If the soil is completely dry, soak the pot. However, if the soil is wet and the leaves are curled, the plant has root rot."
+        },
+        {
+            "question": "Why are the yellow leaves turning yellow and falling off?",
+            "answer": "Yellowing leaves, especially at the base of the plant, combined with wet soil, is a definitive sign of overwatering. Treubii Moonlight absolutely hates sitting in wet mud."
+        },
+        {
+            "question": "Is Scindapsus Treubii toxic to cats?",
+            "answer": "Yes. Like all Scindapsus and Pothos varieties, it contains calcium oxalate crystals. Chewing the plant causes severe mouth pain, swelling, and vomiting in pets."
+        },
+        {
+            "question": "Why is my plant growing so slowly?",
+            "answer": "Scindapsus treubii is notoriously slow-growing compared to regular Pothos or even Scindapsus pictus (Satin Pothos). Providing a moss pole for it to climb will significantly speed up its growth rate."
+        },
+        {
+            "question": "How do I make the leaves grow larger?",
+            "answer": "Like many aroids, it must climb vertically to mature. If it is hanging from a basket, the leaves will stay small. Attach the vine to a moss pole, and the new leaves will grow significantly larger."
+        }
+    ],
+    "shortDesc": "The Treubii Moonlight is a highly sought-after, slow-growing vine with stunning, solid-silver leaves. While often grouped with Pothos, it is far more sensitive to overwatering.",
+    "content": "<h2>Overview</h2><p>The <em>Scindapsus treubii 'Moonlight'</em> is a show-stopping tropical vine that has captivated the houseplant community. A close relative of the popular Satin Pothos (<em>Scindapsus pictus</em>), the Treubii Moonlight trades the speckled silver pattern for leaves that are almost entirely solid, metallic silver. The thick, slightly rubbery leaves shimmer beautifully in indirect light, making it a spectacular statement piece.</p><p>However, many growers mistakenly treat this plant exactly like a standard Golden Pothos, which leads to disaster. The Treubii Moonlight is notoriously slow-growing and has an incredibly low tolerance for wet soil. If you overwater it, the roots will rot almost immediately. The key to success with this rare beauty is extreme patience and absolute discipline with the watering can.</p><h3>Light Requirements: Keeping the Silver</h3><p>To maintain that intense, solid-silver color, the plant requires bright, indirect light. An east-facing window is perfect. If you place it in a low-light environment, the plant will not only stop its already-slow growth completely, but the new leaves will revert to a dull, solid green. Avoid harsh, direct afternoon sun, which will scorch and yellow the thick leaves.</p><h3>Watering: Watch for the Curl</h3><p>Watering a Treubii Moonlight by a strict calendar schedule drastically increases the risk of severe root rot. You must wait for the plant to tell you it is thirsty. </p><p>First, allow the potting soil to dry out 100% completely. Once the soil is dry, watch the leaves. When the plant is hydrated, the thick leaves are flat and rigid. As the plant dehydrates, the edges of the leaves will slowly curl inward, eventually curling up tight like a taco. <strong>Wait for the leaves to curl before you water.</strong> Once they are curled and the soil is bone dry, soak the pot thoroughly until water flows out the drainage holes. The leaves will uncurl and flatten out within 24 hours.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Protect it from freezing winter drafts. While it appreciates higher humidity (around 50-60%), its thick, waxy leaves allow it to perfectly tolerate the dry air of centrally heated homes without getting crispy edges.</p><h3>Soil and Potting</h3><p>Because it is so incredibly prone to root rot, standard potting soil will suffocate the roots. You must use an extremely chunky, airy aroid mix. Combine a high-quality potting base with 40-50% coarse orchid bark and perlite. This ensures that water runs straight through the pot instantly, leaving only a thin film of moisture and plenty of oxygen for the roots.</p><h2>The Secret to Growth: Moss Poles</h2><p>As a juvenile plant hanging in a basket, the Treubii Moonlight is agonizingly slow-growing, often only pushing out one or two leaves a month. In the wild, it is a shingling vine that climbs flat against the trunks of large trees. </p><p>If you want the plant to grow faster and produce significantly larger leaves, you must give it something to climb. Attach the bare vines to a moss pole or a flat wooden plank. When the aerial roots grab onto a vertical surface, a hormonal shift occurs, drastically increasing the plant's growth rate and leaf size.</p><h2>Toxicity</h2><p>Like all plants in the Araceae family, the Treubii Moonlight contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or humans, the crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines safely out of reach of curious pets.</p>",
+    "quickAnswer": "The Treubii Moonlight requires bright, indirect light to maintain its silver color. It is highly prone to root rot; never water it until the soil is 100% dry and the leaves begin to curl inward. For best results, we suggest keeping an eye on the plant's response throughout the active growing season.",
+    "ogImage": "/assets/images/scindapsus-treubii.webp",
+    "ogImageAlt": "Solid metallic silver leaves of the Treubii Moonlight vine",
+    "heroImage": "/assets/images/scindapsus-treubii.webp",
+    "heroImageAlt": "Close up of the shimmering foliage of Scindapsus treubii Moonlight",
+    "featuredImageAlt": "Treubii Moonlight plant climbing a tall moss pole",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves on my Treubii Moonlight curling inward?",
+            "diagnosis": "Underwatering (if soil dry) or overwatering (root rot, if wet)",
+            "treatment": "Check soil: if dry, water; if wet, check roots for rot.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the yellow leaves turning yellow and falling off?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Reduce watering; allow soil to dry; inspect roots.",
+            "prevention": "Water only when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my plant growing so slowly?",
+            "diagnosis": "Naturally slow growth; can be boosted with a moss pole",
+            "treatment": "Provide a climbing support (moss pole); increase light; fertilise monthly in growing season.",
+            "prevention": "Offer a pole and good light.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Shingling Vine",
+            "definition": "A plant growth habit where the leaves grow perfectly flat against the surface they are climbing, overlapping each other like roof shingles."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Scindapsus vs. Epipremnum (Pothos) Comparison",
+        "headers": [
+            "Plant",
+            "Leaf Texture",
+            "Growth Speed"
+        ],
+        "rows": [
+            [
+                "Treubii Moonlight (Scindapsus)",
+                "Thick, solid metallic silver",
+                "Very Slow"
+            ],
+            [
+                "Satin Pothos (Scindapsus)",
+                "Thick, speckled silver",
+                "Slow"
+            ],
+            [
+                "Golden Pothos (Epipremnum)",
+                "Thin, glossy green/yellow",
+                "Very Fast"
+            ]
+        ]
+    },
+    "h1": "Treubii Moonlight Care: Fix Leaf Curling & Root Rot",
+    "breadcrumbName": "Treubii Moonlight Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "satin-pothos",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Placing it in low light because it resembles a pothos\u2014but the pale silver-green leaves depend on bright indirect light to maintain their luminous, frosted appearance. In dim conditions, the silvery overlay fades and new leaves emerge as a dull, unremarkable green."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It's a genuinely slow grower that produces just a few new leaves per growing season under normal indoor conditions\u2014this is its natural pace, not a sign of poor health or inadequate care. Repotting or fertilizing heavily in an attempt to speed it up typically just stresses the plant."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry air below 50% humidity, the leaf edges develop a persistent brown margin and growth effectively stops, because the plant's thin leaves lose moisture rapidly. Consistent humidity above 50% is the single most impactful environmental improvement for this species indoors."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "sterling silver plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "treubii moonlight curling leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "silver pothos relative",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for treubii moonlight",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "scindapsus yellow leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Scindapsus Treubii",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light for the best subtle leaf sheen and color.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Use a well-draining, chunky mix to prevent overly wet roots.",
+        "Expect a more compact, slower growth habit than trailing Pothos."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen climbing vine",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow the top 50-75% of soil to dry before watering; avoid keeping the roots constantly wet.",
+        "drynessThreshold": 75,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "50-70%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Trailing vines 4-6 feet",
+        "growthRate": "Slow",
+        "soil": "Chunky, well-draining aroid mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Southeast Asia",
+        "usdaZones": "11-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/scindapsus-treubii/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The Scindapsus treubii 'Moonlight' is a show-stopping tropical vine that has captivated the houseplant community. A close relative of the popular Satin Pothos ( Scindapsus pictus ), the Treubii Moonlight trades the speckled silver pattern for leaves that are almost entirely solid, metallic silver. The thick, slightly rubbery leaves shimmer beautifully in indirect light, making it a spectacular statement piece. However, many growers mistakenly treat this plant exactly like a standard Golden Pothos, which leads to disaster. The Treubii Moonlight is notoriously slow-growing and has an incredibly low tolerance for wet soil. If you overwater it, the roots will rot almost immediately. The key to success with this rare beauty is extreme patience and absolute discipline with the watering can. Light Requirements: Keeping the Silver To maintain that intense, solid-silver color, the plant requires bright, indirect light. An east-facing window is perfect. If you place it in a low-light environment, the plant will not only stop its already-slow growth completely, but the new leaves will revert to a dull, solid green. Avoid harsh, direct afternoon sun, which will scorch and yellow the thick leaves. Watering: Watch for the Curl Watering a Treubii Moonlight by a strict calendar schedule drastically increases the risk of severe root rot. You must wait for the plant to tell you it is thirsty. First, allow the potting soil to dry out 100% completely. Once the soil is dry, watch the leaves. When the plant is hydrated, the thick leaves are flat and rigid. As the plant dehydrates, the edges of the leaves will slowly curl inward, eventually curling up tight like a taco. Wait for the leaves to curl before you water. Once they are curled and the soil is bone dry, soak the pot thoroughly until water flows out the drainage holes. The leaves will uncurl and flatten out within 24 hours. Temperature and Humidity Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Protect it from freezing winter drafts. While it appreciates higher humidity (around 50-60%), its thick, waxy leaves allow it to perfectly tolerate the dry air of centrally heated homes without getting crispy edges. Soil and Potting Because it is so incredibly prone to root rot, standard potting soil will suffocate the roots. You must use an extremely chunky, airy aroid mix. Combine a high-quality potting base with 40-50% coarse orchid bark and perlite. This ensures that water runs straight through the pot instantly, leaving only a thin film of moisture and plenty of oxygen for the roots. The Secret to Growth: Moss Poles As a juvenile plant hanging in a basket, the Treubii Moonlight is agonizingly slow-growing, often only pushing out one or two leaves a month. In the wild, it is a shingling vine that climbs flat against the trunks of large trees. If you want the plant to grow faster and produce significantly larger leaves, you must give it something to climb. Attach the bare vines to a moss pole or a flat wooden plank. When the aerial roots grab onto a vertical surface, a hormonal shift occurs, drastically increasing the plant's growth rate and leaf size. Toxicity Like all plants in the Araceae family, the Treubii Moonlight contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or humans, the crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines safely out of reach of curious pets.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/scindapsus-treubii/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

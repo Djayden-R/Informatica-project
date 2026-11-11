@@ -1,0 +1,244 @@
+{
+    "quickAnswer": "Cymbidium Orchids need bright indirect light, a bark-based orchid mix, and a noticeable night-time temperature drop in autumn to trigger flowering. Water when the mix approaches dryness rather than staying constantly wet, since standing water causes root rot. Unlike many orchids, Cymbidiums tolerate cooler temperatures and even brief light frost once established.",
+    "summary": "Cymbidium Orchids, sometimes called Boat Orchids, are among the more cold-tolerant orchid species, capable of surviving cooler temperatures that would damage many tropical orchids. This trait makes them a popular choice for growers in temperate climates who want orchids that can spend part of the year outdoors.\n\nSuccessful flowering depends heavily on a seasonal temperature drop, typically a 10-15\u00b0F difference between day and night in autumn, which signals the plant to initiate blooming. Without this trigger, Cymbidiums often produce healthy foliage but fail to flower reliably.",
+    "keyTakeaways": [
+        "Provide a night-time temperature drop in autumn to trigger flowering.",
+        "Use a bark-based orchid mix with excellent drainage.",
+        "Water when the mix approaches dryness, avoiding standing moisture.",
+        "Give bright indirect light, more than typical tropical orchids need.",
+        "Move outdoors in mild seasons where temperatures allow, avoiding hard frost."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "cymbidium-orchid",
+    "seoTitle": "Cymbidium Orchid Care: Light, Watering & Reblooming",
+    "h1": "Cymbidium Orchid Care Guide: Light, Watering & Reblooming",
+    "metaDescription": "Expert care guide and diagnostic data for the Boat Orchid. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Cymbidium Orchid",
+    "facts": {
+        "family": "Orchidaceae",
+        "genus": "Cymbidium",
+        "species": "spp.",
+        "nativeRange": "Himalayas to Australia",
+        "growthHabit": "Sympodial Semi-Terrestrial"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Semi-terrestrial. Grows in leaf litter and loamy soils rather than bare branches. Tolerates much denser media than true epiphytes.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4013",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Large, fleshy pseudobulbs act as significant water reservoirs, protecting the plant during prolonged dry spells.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4014",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "editorReasoning": "Thick, fleshy, robust roots that penetrate dense leaf litter. Highly resilient to mechanical damage compared to typical orchid roots.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4015",
+                        "weight": 0.85
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "As a semi-terrestrial, it tolerates damper, denser, less-aerated media than pure epiphytes, though it will still rot in completely waterlogged mud.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4016",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Very hardy and adaptable. Often moved outdoors for summer and indoors for winter without dropping leaves.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4017",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 5,
+                "unit": "\u00b0C",
+                "confidence": 0.95,
+                "editorReasoning": "Highly cold tolerant. Actually requires extreme temperature drops (near freezing in some species) to initiate blooming.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_4018",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "cymbidium-orchid",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "featuredImage": "/assets/images/cymbidium-orchid.webp",
+    "troubleshooting": [
+        {
+            "symptom": "Why are my Cymbidium orchid leaves turning yellow?",
+            "diagnosis": "Overwatering or poor drainage",
+            "treatment": "Allow potting medium to dry slightly between waterings; repot in fresh orchid bark if needed.",
+            "prevention": "Water only when the medium is nearly dry.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why isn't my Cymbidium blooming?",
+            "diagnosis": "Insufficient light or lack of temperature drop",
+            "treatment": "Provide bright light and a 10\u201315\u00b0C temperature drop at night in autumn to trigger spikes.",
+            "prevention": "Give bright light and seasonal cool nights.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the flower buds turning brown and falling off?",
+            "diagnosis": "Bud blast from drafts, dry air, or inconsistent watering",
+            "treatment": "Keep plant in stable conditions; increase humidity; avoid moving during bud formation.",
+            "prevention": "Stable environment and consistent care.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic or terrestrial orchid",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep the potting medium evenly moist during active growth; allow to dry slightly between waterings in winter.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "40% - 60%",
+        "temperature": "50\u00b0F - 80\u00b0F (10\u00b0C - 27\u00b0C)",
+        "matureSize": "2-3 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Orchid bark or cymbidium-specific mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Orchid fertilizer weekly during growing season",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Tall orchid pot",
+        "propagation": "Division of pseudobulbs",
+        "flowering": true,
+        "floweringSeason": "Winter-Spring",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Tropical and subtropical Asia and Australia",
+        "usdaZones": "10-12",
+        "seasonality": "cool-season",
+        "sources": []
+    },
+    "taxonomy": {
+        "sciName": "Cymbidium spp.",
+        "family": "Orchidaceae",
+        "taxonType": "genus"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/cymbidium-orchid/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Cymbidium orchids perform best with moderate to high humidity, ideally maintained between 40% and 60% relative humidity. Ensure consistent air circulation around the pseudobulbs and foliage to optimize growth while keeping fungal issues at bay."
+        }
+    ],
+    "parameters": {
+        "temperature": {
+            "recommended": "50\u00b0F - 75\u00b0F (10\u00b0C - 24\u00b0C)",
+            "survivable": "35\u00b0F - 85\u00b0F (2\u00b0C - 29\u00b0C)"
+        }
+    },
+    "breadcrumbName": "Boat Orchid",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/cymbidium-orchid/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

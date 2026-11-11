@@ -1,0 +1,463 @@
+{
+    "quickAnswer": "Monstera Deliciosa needs bright indirect light, thorough watering after the root zone has substantially dried out, and sturdy support as it climbs. Fenestrated, split leaves develop primarily as the plant matures; adequate light, climbing support, and vigorous growth help the plant produce larger, more mature foliage. Consistent care produces the largest, most dramatically split leaves.",
+    "summary": "Monstera Deliciosa is one of the most popular houseplants, valued for its large, glossy leaves and the natural splits and holes (fenestrations) that develop as the plant matures. It is a vigorous tropical climbing aroid that can adapt well to indoor conditions when given sufficient light, an airy growing medium, appropriate watering, and support for climbing.\n\nYoung Monsteras often produce smaller leaves with few or no fenestrations. As the plant matures, adequate light and vigorous growth support the development of larger, more characteristic foliage. A moss pole, plank, or sturdy stake can provide the climbing support the plant naturally uses in its native habitat and can help maintain stronger, more mature growth.",
+    "keyTakeaways": [
+        "Water when the root zone has substantially dried out (about 50% dry), rather than following a fixed calendar.",
+        "Provide bright indirect light to support vigorous growth and mature, fenestrated foliage.",
+        "Install a moss pole, plank, or sturdy stake to support the plant as it climbs.",
+        "Wipe leaves periodically to remove accumulated dust and keep the leaf surface clean.",
+        "Repot when the root system has substantially filled the container, typically every 1\u20132 years for actively growing plants."
+    ],
+    "readingTime": 7,
+    "lastReviewed": "2026-09-10",
+    "schemaVersion": "2.0.0",
+    "id": "monstera",
+    "seoTitle": "Monstera Care Guide: Light, Water and Fenestration",
+    "metaDescription": "Grow a thriving Monstera deliciosa with the light, watering and climbing support it needs to develop large, mature, fenestrated leaves indoors.",
+    "commonName": "Monstera",
+    "entityType": "plant",
+    "status": "published",
+    "featuredImage": "/assets/images/hero-monstera.webp",
+    "heroImage": "/assets/images/hero-monstera.webp",
+    "slug": "monstera",
+    "knowledgeVersion": 1,
+    "lastKnowledgeReview": "2026-07-20",
+    "taxonomy": {
+        "kingdom": "Plantae",
+        "clade": [
+            "Angiosperms",
+            "Monocots"
+        ],
+        "order": "Alismatales",
+        "family": "Araceae",
+        "genus": "Monstera",
+        "species": null,
+        "sciName": "Monstera deliciosa",
+        "taxonType": "species"
+    },
+    "facts": {
+        "family": "Araceae",
+        "genus": "Monstera",
+        "species": "",
+        "nativeRange": "Southern Mexico to Central America",
+        "growthHabit": "Tropical Climbing Aroid"
+    },
+    "aliases": [
+        "Swiss cheese plant",
+        "Split-leaf philodendron",
+        "Window leaf",
+        "Mexican breadfruit"
+    ],
+    "media": {
+        "primary": "/assets/images/hero-monstera.webp",
+        "gallery": [
+            "/assets/images/plants/monstera-fenestration.webp",
+            "/assets/images/plants/monstera-aerial-roots.webp"
+        ]
+    },
+    "characteristics": [
+        {
+            "id": "CHAR_0001",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Monstera is a tropical climbing aroid with roots that require oxygen-rich growing media. Prolonged saturation and poor aeration increase the risk of root damage and rot.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_123",
+                    "weight": 0.9,
+                    "type": "literature",
+                    "supports": "CHAR_0001"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0002",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.85,
+            "editorReasoning": "As a tropical plant, Monstera can tolerate short periods of reduced moisture but is not drought-tolerant. Extended severe drying can cause wilting and leaf damage.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_125",
+                    "weight": 0.85,
+                    "type": "observation",
+                    "supports": "CHAR_0002"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0003",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.85,
+            "editorReasoning": "Roots are moderately robust but can be damaged by rough handling during repotting. Aerial roots are naturally produced as part of the climbing habit and should not be removed unnecessarily.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_126",
+                    "weight": 0.85,
+                    "type": "observation",
+                    "supports": "CHAR_0003"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0004",
+            "type": "ordinal",
+            "value": 4,
+            "scale": 5,
+            "confidence": 0.9,
+            "editorReasoning": "Monstera roots require adequate oxygen. Waterlogged or compacted media can restrict aeration and increase the risk of root rot, so an airy, well-structured growing medium is preferred.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_124",
+                    "weight": 0.9,
+                    "type": "literature",
+                    "supports": "CHAR_0004"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0005",
+            "type": "ordinal",
+            "value": 3,
+            "scale": 5,
+            "confidence": 0.8,
+            "editorReasoning": "Monstera can adapt to relocation when changes in light, temperature, and humidity are gradual. Sudden changes in light intensity can cause temporary stress or leaf damage.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_127",
+                    "weight": 0.8,
+                    "type": "observation",
+                    "supports": "CHAR_0005"
+                }
+            ]
+        },
+        {
+            "id": "CHAR_0006",
+            "type": "temperature",
+            "value": 18,
+            "unit": "\u00b0C",
+            "confidence": 0.9,
+            "editorReasoning": "Monstera is a tropical species adapted to warm conditions. Growth can slow at lower temperatures, while prolonged exposure to cold can cause damage.",
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_128",
+                    "weight": 0.9,
+                    "type": "literature",
+                    "supports": "CHAR_0006"
+                }
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Monstera deliciosa is a vigorous tropical climbing aroid native from southern Mexico through Central America. In its natural habitat, it uses aerial roots and surrounding vegetation to climb toward brighter conditions. Indoors, providing a moss pole, plank, trellis, or sturdy stake gives the plant a similar climbing structure. As the plant matures, it produces increasingly large leaves with characteristic splits and internal holes called fenestrations. Adequate light supports vigorous growth, but fenestration is primarily a feature of maturity rather than something that can be forced by a single care technique."
+        },
+        {
+            "id": "difficulty",
+            "content": "Monstera is generally an easy-to-moderately easy houseplant for beginners. It tolerates some variation in light and watering and can adapt well to typical indoor conditions. The main requirements are bright indirect light, an airy growing medium, appropriate drainage, and watering based on the condition of the root zone rather than a fixed schedule. As the plant matures, it benefits from a support such as a moss pole, plank, or trellis because it naturally climbs. If you can provide suitable light and avoid keeping the roots continuously saturated, Monstera is a relatively forgiving tropical houseplant."
+        },
+        {
+            "id": "watering",
+            "content": "Water based on the actual condition of the root zone rather than a strict calendar or an arbitrary top-inch rule. Allow the growing medium to dry substantially, with the root zone reaching about 50% dry, before watering again. Chunky aroid mixes can appear dry at the surface while retaining moisture deeper in the pot, so check below the surface when assessing moisture. Pot size, season, temperature, light level, humidity, and root mass all affect drying speed. When watering is due, water thoroughly enough to wet the full root ball and allow excess water to drain freely. Avoid keeping the mix continuously saturated, because prolonged low-oxygen conditions can damage roots."
+        },
+        {
+            "id": "light",
+            "content": "Provide bright indirect light as the baseline. Strong filtered light supports vigorous growth and can help a mature plant produce larger, healthier foliage. Fenestration develops primarily as Monstera matures, while adequate light helps sustain the growth needed for mature leaves. Insufficient light can result in slower growth, smaller leaves, longer spaces between leaves, and delayed development of highly fenestrated foliage. Acclimate plants gradually when moving them into substantially stronger light, and avoid prolonged harsh midday sun through glass if the plant has not adapted to it."
+        },
+        {
+            "id": "soil",
+            "content": "Use a chunky, well-aerated aroid mix that holds enough moisture for the roots without remaining saturated. A practical mix can combine a peat-based organic material or coco coir with orchid bark and perlite or pumice. The goal is not simply fast drainage; the finished mix should provide a balance of moisture retention, drainage, structure, and air-filled pore space around the roots. For experienced growers, growing Monstera in a <a href=\"/topics/semi-hydro-pon-guide\">semi-hydroponic setup</a> is also a legitimate alternative. If you are interested in this approach, read our <a href=\"/topics/converting-houseplants-to-semi-hydro\">guide to converting houseplants to semi-hydro</a>."
+        },
+        {
+            "id": "temperature",
+            "content": "Prefers warm indoor temperatures around 18\u201327\u00b0C. Growth may slow as temperatures fall, and prolonged exposure to temperatures near or below 10\u00b0C can cause cold damage. Protect the plant from cold drafts and sudden temperature changes."
+        },
+        {
+            "id": "humidity",
+            "content": "Monsteras grow well in moderate indoor humidity and generally tolerate normal household conditions. Higher humidity can support healthy leaf expansion, particularly when temperatures are warm, but very high humidity is not required if watering, airflow, temperature, and root health are appropriate. A humidifier can be useful in consistently dry indoor environments."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed during active growth with a balanced liquid fertilizer diluted according to the product's recommended houseplant rate. Monthly feeding can work for actively growing plants, but adjust frequency and strength to the fertilizer formulation, light level, growth rate, and potting medium. Avoid heavily fertilizing a plant that is stressed, recently repotted, or growing very slowly."
+        },
+        {
+            "id": "propagation",
+            "content": "Propagate Monstera from stem cuttings that contain at least one viable node. A cutting may also include an aerial root, which can help with establishment but is not itself the node. Cuttings can be rooted in water, moist sphagnum, an appropriate propagation medium, or directly in a suitable potting mix. Keep the node in contact with the propagation medium while avoiding prolonged saturation."
+        },
+        {
+            "id": "toxicity",
+            "content": "Monstera contains insoluble calcium oxalate crystals and can cause oral irritation, drooling, and difficulty swallowing if plant material is chewed or ingested. Keep the plant away from pets and children who may chew the leaves or stems."
+        },
+        {
+            "id": "winter-care",
+            "content": "During winter, Monstera's growth may slow as light levels and temperatures decrease. Maximize bright indirect light and check the potting mix before watering rather than following a fixed calendar. Allow the root zone to dry substantially before watering, while avoiding prolonged complete drying that causes severe wilting. Protect the plant from cold drafts and sudden temperature changes. Reduce fertilizer applications when active growth slows and resume more regular feeding when strong growth returns. Continue checking for common indoor pests such as spider mites, especially in warm, dry conditions. For broader winter maintenance, see our <a href=\"/blog/winter-houseplant-care-guide/\">winter houseplant care guide</a>."
+        }
+    ],
+    "faq": [
+        {
+            "id": "FAQ_MONSTERA_001",
+            "question": "Why are my Monstera leaves turning yellow?",
+            "answer": "Yellowing lower leaves can have several causes, but consistently wet growing media, poor drainage, and root stress are common problems. Check the moisture level below the surface and inspect the roots if the mix remains wet for an unusually long time. Allow the root zone to dry substantially before watering again and make sure the container drains freely.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_002",
+            "question": "Why doesn't my Monstera have splits or holes in the leaves?",
+            "answer": "Fenestration develops primarily as Monstera matures. Adequate light supports vigorous growth and helps a mature plant produce larger, more developed leaves, but light alone cannot force a young plant to produce mature fenestrated foliage. Give the plant bright indirect light, appropriate watering, and climbing support, then allow it time to mature.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_003",
+            "question": "How often should I water my Monstera?",
+            "answer": "Water when the root zone has substantially dried out, with about 50% of the growing medium dry. The interval varies with pot size, mix, light, temperature, humidity, and root mass, so a fixed weekly schedule is less reliable than checking the actual moisture level. When watering, thoroughly wet the root ball and allow excess water to drain.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_004",
+            "question": "What kind of soil does Monstera need?",
+            "answer": "Use an airy, well-structured aroid mix that provides both moisture retention and good aeration. A practical blend can combine potting mix or coco coir with orchid bark and perlite or pumice. Avoid dense media that remain saturated around the roots for long periods.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_005",
+            "question": "Should I mist my Monstera?",
+            "answer": "Misting provides only a short-lived increase in humidity and is not essential for healthy Monstera growth. If indoor air is consistently dry, improving overall room humidity with a humidifier can be more effective. Good airflow and appropriate watering remain important regardless of humidity.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_006",
+            "question": "How do I propagate Monstera?",
+            "answer": "Take a stem cutting that contains at least one viable node. An aerial root is useful but is not a substitute for a node. Root the cutting in water, moist sphagnum, a propagation medium, or suitable potting mix, keeping the node in contact with the medium while avoiding prolonged saturation.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_007",
+            "question": "Is Monstera toxic to pets?",
+            "answer": "Yes. Monstera contains insoluble calcium oxalate crystals that can cause oral irritation, drooling, and difficulty swallowing if chewed or ingested. Keep the plant out of reach of pets and children.",
+            "confidence": 0.95,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_008",
+            "question": "Why are the leaf edges turning brown and crispy?",
+            "answer": "Crispy brown edges can result from inconsistent watering, severe dryness, low humidity, excessive fertilizer salts, or other environmental stress. Check the growing medium first and adjust watering based on the actual root-zone moisture. If the medium is staying wet for a long time, improve drainage and aeration rather than simply watering more often.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_009",
+            "question": "Does Monstera need a moss pole?",
+            "answer": "A moss pole is not strictly necessary, but climbing support is highly beneficial for a mature Monstera. In nature, Monstera climbs vegetation using its aerial roots. A moss pole, plank, trellis, or sturdy stake can help the plant grow upward and maintain a more natural climbing form. Support does not by itself guarantee fenestration; maturity and overall growing conditions still matter.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_010",
+            "question": "How much light does Monstera need?",
+            "answer": "Bright, indirect light is a good baseline. An east-facing window or a position a few feet back from a bright south or west window can work well, depending on the intensity of the light. Gradually acclimate plants to stronger direct light to reduce the risk of leaf scorch. Too little light can result in slower growth and smaller, less mature leaves.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_011",
+            "question": "When should I repot my Monstera?",
+            "answer": "Repot when the root system has substantially filled the container, roots are repeatedly emerging from drainage holes, or the growing medium has broken down and no longer drains and aerates well. For actively growing plants this may be every 1\u20132 years, but the plant's root system and condition are better guides than the calendar. Choose a pot only modestly larger than the existing container to avoid leaving excessive wet mix around a small root ball.",
+            "confidence": 0.85,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        },
+        {
+            "id": "FAQ_MONSTERA_012",
+            "question": "Why are aerial roots growing out of my Monstera?",
+            "answer": "Aerial roots are a normal part of Monstera's climbing growth habit. They can help the plant attach to supports and access moisture and nutrients. Indoors, you can guide them toward the growing medium or a suitable support. There is usually no need to remove healthy aerial roots simply because they are visible.",
+            "confidence": 0.9,
+            "lastReviewed": "2026-09-10",
+            "reviewCycleMonths": 12
+        }
+    ],
+    "categories": [
+        "CAT_TROPICAL",
+        "CAT_AROID",
+        "CAT_CLIMBING"
+    ],
+    "toxicity": {
+        "pets": true,
+        "humans": true,
+        "details": "Contains insoluble calcium oxalate crystals that can cause oral irritation if ingested."
+    },
+    "relationships": [
+        {
+            "type": "belongsToFamily",
+            "target": "araceae"
+        },
+        {
+            "type": "belongsToOrder",
+            "target": "alismatales"
+        },
+        {
+            "type": "recommendedSoil",
+            "target": "soil-aroid-mix"
+        },
+        {
+            "type": "wateringProfile",
+            "target": "water-tropical-moderate"
+        },
+        {
+            "type": "lightProfile",
+            "target": "light-bright-indirect"
+        },
+        {
+            "type": "nativeRegion",
+            "target": "central-america"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "philodendron"
+        },
+        {
+            "type": "sharesCareWith",
+            "target": "pothos"
+        }
+    ],
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Yellowing lower leaves",
+            "diagnosis": "Excess moisture, poor drainage, or root stress",
+            "treatment": "Check moisture below the surface and allow the root zone to dry substantially before watering again. If the mix stays wet for an unusually long time, inspect drainage and roots for signs of damage.",
+            "prevention": "Use an airy, well-structured aroid mix and water according to root-zone moisture rather than a fixed schedule.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaves not developing holes (fenestrations)",
+            "diagnosis": "Immature plant, insufficient light, or weak growth",
+            "treatment": "Provide bright indirect light, maintain appropriate watering, and give the plant a suitable climbing support. Allow time for the plant to mature.",
+            "prevention": "Maintain strong growing conditions and provide support as the plant develops.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Crispy brown edges",
+            "diagnosis": "Water stress, dry conditions, fertilizer buildup, or environmental stress",
+            "treatment": "Check the growing medium before watering. Correct severe dryness, review fertilizer use, and improve ambient humidity if conditions are consistently dry.",
+            "prevention": "Maintain consistent root-zone moisture, avoid prolonged saturation, and use fertilizer conservatively during active growth.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "h1": "Monstera Care Guide",
+    "breadcrumbName": "Monstera",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Evergreen climbing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the root zone has substantially dried out (about 50% dry).",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "10-15 feet indoors with support",
+        "growthRate": "Fast",
+        "soil": "Well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer during active growth",
+        "repottingFrequency": "Every 1-2 years or when root-bound",
+        "potPreference": "Standard with support",
+        "propagation": "Stem cuttings with a viable node",
+        "flowering": true,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Southern Mexico to Central America",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/monstera/",
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        }
+    },
+    "searchIntents": [
+        {
+            "text": "monstera winter care",
+            "type": "secondary",
+            "source": "manual",
+            "approved": true
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": []
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/monstera/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

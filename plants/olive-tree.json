@@ -1,0 +1,411 @@
+{
+    "quickAnswer": "Indoor Olive Trees need full sun (6+ hours daily), well-draining soil, and watering only once the top few inches of soil dry out. Leaf drop most often results from insufficient light or overwatering rather than pests. Native to dry Mediterranean climates, olive trees tolerate underwatering far better than consistently wet roots.",
+    "summary": "Olive Trees (Olea europaea) make striking, silvery-leaved indoor specimens, but they demand far more direct sun than most homes naturally provide. Without adequate light, an otherwise healthy-looking tree will gradually thin out and drop leaves over time.\n\nBecause olive trees evolved in dry, sun-baked Mediterranean soil, their biggest indoor threat is root rot from overwatering or slow-draining potting mixes, not drought stress. Prioritizing bright light and sharp drainage resolves the majority of indoor growing problems.",
+    "keyTakeaways": [
+        "Place near the sunniest window available; olive trees need intense light.",
+        "Use a well-draining soil mix amended with grit or perlite.",
+        "Water only after the top few inches of soil have dried out.",
+        "Move outdoors in summer where possible to boost overall vigor.",
+        "Leaf drop usually points to low light or overwatering, not pests."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "olive-tree",
+    "seoTitle": "Indoor Olive Tree Care Guide: Sun, Soil and Watering",
+    "commonName": "Olive Tree",
+    "facts": {
+        "family": "Oleaceae",
+        "genus": "Olea",
+        "species": "europaea",
+        "nativeRange": "Mediterranean Basin",
+        "growthHabit": "Woody Evergreen Tree"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Requires very well-draining, rocky or sandy soil to simulate Mediterranean conditions. While not an epiphyte, roots need high oxygen exchange.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9001",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Highly drought-tolerant due to thick cuticles and deep roots (in nature), but inside a container, it lacks succulent storage. If the container dries out completely, it rapidly drops leaves.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9002",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Very robust, woody root system. Highly tolerant of root pruning (often practiced in bonsai).",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9003",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Prone to root rot if sitting in a plastic pot with poor drainage during winter.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9004",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Notoriously fickle indoors. Dropping light levels or humidity when moving from patio to living room triggers massive leaf drop.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9005",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": -5,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.95,
+                "editorReasoning": "Extremely cold hardy for a 'houseplant', actually requiring a chilling period (below 10\u00c2\u00b0C) during winter to remain healthy.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_9006",
+                        "weight": 0.95
+                    }
+                ]
+            }
+        }
+    },
+    "slug": "olive-tree",
+    "entityType": "plant",
+    "status": "published",
+    "metaDescription": "Grow a healthy indoor olive tree with the sunlight, well-draining soil and watering routine it needs to avoid leaf drop and root rot.",
+    "featuredImage": "/assets/images/olive-tree.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves on my olive tree turning yellow?",
+            "diagnosis": "Overwatering or poor drainage",
+            "treatment": "Reduce watering; ensure soil is well-draining; allow topsoil to dry.",
+            "prevention": "Water only when top 2 inches are dry.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my olive tree dropping leaves?",
+            "diagnosis": "Shock from relocation or cold drafts",
+            "treatment": "Keep in stable environment; avoid drafts; ensure adequate light.",
+            "prevention": "Acclimate slowly to changes.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why isn't my olive tree fruiting?",
+            "diagnosis": "Insufficient light or lack of cross-pollination",
+            "treatment": "Provide full sun; consider getting a second tree for pollination.",
+            "prevention": "Give at least 6 hours direct sun.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "h1": "Indoor Olive Tree Care Guide",
+    "breadcrumbName": "Olive Tree",
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Mediterranean evergreen tree",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water deeply when the top 2-3 inches of soil are dry. Drought tolerant once established.",
+        "drynessThreshold": 75,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "low-medium",
+        "temperature": "59\u00b0F - 81\u00b0F (15\u00b0C - 27\u00b0C)",
+        "matureSize": "6-10 feet indoors; 15-30+ feet outdoors",
+        "growthRate": "Slow to moderate",
+        "soil": "Sandy, fast-draining cactus/citrus mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Balanced fertilizer in early spring and summer",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard terracotta pot",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Spring",
+        "petSafety": "safe",
+        "nativeRegion": "Mediterranean Basin and western Asia",
+        "usdaZones": "8-10",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Olive Tree (Olea europaea) is a long-lived Mediterranean evergreen tree valued for its silvery foliage, drought tolerance, and, under suitable conditions, edible olives. It is fundamentally a high-light plant and performs best with abundant direct sunlight, excellent drainage, and a pronounced dry period between waterings. Indoor cultivation is possible, but maintaining sufficient light and providing an appropriate seasonal rest are the main challenges."
+        },
+        {
+            "id": "watering",
+            "content": "Allow the growing medium to dry substantially between waterings, then water deeply until excess drains freely from the container. Olive Trees are adapted to periods of drought and are more likely to suffer from consistently wet roots than from being allowed to dry moderately between waterings. Watering frequency depends on light, temperature, pot size, soil composition, and season. Reduce watering significantly during cooler or darker periods when growth slows."
+        },
+        {
+            "id": "light",
+            "content": "Provide Olive Tree with as much direct sunlight as practical, ideally several hours of strong sun each day. A south-facing or similarly unobstructed window is preferable indoors, although even a very bright windowsill may provide less light than the tree would receive outdoors. Plants moved from lower light should be acclimated gradually to intense direct sun to reduce the risk of leaf scorch."
+        },
+        {
+            "id": "soil",
+            "content": "Use a sharply draining growing medium that allows excess water to leave the root zone quickly. A Mediterranean, cactus, or other mineral-rich container mix can work well when it provides both drainage and adequate root support. Avoid heavy, moisture-retentive soil and oversized containers, which can keep the root zone wet for too long. Always use a container with unobstructed drainage holes."
+        },
+        {
+            "id": "temperature",
+            "content": "Olive Trees prefer warm conditions during active growth but benefit from cooler temperatures during their winter rest. Established plants are considerably more cold tolerant than tropical houseplants, but prolonged freezing conditions can damage foliage and young growth. Container-grown trees are more vulnerable to cold because their roots are less insulated than those of plants growing in the ground. Protect young or potted trees when temperatures approach their cold-tolerance limit."
+        },
+        {
+            "id": "humidity",
+            "content": "Olive Trees naturally thrive in low to average humidity and do not require supplemental moisture or misting. Their Mediterranean heritage makes them exceptionally resilient to dry indoor air, provided they receive maximum direct sunlight and excellent airflow."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Olive Tree during active growth with a balanced fertilizer suitable for woody container plants, following the product instructions. Container-grown trees may benefit from regular feeding because repeated watering can gradually deplete available nutrients. Avoid excessive fertilizer, particularly when light is inadequate, and reduce or stop feeding during the winter rest."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Olive Tree when roots have substantially filled the container, the growing medium has deteriorated, or the tree has become unstable. Choose a container only moderately larger than the previous one and use a sharply draining mix. Because olive trees tolerate some root restriction and grow relatively slowly, frequent repotting is unnecessary. Spring, as active growth resumes, is generally a suitable time for major container work."
+        },
+        {
+            "id": "growth",
+            "content": "Olive Tree is a slow- to moderate-growing woody evergreen that develops a branching trunk and narrow, leathery leaves with silvery undersides. Young container plants can remain relatively compact with appropriate pruning, while established outdoor trees can eventually become substantial landscape specimens. Growth is strongest with abundant sunlight and warmth and naturally slows during cooler winter conditions."
+        },
+        {
+            "id": "pruning",
+            "content": "Pruning can be used to maintain a manageable container size, shape the canopy, remove weak or crossing branches, and encourage a useful branching structure. Remove dead, damaged, or poorly positioned growth with clean tools. Avoid excessive pruning at once, particularly on young or stressed trees. If fruit production is desired, pruning should preserve enough healthy flowering wood while maintaining an open canopy."
+        },
+        {
+            "id": "flowering",
+            "content": "Olive Trees produce small, inconspicuous flowers, typically in clusters arising from the previous season's growth. Flowering is encouraged by strong light, a healthy mature plant, and appropriate seasonal conditions. Container-grown indoor trees may flower poorly or not at all if light is insufficient or the plant does not experience a suitable seasonal cycle. Successful fruiting also depends on cultivar, pollination conditions, temperature, and overall plant maturity."
+        },
+        {
+            "id": "fruiting",
+            "content": "Olive Trees can produce fruit when mature and grown under sufficiently bright conditions, but indoor container plants may produce little or no fruit. Fruit development requires successful flowering and pollination as well as adequate sunlight and plant resources. Some cultivars are more productive or self-fertile than others, while multiple compatible trees can improve pollination in suitable outdoor conditions. Fruit production should not be treated as an expectation for a typical indoor specimen."
+        },
+        {
+            "id": "dormancy",
+            "content": "Olive Trees enter a period of reduced growth during cooler, shorter days. This seasonal rest is useful for maintaining the plant's natural growth cycle and can support flowering in mature plants. During this period, reduce watering because the plant uses less moisture, and stop or greatly reduce fertilizer. Avoid placing the tree in a warm, dark location and instead maintain the brightest practical light while protecting it from unsuitable cold."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Leaf drop, yellowing, and weak growth can result from insufficient light, excessive watering, poor drainage, sudden environmental changes, or seasonal adjustment. Sparse growth indoors is often a light problem rather than a fertilizer deficiency. Persistent wet soil can cause root problems, while dry brown foliage can result from severe drought or environmental stress. Examine light exposure, root-zone moisture, drainage, and recent changes in conditions before changing several care factors simultaneously."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "During spring and summer, Olive Tree generally benefits from its brightest light, more active watering, and appropriate feeding as growth increases. In autumn and winter, growth naturally slows and water use declines. Reduce watering and fertilizer accordingly while continuing to provide strong light. Avoid moving the plant suddenly between very different environments, particularly when transitioning it between indoor and outdoor conditions."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Olive Tree is particularly well suited to outdoor cultivation in climates with abundant sunlight, well-draining soil, and suitable winter temperatures. Plant it in full sun with excellent drainage and avoid low areas where water collects. Container-grown trees can be moved outdoors during favorable weather but should be acclimated gradually to stronger sunlight. In colder climates, protect container plants during freezing conditions because roots in containers are more exposed to temperature extremes."
+        },
+        {
+            "id": "propagation",
+            "content": "Olive Trees can be propagated from seeds or suitable semi-hardwood cuttings, although propagation from seed may produce plants that differ from the parent and can take a long time to reach fruiting maturity. Cuttings from healthy parent plants are generally preferred when preserving cultivar characteristics is important. Propagation requires patience, warmth, suitable moisture, and good drainage while new roots develop."
+        },
+        {
+            "id": "toxicity",
+            "content": "Olive Tree is generally considered non-toxic to cats and dogs. The ripe fruit is edible when properly prepared, although ornamental plants should not be assumed to produce fruit suitable for eating unless the cultivar and growing conditions are appropriate. Normal precautions still apply when using fertilizers, pesticides, or other garden products around pets and children."
+        }
+    ],
+    "faq": [
+        {
+            "question": "How much sunlight does an Olive Tree need?",
+            "answer": "Olive Trees need very bright light and perform best in several hours of direct sunlight each day. Indoors, place the tree at the brightest practical window. If moving it from lower light into strong sun, acclimate it gradually to reduce the risk of leaf scorch."
+        },
+        {
+            "question": "How often should I water an Olive Tree?",
+            "answer": "Allow the growing medium to dry substantially between waterings, then water deeply and let excess drain away. Olive Trees tolerate dry conditions and generally perform poorly when their roots remain wet for prolonged periods. Water less frequently during cooler or darker periods."
+        },
+        {
+            "question": "Can an Olive Tree grow indoors?",
+            "answer": "Yes, but indoor cultivation can be challenging because Olive Trees require much more light than most typical houseplants. Place the tree in the brightest available location and avoid consistently wet soil. Indoor specimens may remain healthy without producing flowers or fruit if light levels are insufficient."
+        },
+        {
+            "question": "How big does an Olive Tree get indoors?",
+            "answer": "Container-grown Olive Trees can be maintained around 6\u201310 feet (1.8\u20133 metres) indoors with appropriate pruning, although their eventual size depends on cultivar, container size, light, and growing conditions. Outdoor trees can become considerably larger."
+        },
+        {
+            "question": "Does an Olive Tree need winter dormancy?",
+            "answer": "Olive Trees naturally reduce growth during cooler, shorter days. Providing a cooler seasonal rest while maintaining strong light and reducing watering and fertilizer can better match the plant's natural growth cycle. Avoid keeping the tree warm and dark while continuing a summer watering and feeding routine."
+        },
+        {
+            "question": "Why is my indoor Olive Tree losing leaves?",
+            "answer": "Leaf drop can follow insufficient light, excessive moisture, poor drainage, sudden environmental changes, or seasonal adjustment. Indoor Olive Trees are particularly sensitive to inadequate light. Check the amount of direct sunlight and whether the growing medium is staying wet for too long."
+        },
+        {
+            "question": "Can an Olive Tree produce olives indoors?",
+            "answer": "It can produce flowers and, under sufficiently bright conditions and with suitable pollination, may produce fruit, but indoor container trees often produce little or no fruit. Cultivar, maturity, sunlight, flowering conditions, and pollination all influence fruit production."
+        },
+        {
+            "question": "When should I prune an Olive Tree?",
+            "answer": "Pruning is generally best carried out as the plant approaches active growth, allowing you to remove dead or unwanted branches and maintain the desired shape. Avoid excessive pruning of a young or stressed tree. If fruit production is important, preserve suitable healthy flowering wood."
+        },
+        {
+            "question": "Can Olive Trees grow in pots?",
+            "answer": "Yes. Olive Trees adapt well to container cultivation when provided with a sufficiently large but well-drained pot, strong sunlight, and appropriate watering. Containers are particularly useful in climates where winter temperatures may be too cold for outdoor planting."
+        },
+        {
+            "question": "How cold can an Olive Tree tolerate?",
+            "answer": "Established Olive Trees are substantially more cold tolerant than tropical houseplants, but tolerance varies with cultivar, age, exposure, and whether the plant is growing in the ground or a container. Young trees and container-grown specimens are more vulnerable to freezing conditions and should receive additional protection."
+        },
+        {
+            "question": "Does an Olive Tree need high humidity?",
+            "answer": "No. Olive Trees generally adapt well to relatively dry indoor air and do not require the high humidity preferred by tropical houseplants. Good light, drainage, airflow, and appropriate watering are more important."
+        },
+        {
+            "question": "Is an Olive Tree safe for cats and dogs?",
+            "answer": "Olive Trees are generally considered non-toxic to cats and dogs. Even so, prevent pets from consuming large amounts of foliage or fruit, and keep fertilizers and other garden products out of their reach."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Olive Tree Growing Conditions",
+        "columns": [
+            "Growing Situation",
+            "Light",
+            "Watering",
+            "Container",
+            "Fruiting Potential"
+        ],
+        "rows": [
+            {
+                "Growing Situation": "Indoor",
+                "Light": "Brightest available direct light",
+                "Watering": "Allow substantial drying between waterings",
+                "Container": "Well-draining pot with drainage holes",
+                "Fruiting Potential": "Low to moderate"
+            },
+            {
+                "Growing Situation": "Outdoor Container",
+                "Light": "Full sun",
+                "Watering": "Deep watering followed by substantial drying",
+                "Container": "Large, heavy pot with excellent drainage",
+                "Fruiting Potential": "Moderate to high with suitable conditions"
+            },
+            {
+                "Growing Situation": "Outdoor Ground",
+                "Light": "Full sun",
+                "Watering": "Deep but infrequent once established",
+                "Container": "Not applicable",
+                "Fruiting Potential": "Highest"
+            }
+        ]
+    },
+    "decisionGuide": [
+        {
+            "condition": "You have several hours of strong direct sunlight indoors",
+            "recommendation": "An Olive Tree can be grown indoors, provided the soil drains rapidly and watering is adjusted seasonally."
+        },
+        {
+            "condition": "Your home has mostly indirect or low light",
+            "recommendation": "An Olive Tree is not an ideal choice. Choose a lower-light-tolerant plant instead."
+        },
+        {
+            "condition": "You live in USDA Zones 8a\u201310b with suitable winter conditions",
+            "recommendation": "Outdoor cultivation is generally the better option because the tree can receive substantially more sunlight and develop naturally."
+        },
+        {
+            "condition": "You want to grow the tree primarily for olives",
+            "recommendation": "Prioritize outdoor cultivation, strong sunlight, an appropriate cultivar, pollination conditions, and sufficient plant maturity."
+        },
+        {
+            "condition": "Your container stays wet for several days after watering",
+            "recommendation": "Improve drainage and consider a more suitable growing medium or container before increasing watering frequency."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Olea europaea",
+        "family": "Oleaceae",
+        "taxonType": "species"
+    },
+    "heroImage": "/assets/images/olive-tree.webp",
+    "ogImage": "/assets/images/olive-tree.webp",
+    "ogImageAlt": "Elegant indoor Olive Tree with silvery-green leaves",
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/olive-tree/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": []
+    },
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/olive-tree/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

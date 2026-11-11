@@ -1,0 +1,600 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "aloe-vera",
+    "seoTitle": "Aloe Vera Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Aloe Vera. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Aloe Vera",
+    "heroImage": "/assets/images/aloe-vera-care.webp",
+    "heroImageAlt": "Aloe Vera plant",
+    "facts": {
+        "family": "Asphodelaceae",
+        "genus": "Aloe",
+        "species": "barbadensis",
+        "nativeRange": "Arabian Peninsula",
+        "growthHabit": "Succulent"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01200",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01201",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01202",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 5,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2011",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.95,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01203",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 4,
+                "unit": "\u00b0C",
+                "confidence": 0.95,
+                "lastReviewed": "2026-09-10",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_01204",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "aloe-vera",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "shortDesc": "A drought-tolerant succulent known for medicinal gel and low-maintenance care.",
+    "aliases": [
+        "Medicinal Aloe",
+        "True Aloe"
+    ],
+    "faq": [
+        {
+            "question": "How often should Aloe Vera be watered?",
+            "answer": "Water Aloe Vera thoroughly, then allow the soil to dry completely before watering again. A fixed calendar is less reliable than checking the growing medium because light, temperature, pot size, and season change how quickly the plant dries. During active growth, watering every 2\u20133 weeks may be appropriate indoors, while winter watering is often much less frequent."
+        },
+        {
+            "question": "Why are my Aloe Vera leaves turning yellow?",
+            "answer": "Yellow leaves, particularly when they are soft or occurring alongside persistently wet soil, commonly indicate excessive moisture and possible root problems. Check the soil before watering again and make sure excess water can drain freely. Yellowing can also occur from insufficient light, normal aging of lower leaves, or other environmental stress."
+        },
+        {
+            "question": "Why are my Aloe Vera leaves turning brown?",
+            "answer": "Brown tissue can have several causes. Crispy brown tips may develop from dehydration, accumulated salts, or intense environmental stress, while bleached or reddish-brown patches can indicate excessive direct sunlight. Soft brown tissue is more concerning because it can accompany overwatering or rot."
+        },
+        {
+            "question": "How much sunlight does Aloe Vera need?",
+            "answer": "Aloe Vera performs best in very bright light and can tolerate several hours of direct sunlight when gradually acclimated. Indoors, a bright south- or west-facing window can work well, although intense afternoon sun through glass may scorch plants that have previously grown in lower light. Increase exposure gradually after moving the plant."
+        },
+        {
+            "question": "Is Aloe Vera toxic to cats and dogs?",
+            "answer": "Yes. Aloe Vera is considered toxic to dogs, cats, and horses if ingested. The latex and other compounds in the plant can cause gastrointestinal upset and lethargy. Keep plants and discarded leaves away from pets and seek veterinary advice if a pet consumes a significant amount."
+        },
+        {
+            "question": "How do I propagate Aloe Vera?",
+            "answer": "Aloe Vera is most reliably propagated from offsets, commonly called pups, that develop around the base of the parent plant. Separate an offset once it is sufficiently developed, preferably with its own roots, allow damaged tissue to dry if necessary, and pot it into a small container with a well-draining succulent mix."
+        },
+        {
+            "question": "Why is my Aloe Vera not growing?",
+            "answer": "Slow growth can be normal, particularly during winter, but prolonged lack of growth may indicate insufficient light, cool conditions, poor root health, or an unsuitable watering pattern. Check the roots if the plant remains stagnant despite good light and appropriate temperatures. A pot that is substantially larger than the root system can also keep the soil wet for too long."
+        },
+        {
+            "question": "How do I fix root rot in Aloe Vera?",
+            "answer": "Remove the plant from its container and inspect the root system. Cut away soft, brown, or decaying roots with a clean tool and remove heavily damaged tissue. Repot into fresh, fast-draining succulent soil in a container with drainage holes. Avoid immediately returning to frequent watering; allow the plant and growing medium to recover before resuming a conservative watering routine."
+        },
+        {
+            "question": "Can Aloe Vera grow indoors?",
+            "answer": "Yes. Aloe Vera is well suited to indoor cultivation when it receives strong natural light and is planted in a fast-draining medium. The main indoor challenge is usually excessive moisture rather than insufficient watering. Position the plant near a bright window and use a container that allows excess water to escape."
+        },
+        {
+            "question": "How do I revive a dying Aloe Vera plant?",
+            "answer": "First determine whether the problem is excess water or dehydration. Soft, translucent, or collapsing leaves combined with wet soil point toward overwatering and possible rot, while thin, wrinkled leaves with completely dry soil suggest water stress. Inspect the roots when the diagnosis is unclear, correct the growing conditions, and remove irreversibly damaged tissue."
+        },
+        {
+            "question": "What kind of soil does Aloe Vera need?",
+            "answer": "Use a porous, fast-draining cactus or succulent mix rather than a moisture-retentive standard potting mix. Additional perlite, pumice, or coarse mineral material can improve drainage when needed. The goal is a medium that becomes adequately moist during watering but does not remain saturated around the roots for prolonged periods."
+        },
+        {
+            "question": "When should I repot my Aloe Vera?",
+            "answer": "Repot when the plant has become significantly root-bound, the container no longer provides enough stability, or offsets are crowding the pot. Spring or early summer is generally convenient because the plant is entering active growth. Move only to a slightly larger container rather than dramatically increasing pot volume."
+        },
+        {
+            "question": "How do I harvest Aloe Vera gel?",
+            "answer": "Select a mature outer leaf and cut it cleanly near the base. Allow the yellow latex to drain away before removing the clear inner gel. Use clean tools and avoid consuming raw aloe latex. For topical use, use clean handling and discard gel that develops an unusual colour, odour, or signs of contamination."
+        },
+        {
+            "question": "Why are my Aloe Vera leaves turning red?",
+            "answer": "Reddish or bronze coloration can occur when Aloe Vera experiences intense light or other environmental stress. If the colour develops after a sudden move from lower light into strong sun, acclimation may be the issue. Gradually adjust light exposure and inspect the leaves for actual scorch or tissue damage."
+        },
+        {
+            "question": "Why are my Aloe Vera leaves soft and mushy?",
+            "answer": "Soft, mushy leaves are a major warning sign of excessive moisture and possible root or crown rot, particularly when the soil remains wet. Stop routine watering and inspect the root system and base of the plant. If the soil is completely dry instead, severe dehydration may also cause loss of firmness, so soil moisture should always be checked before diagnosing the problem."
+        },
+        {
+            "question": "Does Aloe Vera flower?",
+            "answer": "Yes. Mature Aloe Vera plants can produce tall flower stalks carrying tubular yellow to orange flowers, usually when they receive strong light and suitable growing conditions. Indoor plants may rarely flower because they often receive less intense light than plants grown outdoors in suitable climates."
+        },
+        {
+            "question": "Can I move my Aloe Vera outside in spring?",
+            "answer": "Yes, but only after all frost danger has passed and nights remain above 10\u00b0C (50\u00b0F). You must acclimate the plant gradually over 1-2 weeks to prevent severe sunburn, starting in full shade and slowly increasing its exposure to direct morning sun."
+        }
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Leaves turning yellow and mushy",
+            "diagnosis": "Overwatering",
+            "treatment": "Stop watering and inspect the root system. Remove soft or decaying roots and repot into fresh, well-draining succulent soil if rot is present. Ensure the container has unobstructed drainage.",
+            "prevention": "Allow the growing medium to dry thoroughly between waterings and avoid leaving the pot standing in collected water.",
+            "confidence": 0.95,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_001",
+                    "weight": 0.95,
+                    "source": "Succulent cultivation literature",
+                    "summary": "Aloe Vera is drought adapted and is particularly vulnerable to prolonged saturated soil."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves turning brown and crispy at tips",
+            "diagnosis": "Underwatering, salt buildup, or environmental stress",
+            "treatment": "Check soil moisture first. If the medium is extremely dry, water thoroughly. If the plant is regularly watered but develops persistent brown tips, check for mineral buildup, excessive heat, or intense light.",
+            "prevention": "Allow the soil to dry between thorough waterings and avoid prolonged exposure to harsh conditions.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_002",
+                    "weight": 0.9,
+                    "source": "Horticultural observation",
+                    "summary": "Crispy leaf margins can develop when Aloe experiences water stress or environmental stress."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves turning red or reddish-brown",
+            "diagnosis": "Light or environmental stress",
+            "treatment": "Review recent changes in light exposure. If the plant was suddenly moved into intense direct sun, move it to brighter filtered light and acclimate it gradually.",
+            "prevention": "Increase direct-light exposure gradually rather than moving a low-light plant immediately into intense afternoon sun.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_003",
+                    "weight": 0.9,
+                    "source": "Cultivation experience",
+                    "summary": "Aloe can develop reddish pigmentation under environmental stress, particularly intense light."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves becoming thin, flat, or curling inward",
+            "diagnosis": "Water stress",
+            "treatment": "Check the soil. If it is completely dry, water thoroughly and allow excess water to drain. If the soil is wet while the leaves remain stressed, inspect the roots because rot can prevent normal water uptake.",
+            "prevention": "Use a fast-draining growing medium and adjust watering according to soil moisture rather than a fixed calendar.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_004",
+                    "weight": 0.85,
+                    "source": "Common grower observations",
+                    "summary": "Loss of leaf turgidity is consistent with dehydration but can also occur when root damage prevents water uptake."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves developing brown spots or blotches",
+            "diagnosis": "Sun damage, fungal disease, or persistent moisture",
+            "treatment": "Inspect the location and watering pattern. Reduce prolonged leaf wetness, improve airflow, and protect the plant from sudden intense sun if scorch is suspected. Remove severely damaged tissue with clean tools.",
+            "prevention": "Keep foliage relatively dry, provide good airflow, and acclimate gradually to stronger sunlight.",
+            "confidence": 0.8,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_005",
+                    "weight": 0.8,
+                    "source": "Plant pathology guidelines",
+                    "summary": "Leaf spotting can have multiple causes, including environmental injury and pathogens favored by excessive moisture."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves becoming soft, wrinkled, or shrivelled",
+            "diagnosis": "Severe dehydration or root rot",
+            "treatment": "Check soil moisture before watering. If the soil is bone dry, water thoroughly. If the soil is wet and leaves are soft, inspect the roots for decay and correct the drainage problem.",
+            "prevention": "Maintain a dry-down period between waterings and use a container with adequate drainage.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_006",
+                    "weight": 0.9,
+                    "source": "Succulent care guides",
+                    "summary": "Wrinkling can indicate insufficient available water, while root damage can produce similar symptoms despite wet soil."
+                }
+            ]
+        },
+        {
+            "symptom": "Plant not growing or growing very slowly",
+            "diagnosis": "Insufficient light, cool temperatures, dormancy, or root stress",
+            "treatment": "Move the plant to a brighter location and verify that temperatures remain suitable for active growth. Inspect the roots if poor growth persists despite good light and appropriate watering.",
+            "prevention": "Provide strong light, appropriate temperatures, and a well-draining growing medium.",
+            "confidence": 0.85,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_007",
+                    "weight": 0.85,
+                    "source": "Horticultural knowledge",
+                    "summary": "Aloe growth slows naturally in cooler, darker conditions and can also be restricted by poor root health."
+                }
+            ]
+        },
+        {
+            "symptom": "Brown or black mushy spots at the base of the plant",
+            "diagnosis": "Crown rot or bacterial soft rot",
+            "treatment": "Remove the plant from wet soil and inspect the crown and roots. Remove clearly rotten tissue with a sterilised tool. Severely affected plants may not recover, so healthy offsets can sometimes provide the best route to preserving the plant.",
+            "prevention": "Avoid prolonged wetness around the crown and use exceptionally well-draining soil and containers.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_008",
+                    "weight": 0.9,
+                    "source": "Succulent disease literature",
+                    "summary": "Persistent moisture around the crown can create conditions favorable to destructive rot."
+                }
+            ]
+        },
+        {
+            "symptom": "Small white cottony spots on leaves or in leaf axils",
+            "diagnosis": "Mealybug infestation",
+            "treatment": "Isolate the plant and remove visible mealybugs with a cotton swab or appropriate contact treatment. Repeat treatment as necessary because hidden insects and eggs can survive the first application.",
+            "prevention": "Inspect new plants before introducing them to the collection and regularly check leaf axils and crowded areas.",
+            "confidence": 0.9,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_009",
+                    "weight": 0.9,
+                    "source": "Pest control literature",
+                    "summary": "Mealybugs commonly hide in protected plant structures and feed by extracting plant sap."
+                }
+            ]
+        },
+        {
+            "symptom": "Fine webbing and yellow speckling on leaves",
+            "diagnosis": "Spider mite infestation",
+            "treatment": "Isolate the plant, wash the foliage where appropriate, and use a suitable labelled treatment for spider mites. Repeat applications according to the product directions because eggs may survive initial treatment.",
+            "prevention": "Inspect foliage regularly and avoid prolonged severe plant stress or excessively dry conditions.",
+            "confidence": 0.85,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_010",
+                    "weight": 0.85,
+                    "source": "Pest control guidelines",
+                    "summary": "Spider mites can cause fine stippling, discoloration, and characteristic webbing on infested foliage."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaves collapsing or falling over from the base",
+            "diagnosis": "Root or crown rot, severe dehydration, or structural damage",
+            "treatment": "Check soil moisture and inspect the base and roots. Wet soil with collapsing tissue points toward rot, while completely dry soil suggests severe dehydration. Correct the underlying condition before replacing damaged foliage.",
+            "prevention": "Use porous soil, adequate drainage, and a watering routine based on actual soil moisture.",
+            "confidence": 0.85,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_011",
+                    "weight": 0.85,
+                    "source": "Cultivation experience",
+                    "summary": "Severe root or crown problems can compromise the plant's ability to support healthy leaves."
+                }
+            ]
+        },
+        {
+            "symptom": "Leaf gel turning brown or smelling unpleasant",
+            "diagnosis": "Oxidation or contamination",
+            "treatment": "Discard discolored or foul-smelling gel. When harvesting, use clean tools and hygienic handling, and refrigerate fresh gel if it is being retained temporarily.",
+            "prevention": "Harvest with clean equipment and avoid storing freshly extracted gel for extended periods without appropriate preservation.",
+            "confidence": 0.8,
+            "evidence": [
+                {
+                    "id": "EVIDENCE_ALOE_012",
+                    "weight": 0.8,
+                    "source": "Aloe processing literature",
+                    "summary": "Fresh Aloe gel can oxidize and is susceptible to microbial contamination after extraction."
+                }
+            ]
+        }
+    ],
+    "references": [],
+    "glossaryTerms": [
+        {
+            "term": "Succulent",
+            "definition": "A plant adapted to environments where water may be periodically scarce by storing moisture in specialized tissues. Aloe Vera stores substantial water in its thick, fleshy leaves."
+        },
+        {
+            "term": "Offset (Pup)",
+            "definition": "A small new plant produced near the base of the parent Aloe. Once sufficiently developed, an offset can be separated and grown as an independent plant."
+        },
+        {
+            "term": "Root Rot",
+            "definition": "A condition in which roots deteriorate under prolonged unfavorable moisture conditions, often involving fungal or bacterial pathogens. Aloe Vera commonly shows yellowing, soft leaves, or collapse when root damage becomes severe."
+        },
+        {
+            "term": "Saponins",
+            "definition": "Naturally occurring compounds present in Aloe and many other plants. Ingestion of Aloe plant material can be harmful to pets."
+        },
+        {
+            "term": "Anthraquinones",
+            "definition": "Naturally occurring compounds associated with Aloe latex. They are distinct from the clear inner gel and can have strong physiological effects when ingested."
+        },
+        {
+            "term": "Aloe Latex",
+            "definition": "The yellow, bitter substance found between the outer leaf tissues and inner gel. It contains compounds that can cause gastrointestinal effects and should not be confused with the clear gel."
+        },
+        {
+            "term": "Aloe Gel",
+            "definition": "The clear, water-rich inner tissue of an Aloe leaf. It is visually distinct from the yellow latex found closer to the leaf rind."
+        },
+        {
+            "term": "Sun Scorch (Leaf Burn)",
+            "definition": "Tissue damage caused when foliage receives more intense light than it has been acclimated to tolerate. Symptoms can include bleached, tan, reddish, or crispy areas."
+        },
+        {
+            "term": "Well-Draining Soil",
+            "definition": "A porous growing medium that allows excess water to leave the root zone quickly. Aloe Vera benefits from mixes designed specifically for succulents and other drought-adapted plants."
+        },
+        {
+            "term": "Dormancy",
+            "definition": "A period of substantially reduced growth caused by unfavorable environmental conditions, commonly shorter days and cooler temperatures. Aloe Vera generally needs less water during inactive periods."
+        },
+        {
+            "term": "Propagation",
+            "definition": "The process of producing additional plants from an existing plant. Aloe Vera is commonly propagated vegetatively through offsets rather than relying on seed."
+        },
+        {
+            "term": "Chlorophyll",
+            "definition": "The green pigment involved in photosynthesis. Changes in leaf color can indicate environmental stress but should always be interpreted alongside light, moisture, and tissue condition."
+        },
+        {
+            "term": "Acclimation",
+            "definition": "The gradual adjustment of a plant to a changed environmental condition, particularly a substantial increase in light. Gradual acclimation reduces the risk of sun scorch."
+        },
+        {
+            "term": "Leaf Turgidity",
+            "definition": "The firmness of plant tissue maintained by adequate internal water pressure. Aloe leaves normally become thinner, softer, or wrinkled when the plant experiences significant water stress."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Aloe Vera Placement Options",
+        "headers": [
+            "Placement",
+            "Light",
+            "Watering",
+            "Difficulty"
+        ],
+        "rows": [
+            [
+                "Sunny Window",
+                "Bright direct to filtered",
+                "Low",
+                "Easy"
+            ],
+            [
+                "Balcony Pot",
+                "Bright outdoor light",
+                "Low",
+                "Easy"
+            ],
+            [
+                "Office Desk",
+                "Medium-bright",
+                "Low",
+                "Medium"
+            ]
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Aloe Vera (Aloe barbadensis) is a drought-tolerant succulent in the Asphodelaceae family, valued for its thick, fleshy leaves arranged in a compact rosette and its ability to store substantial amounts of water. It is well suited to bright indoor locations and generally requires less frequent watering than most tropical houseplants. Its main care challenge is avoiding prolonged moisture around the roots, as consistently wet growing media can quickly lead to root or crown problems."
+        },
+        {
+            "id": "watering",
+            "content": "Allow the growing medium to dry thoroughly before watering Aloe Vera again. When watering, soak the soil deeply until excess water drains freely from the container, then empty any standing water from the saucer. Avoid frequent small waterings that keep the root zone partially wet. Watering frequency should be adjusted according to light, temperature, container size, soil composition, and seasonal growth, with substantially less water generally needed during cooler or lower-light periods."
+        },
+        {
+            "id": "light",
+            "content": "Provide Aloe Vera with bright light and, when properly acclimated, it can tolerate several hours of direct sunlight. A bright south- or west-facing window can work well indoors, although intense afternoon sun through glass may scorch foliage if the plant has not been gradually acclimated. Plants kept in insufficient light may become elongated, pale, or weak. Increase exposure to stronger light gradually when moving an Aloe Vera from a shaded location."
+        },
+        {
+            "id": "soil",
+            "content": "Use a <a href=\"/calculators/potting-mix-calculator/aloe-vera/\">fast-draining succulent or cactus growing medium</a> that allows excess water to leave the root zone quickly. A suitable mix can contain mineral components such as perlite, pumice, or coarse sand combined with a smaller proportion of organic potting material. Use a container with drainage holes and avoid heavy, moisture-retentive soil that remains wet for extended periods. The container should also be appropriately sized rather than substantially larger than the root system."
+        },
+        {
+            "id": "temperature",
+            "content": "Aloe Vera prefers warm growing conditions and generally performs well around 18\u201327\u00b0C (65\u201381\u00b0F). It can tolerate some cooler conditions when kept relatively dry, but prolonged exposure to cold can damage the leaves and increase the risk of rot. Protect the plant from frost, freezing temperatures, and sudden cold conditions, particularly when growing it outdoors or near cold windows during winter."
+        },
+        {
+            "id": "humidity",
+            "content": "Aloe Vera does not require high humidity and generally adapts well to normal indoor conditions. Excessively humid environments combined with poor airflow and frequent watering can increase the risk of fungal or bacterial problems. There is usually no need to mist the foliage. Instead, prioritize bright light, a dry-down period between waterings, good drainage, and adequate airflow around the plant."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Aloe Vera sparingly during active growth with a balanced fertilizer or a fertilizer formulated for succulents, following the product instructions and avoiding excessive concentrations. Too much fertilizer can contribute to salt buildup and root stress and is generally unnecessary for a plant adapted to nutrient-poor environments. Reduce or pause feeding during periods of slow growth, particularly in winter or when light levels are low."
+        },
+        {
+            "id": "propagation",
+            "content": "Aloe Vera is most commonly propagated by separating offsets, often called pups, that develop around the base of a mature plant. Allow a suitable offset to develop its own roots before carefully separating it from the parent plant. Plant the offset in a well-draining succulent medium and allow any damaged surfaces to dry before watering. Propagation from seed is also possible but is slower and less commonly used for routine indoor propagation."
+        },
+        {
+            "id": "toxicity",
+            "content": "Aloe Vera contains compounds in its leaf tissues that can be harmful if ingested by pets. The latex layer beneath the leaf skin contains anthraquinone compounds, while the plant also contains other substances that can cause gastrointestinal irritation. Ingestion can result in symptoms such as vomiting, diarrhea, lethargy, or discomfort in susceptible animals. Keep Aloe Vera away from pets and children who may chew or ingest the leaves."
+        },
+        {
+            "id": "moving-outdoors",
+            "content": "Aloe Vera can be moved outdoors in spring once the danger of frost has completely passed and nighttime temperatures remain reliably above 10\u00b0C (50\u00b0F). Because it is highly susceptible to sun scorch if moved abruptly, it must be acclimated gradually to stronger outdoor sunlight over 1-2 weeks. Place it in bright shade first, slowly increasing direct morning sun exposure. For a detailed step-by-step acclimation schedule, follow our <a href=\"/blog/when-to-move-houseplants-outside-spring/\">spring transition guide</a>."
+        }
+    ],
+    "quickAnswer": "Aloe Vera thrives in bright light with some direct sun, requiring deep but infrequent watering only after the soil has dried thoroughly. Use a fast-draining succulent mix and a container with drainage holes to reduce root-rot risk. Keep watering especially conservative during cool or low-light periods, and acclimate the plant gradually when moving it into stronger sunlight. Aloe is also readily propagated from offsets.",
+    "featuredImage": "/assets/images/aloe-vera.webp",
+    "ogImage": "/assets/images/aloe-vera.webp",
+    "featuredImageAlt": "Healthy Aloe Vera succulent with thick fleshy leaves in a terracotta pot on a bright windowsill",
+    "ogImageAlt": "Healthy Aloe Vera succulent with thick fleshy leaves in a terracotta pot on a bright windowsill",
+    "author": "PlantZone Editorial Team",
+    "publishedAt": "2026-05-26",
+    "updatedAt": "2026-09-10",
+    "content": "<h2>Overview</h2><p>Aloe Vera is a drought-adapted succulent that stores water in its thick, fleshy leaves. Its care is relatively simple, but its tolerance for drought should not be mistaken for tolerance of permanently wet soil. Indoors, the combination of strong light, porous soil, and careful watering is the foundation of healthy growth.</p><h2>Light and Placement</h2><p>Give Aloe Vera the brightest practical location available. A bright south- or west-facing window can provide suitable conditions indoors, while plants moved from lower light should be acclimated gradually to stronger direct sun. Sudden exposure to intense afternoon sunlight can cause reddish, bleached, or crispy areas on the leaves.</p><h2>Watering</h2><p>Water thoroughly when the growing medium has dried substantially, allowing excess water to drain completely from the container. Do not maintain a consistently damp root zone. During cooler or darker periods, Aloe Vera generally uses less water and the interval between waterings should increase. Check the soil rather than relying exclusively on a calendar.</p><h2>Soil and Drainage</h2><p>Use a <a href=\"/calculators/potting-mix-calculator/aloe-vera/\">fast-draining succulent or cactus growing medium</a> that drains rapidly. Containers must have drainage holes, and the plant should never sit in collected water. A heavy, moisture-retentive mix can remain wet around the roots long after the surface appears dry, increasing the risk of root and crown problems.</p><h2>Temperature and Indoor Conditions</h2><p>Aloe Vera prefers warm growing conditions and performs best when protected from cold extremes. It can tolerate cooler conditions for limited periods, but temperatures near its lower tolerance should not be combined with wet soil. Good airflow helps the foliage remain dry and reduces the conditions that favor disease.</p><h2>Fertilizing</h2><p>Aloe Vera does not require heavy feeding. During active growth, a diluted fertilizer formulated for succulents can be used occasionally, but excessive fertilizer is unnecessary and can contribute to salt accumulation. Watering thoroughly enough to allow drainage also helps reduce the concentration of soluble salts in the growing medium.</p><h2>Propagation</h2><p>The easiest propagation method is separating offsets that develop around the parent plant. Choose a sufficiently developed pup, separate it carefully, and place it into a small container with well-draining succulent soil. Avoid using an oversized pot because excess unused soil can retain moisture around a small root system.</p><h2>Repotting</h2><p>Repot Aloe Vera when the root system has substantially filled its container, offsets are overcrowding the pot, or the existing growing medium has deteriorated. Choose a container only modestly larger than the existing root system and make sure drainage holes are unobstructed.</p><h2>Common Problems</h2><p>Soft yellow leaves and a persistently wet growing medium are strong warning signs of excessive moisture and possible root rot. Thin or wrinkled leaves can indicate dehydration, but the same appearance can occur when damaged roots cannot absorb water, so soil moisture and root condition should be considered together. Red or scorched foliage can indicate excessive light or sudden exposure to stronger sun.</p><h2>Pet Safety</h2><p>Aloe Vera should not be considered pet safe. Ingestion can cause adverse effects in dogs, cats, and horses. Keep the plant, fallen leaves, and discarded pruning material inaccessible to pets.</p><h2>Harvesting Aloe Gel</h2><p>If harvesting Aloe gel, select a mature outer leaf and use a clean cutting tool. Allow the yellow latex to drain before separating the clear inner gel. Because freshly extracted gel is perishable and can become contaminated, hygienic handling and appropriate storage are important.</p><h2>Moving Aloe Vera Outdoors in Spring</h2><p>Aloe Vera can thrive outdoors during the warm months, provided you wait until all frost danger has passed and nighttime temperatures are reliably above 10&deg;C (50&deg;F). The most critical step is gradual acclimation. An indoor Aloe Vera moved directly into intense outdoor sunlight will quickly suffer severe sunburn, causing the leaves to bleach, turn red, or develop crispy patches.</p><p>Start by placing the plant in full shade for a few days, then gradually introduce it to morning sun over a period of 1&ndash;2 weeks. Always monitor the soil moisture closely, as outdoor plants dry out faster than those kept indoors. For a complete timeline on safely hardening off your plants, refer to our <a href=\"/blog/when-to-move-houseplants-outside-spring/\">spring transition guide</a>.</p>",
+    "summary": "Aloe Vera is a drought-adapted succulent prized for its thick, water-storing leaves and relatively undemanding indoor care. Native to the Arabian Peninsula, it performs best when its growing environment provides strong light, rapid drainage, and a substantial dry period between waterings. The most important distinction in Aloe care is that drought tolerance does not mean the plant should remain in wet soil. Prolonged moisture around the roots can lead to root or crown rot, while sudden exposure to intense sunlight can cause scorch. This guide covers light, watering, soil, temperature, feeding, propagation, repotting, pet safety, gel harvesting, and diagnosis of common symptoms. Aloe Vera is particularly suitable for growers who prefer plants that tolerate occasional missed waterings, provided the container and growing medium allow excess water to escape quickly.",
+    "keyTakeaways": [
+        "Provide Aloe Vera with strong bright light and acclimate gradually when increasing direct sun exposure.",
+        "Water thoroughly only after the growing medium has dried substantially rather than maintaining consistently moist soil.",
+        "Use a porous cactus or succulent mix and a container with unobstructed drainage holes to reduce root-rot risk.",
+        "Reduce watering during cooler or darker periods because Aloe Vera uses less moisture when growth slows.",
+        "Propagate primarily from healthy offsets and use appropriately sized containers so excess soil does not remain wet around small roots."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 13,
+    "lastReviewed": "2026-09-10",
+    "plantHero": {
+        "plantType": "Evergreen perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Moderate",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "50-70%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "6-12 inches indoors",
+        "growthRate": "Moderate",
+        "soil": "Cactus/succulent potting mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Terracotta",
+        "propagation": "Division of pups",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Arabian Peninsula",
+        "usdaZones": "10-12",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/aloe"
+        ]
+    },
+    "taxonomy": {
+        "sciName": "Aloe vera",
+        "family": "Asphodelaceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/aloe-vera/",
+    "breadcrumbName": "Aloe Vera",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/aloe"
+        ]
+    },
+    "h1": "Aloe Vera Care Guide: Light, Watering & Growing Tips",
+    "contentText": "Overview Aloe Vera is a drought-adapted succulent that stores water in its thick, fleshy leaves. Its care is relatively simple, but its tolerance for drought should not be mistaken for tolerance of permanently wet soil. Indoors, the combination of strong light, porous soil, and careful watering is the foundation of healthy growth. Light and Placement Give Aloe Vera the brightest practical location available. A bright south- or west-facing window can provide suitable conditions indoors, while plants moved from lower light should be acclimated gradually to stronger direct sun. Sudden exposure to intense afternoon sunlight can cause reddish, bleached, or crispy areas on the leaves. Watering Water thoroughly when the growing medium has dried substantially, allowing excess water to drain completely from the container. Do not maintain a consistently damp root zone. During cooler or darker periods, Aloe Vera generally uses less water and the interval between waterings should increase. Check the soil rather than relying exclusively on a calendar. Soil and Drainage Use a fast-draining succulent or cactus growing medium that drains rapidly. Containers must have drainage holes, and the plant should never sit in collected water. A heavy, moisture-retentive mix can remain wet around the roots long after the surface appears dry, increasing the risk of root and crown problems. Temperature and Indoor Conditions Aloe Vera prefers warm growing conditions and performs best when protected from cold extremes. It can tolerate cooler conditions for limited periods, but temperatures near its lower tolerance should not be combined with wet soil. Good airflow helps the foliage remain dry and reduces the conditions that favor disease. Fertilizing Aloe Vera does not require heavy feeding. During active growth, a diluted fertilizer formulated for succulents can be used occasionally, but excessive fertilizer is unnecessary and can contribute to salt accumulation. Watering thoroughly enough to allow drainage also helps reduce the concentration of soluble salts in the growing medium. Propagation The easiest propagation method is separating offsets that develop around the parent plant. Choose a sufficiently developed pup, separate it carefully, and place it into a small container with well-draining succulent soil. Avoid using an oversized pot because excess unused soil can retain moisture around a small root system. Repotting Repot Aloe Vera when the root system has substantially filled its container, offsets are overcrowding the pot, or the existing growing medium has deteriorated. Choose a container only modestly larger than the existing root system and make sure drainage holes are unobstructed. Common Problems Soft yellow leaves and a persistently wet growing medium are strong warning signs of excessive moisture and possible root rot. Thin or wrinkled leaves can indicate dehydration, but the same appearance can occur when damaged roots cannot absorb water, so soil moisture and root condition should be considered together. Red or scorched foliage can indicate excessive light or sudden exposure to stronger sun. Pet Safety Aloe Vera should not be considered pet safe. Ingestion can cause adverse effects in dogs, cats, and horses. Keep the plant, fallen leaves, and discarded pruning material inaccessible to pets. Harvesting Aloe Gel If harvesting Aloe gel, select a mature outer leaf and use a clean cutting tool. Allow the yellow latex to drain before separating the clear inner gel. Because freshly extracted gel is perishable and can become contaminated, hygienic handling and appropriate storage are important. Moving Aloe Vera Outdoors in Spring Aloe Vera can thrive outdoors during the warm months, provided you wait until all frost danger has passed and nighttime temperatures are reliably above 10&deg;C (50&deg;F). The most critical step is gradual acclimation. An indoor Aloe Vera moved directly into intense outdoor sunlight will quickly suffer severe sunburn, causing the leaves to bleach, turn red, or develop crispy patches. Start by placing the plant in full shade for a few days, then gradually introduce it to morning sun over a period of 1&ndash;2 weeks. Always monitor the soil moisture closely, as outdoor plants dry out faster than those kept indoors. For a complete timeline on safely hardening off your plants, refer to our spring transition guide .",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/aloe-vera/",
+        "lastReviewed": "2026-09-10",
+        "license": "CC BY 4.0"
+    }
+}

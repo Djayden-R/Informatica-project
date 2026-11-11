@@ -1,0 +1,342 @@
+{
+    "quickAnswer": "Heartleaf Philodendron needs bright indirect light, though it tolerates lower light well, and watering when the top inch or two of soil dries out. It's a fast-growing, trailing vine that's highly forgiving of inconsistent care, making it a popular beginner plant. Yellowing leaves usually indicate overwatering rather than a nutrient problem.",
+    "summary": "Heartleaf Philodendron is one of the most forgiving and widely recommended trailing houseplants, tolerating a broad range of light conditions and occasional care lapses better than most tropical species. Its fast growth rate makes it satisfying for beginners to watch develop.\n\nBecause it's so tolerant, most visible problems, particularly yellowing leaves, point to overwatering rather than a nutrient or light issue. Allowing the soil to partially dry between waterings resolves the majority of common complaints with this vine.",
+    "keyTakeaways": [
+        "Water only when the top 1-2 inches of soil feel dry.",
+        "Provide bright indirect light for fuller growth, though low light is tolerated.",
+        "Treat yellowing leaves as a likely sign of overwatering.",
+        "Prune trailing stems to encourage bushier, fuller growth.",
+        "Propagate easily from stem cuttings placed in water or soil."
+    ],
+    "readingTime": 2,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "heartleaf-philodendron",
+    "seoTitle": "Heartleaf Philodendron Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Heartleaf Philodendron. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Heartleaf Philodendron",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Philodendron",
+        "species": "hederaceum",
+        "nativeRange": "Central America and the Caribbean",
+        "growthHabit": "Evergreen climbing vine"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00700",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00701",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00702",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2006",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00703",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 13,
+                "unit": "\u00c3\u201a\u00c2\u00b0C",
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00704",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "heartleaf-philodendron",
+    "heroImage": "/assets/images/heartleaf-philodendron.webp",
+    "heroImageAlt": "Heartleaf Philodendron",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are the leaves on my Heartleaf Philodendron turning yellow?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Reduce watering; allow soil to dry; check roots.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my Heartleaf Philodendron getting leggy?",
+            "diagnosis": "Insufficient light",
+            "treatment": "Move to brighter indirect light; prune leggy vines.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves curling?",
+            "diagnosis": "Underwatering or dry air",
+            "treatment": "Water thoroughly; increase humidity.",
+            "prevention": "Keep soil consistently moist; moderate humidity.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "plantHero": {
+        "plantType": "Tropical evergreen vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Water when the top 1-2 inches of soil feel dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "Medium to high",
+        "temperature": "18\u201327\u00b0C (65\u201381\u00b0F)",
+        "matureSize": "Up to 10 ft (3 m) or more as a trailing/climbing indoor plant",
+        "growthRate": "Moderate",
+        "soil": "Well-draining peat-based potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": "Toxic if ingested",
+        "nativeRegion": "Central America and the Caribbean",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron"
+        ]
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Heartleaf Philodendron (Philodendron hederaceum) is a tropical evergreen vine valued for its heart-shaped leaves, flexible trailing stems, and ability to adapt to a range of indoor conditions. It grows well in bright indirect light but can tolerate somewhat lower light than many tropical houseplants, although growth may become slower and less vigorous. Its main care challenges are avoiding persistently wet soil, maintaining suitable warmth, and managing long trailing or climbing growth."
+        },
+        {
+            "id": "watering",
+            "content": "Water Heartleaf Philodendron when the upper portion of the growing medium has dried, then water thoroughly until excess drains from the container. Avoid keeping the soil continuously saturated, as prolonged wetness can contribute to root problems. The plant generally needs more frequent watering during periods of active growth and bright light and less when conditions are cooler or darker. Check the growing medium rather than following a rigid calendar."
+        },
+        {
+            "id": "light",
+            "content": "Provide Heartleaf Philodendron with bright indirect or filtered light for strong growth and attractive foliage. It can tolerate lower-light conditions, but growth usually becomes slower and the spaces between leaves may become longer. Avoid prolonged intense direct afternoon sunlight, which can scorch the foliage. A position near a bright window with the plant protected from harsh direct sun is generally suitable."
+        },
+        {
+            "id": "soil",
+            "content": "Use a loose, well-draining houseplant growing medium that retains some moisture while allowing excess water and air to move through the root zone. A quality indoor potting mix amended with materials that improve drainage and aeration can work well. Avoid dense soil that remains saturated for extended periods, and use a container with drainage holes."
+        },
+        {
+            "id": "temperature",
+            "content": "Heartleaf Philodendron prefers warm indoor conditions and generally grows best around 18\u201327\u00b0C (65\u201381\u00b0F). Protect it from cold drafts, sudden temperature changes, and prolonged exposure to temperatures near freezing. Keep the plant away from frequently opened exterior doors, cold windows, and strong heating or cooling vents that can create rapid environmental changes."
+        },
+        {
+            "id": "humidity",
+            "content": "Heartleaf Philodendron appreciates moderate to high humidity but adapts effortlessly to ordinary household levels. While it tolerates typical room air, providing higher ambient moisture through plant grouping or a nearby humidifier encourages faster vine growth and larger, lush leaves."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed Heartleaf Philodendron during active growth with a balanced houseplant fertilizer according to the product instructions. Regular but moderate feeding can support continued vine and leaf production when the plant receives adequate light. Avoid excessive fertilizer, which can contribute to salt buildup and root stress. Reduce or pause feeding when growth slows substantially during darker or cooler periods."
+        },
+        {
+            "id": "repotting",
+            "content": "Repot Heartleaf Philodendron when roots have substantially filled the container, the plant dries out unusually quickly because of root crowding, or the growing medium has deteriorated. Move the plant into a container only moderately larger than the existing one and refresh the growing medium. Repotting does not need to follow a rigid schedule; plant growth, root development, and container conditions are better indicators of timing."
+        },
+        {
+            "id": "growth",
+            "content": "Heartleaf Philodendron produces flexible stems that naturally trail from containers or climb when given suitable support. In bright conditions, it can produce new leaves and extend its vines relatively quickly. As stems lengthen, leaves may become more widely spaced, particularly when light is insufficient. Providing a trellis, moss pole, or other support encourages climbing growth, while allowing the stems to hang produces a trailing form."
+        },
+        {
+            "id": "pruning",
+            "content": "Pruning is useful for controlling vine length, maintaining a fuller appearance, and removing damaged or unwanted growth. Use clean, sharp scissors or pruners to cut just above a suitable node, where new growth can develop. Regularly trimming long stems can encourage branching and create a denser plant. Healthy cuttings can also be used for propagation rather than discarded."
+        },
+        {
+            "id": "propagation",
+            "content": "Heartleaf Philodendron is readily propagated from stem cuttings containing at least one viable node. Cut below a node and root the cutting in water or a suitable moist propagation medium under warm conditions and bright indirect light. Once a strong root system has developed, water-rooted cuttings can be transferred to a suitable potting medium. Keep newly propagated cuttings consistently but not excessively moist while they establish."
+        },
+        {
+            "id": "commonProblems",
+            "content": "Yellowing leaves can be associated with excessive moisture, while persistent wilting may indicate either insufficient water or root problems depending on the condition of the growing medium. Long stems with widely spaced leaves commonly indicate insufficient light. Brown or crispy edges can occur when the plant experiences very dry conditions, inconsistent watering, or other environmental stress. Check the root-zone moisture, light exposure, temperature, and recent changes in care before assuming a single cause."
+        },
+        {
+            "id": "seasonalCare",
+            "content": "Heartleaf Philodendron generally grows more actively during warm, brighter periods and may use water more quickly during this time. When temperatures and light levels decline, growth commonly slows and the growing medium may remain moist for longer. Adjust watering accordingly and reduce or pause fertilizer during periods of minimal growth. Protect the plant from cold drafts and sudden winter temperature changes."
+        },
+        {
+            "id": "outdoorCare",
+            "content": "Heartleaf Philodendron can be grown outdoors in warm, frost-free climates where it receives filtered light or suitable shade and has consistently well-draining soil. Plants moved outdoors from indoor conditions should be acclimated gradually to the new light environment. Protect the foliage from intense direct sun and from prolonged exposure to cold or freezing temperatures. In colder climates, container-grown plants should be brought indoors before temperatures become unsuitable."
+        },
+        {
+            "id": "toxicity",
+            "content": "Heartleaf Philodendron contains insoluble calcium oxalate crystals and is toxic if chewed or ingested. Contact with the plant can cause irritation, while ingestion may result in oral discomfort and other symptoms. Keep the plant away from pets and children who may chew the leaves or stems, and wash hands after handling if irritation occurs."
+        }
+    ],
+    "faq": [
+        {
+            "question": "How often should I water a Heartleaf Philodendron?",
+            "answer": "Water when the upper portion of the growing medium has dried, then water thoroughly and allow excess water to drain. Avoid keeping the soil continuously wet. The plant may need more frequent watering in bright light and warm conditions and less during cooler or darker periods."
+        },
+        {
+            "question": "Can Heartleaf Philodendron grow in low light?",
+            "answer": "Yes. Heartleaf Philodendron can tolerate lower light than many tropical houseplants, but growth is generally stronger in bright indirect light. In insufficient light, stems may become elongated and leaves may be spaced farther apart."
+        },
+        {
+            "question": "How do I make my Heartleaf Philodendron bushier?",
+            "answer": "Regularly trim long stems just above suitable nodes to encourage branching and produce a fuller appearance. Providing adequate bright indirect light is also important because insufficient light can cause sparse, stretched growth."
+        },
+        {
+            "question": "Can Heartleaf Philodendron grow in water?",
+            "answer": "Stem cuttings can root successfully in water, making water propagation a convenient way to produce new plants. For long-term growth, however, established plants are generally better maintained in an appropriate, well-draining growing medium with access to nutrients."
+        },
+        {
+            "question": "Why is my Heartleaf Philodendron turning yellow?",
+            "answer": "Yellow leaves can have several causes, but consistently wet soil and excessive watering are common possibilities. Natural aging of older leaves can also cause occasional yellowing. Check the growing medium, drainage, light, and recent watering pattern before changing the plant's care."
+        },
+        {
+            "question": "Why are my Heartleaf Philodendron leaves small and far apart?",
+            "answer": "Small leaves and long spaces between leaves can occur when the plant does not receive enough light. Moving it gradually toward brighter indirect light can encourage stronger growth. Climbing support can also promote a more structured growth habit."
+        },
+        {
+            "question": "Does Heartleaf Philodendron need a moss pole?",
+            "answer": "No. A moss pole or other support is optional, but it can be useful if you want the plant to climb rather than trail. Providing support can also encourage a more upright growth habit and allow the plant to develop larger foliage under suitable conditions."
+        },
+        {
+            "question": "How do I propagate Heartleaf Philodendron?",
+            "answer": "Take a healthy stem cutting that includes at least one node and root it in water or a suitable moist propagation medium. Keep the cutting warm and in bright indirect light while roots develop. Once established, it can be transferred to an appropriate potting mix."
+        },
+        {
+            "question": "How often should I repot Heartleaf Philodendron?",
+            "answer": "Repot when the roots have substantially filled the container, the plant dries out unusually quickly, or the growing medium has deteriorated. There is no need to follow a rigid calendar; the plant's root development and growing conditions are better indicators of when repotting is needed."
+        },
+        {
+            "question": "Is Heartleaf Philodendron toxic to cats and dogs?",
+            "answer": "Yes. Heartleaf Philodendron contains insoluble calcium oxalate crystals and can cause irritation if chewed or swallowed. Keep it away from pets and children, particularly those likely to chew plant foliage."
+        },
+        {
+            "question": "Can Heartleaf Philodendron be grown outdoors?",
+            "answer": "Yes, in warm, frost-free climates. Outdoors it generally prefers filtered light or partial shade and protection from intense direct sun if it has been grown indoors. In colder climates, grow it in a container and bring it indoors before temperatures become too low."
+        },
+        {
+            "question": "How long can Heartleaf Philodendron vines get?",
+            "answer": "The vines can become several feet long and continue extending when growing conditions are favorable. The final size depends on light, temperature, nutrition, pruning, and whether the plant is allowed to trail or is trained to climb."
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Philodendron hederaceum",
+        "family": "Araceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/heartleaf-philodendron/",
+    "breadcrumbName": "Heartleaf Philodendron",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron"
+        ]
+    },
+    "h1": "Heartleaf Philodendron Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/heartleaf-philodendron/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

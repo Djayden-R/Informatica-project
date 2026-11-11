@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+    <!--Hoofd content van de website-->
+
+    <div class="main">
+        <div class="information_card">
+            <img class="plant_image" 
+                src="https://www.plantsolve.com{{plant.image_path}}">
+            <p class="plant_title">{{plant.name}}</p>
+        </div>
+    </div>
+
+{% endblock %}

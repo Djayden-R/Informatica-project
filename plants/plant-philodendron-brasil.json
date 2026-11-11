@@ -1,0 +1,335 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-philodendron-brasil",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "philodendron-brasil",
+    "seoTitle": "Philodendron Brasil Care: Keep Neon Stripes Bright",
+    "metaDescription": "Philodendron Brasil's neon yellow stripes fade to green in low light. Find out how to prevent this, water correctly, and avoid root rot on this trailing.",
+    "featuredImage": "/assets/images/philodendron-brasil.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "toxic-to-pets",
+        "fast-growing",
+        "easy-care"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Philodendron hederaceum",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Philodendron Care Guide",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Philodendron hederaceum 'Brasil'",
+        "family": "Araceae",
+        "origin": "Cultivar (Species native to Central and South America)",
+        "type": "Evergreen trailing vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Hanging baskets",
+            "Bookshelves",
+            "Office desks"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright, indirect light. Highly adaptable, but requires light to maintain variegation.",
+        "watering": "Water thoroughly when the top 2-3 inches of soil are dry.",
+        "soil": "A standard, well-draining indoor potting mix.",
+        "pruning": "Trim long, leggy vines to force the plant to grow bushier at the top.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs due to insoluble calcium oxalates. Causes severe oral pain and vomiting.",
+        "bestFor": "Beginners who want an indestructible trailing plant but prefer the look of bright, colorful variegation."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trailing vines up to 10+ feet",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "55\u00b0F - 95\u00b0F (13\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to maintain the neon yellow stripe down the center of the leaves. In low light, the plant will revert to solid green.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East or South-facing window.",
+        "shadeTolerance": "high (but loses color)"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Very forgiving, but regular feeding speeds up the already rapid vine growth.",
+        "fertilizerFrequency": "Once a month during spring and summer with a balanced liquid houseplant fertilizer.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 6,
+            "notes": "Susceptible to root rot if left sitting in dense, water-logged potting soil without drainage."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Philodendron Brasil turning solid green?",
+            "answer": "This is called reverting, and it is almost always caused by a lack of light. The neon yellow sections of the leaf contain less chlorophyll. If the plant is in a dark room, it will stop producing the yellow stripe and push out solid green leaves to maximize photosynthesis. Move it to a brighter location."
+        },
+        {
+            "question": "What is the difference between a Philodendron Brasil and a Golden Pothos?",
+            "answer": "While they look similar, the Brasil has heart-shaped leaves with a very distinct, solid neon yellow/lime-green stripe painted down the center. The Golden Pothos has slightly thicker leaves with random yellow speckles and splashes scattered everywhere."
+        },
+        {
+            "question": "Why are the leaves on my Philodendron Brasil turning yellow and falling off?",
+            "answer": "If an entire leaf is turning a sickly yellow and falling off (not the neon yellow center stripe), the plant is overwatered. Ensure the top few inches of soil are drying out completely between waterings."
+        },
+        {
+            "question": "Why is the plant getting leggy with small leaves?",
+            "answer": "Leggy growth (long stems with huge gaps between tiny leaves) is caused by a lack of light. The plant is stretching to find the sun. Prune the leggy vines off, and move the plant closer to a window."
+        },
+        {
+            "question": "Is the Philodendron Brasil toxic to cats?",
+            "answer": "Yes. Like all Philodendrons, it contains calcium oxalate crystals. Chewing the plant causes severe mouth pain, swelling, and vomiting in pets. Keep hanging baskets out of reach."
+        }
+    ],
+    "shortDesc": "The Philodendron Brasil is an indestructible, fast-growing trailing vine. It is famous for its heart-shaped leaves that look like they've been painted down the center with a brush of neon yellow.",
+    "content": "<h2>Overview</h2><p>The Philodendron 'Brasil' (<em>Philodendron hederaceum 'Brasil'</em>) is a spectacular, highly variegated cultivar of the classic Heartleaf Philodendron. Discovered in a greenhouse in Brazil (hence the name), it features the same indestructible, beginner-friendly nature as the standard green Heartleaf, but with a massive upgrade in appearance.</p><p>Every dark green, heart-shaped leaf looks as if someone took a paintbrush and dragged a thick stroke of bright neon lime-green and yellow directly down the center. It is an incredibly fast-growing trailing vine that looks stunning cascading from a hanging basket or climbing a tall moss pole. Because it is so forgiving of missed waterings and dry indoor air, it is the perfect \"first plant\" for new collectors who want something more colorful than a basic green vine.</p><h3>Light Requirements: Keeping the Stripes</h3><p>While the standard green Heartleaf Philodendron is famous for surviving in dark, windowless offices, the Brasil requires different treatment. Light is the absolute key to maintaining the brilliant neon yellow stripes.</p><p>If you place the Brasil in a low-light corner, it will realize it is starving. In a survival response, it will completely stop producing the yellow variegation and push out solid green leaves to maximize photosynthesis. To keep the plant highly variegated, you must place it in bright, indirect light. An east-facing window is perfect. However, avoid harsh, direct afternoon sun, which will bleach the colors and scorch the delicate leaves.</p><h3>Watering Strategy</h3><p>The Philodendron Brasil is incredibly forgiving of drought but completely intolerant of swamps. Allow the top 2 to 3 inches of the soil to dry out completely before watering. If you forget to water it, the thin leaves will begin to visibly droop and curl inward, acting as a perfect thirst indicator. </p><p>When the soil is dry, soak the pot thoroughly until water flows out the drainage holes. It will recover from a drought quickly, but like all aroids, it will rapidly develop root rot if forced to sit in a saucer of standing, stagnant water.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Protect it from freezing winter drafts or hot blasts from radiators. While it is native to the tropical rainforest and appreciates high humidity, the Brasil is highly adaptable and will grow vigorously in the standard 40% to 50% humidity found in most centrally heated or air-conditioned homes.</p><h3>Soil and Potting</h3><p>A well-draining, airy potting mix is essential to prevent root rot. Standard indoor potting soil works perfectly fine, but it is highly recommended to amend it with 30% perlite and a handful of orchid bark. This provides the roots with pockets of oxygen and ensures excess water drains away rapidly.</p><h2>Pruning and Reversion</h2><p>If a vine begins to revert and produces two or three completely solid green leaves in a row, it will likely never produce the neon yellow stripes on that vine again. The green section is simply too genetically dominant. To save the variegation, you must use sterile scissors to cut the vine all the way back to the last leaf that had good yellow coloring. This forces the plant to branch out from a variegated node.</p><p>Furthermore, regular pruning of long vines is highly recommended. Trimming the tips forces the plant to push out new growth from the base, keeping the top of the pot full and bushy rather than looking like a few long, stringy vines.</p><h2>Toxicity</h2><p>Like all members of the Araceae family, the Philodendron Brasil contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or humans, the crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines out of reach of curious pets.</p>",
+    "quickAnswer": "The Philodendron Brasil requires bright, indirect light to maintain its neon yellow stripes; in low light, it will revert to solid green. Water thoroughly when the top 2-3 inches of soil are completely dry. We recommend observing the plant closely over a few weeks to ensure it adjusts well to its environment.",
+    "ogImage": "/assets/images/philodendron-brasil.webp",
+    "ogImageAlt": "Heart-shaped green leaves with a bright neon yellow stripe down the center",
+    "heroImage": "/assets/images/philodendron-brasil.webp",
+    "heroImageAlt": "Close up of the painted yellow variegation on Philodendron Brasil",
+    "featuredImageAlt": "Philodendron Brasil trailing beautifully from a hanging basket",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Philodendron Brasil turning solid green?",
+            "diagnosis": "Reverting due to low light",
+            "treatment": "Move to brighter indirect light; prune solid green vines to encourage variegation.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves on my Philodendron Brasil turning yellow and falling off?",
+            "diagnosis": "Overwatering \u2013 root rot",
+            "treatment": "Let soil dry; reduce watering; ensure drainage.",
+            "prevention": "Water when top inch is dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is the plant getting leggy with small leaves?",
+            "diagnosis": "Insufficient light \u2013 etiolation",
+            "treatment": "Move to brighter spot; prune leggy vines to promote bushiness.",
+            "prevention": "Provide bright indirect light.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Reversion",
+            "definition": "The process by which a variegated plant stops producing patterned/colored leaves and returns to a solid green state, usually as a survival response to low light."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Philodendron Brasil vs. Golden Pothos Comparison",
+        "headers": [
+            "Feature",
+            "Philodendron Brasil",
+            "Golden Pothos"
+        ],
+        "rows": [
+            [
+                "Leaf Shape",
+                "Heart-shaped, distinct point",
+                "Asymmetrical, teardrop"
+            ],
+            [
+                "Variegation Style",
+                "Solid neon yellow center stripe",
+                "Random yellow splashes/speckles"
+            ],
+            [
+                "Stem Texture",
+                "Smooth, round",
+                "Ridged"
+            ]
+        ]
+    },
+    "h1": "Philodendron Brasil Care: Preventing Reversion to Green",
+    "breadcrumbName": "Philodendron Brasil Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "heartleaf-philodendron",
+        "golden-pothos-care"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Placing it in low light because philodendrons have a reputation for shade tolerance\u2014but the lime-green variegation of Brasil requires bright indirect light to be maintained. In dim conditions, new leaves emerge solid green as the plant prioritizes chlorophyll over the yellow-green pigment."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Unlike many variegated plants, Brasil's variegation is relatively stable and won't fully revert\u2014but occasional all-green leaves in low light are the plant's response to light scarcity, not a permanent change. Moving it to brighter light brings the variegation back in new growth."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light corners it grows slowly and loses its vibrant two-tone contrast, becoming a plain-looking vine. It's more forgiving than other variegated philodendrons but still needs decent indirect light to look like the plant it's supposed to be."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "philodendron hederaceum brasil",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "variegated heartleaf philodendron",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "philodendron brasil reverting",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "yellow and green trailing plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "philodendron brasil vs golden pothos",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Philodendron Brasil",
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright, indirect light to maintain strong yellow-green variegation to ensure the plant continues to thrive long-term.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Avoid low light, which can cause new leaves to lose variegation.",
+        "Prune trailing vines regularly to encourage bushier, fuller growth throughout the active growing season for best results."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen trailing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water thoroughly when the top 2-3 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Trailing vines up to 10+ feet",
+        "growthRate": "Fast",
+        "soil": "Standard well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during the growing season",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Brazil",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-brasil/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/heartleaf-philodendron"
+        ]
+    },
+    "contentText": "Overview The Philodendron 'Brasil' ( Philodendron hederaceum 'Brasil' ) is a spectacular, highly variegated cultivar of the classic Heartleaf Philodendron. Discovered in a greenhouse in Brazil (hence the name), it features the same indestructible, beginner-friendly nature as the standard green Heartleaf, but with a massive upgrade in appearance. Every dark green, heart-shaped leaf looks as if someone took a paintbrush and dragged a thick stroke of bright neon lime-green and yellow directly down the center. It is an incredibly fast-growing trailing vine that looks stunning cascading from a hanging basket or climbing a tall moss pole. Because it is so forgiving of missed waterings and dry indoor air, it is the perfect \"first plant\" for new collectors who want something more colorful than a basic green vine. Light Requirements: Keeping the Stripes While the standard green Heartleaf Philodendron is famous for surviving in dark, windowless offices, the Brasil requires different treatment. Light is the absolute key to maintaining the brilliant neon yellow stripes. If you place the Brasil in a low-light corner, it will realize it is starving. In a survival response, it will completely stop producing the yellow variegation and push out solid green leaves to maximize photosynthesis. To keep the plant highly variegated, you must place it in bright, indirect light. An east-facing window is perfect. However, avoid harsh, direct afternoon sun, which will bleach the colors and scorch the delicate leaves. Watering Strategy The Philodendron Brasil is incredibly forgiving of drought but completely intolerant of swamps. Allow the top 2 to 3 inches of the soil to dry out completely before watering. If you forget to water it, the thin leaves will begin to visibly droop and curl inward, acting as a perfect thirst indicator. When the soil is dry, soak the pot thoroughly until water flows out the drainage holes. It will recover from a drought quickly, but like all aroids, it will rapidly develop root rot if forced to sit in a saucer of standing, stagnant water. Temperature and Humidity Typical household temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C) are perfect. Protect it from freezing winter drafts or hot blasts from radiators. While it is native to the tropical rainforest and appreciates high humidity, the Brasil is highly adaptable and will grow vigorously in the standard 40% to 50% humidity found in most centrally heated or air-conditioned homes. Soil and Potting A well-draining, airy potting mix is essential to prevent root rot. Standard indoor potting soil works perfectly fine, but it is highly recommended to amend it with 30% perlite and a handful of orchid bark. This provides the roots with pockets of oxygen and ensures excess water drains away rapidly. Pruning and Reversion If a vine begins to revert and produces two or three completely solid green leaves in a row, it will likely never produce the neon yellow stripes on that vine again. The green section is simply too genetically dominant. To save the variegation, you must use sterile scissors to cut the vine all the way back to the last leaf that had good yellow coloring. This forces the plant to branch out from a variegated node. Furthermore, regular pruning of long vines is highly recommended. Trimming the tips forces the plant to push out new growth from the base, keeping the top of the pot full and bushy rather than looking like a few long, stringy vines. Toxicity Like all members of the Araceae family, the Philodendron Brasil contains insoluble calcium oxalate crystals. If chewed by cats, dogs, or humans, the crystals embed in the soft tissues of the mouth and throat, causing severe burning, swelling, drooling, and vomiting. Keep the trailing vines out of reach of curious pets.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/philodendron-brasil/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

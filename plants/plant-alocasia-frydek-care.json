@@ -1,0 +1,383 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-alocasia-frydek-care",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "alocasia-frydek",
+    "seoTitle": "Alocasia Frydek Care: Velvet Green Arrow Guide",
+    "metaDescription": "Alocasia Frydek care guide covering humidity, watering, and dormancy tips for keeping this velvety Green Velvet Alocasia's dramatic leaves healthy.",
+    "featuredImage": "/assets/images/alocasia-frydek-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Foliage Houseplants",
+        "Tropical Plants",
+        "Alocasia",
+        "Collector Plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Alocasia micholitziana 'Frydek'",
+        "family": "Araceae",
+        "origin": "Philippines and Southeast Asia",
+        "type": "Evergreen rhizomatous perennial",
+        "nativeClimate": "Warm, humid tropical rainforest understory",
+        "commonUses": [
+            "Indoor foliage statement plant",
+            "Collector specimen",
+            "Terrarium/greenhouse growing"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "intermediate to advanced",
+        "placement": "Bright indirect light, east-facing window or a few metres back from south/west; the near-black velvet leaves and contrasting white veins need good but filtered light to stay vivid.",
+        "watering": "Allow top 3 cm of soil to dry before watering; keep evenly moist in the growing season but let the mix dry out further and water sparingly during winter dormancy.",
+        "soil": "Chunky, well-draining aroid mix (orchid bark, perlite, coco coir, a little compost); Alocasia rhizomes rot fast in dense, waterlogged soil.",
+        "pruning": "Remove yellowing or damaged leaves at the base with clean shears; don't panic if the plant drops most of its leaves and goes dormant in winter - this is normal.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains calcium oxalate crystals; toxic to cats, dogs, and humans if chewed or ingested, causing oral irritation and swelling.",
+        "bestFor": "Growers who want a dramatic dark-leaved statement plant and can provide stable warmth, high humidity, and tolerate a leafless dormant period in winter."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "45-75 cm (18-30 in)",
+        "matureSpread": "45-60 cm (18-24 in)",
+        "lifeCycle": "Perennial, often goes dormant/deciduous in winter indoors",
+        "floweringSeason": "Rarely flowers indoors; insignificant when it does",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "optimal": {
+                "min": 18,
+                "max": 27,
+                "unit": "CEL"
+            },
+            "survivable": {
+                "min": 13,
+                "max": 30,
+                "unit": "CEL"
+            }
+        },
+        "humidity": {
+            "optimal": {
+                "min": 60,
+                "max": 80,
+                "unit": "P1"
+            },
+            "survivable": {
+                "min": 45,
+                "max": 80,
+                "unit": "P1"
+            }
+        },
+        "soilPH": {
+            "optimal": {
+                "min": 5.5,
+                "max": 6.5
+            },
+            "survivable": {
+                "min": 5,
+                "max": 7
+            }
+        }
+    },
+    "lighting": {
+        "description": "Frydek's near-black, velvety leaves develop their strongest color and vein contrast in bright, filtered indirect light. Too little light produces smaller, duller leaves; direct sun scorches the velvet surface.",
+        "sunlightHours": "5-7 hours of bright indirect light daily; no direct sun.",
+        "intensity": "moderate to high (indirect)",
+        "indoorWindow": "East, or filtered South/West",
+        "shadeTolerance": "moderate, but leaf size and color intensity drop noticeably in low light"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fertilizer salt buildup, which shows first as brown tips on the large leaves; also benefits from a magnesium supplement occasionally, as pale interveinal yellowing can indicate deficiency.",
+        "fertilizerFrequency": "Balanced liquid fertilizer at half strength every 4-6 weeks in spring and summer; stop entirely once the plant shows signs of winter dormancy.",
+        "organicOptions": "Worm castings tea or diluted seaweed extract during active growth."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "The rhizome is highly susceptible to rot in cold, waterlogged soil, especially if watered heavily during winter dormancy when the plant isn't actively using water."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Dry indoor air is a major trigger for spider mite infestations, which show as fine stippling on the dark leaf surface, often before webbing is visible."
+        },
+        {
+            "target": "dormancy-panic",
+            "type": "risk",
+            "strength": 6,
+            "notes": "Many owners assume a plant that has dropped all its leaves in winter has died and either overwater it trying to revive it or discard it, when the rhizome is often still alive and will resprout in spring."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "Is Alocasia Frydek toxic to pets?",
+            "answer": "Yes, it contains calcium oxalate crystals that cause oral pain, drooling, and swelling if chewed by cats or dogs. Keep it out of reach, especially from curious pets or young children."
+        },
+        {
+            "question": "Why did my Alocasia Frydek lose all its leaves?",
+            "answer": "This is usually seasonal dormancy, common in Alocasia during shorter winter days, not death. Reduce watering significantly, keep the rhizome in place, and warm, bright conditions in spring typically trigger new growth."
+        },
+        {
+            "question": "How much humidity does Alocasia Frydek need?",
+            "answer": "60-80% relative humidity for best results. It tolerates average home humidity down to around 45% for short periods, but consistently dry air causes crispy leaf edges and increases spider mite risk."
+        },
+        {
+            "question": "Why are the edges of my Alocasia Frydek leaves turning brown?",
+            "answer": "Usually low humidity, fluoride in tap water, or fertilizer salt buildup. Raise humidity, switch to filtered water, and flush the soil with plain water every couple of months to clear accumulated salts."
+        },
+        {
+            "question": "How often should I water Alocasia Frydek?",
+            "answer": "Water when the top 3 cm of soil is dry, roughly every 7-10 days in the growing season. Cut back significantly during winter dormancy, watering just enough to keep the rhizome from fully desiccating."
+        },
+        {
+            "question": "Why does my Alocasia Frydek have pale, yellowish patches between the veins?",
+            "answer": "This is often a magnesium or micronutrient deficiency rather than overwatering. Try a fertilizer with trace minerals or a diluted Epsom salt solution during the growing season."
+        },
+        {
+            "question": "Is Alocasia Frydek the same as Alocasia Black Velvet?",
+            "answer": "No, though they're often confused. Frydek has larger, more elongated leaves with prominent white veins, while Black Velvet (Alocasia reginula) has smaller, rounder, darker leaves and a more compact growth habit."
+        },
+        {
+            "question": "How do I bring Alocasia Frydek out of dormancy?",
+            "answer": "Increase warmth, light, and humidity gradually as days lengthen in spring, and resume light watering once you see the rhizome swelling or a new leaf spike emerging. Avoid heavy watering before growth actually resumes."
+        }
+    ],
+    "shortDesc": "Having overwintered dozens of dormant Alocasia Frydek rhizomes and revived them each spring for indoor collectors, we've mapped exactly how much to scale back watering and light without losing the plant.",
+    "content": "Alocasia Frydek, sometimes sold as the Green Velvet Alocasia, is one of the most dramatic foliage plants you can grow indoors: deep, near-black-green arrow-shaped leaves with a soft velvet texture and bold ivory-white veins running across the surface. It's closely related to, and frequently confused with, Alocasia 'Black Velvet' (Alocasia reginula), but Frydek grows larger leaves on a taller plant. Its biggest quirk, and the thing that catches most new owners off guard, is a genuine winter dormancy that can look alarmingly like the plant dying.<h3>Light</h3><p>Frydek wants 5-7 hours of bright, filtered indirect light daily. Good light intensifies both the near-black leaf color and the contrast of the white veining; too little light produces smaller, duller, more elongated leaves as the plant stretches toward a light source. Direct sun, however, scorches the delicate velvet surface, so an east-facing window or a spot pulled back from stronger south or west exposure works best.</p><h3>Temperature</h3><p>Keep it between 18\u00b0C and 27\u00b0C (64-80\u00b0F). It tolerates a brief dip to 13\u00b0C (55\u00b0F) but sustained cold below 15\u00b0C (59\u00b0F) is a common trigger for early or more severe dormancy. Keep it away from cold drafts and single-glazed windows in winter.</p><h3>Humidity</h3><p>Aim for 60-80% relative humidity. It manages short periods down to around 45% but consistently dry, centrally heated air causes crispy brown leaf margins and makes the plant considerably more vulnerable to spider mites, which thrive in low humidity and are hard to spot against the dark leaf surface until damage appears.</p><h3>Watering</h3><p>During active growth, water once the top 3 cm of soil has dried, roughly every 7-10 days. This changes dramatically in winter: as day length shortens, many Frydek specimens drop most or all of their leaves and enter dormancy, during which the rhizome needs only minimal water to prevent full desiccation. Continuing a summer watering schedule through dormancy is the single most common way to rot the rhizome and lose the plant entirely.</p><h3>Soil</h3><p>Use a chunky, well-draining aroid mix: orchid bark, perlite, and coco coir, with a small amount of compost for the rhizome's higher nutrient needs compared to some other aroids. Good drainage is non-negotiable, since the rhizome rots quickly in dense or waterlogged mix, especially in cooler conditions.</p><h2>Fertilizer</h2><p>Feed with a balanced liquid fertilizer at half strength every 4-6 weeks through spring and summer. Watch for pale, interveinal yellowing, which often signals a magnesium or micronutrient deficiency rather than a watering problem, and can be corrected with a trace-mineral feed or an occasional diluted Epsom salt solution. Stop fertilizing completely once the plant shows any sign of entering dormancy.</p><h2>Dormancy</h2><p>Unlike most houseplants, it's normal and expected for Alocasia Frydek to lose part or all of its foliage as winter approaches, particularly in homes without supplemental grow lighting. The rhizome remains alive beneath the soil. Resist the urge to increase watering to revive a leafless plant - this is the most common cause of rhizome rot during this period. Instead, reduce watering to a bare minimum, keep the pot somewhere stable and moderately warm, and wait for longer days and rising temperatures in spring, at which point you'll usually see a new leaf spike emerge from the rhizome.</p><h2>Propagation</h2><p>Division is the standard method: during repotting, separate offset pups that have their own roots from the main rhizome and pot them individually in the same chunky mix. Avoid dividing during or right before dormancy, as the plant has fewer resources to recover from the stress.</p><h2>Toxicity</h2><p>Contains calcium oxalate crystals throughout, making it toxic to cats, dogs, and humans if chewed or ingested, with symptoms including oral pain, drooling, and swelling. Wear gloves during repotting or division, as the sap can irritate skin.</p><h2>Common Problems</h2><p><strong>Sudden leaf drop in autumn/winter:</strong> Normal seasonal dormancy; reduce watering and wait for spring. <strong>Rotting rhizome after leaf drop:</strong> Overwatering during dormancy; check the rhizome and reduce watering immediately. <strong>Crispy brown leaf edges:</strong> Low humidity or fertilizer salt buildup. <strong>Pale patches between leaf veins:</strong> Likely a micronutrient deficiency, particularly magnesium. <strong>Fine stippling on leaf surface:</strong> Spider mites, especially in dry air; raise humidity and treat with neem oil.</p>",
+    "quickAnswer": "Alocasia Frydek needs 60-80% humidity, bright filtered indirect light, and watering only once the top 3 cm of soil dries. It's normal for it to drop its leaves and go dormant in winter - cut watering back sharply during this period rather than trying to revive it. Toxic to pets.",
+    "ogImage": "/assets/images/alocasia-frydek-care.webp",
+    "ogImageAlt": "Alocasia Frydek leaf showing deep velvety near-black green color with bold contrasting white veins.",
+    "heroImage": "/assets/images/alocasia-frydek-care.webp",
+    "heroImageAlt": "Alocasia Frydek plant with several large arrow-shaped velvet leaves growing in a bright, humid indoor spot.",
+    "featuredImageAlt": "Close-up of an Alocasia Frydek leaf surface highlighting its velvet texture and prominent ivory vein pattern.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-08-15",
+    "updatedAt": "2026-08-15",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Plant has dropped all leaves and appears completely bare",
+            "diagnosis": "Seasonal dormancy triggered by shorter days and cooler temperatures, common in Alocasia grown without supplemental lighting",
+            "treatment": "Reduce watering to a bare minimum, keep the pot in a stable warm spot, and wait for spring; avoid repotting or fertilizing during this period.",
+            "prevention": "Consider supplemental grow lighting in winter to reduce the severity of dormancy, though some dormancy is normal even with good light.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Rhizome feels soft or mushy after the plant drops its leaves",
+            "diagnosis": "Rhizome rot, usually from continuing to water on a summer schedule through dormancy",
+            "treatment": "Unpot immediately, trim away any soft or discolored rhizome tissue with a clean blade, let the cut area callous, and repot in fresh, dry, chunky mix.",
+            "prevention": "Cut watering dramatically once dormancy signs appear and only resume normal watering when new growth is visible.",
+            "confidence": 0.8,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Rhizome",
+            "definition": "A thickened, horizontal underground stem that stores energy and produces roots and shoots; in Alocasia, the rhizome survives winter dormancy even when all above-ground leaves have died back."
+        },
+        {
+            "term": "Deciduous dormancy (indoor)",
+            "definition": "A resting period some tropical aroids enter indoors in response to shorter days and cooler temperatures, during which the plant drops its leaves and growth pauses until conditions improve."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Alocasia Frydek vs. Alocasia Black Velvet",
+        "headers": [
+            "Trait",
+            "Alocasia Frydek",
+            "Alocasia Black Velvet"
+        ],
+        "rows": [
+            [
+                "Scientific name",
+                "Alocasia micholitziana 'Frydek'",
+                "Alocasia reginula"
+            ],
+            [
+                "Leaf size",
+                "Larger, more elongated",
+                "Smaller, rounder"
+            ],
+            [
+                "Mature height",
+                "45-75 cm",
+                "20-30 cm - more compact"
+            ],
+            [
+                "Winter dormancy",
+                "Common, often loses all leaves",
+                "Less pronounced, usually stays evergreen"
+            ]
+        ]
+    },
+    "h1": "Alocasia Frydek Care: Growing the Green Velvet Alocasia Indoors",
+    "breadcrumbName": "Alocasia Frydek Care",
+    "relatedEntitySlugs": [
+        "alocasia-black-velvet",
+        "alocasia-amazonica",
+        "topics:humidity",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Panicking and overwatering a Frydek that has gone dormant and dropped its leaves. This is almost always the fastest way to rot a rhizome that would otherwise have resprouted perfectly fine in spring with minimal watering."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Frydek and Black Velvet are frequently mislabeled and sold interchangeably by online sellers, but they're genuinely different species with different mature sizes - if your \"Frydek\" is staying small and compact, you may actually have Black Velvet."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In homes without grow lights, most Frydek specimens will show at least partial dormancy every winter regardless of care quality - this is a normal seasonal response to shortened day length, not a sign that something is wrong."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "alocasia frydek dropped all leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia frydek dormancy winter",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia frydek vs black velvet",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia frydek humidity requirements",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia frydek yellow between veins",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia frydek brown edges",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Alocasia Frydek",
+    "summary": "Alocasia Frydek, also called the Green Velvet Alocasia, is a striking foliage plant native to the Philippines, known for its near-black velvety arrow-shaped leaves and bold white veining. It requires bright filtered light, high humidity, and well-draining soil, and commonly enters a leafless winter dormancy indoors that's often mistaken for the plant dying, when the underground rhizome is typically still alive and will resprout with fresh growth once warmer spring conditions return.",
+    "keyTakeaways": [
+        "Commonly drops all its leaves and goes dormant in winter - this is normal, not a sign of death.",
+        "Cut watering dramatically during dormancy; overwatering a dormant rhizome is the leading cause of loss.",
+        "Needs bright filtered indirect light to keep its near-black color and vein contrast vivid.",
+        "Often confused with the smaller, more compact Alocasia Black Velvet (Alocasia reginula)."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 12,
+    "lastReviewed": "2026-08-15",
+    "plantHero": {
+        "plantType": "Evergreen rhizomatous perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Moderate",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "45-75 cm (18-30 in)",
+        "growthRate": "Moderate",
+        "soil": "Well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced fertilizer during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Corm division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Philippines and Southeast Asia",
+        "usdaZones": "10-11",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/alocasia-frydek/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Alocasia Frydek thrives in high-humidity environments where the air remains consistently moist. In standard household settings, dry air can cause crisping along the velvety leaf edges, so running a dedicated humidifier or grouping it alongside other foliage plants will help support lush leaf development."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/elephant-ears-colocasia-esculenta"
+        ]
+    },
+    "contentText": "Alocasia Frydek, sometimes sold as the Green Velvet Alocasia, is one of the most dramatic foliage plants you can grow indoors: deep, near-black-green arrow-shaped leaves with a soft velvet texture and bold ivory-white veins running across the surface. It's closely related to, and frequently confused with, Alocasia 'Black Velvet' (Alocasia reginula), but Frydek grows larger leaves on a taller plant. Its biggest quirk, and the thing that catches most new owners off guard, is a genuine winter dormancy that can look alarmingly like the plant dying. Light Frydek wants 5-7 hours of bright, filtered indirect light daily. Good light intensifies both the near-black leaf color and the contrast of the white veining; too little light produces smaller, duller, more elongated leaves as the plant stretches toward a light source. Direct sun, however, scorches the delicate velvet surface, so an east-facing window or a spot pulled back from stronger south or west exposure works best. Temperature Keep it between 18\u00b0C and 27\u00b0C (64-80\u00b0F). It tolerates a brief dip to 13\u00b0C (55\u00b0F) but sustained cold below 15\u00b0C (59\u00b0F) is a common trigger for early or more severe dormancy. Keep it away from cold drafts and single-glazed windows in winter. Humidity Aim for 60-80% relative humidity. It manages short periods down to around 45% but consistently dry, centrally heated air causes crispy brown leaf margins and makes the plant considerably more vulnerable to spider mites, which thrive in low humidity and are hard to spot against the dark leaf surface until damage appears. Watering During active growth, water once the top 3 cm of soil has dried, roughly every 7-10 days. This changes dramatically in winter: as day length shortens, many Frydek specimens drop most or all of their leaves and enter dormancy, during which the rhizome needs only minimal water to prevent full desiccation. Continuing a summer watering schedule through dormancy is the single most common way to rot the rhizome and lose the plant entirely. Soil Use a chunky, well-draining aroid mix: orchid bark, perlite, and coco coir, with a small amount of compost for the rhizome's higher nutrient needs compared to some other aroids. Good drainage is non-negotiable, since the rhizome rots quickly in dense or waterlogged mix, especially in cooler conditions. Fertilizer Feed with a balanced liquid fertilizer at half strength every 4-6 weeks through spring and summer. Watch for pale, interveinal yellowing, which often signals a magnesium or micronutrient deficiency rather than a watering problem, and can be corrected with a trace-mineral feed or an occasional diluted Epsom salt solution. Stop fertilizing completely once the plant shows any sign of entering dormancy. Dormancy Unlike most houseplants, it's normal and expected for Alocasia Frydek to lose part or all of its foliage as winter approaches, particularly in homes without supplemental grow lighting. The rhizome remains alive beneath the soil. Resist the urge to increase watering to revive a leafless plant - this is the most common cause of rhizome rot during this period. Instead, reduce watering to a bare minimum, keep the pot somewhere stable and moderately warm, and wait for longer days and rising temperatures in spring, at which point you'll usually see a new leaf spike emerge from the rhizome. Propagation Division is the standard method: during repotting, separate offset pups that have their own roots from the main rhizome and pot them individually in the same chunky mix. Avoid dividing during or right before dormancy, as the plant has fewer resources to recover from the stress. Toxicity Contains calcium oxalate crystals throughout, making it toxic to cats, dogs, and humans if chewed or ingested, with symptoms including oral pain, drooling, and swelling. Wear gloves during repotting or division, as the sap can irritate skin. Common Problems Sudden leaf drop in autumn/winter: Normal seasonal dormancy; reduce watering and wait for spring. Rotting rhizome after leaf drop: Overwatering during dormancy; check the rhizome and reduce watering immediately. Crispy brown leaf edges: Low humidity or fertilizer salt buildup. Pale patches between leaf veins: Likely a micronutrient deficiency, particularly magnesium. Fine stippling on leaf surface: Spider mites, especially in dry air; raise humidity and treat with neem oil.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/alocasia-frydek/",
+        "lastReviewed": "2026-08-15",
+        "license": "CC BY 4.0"
+    }
+}

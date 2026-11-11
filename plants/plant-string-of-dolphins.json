@@ -1,0 +1,326 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-string-of-dolphins",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "string-of-dolphins",
+    "seoTitle": "String of Dolphins Care: Keep Flat Leaves Plump",
+    "metaDescription": "String of Dolphins leaves go flat without enough light. Find out Senecio peregrinus' bright light needs, watering routine, and how to keep this succulent.",
+    "featuredImage": "/assets/images/string-of-dolphins.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trailing-plants",
+        "succulents",
+        "toxic-to-pets",
+        "sun-loving"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Curio",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Succulents",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Senecio peregrinus (or Curio x peregrinus)",
+        "family": "Asteraceae",
+        "origin": "Hybrid (S. rowleyanus x S. articulatus)",
+        "type": "Evergreen trailing succulent",
+        "nativeClimate": "Semi-arid / Subtropical",
+        "commonUses": [
+            "Hanging baskets",
+            "Sunny windowsills",
+            "High shelves"
+        ]
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Requires hanging directly in a bright, south or west-facing window.",
+        "watering": "Water only when the soil is completely dry and the dolphins begin to look slightly wrinkled or deflated.",
+        "soil": "A very gritty, fast-draining cactus/succulent mix (e.g., 50% pumice/perlite).",
+        "pruning": "Trim long, leggy strands to encourage branching at the crown.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Causes vomiting and lethargy if ingested.",
+        "bestFor": "Plant owners with extremely sunny windows who tend to forget to water."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Trailing 2-3 feet",
+        "matureSpread": "6-12 inches at the crown",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Fall / Winter (produces small, white, cinnamon-scented puffball flowers)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "30% - 50%",
+            "survivable": "10% - 60%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires hours of direct sunlight every day. Without intense light, the new leaves will unroll and flatten out, losing their signature dolphin shape entirely.",
+        "sunlightHours": "4-6+ hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or west-facing window is mandatory.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Very light feeder. Over-fertilizing can cause weak, spindly growth.",
+        "fertilizerFrequency": "Once in the spring and once in the summer using a succulent fertilizer diluted to half strength.",
+        "organicOptions": "A light application of worm castings in spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Extremely susceptible to root rot if the soil stays wet for more than a few days."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are my String of Dolphins flattening out and losing their shape?",
+            "answer": "Flattening dolphins is the #1 sign of insufficient light. When the plant doesn't get enough direct sun, it unrolls its leaves to create a larger surface area to capture more light. Move it to a brighter window to ensure new growth retains the dolphin shape."
+        },
+        {
+            "question": "How often should I water my String of Dolphins?",
+            "answer": "Wait until the soil is completely, 100% dry. Then, look at the dolphins. If they are plump and hard, do not water. If they look slightly wrinkled or deflated, it is time to soak the soil thoroughly."
+        },
+        {
+            "question": "Is the String of Dolphins toxic to cats?",
+            "answer": "Yes. Like its parent plant, the String of Pearls, it is toxic to cats and dogs. Ingestion causes vomiting, diarrhea, and lethargy. Keep it in a high hanging basket."
+        },
+        {
+            "question": "Why is my plant drying up and turning brown at the soil line?",
+            "answer": "This happens when the top of the pot doesn't receive enough light (usually because the pot rim is shading the soil). Ensure the crown of the plant receives just as much bright light as the trailing vines."
+        },
+        {
+            "question": "How do I make my String of Dolphins look fuller?",
+            "answer": "If it is just one or two long strings, take cuttings from the tips, let them callus over for a few days, and plant them back into the top of the pot to root. This will create a bushier crown."
+        }
+    ],
+    "shortDesc": "The String of Dolphins is a quirky, highly sought-after trailing succulent. However, without intense direct sunlight, its famous dolphin-shaped leaves will unroll and flatten out.",
+    "content": "<h2>Overview</h2><p>The String of Dolphins (<em>Senecio peregrinus</em> or <em>Curio x peregrinus</em>) is a rare and highly prized succulent hybrid created by crossing a String of Pearls (<em>S. rowleyanus</em>) with a Candle Plant (<em>S. articulatus</em>). The result is a spectacular trailing vine featuring fleshy leaves that look exactly like tiny, leaping dolphins. </p><p>While it is a massive favorite on social media, it frequently disappoints indoor growers who find that their new \"dolphins\" are unrolling and turning into flat, ordinary-looking leaves. This is because the String of Dolphins is a true sun-worshipper. If you can provide it with the blazing hot window it demands and resist the urge to overwater it, it is a fast-growing, cascading showstopper.</p><h3>Light Requirements: The Secret to the Dolphin Shape</h3><p>Light is the absolute most critical element in String of Dolphins care. It requires a minimum of 4 to 6 hours of direct, unfiltered sunlight every single day. If you place it in a dim room or a north-facing window, the plant engages a survival mechanism: it unrolls its curved leaves, flattening them out to maximize the surface area available to catch whatever faint light is present. Once a leaf has flattened, it will never curl back up into a dolphin shape.</p><p>You must place this plant directly in a south-facing or west-facing window. Furthermore, ensure that the light hits the <em>top</em> of the pot, not just the trailing vines, to prevent the crown from dying off.</p><h3>Watering Strategy: The Squeeze Test</h3><p>Like all succulents, the String of Dolphins stores massive amounts of water in its fleshy leaves. Because of this, it is highly susceptible to root rot if overwatered. You must allow the soil to dry out 100% before you even consider watering it.</p><p>Do not water on a schedule. Instead, use the \"squeeze test.\" Gently squeeze one of the mature dolphins. If it feels hard and plump like a grape, do not water the plant, even if the soil is dry. If the dolphin feels slightly soft, deflated, or you can see visible wrinkling, it is time to water. When you do water, soak the pot thoroughly until water pours out the drainage holes, then wait for the cycle to repeat.</p><h3>Temperature and Humidity</h3><p>Typical household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C) are ideal. Keep it away from freezing drafts in the winter, as cold damage will cause the leaves to turn to mush. It prefers low humidity and perfectly tolerates the dry air caused by indoor heating and air conditioning. Never mist a String of Dolphins.</p><h3>Soil and Potting</h3><p>Excellent drainage is non-negotiable. Standard houseplant soil holds too much water and will kill the roots in days. Use a dedicated cactus or succulent mix, and aggressively amend it with 50% pumice or coarse perlite to ensure water flows through it instantly. Always use a pot with a drainage hole. Terracotta is highly recommended because the porous clay helps the soil dry out significantly faster than plastic or glazed ceramic.</p><h2>Fertilizing</h2><p>This succulent is a light feeder. Feed it only twice a year\u2014once in the spring and once in the mid-summer\u2014using a specialized succulent fertilizer diluted to half-strength. Over-fertilizing can cause a spurt of weak, leggy growth with huge gaps between the leaves.</p><h2>Propagation</h2><p>Propagating String of Dolphins is incredibly easy and is the best way to make a sparse plant look fuller. Simply snip a few inches off the end of a trailing vine. Remove the bottom two or three dolphins from the stem, and let the cutting sit on a table for 2 to 3 days so the cut end can dry and form a callus. Once callused, stick the bare stem directly into slightly moist succulent soil. Keep it in a bright spot, and it will root within a few weeks.</p><h2>Toxicity</h2><p>Like its parent, the String of Pearls, the String of Dolphins is toxic to cats, dogs, and humans. Ingestion can cause vomiting, diarrhea, and lethargy. Fortunately, because it is a trailing plant, it is very easy to keep safely out of reach in a high hanging basket.</p><h2>Common Problems</h2><p><strong>Flattening Leaves:</strong> The plant is starving for light. Move it to a window with intense, direct sunlight. The old flattened leaves won't change, but all new growth will look like dolphins.</p><p><strong>Shriveled, Wrinkled Leaves:</strong> The plant is severely dehydrated. Soak the soil thoroughly.</p><p><strong>Mushy, Yellowing Leaves:</strong> The plant is severely overwatered and suffering from root rot. Stop watering immediately, check the roots, and repot in dry, chunky soil if necessary.</p>",
+    "quickAnswer": "String of Dolphins is a trailing succulent with leaves shaped like tiny jumping dolphins that requires bright light including some direct sun. Water only after soil fully dries, using a fast-draining succulent mix to prevent bead and stem rot. Handle carefully since the delicate leaves detach easily, and propagate segments on dry soil for new plants.",
+    "ogImage": "/assets/images/string-of-dolphins.webp",
+    "ogImageAlt": "Cascading vines of a String of Dolphins succulent",
+    "heroImage": "/assets/images/string-of-dolphins.webp",
+    "heroImageAlt": "Close up of the leaping dolphin shaped leaves of Senecio peregrinus",
+    "featuredImageAlt": "String of Dolphins hanging in a bright, sunny window",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why are my String of Dolphins flattening out and losing their shape?",
+            "diagnosis": "Insufficient light \u2013 leaves flatten to increase surface area",
+            "treatment": "Move to brighter, direct sunlight; new growth will be dolphin-shaped.",
+            "prevention": "Provide bright light.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why is my plant drying up and turning brown at the soil line?",
+            "diagnosis": "Crown rot or insufficient light hitting the soil surface",
+            "treatment": "Ensure top of pot receives light; adjust watering; if rot, cut and propagate healthy stems.",
+            "prevention": "Keep crown exposed to light; avoid overwatering.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Callus",
+            "definition": "A hard, dry protective tissue that forms over a cut or wound on a plant, essential to prevent rot during succulent propagation."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Trailing Senecio (Curio) Variety Comparison",
+        "headers": [
+            "Plant",
+            "Leaf Shape",
+            "Light Need"
+        ],
+        "rows": [
+            [
+                "String of Dolphins",
+                "Curved, leaping dolphins",
+                "Full Direct Sun"
+            ],
+            [
+                "String of Pearls",
+                "Round, green peas",
+                "Bright Indirect / Some Sun"
+            ],
+            [
+                "String of Bananas",
+                "Curved, elongated bananas",
+                "Bright Indirect / Some Sun"
+            ]
+        ]
+    },
+    "h1": "String of Dolphins Care: Preventing Flat Leaves",
+    "breadcrumbName": "String of Dolphins Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "string-of-pearls",
+        "string-of-hearts"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the playful, plump leaves look like they contain lots of water\u2014which they do, making overwatering especially damaging since the stems rot quickly in wet soil. Wait until the 'dolphins' feel noticeably softer and slightly deflated before watering again."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The distinctive dolphin-jump silhouette of the leaves only holds its shape in bright light\u2014in low light, the leaves flatten out and develop a more elongated, generic shape that looks like string of bananas rather than dolphins. The 'jump' shape is maintained by adequate light intensity, not genetics alone."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low-light indoor positions, strands stretch with wide gaps between leaves and the characteristic shape disappears within one growing season. A very bright windowsill with some direct morning sun gives this plant the conditions it needs to stay compact and dolphin-shaped."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "senecio peregrinus care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "string of dolphins flattening",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for string of dolphins",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "dolphin plant watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "trailing succulent dolphins",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "String Of Dolphins",
+    "summary": "Senecio peregrinus charms plant enthusiasts with leaves that uncannily resemble miniature dolphins leaping from trailing stems. This hybrid succulent combines the easy care of String of Pearls with unique visual appeal. This guide explains how to maintain the dolphin shape through proper lighting, prevent the stretching that distorts leaf form, water correctly to avoid rot, and propagate stem cuttings for expanding your pod of dolphins over time. This approach helps maintain optimal conditions and prevents common issues that can affect your plant's overall health and longevity over time.",
+    "keyTakeaways": [
+        "Provide bright light, including some direct sun, for compact growth.",
+        "Water only after the soil has fully dried out between waterings.",
+        "Use a fast-draining succulent mix to prevent bead and stem rot.",
+        "Handle carefully, since the trailing leaves drop easily when disturbed."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 11,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen trailing succulent",
+        "difficulty": "intermediate",
+        "light": "Bright indirect to full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Allow the soil to dry completely between waterings, then water thoroughly.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "30-50%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Trailing 2-3 feet",
+        "growthRate": "Fast",
+        "soil": "Cactus or succulent gritty mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Succulent fertilizer once in spring and once in summer if needed",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Winter-Spring",
+        "petSafety": "toxic",
+        "nativeRegion": "South Africa",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/string-of-dolphins/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Overview The String of Dolphins ( Senecio peregrinus or Curio x peregrinus ) is a rare and highly prized succulent hybrid created by crossing a String of Pearls ( S. rowleyanus ) with a Candle Plant ( S. articulatus ). The result is a spectacular trailing vine featuring fleshy leaves that look exactly like tiny, leaping dolphins. While it is a massive favorite on social media, it frequently disappoints indoor growers who find that their new \"dolphins\" are unrolling and turning into flat, ordinary-looking leaves. This is because the String of Dolphins is a true sun-worshipper. If you can provide it with the blazing hot window it demands and resist the urge to overwater it, it is a fast-growing, cascading showstopper. Light Requirements: The Secret to the Dolphin Shape Light is the absolute most critical element in String of Dolphins care. It requires a minimum of 4 to 6 hours of direct, unfiltered sunlight every single day. If you place it in a dim room or a north-facing window, the plant engages a survival mechanism: it unrolls its curved leaves, flattening them out to maximize the surface area available to catch whatever faint light is present. Once a leaf has flattened, it will never curl back up into a dolphin shape. You must place this plant directly in a south-facing or west-facing window. Furthermore, ensure that the light hits the top of the pot, not just the trailing vines, to prevent the crown from dying off. Watering Strategy: The Squeeze Test Like all succulents, the String of Dolphins stores massive amounts of water in its fleshy leaves. Because of this, it is highly susceptible to root rot if overwatered. You must allow the soil to dry out 100% before you even consider watering it. Do not water on a schedule. Instead, use the \"squeeze test.\" Gently squeeze one of the mature dolphins. If it feels hard and plump like a grape, do not water the plant, even if the soil is dry. If the dolphin feels slightly soft, deflated, or you can see visible wrinkling, it is time to water. When you do water, soak the pot thoroughly until water pours out the drainage holes, then wait for the cycle to repeat. Temperature and Humidity Typical household temperatures between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C) are ideal. Keep it away from freezing drafts in the winter, as cold damage will cause the leaves to turn to mush. It prefers low humidity and perfectly tolerates the dry air caused by indoor heating and air conditioning. Never mist a String of Dolphins. Soil and Potting Excellent drainage is non-negotiable. Standard houseplant soil holds too much water and will kill the roots in days. Use a dedicated cactus or succulent mix, and aggressively amend it with 50% pumice or coarse perlite to ensure water flows through it instantly. Always use a pot with a drainage hole. Terracotta is highly recommended because the porous clay helps the soil dry out significantly faster than plastic or glazed ceramic. Fertilizing This succulent is a light feeder. Feed it only twice a year\u2014once in the spring and once in the mid-summer\u2014using a specialized succulent fertilizer diluted to half-strength. Over-fertilizing can cause a spurt of weak, leggy growth with huge gaps between the leaves. Propagation Propagating String of Dolphins is incredibly easy and is the best way to make a sparse plant look fuller. Simply snip a few inches off the end of a trailing vine. Remove the bottom two or three dolphins from the stem, and let the cutting sit on a table for 2 to 3 days so the cut end can dry and form a callus. Once callused, stick the bare stem directly into slightly moist succulent soil. Keep it in a bright spot, and it will root within a few weeks. Toxicity Like its parent, the String of Pearls, the String of Dolphins is toxic to cats, dogs, and humans. Ingestion can cause vomiting, diarrhea, and lethargy. Fortunately, because it is a trailing plant, it is very easy to keep safely out of reach in a high hanging basket. Common Problems Flattening Leaves: The plant is starving for light. Move it to a window with intense, direct sunlight. The old flattened leaves won't change, but all new growth will look like dolphins. Shriveled, Wrinkled Leaves: The plant is severely dehydrated. Soak the soil thoroughly. Mushy, Yellowing Leaves: The plant is severely overwatered and suffering from root rot. Stop watering immediately, check the roots, and repot in dry, chunky soil if necessary.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/string-of-dolphins/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

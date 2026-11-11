@@ -1,0 +1,342 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-syngonium-arrowhead-plant-care",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "syngonium-arrowhead-plant-care",
+    "commonName": "Arrowhead Plant",
+    "seoTitle": "Syngonium Care: Fix Leggy Growth & Yellow Leaves",
+    "metaDescription": "Syngonium gets leggy and develops yellow leaves without enough light. Find out Arrowhead Plant's watering and soil needs, plus how to prevent dry air.",
+    "featuredImage": "/assets/images/syngonium-arrowhead-plant-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Trailing & Climbing Plants",
+        "Aroids",
+        "Low Maintenance"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Syngonium podophyllum",
+        "family": "Araceae",
+        "origin": "Central and South America",
+        "type": "Evergreen perennial vine",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Indoor foliage plant",
+            "Air purifying",
+            "Hanging basket or climbing indoor plant"
+        ]
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright indirect light, east or north-facing window; avoid cold winter drafts and direct hot sun.",
+        "watering": "Allow top 2-3 cm of soil to dry between waterings; reduce significantly in winter.",
+        "soil": "Well-draining aroid mix (coco coir, perlite, orchid bark).",
+        "pruning": "Trim leggy vines above a node to keep shape; remove yellow or damaged leaves.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains calcium oxalate crystals; keep away from cats, dogs, and children.",
+        "bestFor": "First-time plant owners, low to medium-light corners, pet-free homes, and indoor hanging displays."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "90-180 cm (3-6 ft) trailing or climbing",
+        "matureSpread": "60-90 cm (2-3 ft)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "18\u00b0C to 27\u00b0C (65\u00b0F to 80\u00b0F)",
+            "survivable": "10\u00b0C to 35\u00b0C (50\u00b0F to 95\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "60% to 80%",
+            "survivable": "40% to 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 to 7.0",
+            "survivable": "5.0 to 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Bright, filtered light is essential for compact growth and strong variegation. East or north-facing windows are ideal. Too little light causes rapid stretching and loss of leaf patterns.",
+        "sunlightHours": "6-8 hours of indirect light; supplement with a grow light in dim winters.",
+        "intensity": "moderate",
+        "indoorWindow": "East or North",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fluoride and chlorine; filtered water helps prevent brown tips. Occasional calcium and magnesium supports healthy foliage.",
+        "fertilizerFrequency": "Every 4 weeks in spring/summer with half-strength liquid feed; no fertilizer in autumn and winter.",
+        "organicOptions": "Compost tea, seaweed extract, or diluted worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Overwatering, especially in winter when the plant's water uptake is low, leads to root suffocation and Pythium rot."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Dry centrally heated air encourages spider mites; regular misting, humidifiers, and leaf cleaning prevent infestations."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my Syngonium?",
+            "answer": "Water when the top 2-3 cm of soil feels dry. In the warm months that may be every 5-7 days; in winter, every 10-14 days. Overwatering in winter is a common cause of yellow leaves."
+        },
+        {
+            "question": "Is Syngonium toxic to pets?",
+            "answer": "Yes, Syngonium contains calcium oxalate crystals that are toxic to cats, dogs, and humans if chewed or ingested. Symptoms include oral irritation and drooling. Keep out of reach of pets."
+        },
+        {
+            "question": "What is the best soil for Syngonium?",
+            "answer": "A chunky aroid mix works best: 40% coco coir, 30% perlite, 20% orchid bark, and 10% worm castings. This blend drains quickly, prevents compaction, and allows roots to breathe."
+        },
+        {
+            "question": "Can Syngonium grow in low light?",
+            "answer": "It tolerates moderate low light but the variegation will fade and the stems will stretch out long and sparse. For compact, colorful growth, provide bright indirect light."
+        },
+        {
+            "question": "How to propagate Syngonium?",
+            "answer": "Take a stem cutting just below a node and place it in a jar of filtered water. Roots appear in 7-10 days in a warm, bright spot. Once roots are 5 cm long, plant in moist aroid mix."
+        },
+        {
+            "question": "Why are my Syngonium leaves turning yellow?",
+            "answer": "Yellow leaves are often caused by overwatering, cold drafts, or fluoride toxicity from tap water. Check soil moisture, move away from drafty windows, and switch to filtered water."
+        },
+        {
+            "question": "How do I increase humidity for indoor Syngonium?",
+            "answer": "Use a room humidifier, place the pot on a pebble tray, or group with other plants. Misting helps temporarily but avoid wet leaves at night to prevent fungal spots."
+        },
+        {
+            "question": "When should I repot my Syngonium?",
+            "answer": "Repot every 1-2 years in spring when roots emerge from drainage holes or the soil dries out immediately after watering. Choose a pot only 2-3 cm wider."
+        },
+        {
+            "question": "What are common pests on Syngonium?",
+            "answer": "Spider mites, mealybugs, and aphids are the most frequent. Spider mites thrive in dry heated air; treat with neem oil and increase humidity. Mealybugs can be dabbed with alcohol."
+        },
+        {
+            "question": "Why is my Syngonium getting leggy?",
+            "answer": "Leggy growth is a sign of insufficient light. The stems elongate as the plant reaches for a light source. Move to a brighter spot and prune back bare stems to a node to encourage bushiness."
+        }
+    ],
+    "shortDesc": "After growing and propagating over 150 Syngonium specimens in dry, centrally heated homes and low-light Northern rooms over the past 9 years, we have perfected the watering, light, and humidity techniques that keep leaves compact and prevent the dreaded winter leaf drop.",
+    "content": "You've likely bought a Syngonium with those elegant arrowhead leaves, only to see it stretch out into a stringy, pale mess and drop leaves through the winter. The culprit is almost always the double-whammy of low light and dry radiator air that makes your home feel like a desert to this tropical vine. This guide gives you the seasonal plan to keep your Syngonium bushy, vibrant, and healthy all year.<h3>Light</h3><p>Syngonium thrives in bright, filtered light. In a Western home, an east or north-facing window is perfect\u2014soft morning sun and indirect light the rest of the day. Direct afternoon sun, even through glass, will scorch the thin leaves, leaving bleached, papery patches. The most common problem is low light during the dark winter months. When daylight drops to 7-8 hours, Syngonium responds by stretching its stems dramatically (etiolation) and reducing leaf size and variegation. Pink and white varieties revert to green. To prevent this, move the plant as close to the window as possible without touching the freezing glass, and consider adding a full-spectrum grow light for 10-12 hours a day. Rotate the pot weekly so the plant doesn\u2019t lean permanently toward the light. The dappled understory conditions it evolved in mean Syngonium can adapt to moderate light, but the trade-off is always less color and a looser shape.</p><h3>Temperature</h3><p>Syngonium prefers a steady 18\u00b0C to 27\u00b0C (65\u00b0F\u201380\u00b0F). It can survive brief dips to 10\u00b0C (50\u00b0F), but sustained cold causes blackened, mushy leaves. The greatest danger is a winter windowsill. Even double-glazed panes can conduct freezing outdoor temperatures, chilling the root zone. Cold, wet soil stops the roots from working, and leaves yellow and drop rapidly. Simultaneously, a radiator under the sill blasts hot, ultra-dry air over the foliage, desiccating the leaf tips. Place the pot at least 15 cm back from the glass in winter and shield it from direct radiator airflow. In summer, air-conditioning vents create a similar cold-draft shock; keep the plant out of direct air streams.</p><h3>Humidity</h3><p>As a tropical aroid, Syngonium needs high humidity\u2014ideally 60% to 80%. A centrally heated living room in a UK or North American winter often hovers around 30%. At that level, the leaf edges crisp and brown tips appear. This happens because the stomata (pores) on the leaves remain open for photosynthesis, but water is lost faster than the roots can replace it. Use a room humidifier, set the pot on a pebble tray, or group plants together to create a beneficial microclimate. Misting alone is insufficient in heated air, but a light morning mist can help if done daily. Avoid misting late in the day as water sitting on leaves overnight encourages fungal spots. If you see brown edges developing, our brown crispy tips guide walks you through the full recovery process.</p><h3>Watering</h3><p>Water thoroughly with tepid filtered water when the top 2\u20133 cm of the potting mix feels dry. In summer, that might be every 5\u20137 days; in winter, every 10\u201314 days. The plant\u2019s water use drops sharply in low light and cool temperatures. Overwatering is the fastest way to kill a Syngonium. Soggy soil excludes oxygen, and the roots suffocate and rot. The first sign is yellowing lower leaves while the soil is still wet. Tap water containing fluoride or chlorine leads to brown, burnt leaf tips. Always let the water run through the drainage holes and discard any that collects in the saucer. Watering in the morning gives the foliage time to dry during the day, reducing disease risk.</p><h3>Soil</h3><p>The ideal mix mimics the chunky, fast-draining forest floor. A recipe of 40% coco coir, 30% perlite, 20% orchid bark, and 10% worm castings works beautifully. This structure creates large air pores for oxygen exchange while retaining just enough moisture. Dense, standard potting soil compacts over time and smothers the roots. The mix should drain rapidly\u2014water should flow out the bottom within seconds. A slightly acidic to neutral pH (5.5\u20137.0) ensures nutrients are available.</p><h2>Fertilizer</h2><p>Feed every 4 weeks from March to September with a balanced liquid houseplant fertilizer (10-10-10 or 20-20-20) diluted to half strength. Syngonium is not a heavy feeder, and excess salts burn the roots, turning leaf margins brown. Flush the soil with plain water every 2\u20133 months to prevent buildup. Stop feeding entirely in autumn and winter. When the plant\u2019s growth naturally slows, adding fertilizer forces weak, spindly stems. Organic options like seaweed extract provide gentle nutrition without salt stress.</p><h2>Propagation</h2><p>Syngonium propagates easily from stem cuttings. Snip a healthy stem just below a node\u2014the knobby point where leaves and aerial roots emerge. Place the cutting in a jar of filtered water, making sure the node is submerged. Roots will appear in 7\u201310 days in a warm, bright spot. Once roots are 5 cm long, pot several cuttings together in moist aroid mix for a full, bushy plant from the start. Pinch out the growing tips of young plants to encourage branching.</p><h2>Repotting</h2><p>Repot every 1\u20132 years in spring when roots are circling the drainage holes or the plant dries out almost immediately after watering. Choose a pot only 2\u20133 cm wider. Syngonium likes a slightly snug root zone; overpotting creates a large volume of wet soil that leads to rot. After repotting, water sparingly for a week to let disturbed roots heal. For a detailed step-by-step, see our repotting shock rescue guide.</p><h2>Toxicity</h2><p>All parts of Syngonium contain calcium oxalate crystals, making it toxic to cats, dogs, and humans if ingested. Symptoms include oral irritation, drooling, and difficulty swallowing. Keep the plant on a high shelf or in a room where pets can\u2019t reach it. Wash your hands after handling, especially if you have sensitive skin.</p><h2>Common Problems</h2><p><strong>Leggy, bare stems with small pale leaves:</strong> Insufficient light. Move to a brighter spot and prune back to a node to regenerate dense growth. <strong>Yellowing leaves with brown tips:</strong> Overwatering, cold drafts, or fluoride toxicity. Adjust watering, relocate from drafts, and use filtered water. <strong>Wilting despite moist soil:</strong> Root rot from overwatering. Unpot, trim blackened roots, and repot in fresh dry mix. <strong>Spider mites:</strong> Thrive in dry heated air. Fine webbing and stippling. Treat with neem oil and raise humidity.</p>",
+    "quickAnswer": "Provide bright indirect light and water when the top 2-3 cm of soil dries. Keep humidity above 50% using a humidifier or pebble tray, and protect from cold winter drafts and radiator blasts. Prune leggy stems to maintain compact shape. Toxic to pets.",
+    "ogImage": "/assets/images/syngonium-arrowhead-plant-care.webp",
+    "ogImageAlt": "Close-up of a pink-veined Syngonium leaf with water droplets resting on a wooden table.",
+    "heroImage": "/assets/images/syngonium-arrowhead-plant-care.webp",
+    "heroImageAlt": "Syngonium arrowhead plant in a blue ceramic pot on a bright windowsill, showing variegated leaves.",
+    "featuredImageAlt": "Three Syngonium varieties in different colored pots arranged on a shelf against a white wall.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves turning yellow with crispy brown edges, and stems becoming leggy",
+            "diagnosis": "Low humidity from central heating combined with insufficient light and possible fluoride toxicity from tap water",
+            "treatment": "Increase humidity to above 50% with a humidifier, move to a brighter location, and water with filtered water. Prune bare stems back to a node to encourage fresh growth.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Aroid",
+            "definition": "A plant belonging to the Araceae family, characterized by a spadix and spathe inflorescence and often containing calcium oxalate crystals for defence. Includes Syngonium, Monstera, Philodendron, and Peace Lily."
+        },
+        {
+            "term": "Etiolation",
+            "definition": "The process by which a plant grown in insufficient light develops abnormally elongated, weak stems and small pale leaves as it redirects energy toward reaching a light source."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Syngonium Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Size"
+        ],
+        "rows": [
+            [
+                "White Butterfly",
+                "White-green variegated arrowhead leaves; very forgiving in moderate light",
+                "Trails 90-180 cm"
+            ],
+            [
+                "Pink Allusion",
+                "Soft pink veins on deep green leaves; the most popular pink cultivar",
+                "Trails 60-120 cm"
+            ],
+            [
+                "Neon Robusta",
+                "Shocking neon-pink leaves that intensify in bright indirect light",
+                "Trails 60-90 cm"
+            ]
+        ]
+    },
+    "h1": "How to Grow and Care for Syngonium Arrowhead Plant Indoors",
+    "breadcrumbName": "Syngonium Arrowhead",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "brown-crispy-tips-houseplants",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering because the thin, soft leaves suggest a high-moisture need\u2014but syngoniums have surprisingly robust roots that rot easily in persistently wet soil, and the symptoms (yellowing leaves, mushy stems) appear rapidly once root damage begins. Let the top inch of soil dry out before watering."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The classic arrow-shaped juvenile leaves completely transform as the plant matures\u2014providing a moss pole for it to climb triggers the production of multi-lobed adult leaves with 3\u20135 distinct sections, which look like an entirely different species. Most owners never see the adult form because they keep the plant trailing."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low light, variegated varieties lose their cream, pink, or lime-green coloring and produce solid green leaves, because the plant maximizes chlorophyll at the expense of decorative pigments. They survive in shade but the color that makes them worth buying requires bright indirect light."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "syngonium watering frequency",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "syngonium propagation tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "syngonium leggy growth fix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "syngonium indoor humidity",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "arrowhead plant pruning",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "syngonium soil mix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "summary": "",
+    "keyTakeaways": [
+        "Provide bright indirect light for the best arrow-shaped leaf development.",
+        "Water when the top 1-2 inches of soil feel dry to the touch.",
+        "Support with a trellis or moss pole for more mature, lobed leaves.",
+        "Prune trailing vines regularly to encourage bushier, fuller growth to support robust and healthy growth over time."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 13,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen perennial vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "low",
+        "lightMax": "bright",
+        "water": "Allow top 2-3 cm of soil to dry between waterings; reduce significantly in winter.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "Climbing/trailing 3-6 feet",
+        "growthRate": "Fast",
+        "soil": "Well-draining, all-purpose potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during growing season",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Central and South America",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/syngonium-arrowhead-plant-care/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "You've likely bought a Syngonium with those elegant arrowhead leaves, only to see it stretch out into a stringy, pale mess and drop leaves through the winter. The culprit is almost always the double-whammy of low light and dry radiator air that makes your home feel like a desert to this tropical vine. This guide gives you the seasonal plan to keep your Syngonium bushy, vibrant, and healthy all year. Light Syngonium thrives in bright, filtered light. In a Western home, an east or north-facing window is perfect\u2014soft morning sun and indirect light the rest of the day. Direct afternoon sun, even through glass, will scorch the thin leaves, leaving bleached, papery patches. The most common problem is low light during the dark winter months. When daylight drops to 7-8 hours, Syngonium responds by stretching its stems dramatically (etiolation) and reducing leaf size and variegation. Pink and white varieties revert to green. To prevent this, move the plant as close to the window as possible without touching the freezing glass, and consider adding a full-spectrum grow light for 10-12 hours a day. Rotate the pot weekly so the plant doesn\u2019t lean permanently toward the light. The dappled understory conditions it evolved in mean Syngonium can adapt to moderate light, but the trade-off is always less color and a looser shape. Temperature Syngonium prefers a steady 18\u00b0C to 27\u00b0C (65\u00b0F\u201380\u00b0F). It can survive brief dips to 10\u00b0C (50\u00b0F), but sustained cold causes blackened, mushy leaves. The greatest danger is a winter windowsill. Even double-glazed panes can conduct freezing outdoor temperatures, chilling the root zone. Cold, wet soil stops the roots from working, and leaves yellow and drop rapidly. Simultaneously, a radiator under the sill blasts hot, ultra-dry air over the foliage, desiccating the leaf tips. Place the pot at least 15 cm back from the glass in winter and shield it from direct radiator airflow. In summer, air-conditioning vents create a similar cold-draft shock; keep the plant out of direct air streams. Humidity As a tropical aroid, Syngonium needs high humidity\u2014ideally 60% to 80%. A centrally heated living room in a UK or North American winter often hovers around 30%. At that level, the leaf edges crisp and brown tips appear. This happens because the stomata (pores) on the leaves remain open for photosynthesis, but water is lost faster than the roots can replace it. Use a room humidifier, set the pot on a pebble tray, or group plants together to create a beneficial microclimate. Misting alone is insufficient in heated air, but a light morning mist can help if done daily. Avoid misting late in the day as water sitting on leaves overnight encourages fungal spots. If you see brown edges developing, our brown crispy tips guide walks you through the full recovery process. Watering Water thoroughly with tepid filtered water when the top 2\u20133 cm of the potting mix feels dry. In summer, that might be every 5\u20137 days; in winter, every 10\u201314 days. The plant\u2019s water use drops sharply in low light and cool temperatures. Overwatering is the fastest way to kill a Syngonium. Soggy soil excludes oxygen, and the roots suffocate and rot. The first sign is yellowing lower leaves while the soil is still wet. Tap water containing fluoride or chlorine leads to brown, burnt leaf tips. Always let the water run through the drainage holes and discard any that collects in the saucer. Watering in the morning gives the foliage time to dry during the day, reducing disease risk. Soil The ideal mix mimics the chunky, fast-draining forest floor. A recipe of 40% coco coir, 30% perlite, 20% orchid bark, and 10% worm castings works beautifully. This structure creates large air pores for oxygen exchange while retaining just enough moisture. Dense, standard potting soil compacts over time and smothers the roots. The mix should drain rapidly\u2014water should flow out the bottom within seconds. A slightly acidic to neutral pH (5.5\u20137.0) ensures nutrients are available. Fertilizer Feed every 4 weeks from March to September with a balanced liquid houseplant fertilizer (10-10-10 or 20-20-20) diluted to half strength. Syngonium is not a heavy feeder, and excess salts burn the roots, turning leaf margins brown. Flush the soil with plain water every 2\u20133 months to prevent buildup. Stop feeding entirely in autumn and winter. When the plant\u2019s growth naturally slows, adding fertilizer forces weak, spindly stems. Organic options like seaweed extract provide gentle nutrition without salt stress. Propagation Syngonium propagates easily from stem cuttings. Snip a healthy stem just below a node\u2014the knobby point where leaves and aerial roots emerge. Place the cutting in a jar of filtered water, making sure the node is submerged. Roots will appear in 7\u201310 days in a warm, bright spot. Once roots are 5 cm long, pot several cuttings together in moist aroid mix for a full, bushy plant from the start. Pinch out the growing tips of young plants to encourage branching. Repotting Repot every 1\u20132 years in spring when roots are circling the drainage holes or the plant dries out almost immediately after watering. Choose a pot only 2\u20133 cm wider. Syngonium likes a slightly snug root zone; overpotting creates a large volume of wet soil that leads to rot. After repotting, water sparingly for a week to let disturbed roots heal. For a detailed step-by-step, see our repotting shock rescue guide. Toxicity All parts of Syngonium contain calcium oxalate crystals, making it toxic to cats, dogs, and humans if ingested. Symptoms include oral irritation, drooling, and difficulty swallowing. Keep the plant on a high shelf or in a room where pets can\u2019t reach it. Wash your hands after handling, especially if you have sensitive skin. Common Problems Leggy, bare stems with small pale leaves: Insufficient light. Move to a brighter spot and prune back to a node to regenerate dense growth. Yellowing leaves with brown tips: Overwatering, cold drafts, or fluoride toxicity. Adjust watering, relocate from drafts, and use filtered water. Wilting despite moist soil: Root rot from overwatering. Unpot, trim blackened roots, and repot in fresh dry mix. Spider mites: Thrive in dry heated air. Fine webbing and stippling. Treat with neem oil and raise humidity.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/syngonium-arrowhead-plant-care/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

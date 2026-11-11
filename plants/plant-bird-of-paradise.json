@@ -1,0 +1,420 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-bird-of-paradise",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "bird-of-paradise",
+    "seoTitle": "Bird of Paradise (Strelitzia reginae): Profile & Quick Care",
+    "metaDescription": "Bird of Paradise (Strelitzia reginae) profile: size, light, water, humidity and toxicity at a glance, plus how reginae differs from nicolai.",
+    "featuredImage": "/assets/images/bird-of-paradise.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "large-foliage",
+        "statement-plants",
+        "flowering-plants",
+        "high-light"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Strelitzia reginae",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Plant Finder - Strelitzia reginae",
+            "source": "Missouri Botanical Garden",
+            "url": "https://www.missouribotanicalgarden.org/"
+        },
+        {
+            "title": "NC State Extension Plant Toolbox - Strelitzia reginae",
+            "source": "North Carolina State University",
+            "url": "https://plants.ces.ncsu.edu/"
+        },
+        {
+            "title": "Bird of Paradise",
+            "source": "University of Florida IFAS Gardening Solutions",
+            "url": "https://gardeningsolutions.ifas.ufl.edu/plants/ornamentals/bird-of-paradise"
+        },
+        {
+            "title": "Bird of Paradise",
+            "source": "Clemson Cooperative Extension HGIC",
+            "url": "https://hgic.clemson.edu/factsheet/bird-of-paradise/"
+        },
+        {
+            "title": "World Flora Online - Strelitzia reginae",
+            "source": "World Flora Online",
+            "url": "https://www.worldfloraonline.org/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Strelitzia reginae",
+        "family": "Strelitziaceae",
+        "origin": "South Africa",
+        "type": "Evergreen perennial",
+        "nativeClimate": "Subtropical coastal bush",
+        "commonUses": [
+            "Floor plant",
+            "Living room focal point",
+            "Sunny atriums"
+        ]
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Directly in front of the largest, sunniest window you have.",
+        "watering": "Water deeply when the top 2 inches (5 cm) of soil are dry. Do not let it dry out completely.",
+        "soil": "A rich, well-draining indoor potting mix with about 30% perlite.",
+        "pruning": "Trim dead or severely damaged outer leaves at the base.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Mildly toxic to cats and dogs. Ingestion can cause drooling, nausea and vomiting.",
+        "bestFor": "Bright rooms with a south- or west-facing window and space for a large plant."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "3-6 feet indoors (S. nicolai: 6-10+ feet indoors)",
+        "matureSpread": "3-4 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Late winter to early spring (only under intense light conditions)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 95\u00b0F (10\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "30% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 7.0",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires the brightest light you can offer indoors. Direct sunlight is strongly preferred. Insufficient light causes slow, leaning growth and rules out flowering.",
+        "sunlightHours": "4-6+ hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or west facing window (Northern Hemisphere).",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "high",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "high",
+        "micronutrientNotes": "A heavy feeder during the growing season because of its large foliage.",
+        "fertilizerFrequency": "Half-strength balanced liquid fertilizer every 2-3 weeks in spring and summer; little or none in winter.",
+        "organicOptions": "Compost top dressing or heavily diluted fish emulsion."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Large pots without adequate drainage can hold too much moisture deep down, leading to root rot."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the leaves on my Bird of Paradise splitting?",
+            "answer": "This is normal. In their windy coastal habitat, the large leaves split along weak seams so wind passes through instead of tearing the whole plant. A split leaf that is otherwise green and firm is healthy, and splits cannot be repaired."
+        },
+        {
+            "question": "How do I get my Bird of Paradise to bloom indoors?",
+            "answer": "It is difficult. Only Strelitzia reginae is a realistic candidate. It should be at least four years old, slightly root-bound, and receive several hours of direct sun daily over multiple seasons. Even then, many indoor plants never bloom."
+        },
+        {
+            "question": "What is the difference between Orange and White Bird of Paradise?",
+            "answer": "Strelitzia reginae (orange) stays relatively compact at 3-6 feet indoors and has orange and blue flowers. Strelitzia nicolai (white or giant) grows much larger, commonly 6-10+ feet indoors, with big paddle leaves and white and dark blue flowers that almost never appear indoors."
+        },
+        {
+            "question": "How often should I water my Bird of Paradise?",
+            "answer": "Water when the top 2 inches (5 cm) of soil are dry. That is roughly weekly in a bright room in summer and every two to three weeks in winter. Always check the soil first because pot size, light and temperature change how fast it dries."
+        },
+        {
+            "question": "Why are the leaves curling inward on my Bird of Paradise?",
+            "answer": "Leaves curl inward to reduce moisture loss. It usually means the plant is thirsty or the air is very dry and hot. Check the soil first and water deeply if it is dry."
+        },
+        {
+            "question": "Is the Bird of Paradise safe for cats and dogs?",
+            "answer": "It is mildly toxic. Chewing the leaves or stems can cause drooling, stomach upset and vomiting in pets. Keep it away from animals that chew plants."
+        },
+        {
+            "question": "Should I cut off the brown, crispy leaf edges?",
+            "answer": "Yes, for appearance. Brown edges usually come from low humidity or minerals in tap water. Trim the brown tissue with clean scissors, following the natural curve of the leaf, and leave a thin brown margin so you do not cut into healthy tissue."
+        },
+        {
+            "question": "How do you propagate a Bird of Paradise?",
+            "answer": "By division only. Cuttings from leaves or stems will not root. During spring repotting, separate an offset (pup) that has its own roots from the main clump with a clean, sharp knife and pot it up on its own."
+        }
+    ],
+    "shortDesc": "A quick-reference profile of Bird of Paradise (Strelitzia reginae): light, water, humidity, size and toxicity at a glance, with the key differences between the orange reginae and the giant white nicolai.",
+    "content": "<h2>Bird of Paradise (Strelitzia reginae) at a Glance</h2><p>The Bird of Paradise is a subtropical evergreen perennial from coastal South Africa, grown indoors for its large paddle-shaped leaves and, more rarely, its crane-like orange and blue flowers. It needs far more light than most houseplants: 4 to 6 or more hours of direct sun, a deep watering once the top 2 inches of soil are dry, and a pot that stays snug rather than spacious. This profile is the quick-reference sheet. For a full walkthrough of problems and fixes, read the complete <a href=\"/blog/bird-of-paradise-care-guide/\">Bird of Paradise care guide</a>.</p><h2>Bird of Paradise Light Requirements</h2><p>Light decides how well this plant does indoors. Put it in the brightest spot you have: a south- or west-facing window in the Northern Hemisphere (north- or west-facing in the Southern Hemisphere) with 4 to 6 or more hours of direct sun. In a dim room it will survive for a while, but it grows slowly, leans toward the window, and will not flower.</p><h2>How Often to Water a Bird of Paradise</h2><p>Water deeply when the top 2 inches (5 cm) of soil are dry, until water runs out of the drainage holes, then empty the saucer. In a bright room that works out to roughly weekly in summer and every two to three weeks in winter, but check the soil instead of following the calendar. PlantSolve's watering calculator can estimate the interval for your pot size and conditions. Never leave the pot standing in water: thick, fleshy roots rot easily.</p><h2>Humidity and Temperature</h2><p>Ideal humidity is 40 to 60%. Average homes are usually fine, but heated winter air below about 30% dries the leaf edges. Keep temperatures between 65 and 85 degrees F (18 to 29 degrees C) and avoid cold drafts. It is not frost-hardy, so keep it above 50 degrees F (10 degrees C).</p><h2>Soil and Fertilizer</h2><p>Use a rich, well-draining mix: quality potting soil with roughly 30% perlite and a handful of compost or worm castings. Feed with a balanced liquid fertilizer at half strength every 2 to 3 weeks in spring and summer, and cut back or stop in winter. Flush the soil with plain water every couple of months so fertilizer and tap-water salts do not build up.</p><h2>Bird of Paradise Size and Growth Rate</h2><p>Indoors, Strelitzia reginae typically reaches 3 to 6 feet with a spread of 3 to 4 feet, at a moderate pace in bright light and very slowly in dim rooms. Strelitzia nicolai is a much bigger plant, commonly 6 to 10+ feet indoors and 20 to 30 feet outdoors in warm climates. Check the comparison table below to see which one you have.</p><h2>Will a Bird of Paradise Bloom Indoors?</h2><p>Sometimes, but only Strelitzia reginae is a realistic candidate. It needs to be mature (typically at least four years old, often more), get strong direct light over several seasons, and be slightly root-bound. Strelitzia nicolai almost never flowers as a houseplant. Full details are in our <a href=\"/blog/bird-of-paradise-care-guide/\">care guide</a>.</p><h2>Repotting and Propagation</h2><p>Young plants can be repotted every year or two until they reach a 10 to 12 inch pot. After that, repot only every 3 to 5 years, or simply top dress by replacing the top few inches of soil each spring, because mature plants bloom best when slightly root-bound. Bird of Paradise cannot be grown from leaf or stem cuttings. Propagate by division: during spring repotting, separate an offset (pup) that has its own roots from the main clump using a clean, sharp knife.</p><h2>Is Bird of Paradise Toxic to Pets?</h2><p>Yes, mildly. The ASPCA lists it as toxic to cats and dogs. Chewing the leaves or stems can cause drooling, nausea and vomiting. It is rarely dangerous, but keep it away from pets that chew houseplants.</p><h2>Common Problems</h2><p>Split leaves are natural and cannot be repaired. Brown tips usually come from low humidity or minerals in tap water (see our <a href=\"/topics/brown-tips/\">brown tips guide</a>). Inward-curling leaves signal thirst or very dry air. Lower leaves yellowing one at a time is normal aging, but several yellowing at once in wet soil points to overwatering and possible root rot.</p>",
+    "quickAnswer": "Bird of Paradise needs 4 to 6+ hours of direct sun, deep watering when the top 2 inches of soil are dry, and half-strength fertilizer every 2 to 3 weeks in spring and summer. Split leaves are normal. Brown tips usually mean low humidity or tap-water minerals. Indoor blooming needs a mature (4+ years) Strelitzia reginae, strong direct light and a snug pot.",
+    "ogImage": "/assets/images/bird-of-paradise.webp",
+    "ogImageAlt": "A large Bird of Paradise floor plant next to a bright window",
+    "heroImage": "/assets/images/bird-of-paradise.webp",
+    "heroImageAlt": "Close up of the iconic, crane-like orange flower of Strelitzia reginae",
+    "featuredImageAlt": "Large Strelitzia nicolai showing naturally split leaves in a modern living room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-09-28",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves are tearing and splitting along the lateral veins",
+            "diagnosis": "Natural adaptation to wind, sometimes made more visible by low humidity or physical brushing.",
+            "treatment": "No fix needed. Increase humidity slightly if the edges of the tears are brown and crispy.",
+            "prevention": "Give the plant space so leaves are not brushed by walls or furniture.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Leaves curl inward along their length",
+            "diagnosis": "Water stress or very dry air. The plant rolls its leaves to reduce surface area.",
+            "treatment": "Check the soil. If the top 2 inches are dry, water deeply. If the soil is wet, look for root problems instead of watering more.",
+            "prevention": "Water on soil dryness, not on a fixed calendar, and keep the plant away from heating vents.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Brown, crispy leaf tips and edges",
+            "diagnosis": "Most often low humidity, mineral or fluoride buildup from tap water, or underwatering.",
+            "treatment": "Trim brown tissue, switch to filtered or rain water, flush the soil with plain water, and raise humidity if it is below about 30%.",
+            "prevention": "Flush the soil every 6-8 weeks and avoid heavy fertilizer salt buildup.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Lower outer leaves turn yellow one at a time",
+            "diagnosis": "Normal aging of the oldest leaves.",
+            "treatment": "Cut the yellow leaf off at the base once it has fully yellowed.",
+            "prevention": "None needed.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Several leaves yellow at once, soil stays wet, base feels soft",
+            "diagnosis": "Overwatering and possible root rot.",
+            "treatment": "Let the soil dry, empty the saucer, and unpot to check the roots. Cut away brown, mushy roots and repot in fresh, well-draining mix.",
+            "prevention": "Use a pot with drainage holes and water only when the top 2 inches are dry.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Slow growth, small new leaves and leaning stems",
+            "diagnosis": "Not enough light.",
+            "treatment": "Move to a south- or west-facing window or add a high-output LED grow light.",
+            "prevention": "Keep the plant within 3 feet of a bright window and rotate it regularly.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Healthy plant that never flowers",
+            "diagnosis": "Too young, not enough direct light, recently repotted into a much larger pot, or a Strelitzia nicolai, which almost never blooms indoors.",
+            "treatment": "Confirm the species, increase direct light, and avoid upsizing the pot until roots are truly crowded.",
+            "prevention": "Be patient: flowering typically takes several years of strong light.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Offset (Pup)",
+            "definition": "A small, complete daughter plant that has been naturally produced asexually on the mother plant, usually near the base."
+        },
+        {
+            "term": "Top Dressing",
+            "definition": "The practice of removing the top 2-3 inches of old, depleted soil from a potted plant and replacing it with fresh, nutrient-rich compost or potting soil, usually done for large plants that are too difficult to fully repot."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Strelitzia reginae vs. Strelitzia nicolai",
+        "headers": [
+            "Feature",
+            "S. reginae (Orange)",
+            "S. nicolai (White/Giant)"
+        ],
+        "rows": [
+            [
+                "Flower Color",
+                "Bright orange and blue",
+                "White with dark blue"
+            ],
+            [
+                "Mature Size Indoors",
+                "3 to 6 feet",
+                "6 to 10+ feet"
+            ],
+            [
+                "Leaf Shape",
+                "Narrower, spear-shaped, blue-green",
+                "Massive, broad paddle shape"
+            ],
+            [
+                "Growth Habit",
+                "Clumping, no trunk",
+                "Tall, tree-like with a trunk"
+            ],
+            [
+                "Blooms Indoors?",
+                "Possible when mature and in strong light",
+                "Very rare"
+            ]
+        ]
+    },
+    "h1": "Bird of Paradise (Strelitzia reginae): Plant Profile & Quick Care Facts",
+    "breadcrumbName": "Bird of Paradise",
+    "relatedEntitySlugs": [
+        "bird-of-paradise-care-guide",
+        "topics:watering",
+        "topics:brown-tips",
+        "stem-rot-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Expecting indoor blooms too soon, or repotting into a much larger pot to help it grow. A roomy pot delays flowering because the plant spends its energy on roots. Strong direct light, a snug pot and patience are the real triggers."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The lengthwise splits that appear along mature leaves are not damage. They are an adaptation that lets wind pass through without tearing the whole leaf. Misting or changing your care will not stop a natural process."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In ordinary indoor light it grows slowly, often adding only a few new leaves a year. A south-facing window with direct sun, or a supplemental grow light, is what lets it reach its impressive mature height indoors."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "strelitzia reginae care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "bird of paradise plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "bird of paradise plant size",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "orange vs white bird of paradise",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "bird of paradise split leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "giant indoor plants",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Bird of Paradise",
+    "summary": "Strelitzia reginae is an architectural plant with large paddle-shaped leaves and crane-like blooms. This profile covers its light, water, humidity, size and toxicity, and how it differs from the giant Strelitzia nicolai.",
+    "keyTakeaways": [
+        "Provide 4 to 6+ hours of direct sunlight daily for healthy paddle leaves.",
+        "Water deeply when the top 2 inches (5 cm) of soil are dry, and never leave the pot standing in water.",
+        "Split leaves are a natural adaptation to wind, not a care mistake.",
+        "Keep temperatures at 65-85\u00b0F (18-29\u00b0C) and humidity around 40-60%."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 6,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen perennial",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water when the top 2 inches (5 cm) of soil are dry.",
+        "drynessThreshold": 40,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "3-6 feet indoors (S. nicolai: 6-10+ feet)",
+        "growthRate": "Moderate",
+        "soil": "Rich, well-draining mix with perlite",
+        "soilDrainage": "good",
+        "fertilizer": "Half-strength balanced fertilizer every 2-3 weeks in spring and summer",
+        "repottingFrequency": "Every 1-2 years while young; every 3-5 years once mature",
+        "potPreference": "Slightly root-bound for blooms",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Late winter to early spring",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "South Africa",
+        "usdaZones": "10-11",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bird-paradise-flower"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/bird-of-paradise/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/bird-paradise-flower"
+        ]
+    },
+    "contentText": "Bird of Paradise (Strelitzia reginae) at a Glance The Bird of Paradise is a subtropical evergreen perennial from coastal South Africa, grown indoors for its large paddle-shaped leaves and, more rarely, its crane-like orange and blue flowers. It needs far more light than most houseplants: 4 to 6 or more hours of direct sun, a deep watering once the top 2 inches of soil are dry, and a pot that stays snug rather than spacious. This profile is the quick-reference sheet. For a full walkthrough of problems and fixes, read the complete Bird of Paradise care guide . Bird of Paradise Light Requirements Light decides how well this plant does indoors. Put it in the brightest spot you have: a south- or west-facing window in the Northern Hemisphere (north- or west-facing in the Southern Hemisphere) with 4 to 6 or more hours of direct sun. In a dim room it will survive for a while, but it grows slowly, leans toward the window, and will not flower. How Often to Water a Bird of Paradise Water deeply when the top 2 inches (5 cm) of soil are dry, until water runs out of the drainage holes, then empty the saucer. In a bright room that works out to roughly weekly in summer and every two to three weeks in winter, but check the soil instead of following the calendar. PlantSolve's watering calculator can estimate the interval for your pot size and conditions. Never leave the pot standing in water: thick, fleshy roots rot easily. Humidity and Temperature Ideal humidity is 40 to 60%. Average homes are usually fine, but heated winter air below about 30% dries the leaf edges. Keep temperatures between 65 and 85 degrees F (18 to 29 degrees C) and avoid cold drafts. It is not frost-hardy, so keep it above 50 degrees F (10 degrees C). Soil and Fertilizer Use a rich, well-draining mix: quality potting soil with roughly 30% perlite and a handful of compost or worm castings. Feed with a balanced liquid fertilizer at half strength every 2 to 3 weeks in spring and summer, and cut back or stop in winter. Flush the soil with plain water every couple of months so fertilizer and tap-water salts do not build up. Bird of Paradise Size and Growth Rate Indoors, Strelitzia reginae typically reaches 3 to 6 feet with a spread of 3 to 4 feet, at a moderate pace in bright light and very slowly in dim rooms. Strelitzia nicolai is a much bigger plant, commonly 6 to 10+ feet indoors and 20 to 30 feet outdoors in warm climates. Check the comparison table below to see which one you have. Will a Bird of Paradise Bloom Indoors? Sometimes, but only Strelitzia reginae is a realistic candidate. It needs to be mature (typically at least four years old, often more), get strong direct light over several seasons, and be slightly root-bound. Strelitzia nicolai almost never flowers as a houseplant. Full details are in our care guide . Repotting and Propagation Young plants can be repotted every year or two until they reach a 10 to 12 inch pot. After that, repot only every 3 to 5 years, or simply top dress by replacing the top few inches of soil each spring, because mature plants bloom best when slightly root-bound. Bird of Paradise cannot be grown from leaf or stem cuttings. Propagate by division: during spring repotting, separate an offset (pup) that has its own roots from the main clump using a clean, sharp knife. Is Bird of Paradise Toxic to Pets? Yes, mildly. The ASPCA lists it as toxic to cats and dogs. Chewing the leaves or stems can cause drooling, nausea and vomiting. It is rarely dangerous, but keep it away from pets that chew houseplants. Common Problems Split leaves are natural and cannot be repaired. Brown tips usually come from low humidity or minerals in tap water (see our brown tips guide ). Inward-curling leaves signal thirst or very dry air. Lower leaves yellowing one at a time is normal aging, but several yellowing at once in wet soil points to overwatering and possible root rot.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/bird-of-paradise/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ctenanthe-burle-marxii",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ctenanthe-burle-marxii",
+    "seoTitle": "Ctenanthe Burle-Marxii Care: Prevent Crispy Edges",
+    "metaDescription": "Learn Ctenanthe Burle-Marxii care to prevent crispy edges. Maintain high humidity and use distilled water to keep its beautifully striped leaves from.",
+    "featuredImage": "/assets/images/ctenanthe-burle-marxii.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "pet-safe",
+        "humidity-loving",
+        "prayer-plant-family",
+        "patterned-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ctenanthe burle-marxii",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Fluoride Toxicity in Plants",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ctenanthe burle-marxii",
+        "family": "Marantaceae",
+        "origin": "Brazil",
+        "type": "Evergreen herbaceous perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Humid bathrooms",
+            "Coffee tables",
+            "Pet-safe homes"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Bright, indirect light. Needs to be kept far away from heating vents and drafts.",
+        "watering": "Keep the soil evenly moist like a damp sponge. Highly sensitive to chemicals in tap water.",
+        "soil": "A rich, moisture-retaining but well-draining peat-based mix.",
+        "pruning": "Snip off completely brown or yellow leaves at the base.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Non-toxic to cats and dogs.",
+        "bestFor": "Dedicated plant parents who can provide high humidity and filtered water to maintain the pristine foliage."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "1-2 feet indoors",
+        "matureSpread": "1-2 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+            "survivable": "60\u00b0F - 85\u00b0F (15\u00b0C - 29\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 80%",
+            "survivable": "40% - 90%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to keep its intricate fishbone pattern bold. Direct sun will bleach the pale green leaves and scorch them brown.",
+        "sunlightHours": "4-6 hours indirect",
+        "intensity": "medium-bright",
+        "indoorWindow": "East or North-facing window.",
+        "shadeTolerance": "medium"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Extremely sensitive to fertilizer burn. Dilute to 1/4 strength.",
+        "fertilizerFrequency": "Once a month during spring and summer with a highly diluted liquid fertilizer.",
+        "organicOptions": "A light top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "fluoride-toxicity",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Like all prayer plants, it cannot filter out fluoride and chlorine from tap water, which causes severe brown, crispy leaf edges."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-humidity",
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the edges of my Ctenanthe turning brown and crispy?",
+            "answer": "This is the classic prayer plant struggle. It is caused by a lack of humidity (dry indoor air) or by watering with tap water. The plant cannot filter out the fluoride in tap water, which burns the edges of the leaves."
+        },
+        {
+            "question": "Why do the leaves fold up at night?",
+            "answer": "The Ctenanthe belongs to the Marantaceae (Prayer Plant) family. It naturally folds its leaves upward at night (nyctinasty) and lowers them during the day to capture light. This means your plant is healthy!"
+        },
+        {
+            "question": "Why are the leaves rolling inwards into tight tubes?",
+            "answer": "Curling or rolling leaves are a defense mechanism against severe dehydration or too much direct sunlight. The plant is curling up to prevent further moisture loss. Check the soil immediately; it is likely bone dry."
+        },
+        {
+            "question": "Is the Ctenanthe toxic to cats?",
+            "answer": "No. It is completely non-toxic and safe for all pets."
+        },
+        {
+            "question": "Can I mist my plant to stop the brown edges?",
+            "answer": "Misting only increases humidity for about ten minutes and leaves sitting water on the foliage, which invites fungal rot. You must use a room humidifier instead."
+        }
+    ],
+    "shortDesc": "The Ctenanthe burle-marxii is a stunning, pet-safe prayer plant featuring a dark green 'fishbone' pattern on pale silver-green leaves. It demands high humidity and distilled water to thrive.",
+    "content": "<h2>Overview</h2><p>The <em>Ctenanthe burle-marxii</em>, often called the Fishbone Prayer Plant or the Never Never Plant, is a breathtaking, low-growing tropical native to Brazil. It features pale, silvery-green, oval leaves painted with striking, dark green alternating stripes that perfectly resemble a fish skeleton. When it folds its leaves up at night, it reveals a gorgeous deep burgundy-purple underside.</p><p>Because it is a member of the Marantaceae family (along with Calatheas, Marantas, and Stromanthes), it is completely pet-safe. However, it also shares the family's notorious reputation for being a high-maintenance diva. If you do not provide it with high humidity and pure, filtered water, it will quickly develop ugly, crispy brown edges that ruin its pristine appearance.</p><h3>The Tap Water Ban</h3><p>The absolute fastest way to ruin a Ctenanthe is by watering it from the sink. Municipal tap water contains heavy salts, chlorine, and fluoride. This plant has no biological mechanism to filter out these chemicals. As it drinks, it pushes the chemicals to the extreme edges of the leaves, where they build up and cause severe chemical burns. This manifests as brown, dry, crispy edges.</p><p>To prevent this, <strong>you must water the plant exclusively with distilled water, reverse-osmosis water, or rainwater.</strong> Furthermore, it is highly sensitive to synthetic fertilizer salts. If you fertilize, dilute it to 1/4 of the recommended strength to prevent fertilizer burn.</p><h3>Watering: The Damp Sponge</h3><p>Unlike succulents that want to dry out completely, the Ctenanthe needs its soil kept consistently, evenly moist\u2014much like a wrung-out damp sponge. When the top half-inch of soil feels dry to the touch, water it thoroughly. </p><p>If you allow the pot to completely dry out, the plant will violently curl its leaves inward into tight tubes to prevent moisture loss, and the edges will crisp up immediately. Conversely, if you leave the pot sitting in a saucer of stagnant water, the rhizomes will rot. Consistency is the key to success.</p><h3>Humidity and Temperature</h3><p>Native to the humid rainforest understory, the Ctenanthe demands humidity levels between 60% and 80%. Standard indoor heating drops humidity to 30%, which will rapidly suck the moisture out of the thin leaves. You must run a dedicated room humidifier nearby. Misting the plant does not work and often leads to fungal leaf spot diseases.</p><p>Keep the plant in a warm room between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is highly susceptible to cold drafts; a blast of cold air from an exterior door or an AC vent will cause the leaves to wilt dramatically.</p><h3>Light Requirements</h3><p>In the wild, the Ctenanthe lives on the forest floor, completely shaded by the canopy above. Indoors, it requires bright, indirect light to maintain the stark contrast of its fishbone pattern. An east or north-facing window is ideal.</p><p><strong>Never place this plant in direct sunlight.</strong> The thin, delicate leaves will instantly scorch, and the pale silver-green sections will bleach out to a sickly, pale yellow.</p><h2>The Prayer Movement</h2><p>One of the most rewarding aspects of owning a Ctenanthe is watching it move. Thanks to a specialized joint at the base of each leaf called the <em>pulvinus</em>, the plant tracks the sun. In the morning, the leaves lay completely flat to absorb maximum light. As the sun sets, the plant folds its leaves straight upward, resembling hands in prayer. This circadian rhythm (nyctinasty) is a sign of a perfectly healthy, happy plant.</p>",
+    "quickAnswer": "The Ctenanthe needs evenly moist soil, bright, indirect light, and high humidity. It must be watered with distilled or rainwater; tap water will cause the leaf edges to burn and turn crispy brown over time. Monitoring the plant regularly helps catch early signs of stress before they cause any lasting damage.",
+    "ogImage": "/assets/images/ctenanthe-burle-marxii.webp",
+    "ogImageAlt": "Pale green leaves with dark green fishbone stripes on a Ctenanthe",
+    "heroImage": "/assets/images/ctenanthe-burle-marxii.webp",
+    "heroImageAlt": "Close up of the intricate fishbone pattern and purple undersides",
+    "featuredImageAlt": "A lush Ctenanthe burle-marxii thriving in a bright, humid bathroom",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why are the edges of my Ctenanthe turning brown and crispy?",
+            "diagnosis": "Low humidity or fluoride/chlorine toxicity",
+            "treatment": "Increase humidity (humidifier); switch to distilled/rainwater; trim crispy edges.",
+            "prevention": "Maintain high humidity and use purified water.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why do the leaves fold up at night?",
+            "diagnosis": "Nyctinasty \u2013 natural prayer plant movement",
+            "treatment": "No action; it indicates a healthy plant.",
+            "prevention": "Continue normal care.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves rolling inwards into tight tubes?",
+            "diagnosis": "Severe dehydration or too much direct sunlight",
+            "treatment": "Check soil; if dry, water thoroughly; if wet and rolled, move to shadier spot.",
+            "prevention": "Keep soil consistently moist and avoid direct sun.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Can I mist my plant to stop the brown edges?",
+            "diagnosis": "Misting is ineffective and may cause fungal issues",
+            "treatment": "Instead, use a humidifier or pebble tray; avoid misting.",
+            "prevention": "Use proper humidity methods.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Nyctinasty",
+            "definition": "The circadian rhythmic movement of plants in response to the onset of darkness. The Ctenanthe folds its leaves up at night, hence the name 'prayer plant'."
+        },
+        {
+            "term": "Pulvinus",
+            "definition": "An enlarged, swollen joint at the base of the leaf stalk that acts like a hinge, allowing the plant to physically move its leaves throughout the day."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Prayer Plant Family Comparison",
+        "headers": [
+            "Genus",
+            "Growth Habit",
+            "Difficulty"
+        ],
+        "rows": [
+            [
+                "Ctenanthe",
+                "Clumping, upright stems",
+                "Advanced"
+            ],
+            [
+                "Maranta",
+                "Low, trailing vines",
+                "Moderate"
+            ],
+            [
+                "Calathea",
+                "Tall, upright stalks",
+                "Very Advanced"
+            ]
+        ]
+    },
+    "h1": "Ctenanthe Burle-Marxii Indoor Guide: Fix Crispy Edges",
+    "breadcrumbName": "Ctenanthe Burle-Marxii Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "brown-crispy-tips-houseplants",
+        "maranta-prayer-plant-care"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Using tap water\u2014it's even more chemically sensitive than calatheas, and a single watering with chlorinated tap water causes immediate browning along the leaf edges that is permanent. Use only distilled, rainwater, or water left out for 24 hours."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Most owners stake it upright, but it's naturally a trailing and spreading plant that looks far more graceful allowed to cascade from a hanging basket. Fighting its natural growth habit by staking it just causes bent stems and a cramped appearance."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry homes, the signature leaf movement (folding upward at night) stops entirely\u2014this is an early warning sign the plant is stressed before visible damage appears. Humidity below 50% is the most common culprit in typical indoor environments."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "never never plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "fishbone prayer plant crispy edges",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ctenanthe amagris",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "prayer plant folding leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ctenanthe curling leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ctenanthe Burle Marxii",
+    "summary": "Ctenanthe burle-marxii is a compact prayer plant featuring silver-green leaves marked with dark green fishbone patterns and deep purple undersides. Learn moisture management, humidity needs, and indirect light placement.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to maintain silver fishbone leaf patterning.",
+        "Maintain relative humidity above 60% and water exclusively with pure water.",
+        "Keep potting substrate consistently moist without leaving the pot in standing water.",
+        "Observe normal nyctinastic movement as leaves fold vertically each evening."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen herbaceous perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep the soil evenly moist but not waterlogged.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60% - 80%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "1-2 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Moisture-retentive, well-draining potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Diluted balanced fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Winter-Spring",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Brazil",
+        "usdaZones": "10-11",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ctenanthe-burle-marxii/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/calathea"
+        ],
+        "note": "Verified safe under the Marantaceae family (ASPCA non-toxic classification)."
+    },
+    "contentText": "Overview The Ctenanthe burle-marxii , often called the Fishbone Prayer Plant or the Never Never Plant, is a breathtaking, low-growing tropical native to Brazil. It features pale, silvery-green, oval leaves painted with striking, dark green alternating stripes that perfectly resemble a fish skeleton. When it folds its leaves up at night, it reveals a gorgeous deep burgundy-purple underside. Because it is a member of the Marantaceae family (along with Calatheas, Marantas, and Stromanthes), it is completely pet-safe. However, it also shares the family's notorious reputation for being a high-maintenance diva. If you do not provide it with high humidity and pure, filtered water, it will quickly develop ugly, crispy brown edges that ruin its pristine appearance. The Tap Water Ban The absolute fastest way to ruin a Ctenanthe is by watering it from the sink. Municipal tap water contains heavy salts, chlorine, and fluoride. This plant has no biological mechanism to filter out these chemicals. As it drinks, it pushes the chemicals to the extreme edges of the leaves, where they build up and cause severe chemical burns. This manifests as brown, dry, crispy edges. To prevent this, you must water the plant exclusively with distilled water, reverse-osmosis water, or rainwater. Furthermore, it is highly sensitive to synthetic fertilizer salts. If you fertilize, dilute it to 1/4 of the recommended strength to prevent fertilizer burn. Watering: The Damp Sponge Unlike succulents that want to dry out completely, the Ctenanthe needs its soil kept consistently, evenly moist\u2014much like a wrung-out damp sponge. When the top half-inch of soil feels dry to the touch, water it thoroughly. If you allow the pot to completely dry out, the plant will violently curl its leaves inward into tight tubes to prevent moisture loss, and the edges will crisp up immediately. Conversely, if you leave the pot sitting in a saucer of stagnant water, the rhizomes will rot. Consistency is the key to success. Humidity and Temperature Native to the humid rainforest understory, the Ctenanthe demands humidity levels between 60% and 80%. Standard indoor heating drops humidity to 30%, which will rapidly suck the moisture out of the thin leaves. You must run a dedicated room humidifier nearby. Misting the plant does not work and often leads to fungal leaf spot diseases. Keep the plant in a warm room between 65\u00b0F and 80\u00b0F (18\u00b0C - 27\u00b0C). It is highly susceptible to cold drafts; a blast of cold air from an exterior door or an AC vent will cause the leaves to wilt dramatically. Light Requirements In the wild, the Ctenanthe lives on the forest floor, completely shaded by the canopy above. Indoors, it requires bright, indirect light to maintain the stark contrast of its fishbone pattern. An east or north-facing window is ideal. Never place this plant in direct sunlight. The thin, delicate leaves will instantly scorch, and the pale silver-green sections will bleach out to a sickly, pale yellow. The Prayer Movement One of the most rewarding aspects of owning a Ctenanthe is watching it move. Thanks to a specialized joint at the base of each leaf called the pulvinus , the plant tracks the sun. In the morning, the leaves lay completely flat to absorb maximum light. As the sun sets, the plant folds its leaves straight upward, resembling hands in prayer. This circadian rhythm (nyctinasty) is a sign of a perfectly healthy, happy plant.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ctenanthe-burle-marxii/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

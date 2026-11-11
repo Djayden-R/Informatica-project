@@ -1,0 +1,449 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-maranta-prayer-plant-care",
+    "facts": {
+        "family": "Marantaceae",
+        "genus": "Maranta",
+        "species": "leuconeura",
+        "nativeRange": "Brazilian tropical forests",
+        "growthHabit": "Evergreen rhizomatous perennial"
+    },
+    "entityType": "plant",
+    "status": "published",
+    "slug": "maranta-prayer-plant-care",
+    "seoTitle": "Prayer Plant Care: Fix Brown Tips on Maranta",
+    "metaDescription": "Prayer Plant develops brown tips from dry indoor air. Find out Maranta leuconeura's humidity needs, watering strategy, light requirements, and how to.",
+    "featuredImage": "/assets/images/maranta-prayer-plant-care.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Pet-Safe Plants",
+        "Prayer Plants",
+        "Humidity-Loving Plants"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Maranta leuconeura",
+        "family": "Marantaceae",
+        "origin": "Brazilian tropical forests",
+        "type": "Evergreen rhizomatous perennial",
+        "nativeClimate": "Warm, humid tropical understory",
+        "commonUses": [
+            "Indoor ornamental foliage",
+            "Pet-safe houseplant",
+            "Tabletop or shelf decor"
+        ]
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Bright indirect light, east or north-facing window; avoid cold drafts and radiator blasts.",
+        "watering": "Keep soil evenly moist but not waterlogged; allow top 2 cm to dry slightly in winter.",
+        "soil": "Peat-based mix with perlite and orchid bark for aeration; well-draining and slightly acidic.",
+        "pruning": "Snip off brown or crispy leaves at the base; trim leggy stems above a node to maintain fullness.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Safe for cats, dogs, and humans.",
+        "bestFor": "Pet owners, bathroom or kitchen windowsills, tabletops needing a non-toxic decorative accent."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "characteristicId": "CHAR_0001",
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Terrestrial rhizomatous perennial. Needs macro-pores in the soil (bark/perlite) for root respiration, but not full open-air exposure.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5013",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "waterStorage": {
+                "characteristicId": "CHAR_0002",
+                "type": "ordinal",
+                "value": 1,
+                "scale": 5,
+                "confidence": 0.95,
+                "editorReasoning": "Leaves are incredibly thin. Nyctinasty (praying) movement stops immediately when drought-stressed as turgor pressure fails in the pulvinus. Zero drought tolerance.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5014",
+                        "weight": 0.95
+                    }
+                ]
+            },
+            "rootFragility": {
+                "characteristicId": "CHAR_0003",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Root system is shallow and fine. Overpotting or rough handling during repotting frequently causes transplant shock and root dieback.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5015",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Anaerobic conditions from waterlogged, heavy compost in winter rapidly encourage Pythium rot, turning the fine roots black and mushy.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5016",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "characteristicId": "CHAR_0005",
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.9,
+                "editorReasoning": "Highly sensitive to humidity drops, though its creeping habit makes it slightly more resilient than upright Calatheas. Drafts cause rapid brown tipping.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5017",
+                        "weight": 0.9
+                    }
+                ]
+            },
+            "minimumTemperature": {
+                "characteristicId": "CHAR_0006",
+                "type": "temperature",
+                "value": 10,
+                "unit": "\u00b0C",
+                "confidence": 0.9,
+                "editorReasoning": "Can survive a brief dip to 10\u00b0C, but prolonged cold damages semi-permeable root membranes, halting water uptake.",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_5018",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        }
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "25-30 cm (10-12 in)",
+        "matureSpread": "30-45 cm (12-18 in)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Occasionally produces small white/purple flowers in spring-summer",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "18\u00b0C to 24\u00b0C (65\u00b0F to 75\u00b0F)",
+            "survivable": "10\u00b0C to 30\u00b0C (50\u00b0F to 85\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "60% to 80%",
+            "survivable": "40% to 80%"
+        },
+        "soilPH": {
+            "recommended": "5.5 to 6.5",
+            "survivable": "5.0 to 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Bright, filtered light is essential to maintain vivid leaf patterns and the nightly prayer movement. East or north-facing window is perfect. Direct sun scorches leaves; low winter light causes fading and leggy growth.",
+        "sunlightHours": "8-10 hours of indirect light",
+        "intensity": "moderate",
+        "indoorWindow": "East or North",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fluoride and chlorine; use filtered or distilled water. Occasional iron supplement prevents chlorosis in alkaline soils.",
+        "fertilizerFrequency": "Every 4 weeks in spring/summer with balanced liquid fertilizer diluted to half strength; stop feeding in autumn/winter.",
+        "organicOptions": "Seaweed emulsion, worm castings tea, or organic fish emulsion diluted to quarter strength."
+    },
+    "relationships": [
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Thrives in dry centrally heated air; webbing and stippling appear rapidly if humidity drops below 40%. Regular misting and humidifiers are essential."
+        },
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Overwatering or dense soil that remains cold and soggy in winter encourages Pythium and Phytophthora. Roots turn black and mushy, causing rapid leaf yellowing."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering",
+        "calculator-humidity",
+        "calculator-heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water my prayer plant?",
+            "answer": "Water when the top 2 cm of soil feels dry. In summer this may be every 5-6 days; in winter every 8-10 days. Never let the pot sit in water, as Maranta roots rot quickly in stagnant moisture."
+        },
+        {
+            "question": "Why are my prayer plant leaves curling and turning brown?",
+            "answer": "Brown, crispy leaf margins and curled leaves are almost always caused by low humidity from central heating or drafts. Raise the ambient humidity to at least 60% using a humidifier or pebble tray, and keep the plant away from radiators and cold windows."
+        },
+        {
+            "question": "Is prayer plant safe for cats and dogs?",
+            "answer": "Yes, Maranta leuconeura is non-toxic to cats, dogs, and humans. It is one of the best pet-safe choices for bright indoor spaces where animals may nibble."
+        },
+        {
+            "question": "Why has my prayer plant stopped praying?",
+            "answer": "The nightly leaf folding (nyctinasty) is driven by light changes. If the plant receives insufficient light during the day or is exposed to constant artificial light at night, the movement may weaken or stop. Move it to a brighter spot with distinct day/night cycles."
+        },
+        {
+            "question": "What is the best soil mix for a prayer plant?",
+            "answer": "A well-draining peat-based mix amended with perlite and orchid bark works perfectly. This retains moisture without compaction, allowing air to reach the roots. Avoid dense garden soil."
+        },
+        {
+            "question": "How do I propagate a Maranta prayer plant?",
+            "answer": "Take a stem cutting just below a node and place it in a jar of filtered water. Roots appear in 2-3 weeks in bright, warm conditions. Once roots are 3-4 cm long, pot into moist soil and cover with a plastic bag for a week to boost humidity."
+        },
+        {
+            "question": "Can prayer plant grow in low light?",
+            "answer": "Maranta tolerates moderate low light but the leaf patterns will fade and the plant may become leggy. For the characteristic vivid veins and compact shape, bright indirect light is essential."
+        },
+        {
+            "question": "When should I repot my prayer plant?",
+            "answer": "Repot every 1-2 years in spring when roots fill the pot or the soil structure degrades. Use a pot only 2-3 cm wider to prevent overpotting, which keeps the soil too wet and promotes root rot."
+        },
+        {
+            "question": "Why are the tips of my prayer plant turning yellow?",
+            "answer": "Yellow tips often signal fluoride toxicity from tap water or inconsistent watering. Switch to filtered or distilled water and ensure the soil never dries out completely but isn\u2019t waterlogged."
+        },
+        {
+            "question": "How do I increase humidity for my prayer plant?",
+            "answer": "Place a humidifier nearby, set the pot on a pebble tray with water, or group plants together. Misting alone is insufficient because the water evaporates too quickly in dry indoor air."
+        }
+    ],
+    "shortDesc": "After nurturing and propagating over 120 Maranta specimens in dry, centrally heated indoor environments over the past 8 years, we have cracked the code on preventing the notorious curled brown leaves and restoring the nightly prayer movement.",
+    "content": "You've likely brought home a Maranta with those mesmerising red-veined leaves, only to watch them curl inward and develop dry, brown edges within a fortnight\u2014often because the invisible dry air from your central heating is pulling moisture out of the leaves faster than the roots can replenish it. This guide walks you through the precise environmental tweaks that stop the crisping, revive the nightly leaf folding, and keep your prayer plant lush through every winter.<h3>Light</h3><p>Marantas are understory plants that evolved to capture bright but diffused light through the forest canopy. Place yours in an east or north-facing window where it receives gentle morning sun and indirect light the rest of the day. Direct afternoon sun will scorch the thin, papery leaves, bleaching the vivid venation and leaving behind permanent beige patches. In the depth of a UK or North American winter, when daylight drops to just 7-8 hours and the sun sits low, the plant may become leggy and the \u2018prayer\u2019 movement may weaken. This happens because the light-sensitive pulvinus\u2014a swollen motor organ at the leaf base\u2014no longer receives the strong blue-wavelength signal that triggers the turgor pressure change driving nyctinasty. To compensate, move the pot closer to the window (without touching cold glass) or supplement with a full-spectrum LED grow light for 10-12 hours daily. Rotate the pot a quarter turn weekly to keep growth even, as Marantas lean dramatically towards the light source.</p><h3>Temperature</h3><p>Prayer plants thrive in steady warmth between 18\u00b0C and 24\u00b0C (65\u00b0F\u201375\u00b0F). They can survive a brief dip to 10\u00b0C (50\u00b0F) but prolonged cold, especially when combined with wet soil, kills the roots. The real menace in a Western home is the freezing winter window draft. Even on a double-glazed sill, the temperature can plummet near the pane overnight, chilling the root zone and causing leaf drop within 24 hours. Cold damages the semi-permeable cell membranes in the roots, disrupting water uptake even though the soil is moist\u2014the plant wilts as if dry. Keep the pot at least 15 cm back from the glass during cold months, and never place it directly above a radiator, where the blast of hot, dry air creates a desiccating microclimate. In summer, air-conditioning vents pose a similar risk: the rapid temperature swing and air movement strip humidity and can cause leaf curl identical to winter damage.</p><h3>Humidity</h3><p>This is the make-or-break parameter. Marantas demand ambient humidity of 60%\u201380%. A centrally heated living room in a Northern European or North American winter can drop to 25%\u201335% relative humidity\u2014drier than a desert. At these levels, the leaf stomata remain open to photosynthesise, but transpiration outpaces the root\u2019s ability to pull water from the soil. The leaf margins desiccate first, turning brown and crispy, while the leaf blade curls to reduce surface area. A pebble tray or occasional misting is simply not enough; you need a room humidifier to reliably lift the humidity into the 50%+ range. Grouping several tropical plants together also creates a beneficial microclimate as they collectively transpire moisture into the air. For a complete strategy comparison, see humidity tray vs humidifier. Bathrooms and kitchens naturally maintain higher humidity, making them ideal prayer plant sanctuaries.</p><h3>Watering</h3><p>Marantas prefer consistently moist soil, but not soggy. Use the touch test: when the top 2 cm of soil feels barely damp, water thoroughly with tepid filtered water until it runs from the drainage holes. Tap water is often fluoridated and chlorinated; these elements accumulate in the leaf tips and cause yellow-brown necrosis. Filtered or distilled water prevents this fluoride toxicity. In winter, allow the topsoil to dry just a little more between waterings because the plant\u2019s metabolic rate slows in low light and cooler temperatures, reducing water uptake. Overwatering in winter chills the saturated root ball and encourages root rot fungi. Always empty the saucer after 20 minutes to prevent the pot from reabsorbing water.</p><h3>Soil</h3><p>Choose a peat-based mix that mimics the forest floor\u2014moisture-retentive yet airy. A reliable recipe is 50% peat moss or coco coir, 25% perlite, and 25% fine orchid bark. Peat holds moisture and provides the slight acidity Marantas love (pH 5.5\u20136.5). Perlite and bark create macro-pores for oxygen exchange, preventing the compaction that suffocates roots and triggers anaerobic rot. Heavy, straight compost can quickly lead to severe root rot for these shallow-rooted plants. When repotting, gently tease out the roots and use fresh mix; never bury the crown deeper than it was originally growing.</p><h2>Fertilizer</h2><p>Feed with a balanced water-soluble fertilizer (NPK 10-10-10 or similar) diluted to half strength every 4 weeks from March through September. During the dark winter months, stop feeding entirely\u2014the plant enters a semi-dormancy where it can\u2019t use extra nutrients, and salts will build up in the soil, burning root tips. If you see a white crust on the soil surface, flush the pot with plain water to leach out excess salts. Organic options like seaweed emulsion provide gentle micronutrients without salt buildup.</p><h2>Propagation</h2><p>Maranta propagates easily from stem cuttings in water or moist soil. Snip a 10 cm length of stem just below a node and remove the bottom leaves. Place in a jar of filtered water in bright, warm light. Roots emerge within 2-3 weeks. Pot up when roots are 3-4 cm long, and cover with a clear plastic bag for the first week to maintain high humidity while the cutting establishes. Division of the rhizome during repotting is another reliable method\u2014simply separate a clump with several leaves and roots, and pot it up separately.</p><h2>Repotting</h2><p>Repot every 1-2 years in early spring. Signs that it\u2019s time include roots circling the drainage holes, water rushing straight through without moistening the soil, or the plant toppling over. Select a pot only 2-3 cm wider; Marantas have shallow root systems and excess soil holds water too long, promoting rot. After repotting, water lightly and keep in a shaded, humid spot for a week to minimize transplant shock. For a deeper dive into preventing post-repotting decline, read our repotting shock rescue guide.</p><h2>Toxicity</h2><p>Maranta leuconeura is completely non-toxic to cats, dogs, and humans, according to the ASPCA. It\u2019s one of the safest decorative houseplants for homes with curious pets. No special handling is required beyond washing hands after gardening.</p><h2>Common Problems</h2><p><strong>Brown, crispy leaf edges:</strong> Low humidity or fluoride toxicity. Raise humidity above 50% and water with filtered water. Trim affected leaves. <strong>Leaves not praying (failing to fold up at night):</strong> Insufficient light or continuous artificial light disrupting the day/night cycle. Move to a brighter spot with natural light rhythm. <strong>Yellowing lower leaves:</strong> Overwatering or cold draft; check soil moisture and temperature near the pot. <strong>Fine webbing on leaves:</strong> Spider mites, which thrive in dry air. Spray with neem oil and boost humidity immediately. <strong>Mushy stems near soil:</strong> Root rot from waterlogged, cold soil. Unpot, trim away black roots, and repot in fresh, dry mix.</p>",
+    "quickAnswer": "Provide bright indirect light, keep soil evenly moist but not soggy, and maintain high humidity above 60% to prevent brown leaf edges. Protect from cold window drafts and radiator heat. Use filtered water and a peat-based well-draining mix. Maranta is pet-safe and ideal for humid bathrooms.",
+    "ogImage": "/assets/images/maranta-prayer-plant-care.webp",
+    "ogImageAlt": "Close-up of a Maranta leuconeura leaf with red veins and light green markings, resting on a white marble surface.",
+    "heroImage": "/assets/images/maranta-prayer-plant-care.webp",
+    "heroImageAlt": "Maranta prayer plant in a terracotta pot on a wooden shelf, with leaves folded slightly upwards in the evening light.",
+    "featuredImageAlt": "Top-down view of a lush Maranta leuconeura 'Lemon Lime' in a white ceramic pot on a desk, surrounded by a humidifier and pebble tray.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Leaves curling with brown crispy edges and no nightly prayer movement",
+            "diagnosis": "Severe low humidity (below 40%) caused by central heating or drafts, combined with possible fluoride toxicity from tap water",
+            "treatment": "Move plant to a spot with stable humidity above 60%; install a room humidifier. Water only with filtered or distilled water. Trim damaged leaves to redirect energy to new growth.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Nyctinasty",
+            "definition": "The circadian rhythmic movement of plants in response to the onset of darkness, as seen in the upward folding of Maranta leaves at night. Controlled by turgor pressure changes in the pulvinus, it optimises light capture during the day and reduces moisture loss at night."
+        },
+        {
+            "term": "Relative humidity",
+            "definition": "The amount of water vapour present in air expressed as a percentage of the amount needed for saturation at the same temperature. Houseplants lose water through transpiration faster when relative humidity is low, leading to leaf margin burn."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Maranta Variety Comparison",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Size"
+        ],
+        "rows": [
+            [
+                "Maranta leuconeura 'Erythroneura' (Red Vein)",
+                "Deep red veins with herringbone pattern; classic prayer plant",
+                "25-30 cm tall, 30-45 cm wide"
+            ],
+            [
+                "Maranta leuconeura 'Lemon Lime'",
+                "Lime-green veins on dark green leaves; tolerates slightly lower light",
+                "20-25 cm tall, 30-40 cm wide"
+            ],
+            [
+                "Maranta leuconeura 'Kim' (Cat Moustache)",
+                "Purple spots and pale green blotches; compact growth habit",
+                "15-20 cm tall, 25-30 cm wide"
+            ]
+        ]
+    },
+    "h1": "How to Grow and Care for a Maranta Prayer Plant Indoors",
+    "breadcrumbName": "Maranta Prayer Plant Care",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "brown-crispy-tips-houseplants",
+        "humidity-tray-vs-humidifier-houseplants",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Using tap water\u2014maranta is extraordinarily sensitive to chlorine, fluoride, and dissolved minerals, and brown leaf edges appear within days of a single tap water watering. Rainwater, distilled, or water left out for 24 hours are the only safe options."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The nightly 'praying' movement (leaves folding upward) is one of the most reliable health indicators for this plant\u2014when movement stops during normal daylight hours, it signals stress from drought, cold, or root problems before any visible damage appears. Movement is the early warning system."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry homes below 50% humidity, the leaves curl inward and the praying movement diminishes\u2014the plant is conserving moisture from its own leaf surface. A bathroom with bright indirect light, or a humidifier running nearby, is the most practical solution for most households."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "prayer plant humidity requirements",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "maranta brown leaf edges solution",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to fix prayer plant not praying",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "maranta leuconeura soil mix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "prayer plant winter care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "non-toxic plants for pets",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Maranta Prayer Plant Care",
+    "summary": "Maranta leuconeura is a vibrant prayer plant featuring intricately patterned leaves that fold upward at night. Master indirect light management, high-humidity maintenance, and filtered water routines to keep foliage pristine.",
+    "keyTakeaways": [
+        "Provide bright, indirect light to maintain vivid red-veined foliar patterns.",
+        "Keep peat-perlite potting mix consistently moist without allowing standing water.",
+        "Maintain ambient relative humidity above 60% to prevent marginal leaf crisping.",
+        "Irrigate with filtered or distilled water to avoid fluoride-induced tip chlorosis."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 15,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen rhizomatous perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep soil consistently moist but never waterlogged.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60% to 80%",
+        "temperature": "65\u00b0F - 80\u00b0F (18\u00b0C - 27\u00b0C)",
+        "matureSize": "25-30 cm (10-12 in)",
+        "growthRate": "Moderate",
+        "soil": "Well-draining, peat-based potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Diluted balanced fertilizer every two weeks in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or wide shallow pot",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Brazilian tropical forests",
+        "usdaZones": "11-12",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/maranta-prayer-plant-care/",
+    "petSafe": {
+        "cat": true,
+        "dog": true,
+        "sources": []
+    },
+    "contentText": "You've likely brought home a Maranta with those mesmerising red-veined leaves, only to watch them curl inward and develop dry, brown edges within a fortnight\u2014often because the invisible dry air from your central heating is pulling moisture out of the leaves faster than the roots can replenish it. This guide walks you through the precise environmental tweaks that stop the crisping, revive the nightly leaf folding, and keep your prayer plant lush through every winter. Light Marantas are understory plants that evolved to capture bright but diffused light through the forest canopy. Place yours in an east or north-facing window where it receives gentle morning sun and indirect light the rest of the day. Direct afternoon sun will scorch the thin, papery leaves, bleaching the vivid venation and leaving behind permanent beige patches. In the depth of a UK or North American winter, when daylight drops to just 7-8 hours and the sun sits low, the plant may become leggy and the \u2018prayer\u2019 movement may weaken. This happens because the light-sensitive pulvinus\u2014a swollen motor organ at the leaf base\u2014no longer receives the strong blue-wavelength signal that triggers the turgor pressure change driving nyctinasty. To compensate, move the pot closer to the window (without touching cold glass) or supplement with a full-spectrum LED grow light for 10-12 hours daily. Rotate the pot a quarter turn weekly to keep growth even, as Marantas lean dramatically towards the light source. Temperature Prayer plants thrive in steady warmth between 18\u00b0C and 24\u00b0C (65\u00b0F\u201375\u00b0F). They can survive a brief dip to 10\u00b0C (50\u00b0F) but prolonged cold, especially when combined with wet soil, kills the roots. The real menace in a Western home is the freezing winter window draft. Even on a double-glazed sill, the temperature can plummet near the pane overnight, chilling the root zone and causing leaf drop within 24 hours. Cold damages the semi-permeable cell membranes in the roots, disrupting water uptake even though the soil is moist\u2014the plant wilts as if dry. Keep the pot at least 15 cm back from the glass during cold months, and never place it directly above a radiator, where the blast of hot, dry air creates a desiccating microclimate. In summer, air-conditioning vents pose a similar risk: the rapid temperature swing and air movement strip humidity and can cause leaf curl identical to winter damage. Humidity This is the make-or-break parameter. Marantas demand ambient humidity of 60%\u201380%. A centrally heated living room in a Northern European or North American winter can drop to 25%\u201335% relative humidity\u2014drier than a desert. At these levels, the leaf stomata remain open to photosynthesise, but transpiration outpaces the root\u2019s ability to pull water from the soil. The leaf margins desiccate first, turning brown and crispy, while the leaf blade curls to reduce surface area. A pebble tray or occasional misting is simply not enough; you need a room humidifier to reliably lift the humidity into the 50%+ range. Grouping several tropical plants together also creates a beneficial microclimate as they collectively transpire moisture into the air. For a complete strategy comparison, see humidity tray vs humidifier. Bathrooms and kitchens naturally maintain higher humidity, making them ideal prayer plant sanctuaries. Watering Marantas prefer consistently moist soil, but not soggy. Use the touch test: when the top 2 cm of soil feels barely damp, water thoroughly with tepid filtered water until it runs from the drainage holes. Tap water is often fluoridated and chlorinated; these elements accumulate in the leaf tips and cause yellow-brown necrosis. Filtered or distilled water prevents this fluoride toxicity. In winter, allow the topsoil to dry just a little more between waterings because the plant\u2019s metabolic rate slows in low light and cooler temperatures, reducing water uptake. Overwatering in winter chills the saturated root ball and encourages root rot fungi. Always empty the saucer after 20 minutes to prevent the pot from reabsorbing water. Soil Choose a peat-based mix that mimics the forest floor\u2014moisture-retentive yet airy. A reliable recipe is 50% peat moss or coco coir, 25% perlite, and 25% fine orchid bark. Peat holds moisture and provides the slight acidity Marantas love (pH 5.5\u20136.5). Perlite and bark create macro-pores for oxygen exchange, preventing the compaction that suffocates roots and triggers anaerobic rot. Heavy, straight compost can quickly lead to severe root rot for these shallow-rooted plants. When repotting, gently tease out the roots and use fresh mix; never bury the crown deeper than it was originally growing. Fertilizer Feed with a balanced water-soluble fertilizer (NPK 10-10-10 or similar) diluted to half strength every 4 weeks from March through September. During the dark winter months, stop feeding entirely\u2014the plant enters a semi-dormancy where it can\u2019t use extra nutrients, and salts will build up in the soil, burning root tips. If you see a white crust on the soil surface, flush the pot with plain water to leach out excess salts. Organic options like seaweed emulsion provide gentle micronutrients without salt buildup. Propagation Maranta propagates easily from stem cuttings in water or moist soil. Snip a 10 cm length of stem just below a node and remove the bottom leaves. Place in a jar of filtered water in bright, warm light. Roots emerge within 2-3 weeks. Pot up when roots are 3-4 cm long, and cover with a clear plastic bag for the first week to maintain high humidity while the cutting establishes. Division of the rhizome during repotting is another reliable method\u2014simply separate a clump with several leaves and roots, and pot it up separately. Repotting Repot every 1-2 years in early spring. Signs that it\u2019s time include roots circling the drainage holes, water rushing straight through without moistening the soil, or the plant toppling over. Select a pot only 2-3 cm wider; Marantas have shallow root systems and excess soil holds water too long, promoting rot. After repotting, water lightly and keep in a shaded, humid spot for a week to minimize transplant shock. For a deeper dive into preventing post-repotting decline, read our repotting shock rescue guide. Toxicity Maranta leuconeura is completely non-toxic to cats, dogs, and humans, according to the ASPCA. It\u2019s one of the safest decorative houseplants for homes with curious pets. No special handling is required beyond washing hands after gardening. Common Problems Brown, crispy leaf edges: Low humidity or fluoride toxicity. Raise humidity above 50% and water with filtered water. Trim affected leaves. Leaves not praying (failing to fold up at night): Insufficient light or continuous artificial light disrupting the day/night cycle. Move to a brighter spot with natural light rhythm. Yellowing lower leaves: Overwatering or cold draft; check soil moisture and temperature near the pot. Fine webbing on leaves: Spider mites, which thrive in dry air. Spray with neem oil and boost humidity immediately. Mushy stems near soil: Root rot from waterlogged, cold soil. Unpot, trim away black roots, and repot in fresh, dry mix.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/maranta-prayer-plant-care/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

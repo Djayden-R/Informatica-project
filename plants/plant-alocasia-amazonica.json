@@ -1,0 +1,338 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-alocasia-amazonica",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "alocasia-amazonica",
+    "seoTitle": "Alocasia Amazonica Care: Fix Yellow Leaves & Dormancy",
+    "metaDescription": "Alocasia Amazonica needs precise humidity and watering to avoid yellow leaves. Find out how to manage winter dormancy and keep foliage healthy indoors.",
+    "featuredImage": "/assets/images/alocasia-amazonica.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "humidity-loving",
+        "toxic-to-pets",
+        "high-maintenance",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Alocasia",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Alocasia",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Alocasia x amazonica (commonly sold as 'Polly')",
+        "family": "Araceae",
+        "origin": "Hybrid (Asian rainforest ancestry)",
+        "type": "Evergreen rhizomatous perennial",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Statement foliage",
+            "Humid conservatories",
+            "Bright, warm rooms"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "hard",
+        "placement": "Bright, indirect light in a very warm, humid room. Keep far away from cold windows and drafts.",
+        "watering": "Keep the soil slightly moist but never waterlogged. Extremely susceptible to root rot.",
+        "soil": "A chunky, highly aerated aroid mix. Heavy peat soils will kill it.",
+        "pruning": "Cut fully yellow or dead leaves near the base of the stem. Do not cut green leaves.",
+        "toxicity": "toxic",
+        "toxicityNote": "Highly toxic to cats, dogs, and humans due to calcium oxalate crystals. Causes severe oral irritation and swelling.",
+        "bestFor": "Experienced indoor gardeners who can provide consistent warmth and high humidity."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "1-2 feet indoors",
+        "matureSpread": "1-2 feet",
+        "lifeCycle": "Perennial (goes dormant in winter)",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 90\u00b0F (15\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 80%",
+            "survivable": "50% - 90%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.0"
+        }
+    },
+    "lighting": {
+        "description": "Requires bright, indirect light to maintain its striking leaf coloration. Direct sun will severely scorch the leaves, while low light will cause it to drop leaves and go dormant.",
+        "sunlightHours": "4-8 hours indirect",
+        "intensity": "bright",
+        "indoorWindow": "East-facing or slightly pulled back from a south or west-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "high",
+        "phosphateDemand": "moderate",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Heavy feeder during the active growing season (spring/summer).",
+        "fertilizerFrequency": "Every 2 weeks during spring and summer with a balanced liquid fertilizer at half strength.",
+        "organicOptions": "Top dress with worm castings in early spring."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Alocasias have thick, fleshy roots that rot incredibly fast in dense, waterlogged soil. A chunky aroid mix is mandatory."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Extremely prone to spider mites, especially when the indoor air is dry (like during winter with central heating)."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering",
+        "calculator-humidity"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Alocasia Amazonica dropping leaves?",
+            "answer": "This is very common. If you bring it home and it drops a leaf, it's adjusting to the shock. Also, many Alocasias can only support a certain number of leaves at a time; it is normal for the oldest leaf to turn yellow and die as a new one unfurls. If all leaves drop in winter, it has gone dormant."
+        },
+        {
+            "question": "Is the African Mask Plant toxic to cats?",
+            "answer": "Yes. It is highly toxic to both cats and dogs due to insoluble calcium oxalate crystals. Keep it completely out of reach."
+        },
+        {
+            "question": "Why did my Alocasia die in the winter?",
+            "answer": "It probably didn't die! Alocasias go dormant when temperatures drop and daylight decreases. If all the leaves die back, do not throw the pot away. Move it to a cool, dark place, barely water it, and wait for spring. It will grow back from the corm."
+        },
+        {
+            "question": "How do I prevent spider mites on my Alocasia?",
+            "answer": "Spider mites thrive in hot, dry air. Keep the humidity high (above 60%) and regularly wipe down the large leaves with a damp cloth or neem oil solution to deter pests."
+        },
+        {
+            "question": "What kind of soil does an Alocasia Amazonica need?",
+            "answer": "It needs a chunky, well-aerated aroid mix. Combine equal parts potting soil, orchid bark, and perlite. Never use straight potting soil, as it holds too much water and will cause root rot."
+        }
+    ],
+    "shortDesc": "The Alocasia Amazonica (African Mask Plant) is a stunning but demanding houseplant. It requires high humidity, warmth, and careful watering to prevent root rot and leaf drop.",
+    "content": "<h2>Overview</h2><p>The Alocasia Amazonica, commonly sold as the \"African Mask Plant\" or \"Alocasia Polly,\" is famous for its dramatic, arrow-shaped, dark green leaves with bold, white-to-pale-green veins. Despite the name \"African Mask,\" it is not from Africa; it is a hybrid created in the 1950s in Florida, bred from Asian Alocasia species.</p><p>While it is visually spectacular, it is notorious for breaking the hearts of beginner plant parents. It is demanding, strictly requiring the warm, humid conditions of a tropical rainforest. In a typical Western home with dry winter air from central heating, it is highly prone to pest infestations, root rot, and dramatic leaf drop. However, if you understand its dormancy cycle and humidity needs, you can successfully grow this striking statement plant.</p><h3>Light Requirements</h3><p>Alocasia Amazonica requires bright, indirect light. It must be protected from direct, hot afternoon sunlight, which will scorch its dark leaves. However, if placed in a dim corner, the plant will stop growing, the vibrant veins will fade, and it will eventually drop its leaves and go dormant. An east-facing window is ideal.</p><h3>Watering and Root Rot</h3><p>Watering is the trickiest part of Alocasia care. They have thick, fleshy roots that need constant access to moisture but will rot rapidly if deprived of oxygen in soggy soil. <strong>The soil must never stay soaking wet.</strong> Allow the top 2 to 3 inches of soil to dry out before watering again. During the winter, when the plant is not actively growing (or is fully dormant), reduce watering significantly.</p><h3>Temperature and Drafts</h3><p>This is a tropical plant that demands warmth. It should be kept in temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). If the temperature drops below 60\u00b0F (15\u00b0C), the plant may trigger its natural dormancy cycle and begin dropping leaves. Keep it completely away from drafty windows, exterior doors, and air conditioning vents.</p><h3>Humidity: A Strict Requirement</h3><p>Alocasias hate dry air. While they can survive at 50% humidity, they will thrive and look their best at 60% to 80% humidity. In a centrally heated home during winter, ambient humidity can plummet to 20%. You must use a humidifier nearby. If the air is too dry, the leaf edges will turn crispy and brown, and the plant becomes a magnet for spider mites.</p><h3>Soil and Potting: The Aroid Mix</h3><p>Do not plant an Alocasia in standard, heavy potting soil. It requires a chunky, highly aerated \"aroid mix.\" You can make this at home by combining equal parts high-quality potting soil, orchid bark, and coarse perlite. This mixture allows water to flow through quickly, providing moisture without suffocating the roots.</p><h2>The Dormancy Cycle</h2><p>The most common mistake new Alocasia owners make is throwing the plant away when it drops all its leaves in the winter. <strong>This is normal dormancy.</strong> In response to shorter days and cooler temperatures, the plant may let all its foliage die back to conserve energy in its underground corm (bulb).</p><p>If this happens, do not panic. Cut back the dead foliage, move the pot to a cool, dark place, and reduce watering to just once every few weeks (barely moistening the soil so the corm doesn't desiccate). In the spring, when temperatures rise, bring it back into bright light, resume normal watering, and it will sprout new leaves.</p><h2>Toxicity</h2><p>Alocasia Amazonica is highly toxic to cats, dogs, and humans. It contains insoluble calcium oxalate crystals. If chewed or swallowed, it causes severe burning, swelling, and irritation of the mouth, throat, and GI tract. Keep it elevated and completely out of reach of pets and small children.</p><h2>Common Problems</h2><p><strong>Spider Mites:</strong> Alocasias are spider mite magnets. These tiny pests weave fine webs on the undersides of the leaves and cause yellow stippling. They thrive in dry air. Prevent them by keeping humidity high and regularly wiping down the large leaves with a damp cloth or neem oil.</p><p><strong>Yellowing Leaves (One at a time):</strong> If the plant is actively growing and the oldest, outermost leaf turns yellow and droops as a new leaf unfurls, this is perfectly normal. The plant is reabsorbing nutrients from the old leaf. Only cut it off once it is completely yellow and limp.</p><p><strong>Yellowing Leaves (Multiple/All):</strong> If multiple leaves turn yellow simultaneously and the soil is wet, you have overwatered and caused root rot. Check the roots immediately and repot in fresh, chunky soil.</p>",
+    "quickAnswer": "Alocasia Amazonica requires bright, indirect light, high humidity, and a chunky, fast-draining aroid soil mix. If it drops all its leaves in winter, don't throw it away \u2014 it has likely gone dormant and will return with fresh growth once spring arrives.",
+    "ogImage": "/assets/images/alocasia-amazonica.webp",
+    "ogImageAlt": "Dramatic dark green arrow-shaped leaves of the Alocasia Amazonica with bold white veins",
+    "heroImage": "/assets/images/alocasia-amazonica.webp",
+    "heroImageAlt": "Close up of the striking foliage of an African Mask Plant",
+    "featuredImageAlt": "Alocasia Amazonica as a statement plant in a bright indoor room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-09-13",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Plant drops all leaves in late autumn or winter",
+            "diagnosis": "Natural winter dormancy triggered by cold temperatures and low light.",
+            "treatment": "Do not throw it away. Reduce watering significantly, keep the corm dry but not desiccated, and wait for spring growth.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Corm",
+            "definition": "A short, vertical, swollen underground plant stem that serves as a storage organ used by some plants to survive winter or other conditions such as summer drought."
+        },
+        {
+            "term": "Dormancy",
+            "definition": "A period in a plant's life cycle when growth, development, and (in animals) physical activity are temporarily stopped to conserve energy."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Indoor Alocasia Species Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Appearance",
+            "Difficulty"
+        ],
+        "rows": [
+            [
+                "Alocasia Amazonica (Polly)",
+                "Dark green, arrow-shaped, white veins",
+                "Hard"
+            ],
+            [
+                "Alocasia Zebrina",
+                "Arrow-shaped leaves, zebra-striped stems",
+                "Hard"
+            ],
+            [
+                "Alocasia Black Velvet",
+                "Thick, velvety, almost black leaves",
+                "Moderate to Hard"
+            ]
+        ]
+    },
+    "h1": "Alocasia Amazonica Care: Preventing Yellow Leaves & Managing Dormancy",
+    "breadcrumbName": "Alocasia Amazonica Care",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "topics:watering",
+        "houseplant-leaves-turning-yellow"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Watering on a fixed schedule instead of checking soil moisture\u2014owners often mistake drooping leaves for thirst when the real cause is overwatering and early root rot. Alocasias droop when roots can't uptake water, whether from drought or from rot, so always check the soil before reaching for the watering can."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It goes through dormancy even indoors in winter, dropping leaves no matter how good the care\u2014the rhizome is alive and resting, not dying. Resume normal care in spring and new growth will emerge from the base."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In centrally heated homes with dry air, spider mites colonize the undersides of leaves within weeks. A humidifier or pebble tray is non-negotiable to prevent both pest infestations and leaf browning."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "african mask plant care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia polly care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for alocasia amazonica",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia yellow leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "elephant ear indoor",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Alocasia Amazonica",
+    "summary": "Alocasia \u00d7 amazonica is a striking hybrid featuring dark green, arrowhead-shaped leaves with prominent white veins and scalloped edges. Master high-humidity management, aerated aroid soils, and seasonal dormancy care.",
+    "keyTakeaways": [
+        "Maintain relative humidity above 60% and provide bright, indirect sunlight.",
+        "Water when the top inch of aerated aroid mix dries; avoid complete desiccation.",
+        "Anticipate winter dormancy by reducing watering when temperatures decline.",
+        "Inspect leaf undersides regularly for spider mites in dry indoor air."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-09-13",
+    "plantHero": {
+        "plantType": "Evergreen rhizomatous perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Keep the soil slightly moist but never waterlogged.",
+        "drynessThreshold": 25,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "1-2 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Chunky aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Corm division",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Hybrid (Asian rainforest ancestry)",
+        "usdaZones": "10-12",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://blackwaterplants.com/blogs/plant-care-guides/alocasia-care"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": false,
+        "aboutEntities": [
+            "humidity",
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/alocasia-amazonica/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water when the top 1 to 2 inches of soil feel dry to the touch, ensuring the medium remains evenly moist but never waterlogged. Rather than following a strict calendar schedule, adjust your watering based on ambient light and seasonal growth, allowing excess moisture to drain thoroughly from the container."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://blackwaterplants.com/blogs/plant-care-guides/alocasia-care"
+        ]
+    },
+    "contentText": "Overview The Alocasia Amazonica, commonly sold as the \"African Mask Plant\" or \"Alocasia Polly,\" is famous for its dramatic, arrow-shaped, dark green leaves with bold, white-to-pale-green veins. Despite the name \"African Mask,\" it is not from Africa; it is a hybrid created in the 1950s in Florida, bred from Asian Alocasia species. While it is visually spectacular, it is notorious for breaking the hearts of beginner plant parents. It is demanding, strictly requiring the warm, humid conditions of a tropical rainforest. In a typical Western home with dry winter air from central heating, it is highly prone to pest infestations, root rot, and dramatic leaf drop. However, if you understand its dormancy cycle and humidity needs, you can successfully grow this striking statement plant. Light Requirements Alocasia Amazonica requires bright, indirect light. It must be protected from direct, hot afternoon sunlight, which will scorch its dark leaves. However, if placed in a dim corner, the plant will stop growing, the vibrant veins will fade, and it will eventually drop its leaves and go dormant. An east-facing window is ideal. Watering and Root Rot Watering is the trickiest part of Alocasia care. They have thick, fleshy roots that need constant access to moisture but will rot rapidly if deprived of oxygen in soggy soil. The soil must never stay soaking wet. Allow the top 2 to 3 inches of soil to dry out before watering again. During the winter, when the plant is not actively growing (or is fully dormant), reduce watering significantly. Temperature and Drafts This is a tropical plant that demands warmth. It should be kept in temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). If the temperature drops below 60\u00b0F (15\u00b0C), the plant may trigger its natural dormancy cycle and begin dropping leaves. Keep it completely away from drafty windows, exterior doors, and air conditioning vents. Humidity: A Strict Requirement Alocasias hate dry air. While they can survive at 50% humidity, they will thrive and look their best at 60% to 80% humidity. In a centrally heated home during winter, ambient humidity can plummet to 20%. You must use a humidifier nearby. If the air is too dry, the leaf edges will turn crispy and brown, and the plant becomes a magnet for spider mites. Soil and Potting: The Aroid Mix Do not plant an Alocasia in standard, heavy potting soil. It requires a chunky, highly aerated \"aroid mix.\" You can make this at home by combining equal parts high-quality potting soil, orchid bark, and coarse perlite. This mixture allows water to flow through quickly, providing moisture without suffocating the roots. The Dormancy Cycle The most common mistake new Alocasia owners make is throwing the plant away when it drops all its leaves in the winter. This is normal dormancy. In response to shorter days and cooler temperatures, the plant may let all its foliage die back to conserve energy in its underground corm (bulb). If this happens, do not panic. Cut back the dead foliage, move the pot to a cool, dark place, and reduce watering to just once every few weeks (barely moistening the soil so the corm doesn't desiccate). In the spring, when temperatures rise, bring it back into bright light, resume normal watering, and it will sprout new leaves. Toxicity Alocasia Amazonica is highly toxic to cats, dogs, and humans. It contains insoluble calcium oxalate crystals. If chewed or swallowed, it causes severe burning, swelling, and irritation of the mouth, throat, and GI tract. Keep it elevated and completely out of reach of pets and small children. Common Problems Spider Mites: Alocasias are spider mite magnets. These tiny pests weave fine webs on the undersides of the leaves and cause yellow stippling. They thrive in dry air. Prevent them by keeping humidity high and regularly wiping down the large leaves with a damp cloth or neem oil. Yellowing Leaves (One at a time): If the plant is actively growing and the oldest, outermost leaf turns yellow and droops as a new leaf unfurls, this is perfectly normal. The plant is reabsorbing nutrients from the old leaf. Only cut it off once it is completely yellow and limp. Yellowing Leaves (Multiple/All): If multiple leaves turn yellow simultaneously and the soil is wet, you have overwatered and caused root rot. Check the roots immediately and repot in fresh, chunky soil.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/alocasia-amazonica/",
+        "lastReviewed": "2026-09-13",
+        "license": "CC BY 4.0"
+    }
+}

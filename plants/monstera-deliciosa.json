@@ -1,0 +1,298 @@
+{
+    "quickAnswer": "Monstera Deliciosa (Swiss Cheese Plant) needs bright indirect light, watering when the top 2 inches of soil dry out, and a moss pole for climbing support as it matures. Its signature split, fenestrated leaves develop with age and adequate light rather than any special technique. It's one of the most popular and forgiving large-leafed houseplants.",
+    "summary": "Monstera Deliciosa, widely known as the Swiss Cheese Plant, is prized for its large, glossy leaves that develop dramatic natural splits and holes as the plant matures under sufficient light. It's a relatively forgiving, fast-growing tropical vine when its core light and support needs are met.\n\nNew growth emerges without fenestrations if light is too low, since split leaf development is directly tied to both plant maturity and light exposure. Providing a moss pole for climbing support encourages larger, more mature leaves than trailing growth alone produces.",
+    "keyTakeaways": [
+        "Water when the top 2 inches of soil feel dry to the touch.",
+        "Provide bright indirect light for the largest, most fenestrated leaves.",
+        "Install a moss pole to support climbing and mature leaf development.",
+        "Wipe leaves periodically to remove dust and support photosynthesis.",
+        "Repot every 1-2 years as the root system fills its current container."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-07-27",
+    "schemaVersion": "2.0.0",
+    "id": "monstera-deliciosa",
+    "seoTitle": "Monstera Deliciosa Care",
+    "metaDescription": "Expert care guide and diagnostic data for the Swiss Cheese Plant. Learn how to properly water, light, and troubleshoot common issues.",
+    "commonName": "Swiss Cheese Plant",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Monstera",
+        "species": "deliciosa",
+        "nativeRange": "Central American Rainforests",
+        "growthHabit": "Epiphytic Vine"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00400",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00401",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00402",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2003",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00403",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 13,
+                "unit": "\u00c2\u00b0C",
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00404",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "sections": [
+        {
+            "id": "overview",
+            "content": "Monstera deliciosa is a tropical climbing vine in the Araceae family, native to tropical regions of southern Mexico and Central America. It is valued for its large, glossy leaves and naturally developing fenestrations. Young plants often produce smaller leaves with few or no splits, while mature plants can develop larger, deeply fenestrated leaves when grown with suitable light and climbing support."
+        },
+        {
+            "id": "watering",
+            "content": "Allow the upper 1\u20132 inches of the growing medium to dry before watering again. When watering, soak the soil thoroughly until excess water drains from the container, then empty standing water from the saucer. Avoid keeping the root zone consistently saturated. Watering frequency should be adjusted for light, temperature, container size, season, and drying speed rather than following a fixed schedule."
+        },
+        {
+            "id": "light",
+            "content": "Provide bright indirect light for vigorous growth and good development of mature foliage. Monstera deliciosa can tolerate moderate shade, but insufficient light may slow growth and reduce mature leaf development and fenestration. Protect the plant from prolonged exposure to intense direct midday sunlight, which can scorch the leaves."
+        },
+        {
+            "id": "soil",
+            "content": "Use a rich but well-draining growing medium that provides both moisture retention and adequate air around the roots. A suitable aroid-style mix can include quality potting soil combined with materials such as perlite, pumice, orchid bark, or similar components that improve drainage and aeration. Use a container with adequate drainage holes."
+        },
+        {
+            "id": "temperature",
+            "content": "Monstera deliciosa prefers warm indoor conditions and generally grows well around 18\u201327\u00b0C (65\u201381\u00b0F). Protect it from cold drafts and prolonged exposure to low temperatures. The plant can be damaged by cold conditions, particularly when temperatures remain substantially below its preferred range."
+        },
+        {
+            "id": "humidity",
+            "content": "Monstera deliciosa naturally favors high humidity and grows most vigorously in moisture-rich air. However, it adapts remarkably well to average indoor conditions, provided it receives sufficient bright, indirect light and proper soil moisture."
+        },
+        {
+            "id": "fertilizer",
+            "content": "Feed during active growth with a balanced houseplant fertilizer according to the product instructions. Avoid excessive fertilization because fertilizer salts can accumulate in the growing medium and contribute to leaf-edge damage or root stress. Reduce or pause feeding when growth slows substantially."
+        },
+        {
+            "id": "propagation",
+            "content": "Propagate Monstera deliciosa from stem cuttings containing at least one viable node. A cutting with an aerial root can establish readily, although an aerial root is not strictly required if the cutting contains a healthy node. Cuttings can be rooted in water, moist sphagnum moss, or another suitable propagation medium while providing warmth and indirect light."
+        },
+        {
+            "id": "toxicity",
+            "content": "Monstera deliciosa contains insoluble calcium oxalate crystals. Chewing or ingesting the plant can cause irritation and discomfort of the mouth and gastrointestinal tract in people and pets. Keep the plant away from children and animals that may chew on the foliage."
+        }
+    ],
+    "slug": "monstera-deliciosa",
+    "heroImage": "/assets/images/monstera-deliciosa-care-guide-og.webp",
+    "heroImageAlt": "Swiss Cheese Plant",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are my Monstera leaves turning yellow?",
+            "diagnosis": "Overwatering or underwatering (check soil)",
+            "treatment": "Adjust watering accordingly; ensure proper drainage.",
+            "prevention": "Water when top 2 inches are dry.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why aren't the leaves splitting (fenestrating)?",
+            "diagnosis": "Insufficient light or immature plant",
+            "treatment": "Give bright indirect light and allow it to climb; be patient.",
+            "prevention": "Provide good light and a moss pole.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning brown at the edges?",
+            "diagnosis": "Low humidity or inconsistent watering",
+            "treatment": "Increase humidity; water when topsoil is dry.",
+            "prevention": "Maintain moderate humidity and consistent watering.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are there small brown spots with yellow halos?",
+            "diagnosis": "Bacterial leaf spot or sunburn",
+            "treatment": "Remove affected leaves; improve airflow; avoid direct sun.",
+            "prevention": "Water at the base; avoid wetting leaves.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "communityFeedback": {
+        "enabled": true,
+        "reviews": [
+            {
+                "id": "review-test-001",
+                "status": "published",
+                "submittedAt": "2026-08-15",
+                "publishedAt": "2026-08-16",
+                "reviewerName": "Sarah T.",
+                "reviewerLocation": "London, UK",
+                "rating": 5,
+                "title": "A wonderful indoor plant",
+                "text": "This guide really helped me understand fenestration! I also realized I was underwatering it.",
+                "source": "email"
+            }
+        ]
+    },
+    "plantHero": {
+        "plantType": "Evergreen climbing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Water when the top 2-3 inches of soil are dry.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "10-15 feet indoors with support",
+        "growthRate": "Fast",
+        "soil": "Well-draining aroid mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly in spring and summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard with support",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Southern Mexico to Central America",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/cutleaf-philodendron"
+        ]
+    },
+    "taxonomy": {
+        "sciName": "Monstera deliciosa",
+        "family": "Araceae",
+        "taxonType": "species"
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/monstera-deliciosa/",
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "50\u00b0F - 90\u00b0F (10\u00b0C - 32\u00b0C)"
+        }
+    },
+    "breadcrumbName": "Swiss Cheese Plant",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/cutleaf-philodendron"
+        ]
+    },
+    "h1": "Swiss Cheese Plant Care Guide: Light, Watering & Growing Tips",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/monstera-deliciosa/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

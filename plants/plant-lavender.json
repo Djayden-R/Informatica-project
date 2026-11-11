@@ -1,0 +1,418 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-lavender",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "lavender",
+    "seoTitle": "Lavender Indoor Guide: Soil, Pruning & Fragrant Bloom Tips",
+    "metaDescription": "Lavender needs sandy soil and soak-and-dry watering to thrive indoors. Find out the essential pruning routine, full sun requirements, and how to grow.",
+    "featuredImage": "/assets/images/lavender-og.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "herbs",
+        "outdoor-plants",
+        "drought-tolerant",
+        "pollinator-friendly",
+        "fragrant",
+        "vastu"
+    ],
+    "references": [
+        {
+            "title": "Growing Lavender - University of Maryland Extension",
+            "url": "https://extension.umd.edu/resource/growing-lavender",
+            "doi": ""
+        },
+        {
+            "title": "Lavandula - Royal Horticultural Society",
+            "url": "https://www.rhs.org.uk/plants/lavandula",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Lavandula angustifolia",
+        "family": "Lamiaceae",
+        "origin": "Mediterranean Region",
+        "type": "Perennial Herb",
+        "nativeClimate": "Warm, dry summers and mild winters",
+        "commonUses": [
+            "Culinary",
+            "Aromatherapy",
+            "Ornamental landscaping",
+            "Pollinator gardens"
+        ]
+    },
+    "care": {
+        "difficulty": "moderate",
+        "placement": "Outdoor full sun (Requires excellent airflow)",
+        "watering": "Low: Let the soil dry out entirely between waterings. Highly susceptible to overwatering.",
+        "humidity": "low",
+        "soil": "Sandy, gravelly, well-draining soil. It thrives in poor, rocky conditions.",
+        "pruning": "Prune back by about one-third after flowering to keep it compact. Never cut into old, dead wood.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Lavender contains small amounts of linalool, which are mildly toxic to dogs and cats.",
+        "bestFor": "Gardeners with sunny, dry yards looking for a low-maintenance, fragrant perennial."
+    },
+    "vastu": {
+        "enabled": true,
+        "directions": [
+            "south"
+        ],
+        "rooms": [
+            "bedroom",
+            "balcony",
+            "garden"
+        ],
+        "light": [
+            "full-sun"
+        ],
+        "purposes": [
+            "peace",
+            "stress-relief",
+            "healing"
+        ],
+        "difficulty": "moderate",
+        "petFriendly": false,
+        "indoorSuitable": false,
+        "notes": "In modern Vastu, lavender is famous for its calming properties. Placing it in the South (or near a sunny bedroom window) brings a sense of tranquility, reduces stress, and promotes deep sleep.",
+        "sourceUrl": "https://www.rhs.org.uk/plants/lavandula"
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "1-3 feet (depending on variety)",
+        "matureSpread": "2-4 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Late Spring to Late Summer",
+        "containerFriendly": "yes",
+        "indoorCapable": "no (struggles significantly without intense outdoor sun)"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65-85\u00b0F (18-29\u00b0C)",
+            "survivable": "10-95\u00b0F (-12-35\u00b0C) depending on species"
+        },
+        "humidity": {
+            "recommended": "20-40%",
+            "survivable": "10-60%"
+        },
+        "soilPH": {
+            "recommended": "6.5-8.0 (Prefers slightly alkaline)",
+            "survivable": "6.0-8.5"
+        }
+    },
+    "lighting": {
+        "description": "Requires intense, direct sunlight to produce its signature oils and flowers.",
+        "sunlightHours": "6-8+ hours of direct sunlight daily",
+        "intensity": "high",
+        "indoorWindow": "south-facing (only if outdoors is impossible)",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "very low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "low",
+        "micronutrientNotes": "Lavender actually prefers poor soil. Too much fertilizer leads to floppy, weak growth and fewer flowers.",
+        "fertilizerFrequency": "Do not fertilize. A light top-dressing of compost in the spring is more than enough.",
+        "organicOptions": "A handful of crushed eggshells can help boost the soil's alkalinity."
+    },
+    "relationships": [
+        {
+            "target": "sunlight",
+            "type": "requirement",
+            "strength": 10,
+            "notes": "Without massive amounts of direct sun, the plant will become leggy, refuse to bloom, and likely rot."
+        },
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Lavender's worst enemy is wet feet. Heavy clay soil or overwatering will kill it quickly."
+        }
+    ],
+    "calculatorReferences": [
+        "plant-watering-calculator"
+    ],
+    "faq": [
+        {
+            "question": "Is lavender toxic to dogs or cats?",
+            "answer": "Lavender contains small amounts of linalool, which is mildly toxic to dogs, cats, and horses if eaten in large quantities. It generally only causes mild stomach upset, but it is best to deter pets from chewing on it."
+        },
+        {
+            "question": "How often should I water my outdoor lavender?",
+            "answer": "Once established, almost never. Lavender is incredibly drought-tolerant. Only water during extended dry spells, and even then, let the soil dry out bone-dry before giving it a deep, thorough soak."
+        },
+        {
+            "question": "Does lavender need fertilizer?",
+            "answer": "Not at all. In fact, feeding it can do more harm than good. Rich, heavily fertilized soil makes the plant push out floppy green leaves instead of tight, fragrant flower spikes."
+        },
+        {
+            "question": "When and how should I prune my lavender?",
+            "answer": "Give it a good haircut right after it finishes blooming in late summer. Cut back the green growth by about a third to keep it bushy. Never cut down into the brown, woody center of the plant."
+        },
+        {
+            "question": "Why is my lavender turning grey or brown at the base?",
+            "answer": "If the base is mushy and brown, that is root rot caused by overwatering or poor drainage. If it is just dry, hard wood, that is normal aging, which is why annual pruning is critical to keep it looking fresh."
+        },
+        {
+            "question": "Can I grow lavender indoors?",
+            "answer": "It is extremely difficult. Lavender needs intense, direct sunlight and excellent airflow, which houses usually lack. If you must try, use a south-facing window, a terracotta pot, and gritty cactus mix."
+        },
+        {
+            "question": "Why does my lavender have lots of green leaves but no flowers?",
+            "answer": "This is usually caused by too much fertilizer (especially nitrogen) or not receiving enough direct sunlight. Stop feeding the plant entirely and ensure no other plants or structures are shading it during the day."
+        },
+        {
+            "question": "How do I adjust my watering schedule for potted lavender vs. in-ground?",
+            "answer": "Potted lavender dries out faster than in-ground plants but is still highly susceptible to rot if overwatered. To calculate the exact watering frequency for your specific container size and local climate, use our Watering Calculator."
+        }
+    ],
+    "shortDesc": "A hardy, aromatic perennial herb prized for its purple flowers and soothing fragrance. Master its need for dry, rocky soil and intense sunshine.",
+    "content": "<h2>Overview</h2><p>If there's one herb that truly transforms a garden, it's lavender. Known for its unmistakable scent and striking purple spikes, this Mediterranean native is a magnet for bees and butterflies. While it looks delicate, it's actually incredibly tough\u2014provided you give it the right environment. </p><p>Lavender is famously easy to grow once established, but it has a reputation for dying suddenly because many people treat it like a typical thirsty garden flower. It prefers life on the dry side.</p><h2>Light and Placement</h2><p>Lavender is a sun-worshipper. It needs a minimum of 6 to 8 hours of direct, blazing sun every day. If you plant it in the shade, it will get leggy, lean toward the light, and refuse to flower. </p><p>Airflow is just as important as sunlight. Don't crowd your lavender plants too close to walls or other leafy shrubs. They need a breeze to keep their foliage dry and prevent fungal diseases.</p><h2>Watering Strategy</h2><p>Overwatering is the number one killer of lavender. These plants evolved in the dry, rocky hills of the Mediterranean, meaning they hate \"wet feet.\" Let the soil dry out completely between waterings. If you stick your finger into the soil and feel any moisture, walk away. </p><p>If you're growing it in a pot, make sure you use an unglazed terracotta pot, which allows the soil to breathe and dry out faster.</p><h2>Soil and Potting Mix</h2><p>Forget the rich, dark potting soil you use for your houseplants. Lavender wants poor, gritty, fast-draining soil. Mix standard potting soil with generous amounts of coarse sand, perlite, or even gravel.</p><p>It also prefers slightly alkaline soil. If your garden has heavy clay or highly acidic soil, you're better off growing your lavender in raised beds or containers where you can control the drainage.</p><h2>Pruning and Maintenance</h2><p>To keep your lavender looking like a neat, compact mound rather than a sprawling, woody mess, you have to prune it. Grab your shears right after the first flush of flowers fades in late summer. Cut the green growth back by about one-third. </p><p>A critical rule: never cut down into the old, brown, leafless wood. Lavender cannot easily generate new shoots from old wood, and cutting too deep can kill that section of the plant permanently.</p>",
+    "quickAnswer": "Lavender needs three things to thrive: full blazing sun, gritty fast-draining soil, and very little water. Never let it sit in soggy soil, and prune it back by a third every year after it blooms to keep it from getting woody.",
+    "ogImage": "/assets/images/lavender-og.webp",
+    "ogImageAlt": "A vibrant field of blooming purple lavender flowers under a sunny sky",
+    "heroImage": "/assets/images/lavender-og.webp",
+    "heroImageAlt": "Close up of healthy lavender spikes blooming in a sunny herb garden",
+    "featuredImageAlt": "Close up of healthy lavender spikes blooming in a sunny herb garden",
+    "category": "Herbs & Outdoor Plants",
+    "publishedAt": "2026-05-30",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Plant is turning brown, yellow, and mushy from the bottom up",
+            "diagnosis": "Root rot due to overwatering or heavy clay soil",
+            "treatment": "Stop watering immediately. If in a pot, repot into dry, sandy soil. If in the ground, you may need to dig it up and amend the soil with gravel.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Plant is splitting open in the middle and looks woody",
+            "diagnosis": "Lack of annual pruning",
+            "treatment": "You can't reverse old woody growth easily. Start pruning the green tips regularly to encourage bushiness, but do not cut into the dead wood.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Lots of green leaves but no flowers",
+            "diagnosis": "Too much fertilizer (nitrogen) or not enough sun",
+            "treatment": "Stop feeding the plant and ensure nothing is shading it out during the day.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "White, frothy foam on the stems",
+            "diagnosis": "Spittlebugs",
+            "treatment": "Usually harmless. Just blast them off with a strong jet of water from your hose.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Woody base",
+            "definition": "The thick, hard, brown stems that develop at the base of aging herbs like lavender. New growth rarely sprouts from this area."
+        },
+        {
+            "term": "Alkaline Soil",
+            "definition": "Soil with a pH above 7.0. Lavender prefers sweet (alkaline) soil and struggles in highly acidic environments."
+        },
+        {
+            "term": "Top-dressing",
+            "definition": "Applying a small layer of compost or grit to the surface of the soil around the base of the plant without digging it in."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Lavender Variety Comparison",
+        "headers": [
+            "Variety",
+            "Climate Tolerance",
+            "Fragrance Level",
+            "Best Use"
+        ],
+        "rows": [
+            [
+                "English (L. angustifolia)",
+                "Very Cold Hardy",
+                "Extremely High",
+                "Culinary, essential oils, drying"
+            ],
+            [
+                "French (L. dentata)",
+                "Warm Climates Only",
+                "Mild",
+                "Containers, landscaping"
+            ],
+            [
+                "Spanish (L. stoechas)",
+                "Warm Climates Only",
+                "Strong (pine-like)",
+                "Ornamental (distinct 'bunny ear' blooms)"
+            ],
+            [
+                "Lavandin (L. x intermedia)",
+                "Moderately Hardy",
+                "High (Camphor-heavy)",
+                "Sachets, wands, mass planting"
+            ]
+        ]
+    },
+    "h1": "Lavender Care Guide: Grow Fragrant Lavandula Indoors and Outdoors",
+    "breadcrumbName": "Lavender Care Guide",
+    "relatedEntitySlugs": [
+        "ultimate-lavender-growing-guide",
+        "sunlight",
+        "sowing-calendar",
+        "topics:watering"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Overwatering and using standard indoor potting mix\u2014lavender evolved in rocky Mediterranean hillsides with fast-draining, nutrient-poor soil, and regular potting mix retains far too much moisture, causing root rot within weeks. Mix in at least 50% perlite or grit to recreate fast-draining conditions."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "It needs a genuine cool winter dormancy (50\u201360\u00b0F) with minimal watering to rest and recharge for the next flowering season\u2014kept in a warm, brightly lit room year-round, it exhausts itself and typically declines after one season. Most indoor lavender failures stem from skipping this rest."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In low indoor light it becomes leggy and stops producing aromatic oils, growing green but scentless and refusing to bloom. It's genuinely better suited to an outdoor pot or a very sunny windowsill than as a permanent indoor houseplant in most homes."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "growing lavender",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "lavender watering",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "lavender pruning",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "how to care for lavender",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "English lavender",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "drought tolerant herbs",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Lavender",
+    "aliases": [
+        "how to care for Lavender",
+        "Lavender guide"
+    ],
+    "summary": "Lavandula angustifolia is an aromatic perennial herb that thrives in full sun, lean alkaline soils, and dry root conditions. Discover gritty soil preparation, conservative watering practices, and seasonal pruning to prevent woody decline.",
+    "keyTakeaways": [
+        "Plant in gritty, lean, well-draining alkaline soil within porous terracotta containers.",
+        "Provide at least 6 to 8 hours of direct, unfiltered sunlight daily.",
+        "Water deeply only when the potting mix has dried out completely.",
+        "Prune green growth back by one-third after flowering, avoiding cutting into old wood."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 10,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Perennial Herb",
+        "difficulty": "intermediate",
+        "light": "Full sun",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Let the soil dry out entirely between waterings. Highly susceptible to overwatering.",
+        "drynessThreshold": 100,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "20-40%",
+        "temperature": "65-85\u00b0F (18-29\u00b0C)",
+        "matureSize": "1-3 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Sandy, alkaline, well-draining mix",
+        "soilDrainage": "fast",
+        "fertilizer": "Requires very little fertilizer; once in spring if needed",
+        "repottingFrequency": "Annually",
+        "potPreference": "Terracotta",
+        "propagation": "Stem cuttings",
+        "flowering": true,
+        "floweringSeason": "Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Mediterranean Region",
+        "usdaZones": "5-9",
+        "seasonality": "warm-season",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/lavender/",
+    "sections": [
+        {
+            "id": "watering",
+            "content": "Water Lavender only when the top several inches of soil are dry to the touch, ensuring the medium drains rapidly and completely. As a Mediterranean herb built for dry conditions, it is highly sensitive to excess moisture and root rot caused by frequent watering."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/lavender"
+        ]
+    },
+    "contentText": "Overview If there's one herb that truly transforms a garden, it's lavender. Known for its unmistakable scent and striking purple spikes, this Mediterranean native is a magnet for bees and butterflies. While it looks delicate, it's actually incredibly tough\u2014provided you give it the right environment. Lavender is famously easy to grow once established, but it has a reputation for dying suddenly because many people treat it like a typical thirsty garden flower. It prefers life on the dry side. Light and Placement Lavender is a sun-worshipper. It needs a minimum of 6 to 8 hours of direct, blazing sun every day. If you plant it in the shade, it will get leggy, lean toward the light, and refuse to flower. Airflow is just as important as sunlight. Don't crowd your lavender plants too close to walls or other leafy shrubs. They need a breeze to keep their foliage dry and prevent fungal diseases. Watering Strategy Overwatering is the number one killer of lavender. These plants evolved in the dry, rocky hills of the Mediterranean, meaning they hate \"wet feet.\" Let the soil dry out completely between waterings. If you stick your finger into the soil and feel any moisture, walk away. If you're growing it in a pot, make sure you use an unglazed terracotta pot, which allows the soil to breathe and dry out faster. Soil and Potting Mix Forget the rich, dark potting soil you use for your houseplants. Lavender wants poor, gritty, fast-draining soil. Mix standard potting soil with generous amounts of coarse sand, perlite, or even gravel. It also prefers slightly alkaline soil. If your garden has heavy clay or highly acidic soil, you're better off growing your lavender in raised beds or containers where you can control the drainage. Pruning and Maintenance To keep your lavender looking like a neat, compact mound rather than a sprawling, woody mess, you have to prune it. Grab your shears right after the first flush of flowers fades in late summer. Cut the green growth back by about one-third. A critical rule: never cut down into the old, brown, leafless wood. Lavender cannot easily generate new shoots from old wood, and cutting too deep can kill that section of the plant permanently.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/lavender/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

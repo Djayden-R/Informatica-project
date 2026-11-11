@@ -1,0 +1,558 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-dracaena-marginata",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "dracaena-marginata",
+    "seoTitle": "Dracaena Marginata Care: Light, Water & Brown Tip Fixes",
+    "metaDescription": "Dracaena marginata (Madagascar dragon tree) care: light, watering, soil, and how to fix brown tips and soft canes, including fluoride and salt causes.",
+    "featuredImage": "/assets/images/dracaena-marginata.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Architectural Foliage",
+        "Drought Tolerant",
+        "Air Purifying",
+        "Office Plants",
+        "Dragon Tree"
+    ],
+    "references": [
+        {
+            "title": "Dracaena Production Guide (Foliage Plant Research)",
+            "source": "University of Florida IFAS Extension (Mid-Florida Research and Education Center)",
+            "url": "https://mrec.ifas.ufl.edu/foliage/folnotes/dracaena.htm"
+        },
+        {
+            "title": "Dracaena reflexa var. angustifolia (Dracaena marginata)",
+            "source": "North Carolina State University Extension Gardener Plant Toolbox",
+            "url": "https://plants.ces.ncsu.edu/plants/dracaena-reflexa-var-angustifolia/"
+        },
+        {
+            "title": "Plants of the World Online - Dracaena reflexa var. angustifolia",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Fluoride Toxicity in Foliage Plants",
+            "source": "Penn State Extension",
+            "url": "https://extension.psu.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Dracaena marginata",
+        "synonyms": [
+            "Dracaena reflexa var. angustifolia Baker",
+            "Pleomele marginata",
+            "Cordyline marginata"
+        ],
+        "family": "Asparagaceae",
+        "origin": "Madagascar and Mauritius",
+        "type": "Evergreen woody shrub / small tree",
+        "nativeClimate": "Subtropical dry forest and coastal scrubland",
+        "commonUses": [
+            "Architectural floor plant",
+            "Office and interior scape decor",
+            "Vertical accent specimen",
+            "Air-filtering foliage"
+        ],
+        "taxonType": "species"
+    },
+    "care": {
+        "difficulty": "beginner",
+        "placement": "Bright indirect light; keep back from hot, unshaded afternoon sun",
+        "watering": "Water when the top inch or two of soil is dry and avoid severe drying; use rainwater, distilled or reverse-osmosis water if tap water is fluoridated",
+        "soil": "Well-drained but moisture-retentive potting mix with added perlite, pumice or coarse sand; keep pH between 6.0 and 6.5",
+        "pruning": "Trim brown tips with clean scissors, leaving a thin brown edge; cut leggy canes across with a clean blade to encourage branching",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains steroidal saponins that disrupt gastrointestinal membranes, inducing vomiting (sometimes with blood), anorexia, excessive drooling, and dilated pupils in cats",
+        "bestFor": "Indoor growers seeking low-maintenance, sculptural indoor trees who use purified water"
+    },
+    "vastu": {
+        "enabled": true,
+        "direction": "East or South-East",
+        "benefits": "Channels upward vertical wood energy and sharp defensive clarity when positioned in bright living rooms or office entryways"
+    },
+    "growthCharacteristics": {
+        "growthRate": "slow",
+        "matureHeight": "About 4\u20136 feet indoors (pruning keeps it smaller); 10+ feet in frost-free climates outdoors",
+        "matureSpread": "2\u20133 feet crown diameter",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors; small fragrant white flowers in spring",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F\u201380\u00b0F (18\u00b0C\u201327\u00b0C)",
+            "survivable": "55\u00b0F\u201390\u00b0F (13\u00b0C\u201332\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40%\u201350%",
+            "survivable": "25%\u201365%"
+        },
+        "soilPH": {
+            "recommended": "6.0\u20136.5",
+            "survivable": "5.5\u20137.0"
+        }
+    },
+    "lighting": {
+        "description": "Thrives in bright, filtered indirect light. It tolerates lower light but grows slowly, drops lower leaves and stretches, and variegated cultivars need very bright light to hold their color. Related dracaenas are reported to stay attractive down to about 50 foot-candles but look best at roughly 100\u2013150 foot-candles or more.",
+        "sunlightHours": "4\u20136 hours of bright filtered light daily",
+        "intensity": "medium-to-bright indirect",
+        "indoorWindow": "East-facing window, or a few feet back from a south- or west-facing window behind a sheer curtain",
+        "shadeTolerance": "moderate (slower growth and leaf loss in dim rooms)"
+    },
+    "nutrients": {
+        "nitrogenDemand": "low",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Sensitive to fluoride, boron and soluble salts, which can all cause tip burn. Keep potting-mix pH between 6.0 and 6.5 and avoid fertilizers containing superphosphate (a fluoride source) or high boron.",
+        "fertilizerFrequency": "Light feeding every 6\u20138 weeks during active growth (spring and summer) at a conservative strength; none in winter",
+        "organicOptions": "Shallow surface dressing of aged worm castings once in early spring"
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Root and stem rot develop in waterlogged, oxygen-poor potting mix."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 6,
+            "notes": "Mites, along with mealybugs, scale and thrips, are common pests, especially in dry indoor air."
+        },
+        {
+            "target": "overwatering",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "A common cause of soft canes, rotten roots and leaf drop."
+        },
+        {
+            "target": "fluoride-toxicity",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Dracaenas are sensitive to fluoride from water, superphosphate fertilizers and some media; a pH of 6.0 to 6.5 helps limit its availability."
+        },
+        {
+            "target": "low-humidity",
+            "type": "vulnerability",
+            "strength": 5,
+            "notes": "Very dry air and drafts can worsen tip browning."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering",
+        "calculator-humidity",
+        "calculator-potting-mix",
+        "calculator-sunlight"
+    ],
+    "faq": [
+        {
+            "question": "Why are my Dragon Tree leaf tips turning brown and crispy?",
+            "answer": "Brown tips on a Dracaena marginata have several possible causes: fluoride in water, fertilizer (superphosphate) or potting mix, excess soluble salts, boron, dry air or drafts, and watering problems. University extension sources note that these cause similar symptoms and that dracaenas are fluoride-sensitive. A good first step is to use rainwater, distilled or reverse-osmosis water, flush the pot, feed lightly, and keep the mix pH between 6.0 and 6.5. Trimmed or damaged tips will not turn green again."
+        },
+        {
+            "question": "How often should I water a Dracaena marginata?",
+            "answer": "Water when the top inch or two of soil is dry, then let the excess drain away. Indoors that is often every one to two weeks in warm, bright conditions and every three to four weeks in cool, low-light winter weather, but check the soil rather than following a fixed schedule. Empty saucers soon after watering."
+        },
+        {
+            "question": "Why is my Dracaena marginata cane soft and squishy?",
+            "answer": "A soft, wrinkling or spongy cane base usually points to rot from overwatering or poorly drained soil. Unpot the plant and check the roots. If the base is mushy, cut the firm upper cane above the soft tissue, let the cut dry, and root it as a fresh cutting in well-drained mix."
+        },
+        {
+            "question": "Why are the lower leaves on my Dragon Tree turning yellow and dropping?",
+            "answer": "Losing a few lower leaves over time is normal as the cane grows taller. Many leaves yellowing at once usually points to overwatering, a cold draft or very low light, so check the roots, the temperature and the light before changing anything else."
+        },
+        {
+            "question": "Is Dracaena marginata safe for cats and dogs?",
+            "answer": "No. The ASPCA lists Dracaena marginata as toxic to cats and dogs. It contains saponins, and chewing it can cause vomiting (sometimes with blood), drooling, loss of appetite and weakness, plus dilated pupils in cats. Keep it out of reach."
+        },
+        {
+            "question": "What is the best potting soil for Dracaena marginata?",
+            "answer": "Use a well-drained but moisture-retentive potting mix with a pH of 6.0 to 6.5. A practical home blend is about two-thirds to three-quarters quality potting mix with one-quarter to one-third perlite, pumice or coarse sand. Avoid heavy mixes that stay soggy, and use a pot with drainage holes."
+        },
+        {
+            "question": "Does leaving tap water out overnight remove fluoride?",
+            "answer": "No. Standing water lets chlorine escape, but it does not remove fluoride or chloramine. If your tap water is fluoridated and your dracaena keeps getting brown tips, try rainwater, distilled water or reverse-osmosis water."
+        },
+        {
+            "question": "Can Dracaena marginata survive in low-light rooms?",
+            "answer": "It can survive for a long time in low light, but it will not thrive. Expect slow, stretched growth, lower-leaf loss and faded red edges, and variegated cultivars may lose color. Give it brighter indirect light or a grow light for the best look."
+        },
+        {
+            "question": "How do you prune and shape a leggy Dragon Tree?",
+            "answer": "Cut the cane across at the height you want with a clean, sharp blade. Many growers seal the cut with wax or a pruning sealant. New buds usually break below the cut within a few weeks, often producing two or more heads. The cut-off top can be dried briefly and rooted in barely moist, well-drained mix."
+        },
+        {
+            "question": "What causes white cottony spots on Dracaena marginata leaves?",
+            "answer": "White cottony clusters in the leaf axils and along the stem are usually mealybugs. Dab them with a cotton swab dipped in rubbing alcohol, wipe the leaves, and follow up with insecticidal soap or neem oil as the label directs."
+        },
+        {
+            "question": "How much light does a Dracaena marginata need?",
+            "answer": "Bright, indirect light is best, such as in an east-facing window or a few feet back from a south- or west-facing window behind a sheer curtain. It survives in less light but grows slowly and loses lower leaves, and variegated cultivars need very bright light. Hot, direct afternoon sun through glass can scorch the leaves."
+        },
+        {
+            "question": "What is the difference between Dracaena marginata and a corn plant?",
+            "answer": "Dracaena marginata has narrow, sword-like leaves with red edges on slender woody canes. The corn plant (Dracaena fragrans) has broad, arching, corn-like leaves, often with a yellow stripe. Both are dracaenas, both are sensitive to fluoride, and both are toxic to cats and dogs."
+        },
+        {
+            "question": "Is Dracaena marginata the same as a dragon tree?",
+            "answer": "Dracaena marginata is commonly called the Madagascar dragon tree. It is a different species from the true dragon tree, Dracaena draco, which is native to the Canary Islands and grows much larger."
+        },
+        {
+            "question": "How big does a Dracaena marginata get indoors?",
+            "answer": "Indoors it is slow-growing and typically reaches about 4 to 6 feet tall, though older plants can grow taller and pruning keeps it smaller. Outdoors in frost-free climates it can reach 10 feet or more."
+        }
+    ],
+    "shortDesc": "Madagascar Dragon Tree (Dracaena marginata) has sculptural woody canes topped with slender, red-edged leaves. This guide covers light, watering and water quality, soil, brown tips, pruning and pet safety.",
+    "content": "<p><em>Dracaena marginata</em>, the Madagascar dragon tree or red-edge dracaena (often misspelled &ldquo;dracena marginata&rdquo;), is a slow-growing, sculptural houseplant with woody canes topped by narrow, red-edged leaves. Native to Madagascar and nearby Indian Ocean islands, it tolerates some dryness between waterings, but it is sensitive to a few things that are easy to miss indoors: fluoride, soluble salts, cold air and soggy soil. Those problems, not a lack of care, are behind most brown tips, leaf drop and soft canes.</p><p>This guide covers light, watering and water quality, soil, repotting, fertilizer, pruning, pests and pet safety, based on guidance from the University of Florida IFAS and NC State Extension. Some references, including NC State, list the plant as <em>Dracaena reflexa</em> var. <em>angustifolia</em>; <em>Dracaena marginata</em> remains the name used in the trade and in most care guides. It is not the same as the true Canary Islands dragon tree (<em>Dracaena draco</em>).</p><h2>Dracaena Marginata Care at a Glance</h2><ul><li><strong>Light:</strong> Bright, indirect light. Check your spot with the <a href=\"/calculators/sunlight/dracaena-marginata/\">Dracaena marginata sunlight calculator</a>.</li><li><strong>Water:</strong> Water when the top inch or two of soil is dry, and use low-fluoride water (rain, distilled or reverse-osmosis) if your tap water is fluoridated. Plan your schedule with the <a href=\"/calculators/watering/\">watering calculator</a>.</li><li><strong>Soil:</strong> Well-drained but moisture-retentive potting mix, pH 6.0 to 6.5. See the <a href=\"/calculators/potting-mix-calculator/\">potting mix calculator</a>.</li><li><strong>Temperature:</strong> 65&deg;F to 80&deg;F (18&deg;C to 27&deg;C). Keep it above about 55&deg;F (13&deg;C) and away from cold drafts.</li><li><strong>Fertilizer:</strong> Feed lightly during active growth; avoid fertilizers containing superphosphate.</li><li><strong>Size:</strong> Typically about 4 to 6 feet tall indoors, and slow-growing. Estimate growth with the <a href=\"/calculators/growth/dracaena-marginata/\">growth calculator</a>.</li><li><strong>Pets:</strong> Toxic to cats and dogs.</li></ul><h2>Light: Preventing Stretching and Leaf Loss</h2><p>Dracaena marginata is often sold as a low-light plant. It will survive in dim rooms, but it grows slowly there, stretches toward the light, and sheds lower leaves. Bright, filtered, indirect light gives the densest crown and the best red edges.</p><h3>How much light does a Dracaena marginata need?</h3><p>Aim for bright indirect light for several hours a day: a spot in or near an east-facing window, or a few feet back from a south- or west-facing window with a sheer curtain. The University of Florida notes that related dracaenas stay attractive down to about 50 foot-candles but look best at roughly 100 to 150 foot-candles or more, and that variegated cultivars need very bright locations to do well indoors. A foot-candle is about 10.76 lux, so 100 foot-candles is roughly 1,000 lux. A phone light-meter app gives a rough reading, and our <a href=\"/calculators/sunlight/dracaena-marginata/\">sunlight calculator</a> can help you judge a specific window. For more on judging light, see <a href=\"/blog/how-much-light-do-indoor-plants-need/\">how much light indoor plants need</a>.</p><h3>Signs of too little or too much light</h3><ul><li><strong>Too little:</strong> stretched, thin canes, pale or floppy new leaves, faded red margins and steady loss of lower leaves.</li><li><strong>Too much direct sun:</strong> bleached or straw-colored patches, especially through hot afternoon glass. Strong light, heat and dry air can also speed fluoride build-up in the leaf tips.</li><li><strong>White or yellow flecks on new leaves:</strong> the University of Florida links this to high light combined with cool temperatures.</li></ul><p>If your room is dim, a full-spectrum LED grow light can help. See our guides to <a href=\"/blog/how-to-care-for-indoor-plants-without-natural-sunlight/\">caring for plants without natural sunlight</a> and the <a href=\"/blog/best-plants-dark-corners-low-light/\">best plants for dark corners</a> if you need something more shade-tolerant.</p><h2>Watering and Water Quality</h2><h3>How often to water</h3><p>The woody canes store some water, and extension sources describe the plant as drought-tolerant but not happy when severely dry. Water thoroughly when the top inch or two of soil has dried, and let excess water drain away. Indoors this is often every one to two weeks in warm, bright conditions and every three to four weeks in cool, low-light winter weather, but check the soil rather than the calendar. Empty saucers soon after watering. The <a href=\"/calculators/watering/\">watering calculator</a> can help you set a schedule based on your pot and room. If the cane base feels soft, follow our <a href=\"/blog/ultimate-root-rot-rescue-guide/\">root rot rescue guide</a>.</p><h3>Fluoride, salts and tap water</h3><p>Dracaenas are known to be sensitive to fluoride. NC State Extension recommends distilled or non-fluoridated water, and the University of Florida links fluoride injury to fluoridated water, superphosphate fertilizers and some potting-mix ingredients. Fluoride, soluble salts and boron cause similar symptoms (yellowing and brown, dead tips and leaf edges), so they are often hard to tell apart. Where tap water is fluoridated (commonly around 0.7 ppm in the United States), using rainwater, distilled water or reverse-osmosis water is a sensible first step if tips keep browning. For more, see our guides on <a href=\"/blog/tap-water-vs-filtered-water-houseplants/\">tap water vs filtered water for houseplants</a> and <a href=\"/blog/catching-rainwater-for-houseplants-storage-safety-mineral-benefits/\">catching rainwater for houseplants</a>.</p><p>Two myths are worth correcting. Leaving tap water out overnight lets chlorine escape, but it does not remove fluoride or chloramine. And switching water will not repair tips that are already brown; it only protects new growth.</p><h2>Why Are the Tips Turning Brown?</h2><p>Brown tips are the most common complaint, and there is rarely one cause. Work through the likely causes before changing everything at once:</p><table><thead><tr><th>Possible cause</th><th>What it looks like</th><th>What to try</th></tr></thead><tbody><tr><td><strong>Fluoride</strong> (tap water, superphosphate, some media)</td><td>Yellowing then brown, dead tips and margins</td><td>Use rainwater, distilled or reverse-osmosis water; keep mix pH 6.0 to 6.5; avoid superphosphate fertilizers</td></tr><tr><td><strong>Soluble salts</strong> from fertilizer or hard water</td><td>Brown tips, white crust on soil or pot rim</td><td>Flush with plenty of water until it drains freely (see <a href=\"/blog/flush-soil/\">how to flush soil</a>) and feed more lightly</td></tr><tr><td><strong>Boron</strong> in some fertilizers or media</td><td>Brown tips and margins, similar to fluoride</td><td>Avoid fertilizers high in boron</td></tr><tr><td><strong>Dry air, heat or wind</strong></td><td>Crisp tips after heating or air-conditioning runs</td><td>Move away from vents; see <a href=\"/blog/how-to-increase-humidity-for-houseplants/\">how to increase humidity</a></td></tr><tr><td><strong>Watering problems</strong></td><td>Tips browning with limp, yellowing or dropping leaves</td><td>Check roots and soil moisture; adjust the schedule</td></tr><tr><td><strong>Cold exposure</strong></td><td>Pale or brown bands across leaves that appear weeks later</td><td>Keep above about 55&deg;F (13&deg;C), away from cold glass and drafts</td></tr></tbody></table><p>You can trim brown tips with clean scissors, leaving a thin brown edge so you do not cut into healthy tissue. For a wider diagnosis, see our guide to <a href=\"/blog/brown-crispy-tips-houseplants/\">brown, crispy tips on houseplants</a>.</p><h2>Soil, Pot and Repotting</h2><p>The University of Florida recommends a potting medium that is well drained but moisture-retentive, with a pH between 6.0 and 6.5. Above pH 7, dracaenas can develop iron deficiency, and keeping the pH above 6.0 usually helps prevent fluoride injury. Heavy, soggy soil is the main risk indoors, because roots and cane bases need air.</p><p>A practical home mix is about two-thirds to three-quarters good-quality potting mix with one-quarter to one-third perlite, pumice or coarse sand for drainage. This is more open than a standard bagged mix but not a pure grit blend. Extension sources note that some potting-mix ingredients can contain fluoride, so if tip burn persists, try pumice or coarse sand in place of perlite. Use a pot with drainage holes; terracotta dries faster than plastic, which suits plants that tend to stay wet. For a deeper look at mixes, see our guide to the <a href=\"/blog/best-soil-for-growing-healthy-plants-at-home/\">best soil for growing healthy plants at home</a>.</p><p>Dragon trees are slow growers and prefer to be slightly snug. Repot every two to three years, or when roots circle the pot, in spring when growth resumes. Use the <a href=\"/calculators/repotting/dracaena-marginata/\">repotting calculator</a> to choose the next pot size, and see our <a href=\"/blog/spring-repotting-guide/\">spring repotting guide</a> for steps.</p><h2>Temperature and Humidity</h2><p>Dracaena marginata does best at about 65&deg;F to 80&deg;F (18&deg;C to 27&deg;C). Exposure to around 55&deg;F (13&deg;C) for a week, or short chills at lower temperatures, can damage leaves, and the damage may not show until the new leaves unfurl a couple of weeks later. Keep it away from cold windows, doors and air-conditioner drafts (see <a href=\"/blog/air-conditioner-draft-houseplant-damage/\">air-conditioner draft damage</a>). Average household humidity is usually acceptable, but very dry air can worsen tip browning and invite spider mites. For colder months, see our <a href=\"/blog/winter-houseplant-care-guide/\">winter houseplant care guide</a>.</p><h2>Fertilizer</h2><p>Dracaena marginata is a light feeder. Use a balanced fertilizer at a conservative strength during active growth, typically every six to eight weeks in spring and summer, and skip feeding in winter. Choose a fertilizer without superphosphate, which can contain fluoride, and avoid blends high in boron. Over-feeding raises soluble salts and can scorch leaf tips, so flush the pot occasionally and use a liquid fertilizer dosage guide, such as our <a href=\"/blog/how-to-dose-fertilizer-for-plants/\">guide to dosing fertilizer</a>, instead of guessing.</p><h2>Pruning, Topping and Propagation</h2><p>Over the years the lowest leaves drop and the plant becomes a tall, bare cane with a crown of leaves. If it gets too tall or leggy, you can cut it back:</p><ol><li><strong>Cut the cane.</strong> Use clean, sharp pruners or a saw (wipe the blade with rubbing alcohol) and cut the cane across at the height you want.</li><li><strong>Protect the cut.</strong> Many growers seal the cut top with wax or a pruning sealant. New buds usually break below the cut within a few weeks, often forming two or more new heads.</li><li><strong>Root the top.</strong> Strip a few lower leaves from the cut-off top, let the end dry for a day or two, and plant it in barely moist, well-drained mix at about 70&deg;F to 80&deg;F (21&deg;C to 27&deg;C). Roots typically form over several weeks.</li></ol><p>Extension sources describe stem (tip) cuttings and air layering as the standard propagation methods. For general technique, see our <a href=\"/blog/how-to-propagate-houseplants/\">guide to propagating houseplants</a>. If a cane snaps, our <a href=\"/blog/broken-plant-stem-triage/\">broken plant stem triage guide</a> explains what to do.</p><h2>Pests and Leaf Spots</h2><p>Common pests on dracaenas include mealybugs, scale, thrips, spider mites and fungus gnats. Look for white cottony clusters in the leaf axils, small bumps along stems and leaves, sticky residue, fine webbing and stippled leaves. Wipe off mealybugs with alcohol on a cotton swab, rinse or wipe leaves, and use insecticidal soap or neem oil as the label directs; our <a href=\"/calculators/neem-oil-calculator/dracaena-marginata/\">neem oil calculator</a> helps with dilution. See our guides to <a href=\"/blog/mealybugs-on-houseplants/\">mealybugs</a> and <a href=\"/blog/spider-mites-on-houseplants/\">spider mites</a>.</p><p>Dracaenas can also develop leaf spots, particularly when water sits in the center of the crown. Keep water off the central whorl of leaves when watering, and see our guide to <a href=\"/blog/black-spots-dracaena-water-summer-fungal-fix/\">black spots on dracaena</a> for fixes.</p><h2>Dracaena Marginata Varieties</h2><p>The standard dark green form with narrow red margins is the most widely sold. Variegated cultivars such as &lsquo;Tricolor&rsquo; and &lsquo;Colorama&rsquo; have less chlorophyll, so the University of Florida notes they are less vigorous and less likely to succeed indoors except in very bright locations. NC State also lists &lsquo;Bicolor&rsquo;, &lsquo;Magenta&rsquo; and &lsquo;Tarzan&rsquo; (a wider, thicker-leaved form). The comparison table below summarizes the main types.</p><h2>Dracaena Marginata vs Corn Plant and Similar Plants</h2><p>Dracaena marginata has narrow, sword-like leaves on slender woody canes, while the corn plant (<em>Dracaena fragrans</em>) has broad, arching, corn-like leaves; both are dracaenas and share the fluoride sensitivity, so the care advice above applies to both. See our <a href=\"/plants/corn-plant/\">corn plant care guide</a>. If you like the look but want an easier or pet-friendlier option, compare the <a href=\"/plants/ponytail-palm/\">ponytail palm</a> or the <a href=\"/plants/snake-plant/\">snake plant</a>. Other fluoride-sensitive favorites include the <a href=\"/plants/spider-plant/\">spider plant</a> and the <a href=\"/plants/peace-lily/\">peace lily</a>.</p><h2>Toxicity and Pet Safety</h2><p>Dracaena marginata contains saponins and is listed by the ASPCA as toxic to cats and dogs. Chewing it can cause vomiting (sometimes with blood), drooling, loss of appetite, depression and weakness, and in cats dilated pupils. NC State Extension also notes that the sap can irritate skin and that the plant is a problem if ingested by people. Keep it out of reach of pets and children, check the <a href=\"/calculators/pet-safety/dracaena-marginata/\">Dracaena marginata pet safety page</a>, and browse our list of <a href=\"/blog/indoor-plants-safe-for-cats-and-dogs/\">indoor plants safe for cats and dogs</a> for alternatives.</p><h2>Related Guides and Calculators</h2><ul><li><a href=\"/calculators/sunlight/dracaena-marginata/\">Dracaena marginata sunlight calculator</a></li><li><a href=\"/calculators/repotting/dracaena-marginata/\">Dracaena marginata repotting calculator</a></li><li><a href=\"/calculators/growth/dracaena-marginata/\">Dracaena marginata growth calculator</a></li><li><a href=\"/blog/tap-water-vs-filtered-water-houseplants/\">Tap water vs filtered water for houseplants</a></li><li><a href=\"/blog/brown-crispy-tips-houseplants/\">Brown, crispy tips on houseplants</a></li><li><a href=\"/blog/black-spots-dracaena-water-summer-fungal-fix/\">Black spots on dracaena</a></li><li><a href=\"/plants/corn-plant/\">Corn plant care guide</a></li></ul>",
+    "quickAnswer": "Dracaena marginata needs bright, indirect light and a well-drained, moisture-retentive mix with a pH of 6.0 to 6.5. Water when the top inch or two of soil is dry. Brown tips often come from fluoride, soluble salts, boron or dry air, so use rainwater, distilled or reverse-osmosis water if your tap water is fluoridated, avoid superphosphate fertilizers, and keep it above about 55\u00b0F (13\u00b0C).",
+    "ogImage": "/assets/images/dracaena-marginata.webp",
+    "ogImageAlt": "Close-up of Dracaena marginata strap-like leaves showing red margins and parallel venation in bright office light",
+    "heroImage": "/assets/images/dracaena-marginata.webp",
+    "heroImageAlt": "Madagascar Dragon Tree with multiple woody canes and arching green leaves in a tall terracotta floor pot",
+    "featuredImageAlt": "Variegated Dracaena marginata Colorama with pink-edged leaves cascading from a modern ceramic planter on a shelf",
+    "category": "Indoor Plants",
+    "publishedAt": "2024-03-15",
+    "updatedAt": "2026-10-19",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Brown, papery leaf tips with yellow halo margins",
+            "diagnosis": "Fluoride, soluble salts or boron from water, fertilizer or potting mix, made worse by dry air, bright light or wind. Watering problems can look similar.",
+            "treatment": "Switch to rainwater, distilled or reverse-osmosis water; flush the pot with plenty of water until it drains freely; check that the mix pH is 6.0\u20136.5; trim brown tips with clean scissors, leaving a thin brown edge.",
+            "prevention": "Avoid superphosphate fertilizers and high-boron products, feed lightly, use low-fluoride water where tap water is fluoridated, and avoid vents and drafts.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Cane base feels soft, squishy, or hollow with foul odor",
+            "diagnosis": "Root and stem rot from waterlogged, oxygen-poor potting mix",
+            "treatment": "Unpot the plant, cut away mushy roots, and if the base is rotten cut the firm upper cane above the soft tissue and re-root it in fresh, well-drained mix. Discard contaminated soil and clean the pot.",
+            "prevention": "Let the top inch or two of soil dry before watering, use a well-drained mix, and use a pot with drainage holes.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Rapid lower leaf yellowing and sudden leaf drop",
+            "diagnosis": "Overwatering and root stress, a cold draft, or very low light",
+            "treatment": "Inspect roots for rot; move away from cold drafty windows or air-conditioner vents; allow substrate to dry out thoroughly",
+            "prevention": "Keep temperatures above about 65\u00b0F (18\u00b0C) where possible, avoid cold drafts, and water only after checking the soil.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Fine webbing beneath strap leaves with mottled yellow stippling",
+            "diagnosis": "Two-spotted spider mites (Tetranychus urticae) infesting plant in hot, dry indoor air (< 30% RH)",
+            "treatment": "Wipe foliage top and bottom with damp microfiber cloth; rinse crown in room-temperature shower; spray thoroughly with insecticidal soap or emulsified cold-pressed neem oil",
+            "prevention": "Maintain relative humidity around 45\u201350% and inspect leaf undersides monthly.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Pale or brown bands across new leaves",
+            "diagnosis": "Chilling injury; symptoms can appear a couple of weeks after the cold exposure",
+            "treatment": "Move the plant somewhere warmer and away from cold glass and drafts. Damaged leaves will not recover, but new growth should be normal.",
+            "prevention": "Keep it above about 55\u00b0F (13\u00b0C) and shield it from cold air.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "White or yellow flecks on new leaves",
+            "diagnosis": "High light combined with cool temperatures",
+            "treatment": "Move back from intense light and keep the plant warmer.",
+            "prevention": "Provide bright but filtered light and stable, warm temperatures.",
+            "confidence": 0.7,
+            "evidence": []
+        },
+        {
+            "symptom": "Black or brown spots near the center of the crown",
+            "diagnosis": "Leaf spot or stem rot, often when water sits in the center of the leaf whorl",
+            "treatment": "Stop watering over the crown, remove badly affected leaves, and improve airflow.",
+            "prevention": "Water at the soil level and keep the crown dry.",
+            "confidence": 0.7,
+            "evidence": []
+        },
+        {
+            "symptom": "Sticky residue, white cottony clusters or small bumps on leaves and stems",
+            "diagnosis": "Mealybugs or scale insects",
+            "treatment": "Dab mealybugs with alcohol on a cotton swab, wipe the leaves, and treat with insecticidal soap or neem oil as the label directs. Repeat and re-inspect.",
+            "prevention": "Inspect new plants and check leaf axils regularly.",
+            "confidence": 0.8,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Fluoride Toxicity",
+            "definition": "A disorder in which fluoride from water, fertilizer or potting-mix ingredients builds up in leaf tips and margins, causing yellowing and then brown, dead tissue. Dracaenas are particularly sensitive."
+        },
+        {
+            "term": "Cane",
+            "definition": "The thick, upright, fibrous woody stem structure of Dracaena that acts as a water and nutrient reservoir and readily initiates adventitious roots and lateral shoots after topping."
+        },
+        {
+            "term": "Etiolation",
+            "definition": "Pale, stretched, weak growth caused by too little light."
+        },
+        {
+            "term": "Steroidal Saponins",
+            "definition": "Naturally occurring toxic chemical compounds present in Dracaena tissues that act as defense surfactants, producing gastrointestinal inflammation and cell membrane lysis in dogs and cats."
+        },
+        {
+            "term": "Foot-candle",
+            "definition": "A unit of light intensity. One foot-candle is about 10.76 lux."
+        },
+        {
+            "term": "Chilling Injury",
+            "definition": "Damage from cool, non-freezing temperatures that can show up as pale or brown bands across leaves weeks after the exposure."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Dracaena Marginata Cultivar Comparison",
+        "headers": [
+            "Cultivar",
+            "Foliage Coloration",
+            "Light Need",
+            "Growth Habit"
+        ],
+        "rows": [
+            [
+                "Dracaena marginata (standard)",
+                "Dark green blades with narrow red margins",
+                "Bright indirect",
+                "Slow, upright woody canes; about 4\u20136 ft indoors"
+            ],
+            [
+                "'Tricolor'",
+                "Green with ivory/cream stripes and pink-red margins",
+                "Very bright indirect; less vigorous indoors",
+                "Slender canes; slower growth"
+            ],
+            [
+                "'Colorama'",
+                "Pink, white and green striped foliage",
+                "Very bright indirect; less vigorous indoors",
+                "Slower; can reach 5\u20136 ft"
+            ],
+            [
+                "'Bicolor'",
+                "Grayish-green leaves with pink or red edges",
+                "Bright indirect",
+                "Upright woody canes"
+            ],
+            [
+                "'Magenta'",
+                "Green leaves with magenta-red margins",
+                "Bright indirect",
+                "Palm-like habit"
+            ],
+            [
+                "'Tarzan'",
+                "Wide, thick, tough green leaves",
+                "Bright indirect",
+                "Stouter, denser crown"
+            ]
+        ]
+    },
+    "h1": "Dracaena Marginata (Madagascar Dragon Tree) Care Guide: Light, Water & Brown Tips",
+    "breadcrumbName": "Dracaena Marginata",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "calculators:watering",
+        "calculators:potting-mix",
+        "winter-houseplant-care-guide",
+        "tap-water-vs-filtered-water-houseplants",
+        "corn-plant",
+        "snake-plant",
+        "ponytail-palm",
+        "spider-plant",
+        "peace-lily",
+        "brown-crispy-tips-houseplants",
+        "black-spots-dracaena-water-summer-fungal-fix",
+        "mealybugs-on-houseplants",
+        "spider-mites-on-houseplants",
+        "how-much-light-do-indoor-plants-need"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "The Tap Water De-chlorination Myth",
+            "content": "Leaving tap water in an open pitcher for 24 hours removes chlorine gas, but fluoride and chloramine do not evaporate. As water evaporates, fluoride concentration increases, worsening marginal tip necrosis on Dracaena. Always use distilled water or reverse osmosis."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "Soil pH Helps Control Fluoride Damage",
+            "content": "The University of Florida advises keeping the potting mix at pH 6.0 to 6.5, noting that keeping pH above 6.0 usually helps prevent fluoride injury, while a pH above 7 can cause iron deficiency. Avoid superphosphate fertilizers, which can contain fluoride."
+        },
+        {
+            "type": "environment",
+            "title": "Why Canes Turn Spongy",
+            "content": "A soft, wrinkling cane base is usually a sign of rot from waterlogged, poorly aerated mix, not underwatering. If the base gives way under gentle finger pressure, cutting and rooting the firm upper cane is often the best chance of saving the plant."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "dracaena marginata care",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "dracaena marginata brown tips",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "dragon tree leaf drop",
+            "type": "alias",
+            "source": "gsc",
+            "approved": true
+        },
+        {
+            "text": "dracaena root rot",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "dragon tree fluoride burn",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "dracaena soft squishy cane",
+            "type": "faq_candidate",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "dracaena repotting guide",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "dracaena marginata",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "dracena marginata care",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "dracaena marginata light requirements",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "dracaena marginata light",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        },
+        {
+            "text": "madagascar dragon tree",
+            "type": "alias",
+            "source": "gsc",
+            "approved": false
+        }
+    ],
+    "commonName": "Madagascar Dragon Tree",
+    "summary": "Dracaena marginata (Madagascar Dragon Tree) is a slow-growing indoor plant with narrow, red-edged leaves on woody canes. This guide covers light levels, watering and fluoride-safe water, soil and repotting, brown tip causes, pruning and propagation, common pests, varieties, and pet safety.",
+    "keyTakeaways": [
+        "Provide bright, indirect light; low light causes stretching and lower-leaf loss.",
+        "Water when the top inch or two of soil is dry, and empty saucers so the roots never sit in water.",
+        "Dracaenas are fluoride-sensitive: use rainwater, distilled or reverse-osmosis water if tap water is fluoridated, and keep the mix pH at 6.0 to 6.5.",
+        "Brown tips can also come from salts, boron, dry air or cold, so check every cause before changing everything at once.",
+        "Use a well-drained but moisture-retentive mix, avoid superphosphate fertilizers, and feed lightly.",
+        "Prune leggy canes to encourage branching; the cut-off tops can be rooted.",
+        "Toxic to cats and dogs; keep out of reach."
+    ],
+    "confidenceLevel": "high",
+    "readingTime": 14,
+    "lastReviewed": "2026-10-19",
+    "plantHero": {
+        "plantType": "Evergreen woody shrub",
+        "difficulty": "beginner",
+        "light": "Bright indirect light",
+        "lightMin": "moderate",
+        "lightMax": "bright indirect",
+        "water": "Water when the top inch or two of soil is dry; use low-fluoride water if tap water is fluoridated",
+        "drynessThreshold": 65,
+        "droughtTolerance": "high",
+        "dormancyShift": true,
+        "humidity": "40%\u201350%",
+        "temperature": "65\u00b0F\u201380\u00b0F (18\u00b0C\u201327\u00b0C)",
+        "matureSize": "4\u20136 feet indoors",
+        "growthRate": "Slow",
+        "soil": "Well-drained, moisture-retentive potting mix with added perlite, pumice or coarse sand (pH 6.0\u20136.5)",
+        "soilDrainage": "good",
+        "fertilizer": "Light feeding every 6\u20138 weeks in spring and summer; avoid superphosphate fertilizers",
+        "repottingFrequency": "Every 2\u20133 years in mid-spring",
+        "potPreference": "Pot with drainage holes (terracotta or plastic)",
+        "propagation": "Stem (tip) cuttings and air layering",
+        "flowering": true,
+        "floweringSeason": "Spring (rare indoors)",
+        "petSafety": "toxic",
+        "petSafetyNote": "Toxic to dogs and cats; contains steroidal saponins causing vomiting and drooling",
+        "nativeRegion": "Madagascar and Mauritius",
+        "usdaZones": "10b\u201312",
+        "seasonality": "year-round",
+        "sources": [
+            "https://mrec.ifas.ufl.edu/foliage/folnotes/dracaena.htm",
+            "https://plants.ces.ncsu.edu/plants/dracaena-marginata/",
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering",
+            "fluoride-toxicity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/dracaena-marginata/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list"
+        ]
+    },
+    "contentText": "Dracaena marginata , the Madagascar dragon tree or red-edge dracaena (often misspelled &ldquo;dracena marginata&rdquo;), is a slow-growing, sculptural houseplant with woody canes topped by narrow, red-edged leaves. Native to Madagascar and nearby Indian Ocean islands, it tolerates some dryness between waterings, but it is sensitive to a few things that are easy to miss indoors: fluoride, soluble salts, cold air and soggy soil. Those problems, not a lack of care, are behind most brown tips, leaf drop and soft canes. This guide covers light, watering and water quality, soil, repotting, fertilizer, pruning, pests and pet safety, based on guidance from the University of Florida IFAS and NC State Extension. Some references, including NC State, list the plant as Dracaena reflexa var. angustifolia ; Dracaena marginata remains the name used in the trade and in most care guides. It is not the same as the true Canary Islands dragon tree ( Dracaena draco ). Dracaena Marginata Care at a Glance Light: Bright, indirect light. Check your spot with the Dracaena marginata sunlight calculator . Water: Water when the top inch or two of soil is dry, and use low-fluoride water (rain, distilled or reverse-osmosis) if your tap water is fluoridated. Plan your schedule with the watering calculator . Soil: Well-drained but moisture-retentive potting mix, pH 6.0 to 6.5. See the potting mix calculator . Temperature: 65&deg;F to 80&deg;F (18&deg;C to 27&deg;C). Keep it above about 55&deg;F (13&deg;C) and away from cold drafts. Fertilizer: Feed lightly during active growth; avoid fertilizers containing superphosphate. Size: Typically about 4 to 6 feet tall indoors, and slow-growing. Estimate growth with the growth calculator . Pets: Toxic to cats and dogs. Light: Preventing Stretching and Leaf Loss Dracaena marginata is often sold as a low-light plant. It will survive in dim rooms, but it grows slowly there, stretches toward the light, and sheds lower leaves. Bright, filtered, indirect light gives the densest crown and the best red edges. How much light does a Dracaena marginata need? Aim for bright indirect light for several hours a day: a spot in or near an east-facing window, or a few feet back from a south- or west-facing window with a sheer curtain. The University of Florida notes that related dracaenas stay attractive down to about 50 foot-candles but look best at roughly 100 to 150 foot-candles or more, and that variegated cultivars need very bright locations to do well indoors. A foot-candle is about 10.76 lux, so 100 foot-candles is roughly 1,000 lux. A phone light-meter app gives a rough reading, and our sunlight calculator can help you judge a specific window. For more on judging light, see how much light indoor plants need . Signs of too little or too much light Too little: stretched, thin canes, pale or floppy new leaves, faded red margins and steady loss of lower leaves. Too much direct sun: bleached or straw-colored patches, especially through hot afternoon glass. Strong light, heat and dry air can also speed fluoride build-up in the leaf tips. White or yellow flecks on new leaves: the University of Florida links this to high light combined with cool temperatures. If your room is dim, a full-spectrum LED grow light can help. See our guides to caring for plants without natural sunlight and the best plants for dark corners if you need something more shade-tolerant. Watering and Water Quality How often to water The woody canes store some water, and extension sources describe the plant as drought-tolerant but not happy when severely dry. Water thoroughly when the top inch or two of soil has dried, and let excess water drain away. Indoors this is often every one to two weeks in warm, bright conditions and every three to four weeks in cool, low-light winter weather, but check the soil rather than the calendar. Empty saucers soon after watering. The watering calculator can help you set a schedule based on your pot and room. If the cane base feels soft, follow our root rot rescue guide . Fluoride, salts and tap water Dracaenas are known to be sensitive to fluoride. NC State Extension recommends distilled or non-fluoridated water, and the University of Florida links fluoride injury to fluoridated water, superphosphate fertilizers and some potting-mix ingredients. Fluoride, soluble salts and boron cause similar symptoms (yellowing and brown, dead tips and leaf edges), so they are often hard to tell apart. Where tap water is fluoridated (commonly around 0.7 ppm in the United States), using rainwater, distilled water or reverse-osmosis water is a sensible first step if tips keep browning. For more, see our guides on tap water vs filtered water for houseplants and catching rainwater for houseplants . Two myths are worth correcting. Leaving tap water out overnight lets chlorine escape, but it does not remove fluoride or chloramine. And switching water will not repair tips that are already brown; it only protects new growth. Why Are the Tips Turning Brown? Brown tips are the most common complaint, and there is rarely one cause. Work through the likely causes before changing everything at once: Possible cause What it looks like What to try Fluoride (tap water, superphosphate, some media) Yellowing then brown, dead tips and margins Use rainwater, distilled or reverse-osmosis water; keep mix pH 6.0 to 6.5; avoid superphosphate fertilizers Soluble salts from fertilizer or hard water Brown tips, white crust on soil or pot rim Flush with plenty of water until it drains freely (see how to flush soil ) and feed more lightly Boron in some fertilizers or media Brown tips and margins, similar to fluoride Avoid fertilizers high in boron Dry air, heat or wind Crisp tips after heating or air-conditioning runs Move away from vents; see how to increase humidity Watering problems Tips browning with limp, yellowing or dropping leaves Check roots and soil moisture; adjust the schedule Cold exposure Pale or brown bands across leaves that appear weeks later Keep above about 55&deg;F (13&deg;C), away from cold glass and drafts You can trim brown tips with clean scissors, leaving a thin brown edge so you do not cut into healthy tissue. For a wider diagnosis, see our guide to brown, crispy tips on houseplants . Soil, Pot and Repotting The University of Florida recommends a potting medium that is well drained but moisture-retentive, with a pH between 6.0 and 6.5. Above pH 7, dracaenas can develop iron deficiency, and keeping the pH above 6.0 usually helps prevent fluoride injury. Heavy, soggy soil is the main risk indoors, because roots and cane bases need air. A practical home mix is about two-thirds to three-quarters good-quality potting mix with one-quarter to one-third perlite, pumice or coarse sand for drainage. This is more open than a standard bagged mix but not a pure grit blend. Extension sources note that some potting-mix ingredients can contain fluoride, so if tip burn persists, try pumice or coarse sand in place of perlite. Use a pot with drainage holes; terracotta dries faster than plastic, which suits plants that tend to stay wet. For a deeper look at mixes, see our guide to the best soil for growing healthy plants at home . Dragon trees are slow growers and prefer to be slightly snug. Repot every two to three years, or when roots circle the pot, in spring when growth resumes. Use the repotting calculator to choose the next pot size, and see our spring repotting guide for steps. Temperature and Humidity Dracaena marginata does best at about 65&deg;F to 80&deg;F (18&deg;C to 27&deg;C). Exposure to around 55&deg;F (13&deg;C) for a week, or short chills at lower temperatures, can damage leaves, and the damage may not show until the new leaves unfurl a couple of weeks later. Keep it away from cold windows, doors and air-conditioner drafts (see air-conditioner draft damage ). Average household humidity is usually acceptable, but very dry air can worsen tip browning and invite spider mites. For colder months, see our winter houseplant care guide . Fertilizer Dracaena marginata is a light feeder. Use a balanced fertilizer at a conservative strength during active growth, typically every six to eight weeks in spring and summer, and skip feeding in winter. Choose a fertilizer without superphosphate, which can contain fluoride, and avoid blends high in boron. Over-feeding raises soluble salts and can scorch leaf tips, so flush the pot occasionally and use a liquid fertilizer dosage guide, such as our guide to dosing fertilizer , instead of guessing. Pruning, Topping and Propagation Over the years the lowest leaves drop and the plant becomes a tall, bare cane with a crown of leaves. If it gets too tall or leggy, you can cut it back: Cut the cane. Use clean, sharp pruners or a saw (wipe the blade with rubbing alcohol) and cut the cane across at the height you want. Protect the cut. Many growers seal the cut top with wax or a pruning sealant. New buds usually break below the cut within a few weeks, often forming two or more new heads. Root the top. Strip a few lower leaves from the cut-off top, let the end dry for a day or two, and plant it in barely moist, well-drained mix at about 70&deg;F to 80&deg;F (21&deg;C to 27&deg;C). Roots typically form over several weeks. Extension sources describe stem (tip) cuttings and air layering as the standard propagation methods. For general technique, see our guide to propagating houseplants . If a cane snaps, our broken plant stem triage guide explains what to do. Pests and Leaf Spots Common pests on dracaenas include mealybugs, scale, thrips, spider mites and fungus gnats. Look for white cottony clusters in the leaf axils, small bumps along stems and leaves, sticky residue, fine webbing and stippled leaves. Wipe off mealybugs with alcohol on a cotton swab, rinse or wipe leaves, and use insecticidal soap or neem oil as the label directs; our neem oil calculator helps with dilution. See our guides to mealybugs and spider mites . Dracaenas can also develop leaf spots, particularly when water sits in the center of the crown. Keep water off the central whorl of leaves when watering, and see our guide to black spots on dracaena for fixes. Dracaena Marginata Varieties The standard dark green form with narrow red margins is the most widely sold. Variegated cultivars such as &lsquo;Tricolor&rsquo; and &lsquo;Colorama&rsquo; have less chlorophyll, so the University of Florida notes they are less vigorous and less likely to succeed indoors except in very bright locations. NC State also lists &lsquo;Bicolor&rsquo;, &lsquo;Magenta&rsquo; and &lsquo;Tarzan&rsquo; (a wider, thicker-leaved form). The comparison table below summarizes the main types. Dracaena Marginata vs Corn Plant and Similar Plants Dracaena marginata has narrow, sword-like leaves on slender woody canes, while the corn plant ( Dracaena fragrans ) has broad, arching, corn-like leaves; both are dracaenas and share the fluoride sensitivity, so the care advice above applies to both. See our corn plant care guide . If you like the look but want an easier or pet-friendlier option, compare the ponytail palm or the snake plant . Other fluoride-sensitive favorites include the spider plant and the peace lily . Toxicity and Pet Safety Dracaena marginata contains saponins and is listed by the ASPCA as toxic to cats and dogs. Chewing it can cause vomiting (sometimes with blood), drooling, loss of appetite, depression and weakness, and in cats dilated pupils. NC State Extension also notes that the sap can irritate skin and that the plant is a problem if ingested by people. Keep it out of reach of pets and children, check the Dracaena marginata pet safety page , and browse our list of indoor plants safe for cats and dogs for alternatives. Related Guides and Calculators Dracaena marginata sunlight calculator Dracaena marginata repotting calculator Dracaena marginata growth calculator Tap water vs filtered water for houseplants Brown, crispy tips on houseplants Black spots on dracaena Corn plant care guide",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/dracaena-marginata/",
+        "lastReviewed": "2026-10-19",
+        "license": "CC BY 4.0"
+    }
+}

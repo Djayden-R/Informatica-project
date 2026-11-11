@@ -1,0 +1,314 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-ficus-tineke",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "ficus-elastica-tineke",
+    "seoTitle": "Ficus Tineke Care: Keep Brown Edges Off Variegation",
+    "metaDescription": "Ficus Tineke's white variegation browns easily in low humidity. Find out how to keep the pink stripes vivid, water correctly, and maintain healthy Rubber.",
+    "featuredImage": "/assets/images/ficus-elastica-tineke.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "trees",
+        "toxic-to-pets",
+        "high-light",
+        "statement-foliage"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Ficus elastica",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Houseplants: Ficus",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Ficus elastica 'Tineke'",
+        "family": "Moraceae",
+        "origin": "Cultivar (Species native to Southeast Asia)",
+        "type": "Evergreen broadleaf tree",
+        "nativeClimate": "Tropical rainforest",
+        "commonUses": [
+            "Bright living rooms",
+            "Floor plants",
+            "Statement corners"
+        ],
+        "taxonType": "cultivar"
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Requires the brightest window in the house. Direct morning sun is highly beneficial.",
+        "watering": "Water only when the top 3-4 inches of soil are dry. Overwatering instantly browns the white edges.",
+        "soil": "A fast-draining, chunky indoor potting mix.",
+        "pruning": "Wipe the large leaves with a damp cloth weekly. Prune the top to encourage branching.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. The milky white latex sap causes severe oral irritation and vomiting.",
+        "bestFor": "Plant owners with massive, sunny, south or west-facing windows who want a colorful indoor tree."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "6-10 feet indoors",
+        "matureSpread": "2-3 feet",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Rarely flowers indoors",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 95\u00b0F (15\u00b0C - 35\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "40% - 60%",
+            "survivable": "20% - 80%"
+        },
+        "soilPH": {
+            "recommended": "6.0 - 6.5",
+            "survivable": "5.5 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "Because the white parts of the leaf contain no chlorophyll, it requires significantly more light than a standard green Rubber Tree. Direct sun is required to maintain the pink/red tints.",
+        "sunlightHours": "6-8 hours bright indirect + 2 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or West-facing window.",
+        "shadeTolerance": "very low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "low",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "Do not over-fertilize, as excess salt buildup will burn the delicate white leaf margins.",
+        "fertilizerFrequency": "Once a month during spring and summer with a balanced fertilizer diluted to half strength.",
+        "organicOptions": "Monthly top dressing of worm castings."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 8,
+            "notes": "Highly susceptible to root rot if left in heavy, water-logged potting soil."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why are the white edges of my Ficus Tineke turning brown and crispy?",
+            "answer": "Browning on the white, variegated edges is almost always a sign of overwatering and impending root rot, OR a severe lack of light. The white sections are the weakest part of the leaf and the first to die when the plant is stressed."
+        },
+        {
+            "question": "Why is my Ficus Tineke losing its pink color?",
+            "answer": "The beautiful pink/red tint on the new leaves and veins is brought out by direct sunlight. If the plant is kept in a dim room or only gets indirect light, the pink will fade away entirely."
+        },
+        {
+            "question": "Why is my Variegated Rubber Tree dropping leaves?",
+            "answer": "Like all Ficus trees, it hates being moved and hates drafts. A sudden change in environment, a blast of cold air from an AC vent, or inconsistent watering will cause it to drop its lower leaves."
+        },
+        {
+            "question": "Is the Ficus Tineke toxic to cats?",
+            "answer": "Yes. If the leaves or stems are broken, they bleed a thick, white latex sap. This sap is highly toxic to pets, causing severe oral pain, swelling, and vomiting."
+        },
+        {
+            "question": "How do I make my Rubber Tree branch out?",
+            "answer": "If it is growing as one single, tall pole, you must 'notch' the trunk or cut the top off entirely (beheading). This forces the plant to activate lower growth nodes and push out multiple branches."
+        }
+    ],
+    "shortDesc": "The Ficus Tineke is a spectacular variegated Rubber Tree featuring leaves painted in shades of green, cream, and pink. It requires significantly more sunlight than its solid-green cousins.",
+    "content": "<h2>Overview</h2><p>The Variegated Rubber Tree (<em>Ficus elastica 'Tineke'</em>) is a breathtaking cultivar that has rapidly become a centerpiece in modern interior design. While the standard Rubber Tree features solid, dark-burgundy or dark-green leaves, the Tineke boasts a stunning watercolor pattern. Each large, glossy leaf is splashed with shades of olive green, bordered by thick, creamy-white margins. When given enough sunlight, the new leaves and the main veins blush with a brilliant, vibrant pink.</p><p>However, that beautiful variegation comes with a steep price: a massive reduction in the plant's ability to photosynthesize. The white sections of the leaf contain zero chlorophyll. Because it has far less green surface area than a standard Rubber Tree, the Tineke requires dramatically more sunlight to survive. Placing this plant in a dim corner drastically increases the risk of severe root rot, usually resulting in the white edges turning brown and rotting away.</p><h3>Light Requirements: Maximize the Sun</h3><p>If you want a Ficus Tineke to thrive, maintain its bright white edges, and flush with pink, you must place it directly in front of the brightest window in your house. A south-facing or west-facing window is mandatory. It can and should receive several hours of direct, unfiltered sunlight every day (though if it has been kept in a dark store, you must acclimate it to the sun slowly over a few weeks to prevent sunburn).</p><p>If the plant does not receive enough light, two things will happen: the plant will stop growing entirely, and the stunning white variegation on the edges will slowly turn brown, crispy, and eventually mushy as the leaf dies.</p><h3>Watering Strategy</h3><p>Watering a Tineke requires restraint. The thick, rubbery leaves store water, meaning it can tolerate drought far better than it can tolerate a swamp. Allow the top 3 to 4 inches of the potting soil to dry out completely before watering. Stick your finger deep into the pot; if you feel any moisture, do not water.</p><p>When it is time, soak the pot thoroughly until water flows out the drainage holes. Never let the pot sit in a saucer of standing water. Overwatering will instantly cause the white margins of the leaves to turn brown and rot.</p><h3>Temperature and Humidity</h3><p>As a tropical tree, it requires warm temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Like all Ficus trees (including the Fiddle Leaf Fig), it is incredibly dramatic regarding temperature shifts. If you place it near a drafty winter window or an air conditioning vent, it will go into shock and drop all of its healthy lower leaves overnight. Keep the temperature stable. It is highly adaptable to standard indoor humidity (40-50%) and does not require a humidifier.</p><h3>Soil and Potting</h3><p>Standard potting soil is too heavy and will suffocate the roots. You must use a chunky, fast-draining mix. Combine standard indoor potting soil with 30-40% perlite and coarse orchid bark. This ensures that excess water drains away instantly, protecting the roots from rot.</p><h2>Maintenance: Wiping the Leaves</h2><p>Because the leaves are massive and sit horizontally, they collect dust rapidly. A layer of dust blocks the already-limited sunlight from reaching the green chlorophyll in the center of the leaves. You must wipe the leaves down with a soft, damp cloth every two weeks to keep the plant healthy and photosynthesizing efficiently.</p><h2>Toxicity Warning</h2><p>The Ficus Tineke is toxic to cats, dogs, and humans. The plant contains a thick, milky white latex sap. If a leaf is torn or the trunk is scratched, this sap will bleed heavily. The sap causes severe contact dermatitis (skin rashes) and, if ingested by pets, leads to intense oral irritation, drooling, and vomiting. Always wash your hands after pruning or wiping the leaves.</p>",
+    "quickAnswer": "The Variegated Rubber Tree (Tineke) requires intense, direct sunlight to maintain its pink and white colors. Water only when the top 3-4 inches of soil are dry, and never place it near a cold draft or heating vent. We recommend observing the plant closely over a few weeks to ensure it adjusts well to its environment.",
+    "ogImage": "/assets/images/ficus-elastica-tineke.webp",
+    "ogImageAlt": "Variegated Rubber Tree (Tineke) with green, cream, and pink edges",
+    "heroImage": "/assets/images/ficus-elastica-tineke.webp",
+    "heroImageAlt": "Close up of the watercolor-like variegation on a Rubber Tree leaf",
+    "featuredImageAlt": "Ficus Tineke tree sitting in a bright, sun-drenched living room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [],
+    "glossaryTerms": [
+        {
+            "term": "Variegation",
+            "definition": "The appearance of differently colored zones in the leaves and sometimes the stems of plants. In the Tineke, this is caused by a genetic mutation resulting in a lack of chlorophyll on the leaf edges."
+        },
+        {
+            "term": "Latex",
+            "definition": "A milky fluid found in many plants, such as Ficus and Euphorbias, which exudes when the plant is cut. It is often highly irritating or toxic."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Ficus Elastica Variety Comparison",
+        "headers": [
+            "Variety",
+            "Leaf Color",
+            "Light Need"
+        ],
+        "rows": [
+            [
+                "Tineke",
+                "Green, Cream, Pink",
+                "Very High / Direct Sun"
+            ],
+            [
+                "Ruby",
+                "Intense Red, Pink, Dark Green",
+                "Very High / Direct Sun"
+            ],
+            [
+                "Burgundy",
+                "Nearly Black / Dark Red",
+                "Medium to High Indirect"
+            ]
+        ]
+    },
+    "h1": "Ficus Tineke Indoor Guide: Protect Brown Edges on White Leaves",
+    "breadcrumbName": "Ficus Tineke Indoor Guide",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "brown-crispy-tips-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Placing it in low light, which causes the variegated sections to stop being produced\u2014new leaves come in solid green because the plant ramps up chlorophyll when light is scarce, overriding the variegation pattern. Bright indirect light is needed to maintain the cream-and-green pattern."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "New leaves unfurl with a distinctive pink blush that fades to cream as they mature\u2014this color shift is normal and not a sign of stress or reversion. The pink is a temporary pigment in young tissue that disappears as the leaf hardens."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry indoor air, brown spots appear specifically on the white variegated sections because those areas have less structural integrity and desiccate faster than the green portions. It requires higher humidity than solid green rubber trees for the same reason."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "variegated rubber plant care",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus elastica tineke dropping leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ruby rubber plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "white edge houseplant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "ficus brown spots",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Ficus Elastica Tineke",
+    "summary": "Ficus elastica 'Tineke' is a variegated rubber tree featuring leaves painted with cream, sage green, and soft pink hues. Learn light positioning to protect variegated foliage, moisture assessment, and root health management.",
+    "keyTakeaways": [
+        "Provide bright, indirect light with gentle morning sun to maintain pink and cream variegation.",
+        "Allow the top 2 to 3 inches of soil to dry out before watering thoroughly.",
+        "Avoid low-light conditions, which cause variegated leaf margins to turn brown.",
+        "Shield from sudden cold drafts and maintain stable ambient temperatures."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 9,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen broadleaf tree",
+        "difficulty": "intermediate",
+        "light": "Full sun to bright indirect",
+        "lightMin": "bright",
+        "lightMax": "full",
+        "water": "Water only when the top 3-4 inches of soil are dry. Overwatering instantly browns the white edges.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40% - 60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "6-10 feet indoors",
+        "growthRate": "Moderate",
+        "soil": "Well-draining commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer monthly during active growth",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard",
+        "propagation": "Stem cuttings or air layering",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Nepal to China (western Yunnan) and western Malesia",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/ficus-elastica-tineke/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants"
+        ]
+    },
+    "contentText": "Overview The Variegated Rubber Tree ( Ficus elastica 'Tineke' ) is a breathtaking cultivar that has rapidly become a centerpiece in modern interior design. While the standard Rubber Tree features solid, dark-burgundy or dark-green leaves, the Tineke boasts a stunning watercolor pattern. Each large, glossy leaf is splashed with shades of olive green, bordered by thick, creamy-white margins. When given enough sunlight, the new leaves and the main veins blush with a brilliant, vibrant pink. However, that beautiful variegation comes with a steep price: a massive reduction in the plant's ability to photosynthesize. The white sections of the leaf contain zero chlorophyll. Because it has far less green surface area than a standard Rubber Tree, the Tineke requires dramatically more sunlight to survive. Placing this plant in a dim corner drastically increases the risk of severe root rot, usually resulting in the white edges turning brown and rotting away. Light Requirements: Maximize the Sun If you want a Ficus Tineke to thrive, maintain its bright white edges, and flush with pink, you must place it directly in front of the brightest window in your house. A south-facing or west-facing window is mandatory. It can and should receive several hours of direct, unfiltered sunlight every day (though if it has been kept in a dark store, you must acclimate it to the sun slowly over a few weeks to prevent sunburn). If the plant does not receive enough light, two things will happen: the plant will stop growing entirely, and the stunning white variegation on the edges will slowly turn brown, crispy, and eventually mushy as the leaf dies. Watering Strategy Watering a Tineke requires restraint. The thick, rubbery leaves store water, meaning it can tolerate drought far better than it can tolerate a swamp. Allow the top 3 to 4 inches of the potting soil to dry out completely before watering. Stick your finger deep into the pot; if you feel any moisture, do not water. When it is time, soak the pot thoroughly until water flows out the drainage holes. Never let the pot sit in a saucer of standing water. Overwatering will instantly cause the white margins of the leaves to turn brown and rot. Temperature and Humidity As a tropical tree, it requires warm temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). Like all Ficus trees (including the Fiddle Leaf Fig), it is incredibly dramatic regarding temperature shifts. If you place it near a drafty winter window or an air conditioning vent, it will go into shock and drop all of its healthy lower leaves overnight. Keep the temperature stable. It is highly adaptable to standard indoor humidity (40-50%) and does not require a humidifier. Soil and Potting Standard potting soil is too heavy and will suffocate the roots. You must use a chunky, fast-draining mix. Combine standard indoor potting soil with 30-40% perlite and coarse orchid bark. This ensures that excess water drains away instantly, protecting the roots from rot. Maintenance: Wiping the Leaves Because the leaves are massive and sit horizontally, they collect dust rapidly. A layer of dust blocks the already-limited sunlight from reaching the green chlorophyll in the center of the leaves. You must wipe the leaves down with a soft, damp cloth every two weeks to keep the plant healthy and photosynthesizing efficiently. Toxicity Warning The Ficus Tineke is toxic to cats, dogs, and humans. The plant contains a thick, milky white latex sap. If a leaf is torn or the trunk is scratched, this sap will bleed heavily. The sap causes severe contact dermatitis (skin rashes) and, if ingested by pets, leads to intense oral irritation, drooling, and vomiting. Always wash your hands after pruning or wiping the leaves.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/ficus-elastica-tineke/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

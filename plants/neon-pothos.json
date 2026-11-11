@@ -1,0 +1,268 @@
+{
+    "quickAnswer": "Neon Pothos (Epipremnum aureum) is a vigorous tropical climbing vine that grows best in bright, indirect light, a well-draining mix, and moderate watering. Let the upper 1\u20132 inches of soil dry before watering again, provide a container with drainage, and protect the vivid leaves from prolonged direct midday sun. It is toxic if ingested because it contains insoluble calcium oxalates.",
+    "summary": "Monstera deliciosa, widely known as the Swiss Cheese Plant, is a vigorous tropical climbing vine prized for its large, glossy leaves and naturally developing fenestrations. Young plants commonly produce smaller leaves with fewer or no splits, while mature plants grown under suitable light and given climbing support can develop substantially larger, more deeply fenestrated foliage.\n\nThe most important care factors are bright indirect light, well-draining soil, appropriate watering, and adequate structural support. Allow the upper layer of the growing medium to dry before watering again and avoid leaving the root zone constantly saturated. A moss pole or other suitable support can encourage the plant to climb and develop more mature growth. Yellow leaves, brown margins, and poor fenestration should be evaluated in relation to watering, light, humidity, root conditions, and plant maturity rather than assuming a single cause.",
+    "keyTakeaways": [
+        "Give the plant bright, indirect light to support healthy growth and well-developed leaves.",
+        "Let the top 1-2 inches of soil dry before watering again, and avoid keeping the root zone constantly saturated.",
+        "Use a well-draining mix and a pot with drainage holes, and repot once roots fill the container rather than on a fixed schedule.",
+        "Brown edges and yellowing leaves usually trace back to watering, humidity, drainage, or natural aging\u2014check the root zone before adjusting care.",
+        "Keep the plant away from pets and children, since the sap can cause irritation if chewed."
+    ],
+    "readingTime": 3,
+    "lastReviewed": "2026-08-18",
+    "schemaVersion": "2.0.0",
+    "id": "neon-pothos",
+    "seoTitle": "Neon Pothos Care: Light, Watering & Propagation",
+    "metaDescription": "Expert Monstera deliciosa care guide covering light, watering, soil, climbing support, fenestration, repotting, and common leaf problems.",
+    "commonName": "Neon Pothos",
+    "facts": {
+        "family": "Araceae",
+        "genus": "Epipremnum",
+        "species": "aureum",
+        "nativeRange": "Tropical regions of southern Mexico and Central America",
+        "growthHabit": "Climbing tropical vine"
+    },
+    "plantCharacteristics": {
+        "biological": {
+            "airDemand": {
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00400",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0001"
+            },
+            "waterStorage": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00401",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0002"
+            },
+            "rootFragility": {
+                "type": "ordinal",
+                "value": 2,
+                "scale": 5,
+                "confidence": 0.85,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00402",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0003"
+            },
+            "rootHypoxiaTolerance": {
+                "characteristicId": "CHAR_0004",
+                "type": "ordinal",
+                "value": 4,
+                "scale": 5,
+                "confidence": 0.95,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_2003",
+                        "weight": 0.9
+                    }
+                ]
+            }
+        },
+        "environmentalSensitivities": {
+            "relocationTolerance": {
+                "type": "ordinal",
+                "value": 3,
+                "scale": 5,
+                "confidence": 0.9,
+                "applicableTo": "Indoor container plants",
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 12,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00403",
+                        "weight": 0.8
+                    }
+                ],
+                "characteristicId": "CHAR_0005"
+            },
+            "minimumTemperature": {
+                "type": "temperature",
+                "value": 13,
+                "unit": "\u00b0C",
+                "confidence": 0.9,
+                "lastReviewed": "2026-07-13",
+                "reviewCycleMonths": 24,
+                "evidence": [
+                    {
+                        "id": "EVIDENCE_00404",
+                        "weight": 0.9
+                    }
+                ],
+                "characteristicId": "CHAR_0006"
+            }
+        }
+    },
+    "slug": "neon-pothos",
+    "heroImage": "/assets/images/neon-pothos.webp",
+    "heroImageAlt": "Swiss Cheese Plant with large fenestrated leaves growing indoors",
+    "entityType": "plant",
+    "status": "published",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "troubleshooting": [
+        {
+            "symptom": "Why are my Monstera leaves turning yellow?",
+            "diagnosis": "Watering or root-zone stress is a common cause, but natural leaf aging and other environmental factors can also produce yellow leaves.",
+            "treatment": "Check the moisture level, drainage, root condition, light exposure, and recent changes in care. Allow the upper layer of the growing medium to dry before watering again if the soil is staying wet.",
+            "prevention": "Use a well-draining potting mix, provide adequate drainage, and adjust watering according to the plant's actual moisture level rather than a fixed schedule.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why aren't the leaves splitting or developing fenestrations?",
+            "diagnosis": "The plant may be too young, receiving insufficient light, or not yet producing mature climbing growth.",
+            "treatment": "Provide bright indirect light and suitable climbing support, then allow the plant time to mature. Young Monstera leaves can naturally remain mostly or completely unsplit.",
+            "prevention": "Maintain suitable light, provide vertical support as the plant matures, and avoid expecting mature fenestration from juvenile growth.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are the leaves turning brown at the edges?",
+            "diagnosis": "Brown margins can result from inconsistent watering, low humidity, fertilizer salt buildup, root stress, excessive light, or other environmental conditions.",
+            "treatment": "Check soil moisture, drainage, humidity, fertilizer use, and light exposure. Correct the underlying stress rather than treating brown tissue itself.",
+            "prevention": "Maintain consistent moisture without waterlogging, use a well-draining growing medium, avoid excessive fertilizer, and protect the plant from harsh direct sunlight.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are there small brown spots with yellow halos?",
+            "diagnosis": "Leaf spotting can have several causes, including bacterial or fungal disease, physical damage, excessive moisture, or sun stress. A specific diagnosis requires examination of the pattern and growing conditions.",
+            "treatment": "Isolate the plant if disease is suspected, improve airflow, avoid wetting the foliage unnecessarily, and remove severely affected leaves with clean tools.",
+            "prevention": "Provide good airflow, avoid prolonged leaf wetness, use clean tools, and avoid excessive watering or crowded conditions.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "confidenceLevel": "high",
+    "communityFeedback": {
+        "enabled": true,
+        "reviews": [
+            {
+                "id": "review-test-001",
+                "status": "published",
+                "submittedAt": "2026-08-15",
+                "publishedAt": "2026-08-16",
+                "reviewerName": "Sarah T.",
+                "reviewerLocation": "London, UK",
+                "rating": 5,
+                "title": "A wonderful indoor plant",
+                "text": "This guide really helped me understand fenestration! I also realized I was underwatering it.",
+                "source": "email"
+            }
+        ]
+    },
+    "plantHero": {
+        "plantType": "Tropical climbing vine",
+        "difficulty": "beginner",
+        "light": "Bright indirect light",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow the top 2-3 inches of soil to dry out before watering.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "medium",
+        "dormancyShift": false,
+        "humidity": "40-60%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "Trailing up to 10 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Standard commercial potting mix",
+        "soilDrainage": "good",
+        "fertilizer": "Balanced liquid fertilizer every 4 weeks in spring/summer",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Standard or hanging basket",
+        "propagation": "Stem cuttings",
+        "flowering": false,
+        "floweringSeason": null,
+        "petSafety": "toxic",
+        "nativeRegion": "Solomon Islands",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/golden-pothos"
+        ]
+    },
+    "aliases": [
+        "Neon Pothos",
+        "Neon Devil's Ivy"
+    ],
+    "undefined": [
+        "Provide bright, indirect light for healthy growth and stronger, mature leaf development.",
+        "Allow the upper 1\u20132 inches of soil to dry before watering again.",
+        "Use a well-draining potting mix and a container with drainage holes.",
+        "Yellow leaves can result from overwatering, underwatering, or natural aging.",
+        "Protect from prolonged direct midday sun, which can scorch the vivid leaves."
+    ],
+    "taxonomy": {
+        "sciName": "Epipremnum aureum",
+        "family": "Araceae",
+        "taxonType": "species"
+    },
+    "featuredImage": "/assets/images/neon-pothos.webp",
+    "ogImage": "/assets/images/neon-pothos.webp",
+    "ogImageAlt": "Lush Neon Pothos plant trailing from a minimalist planter",
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": []
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/neon-pothos/",
+    "breadcrumbName": "Neon Pothos",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/golden-pothos"
+        ]
+    },
+    "h1": "Neon Pothos Care Guide: Light, Watering & Propagation",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/neon-pothos/",
+        "lastReviewed": "2026-10-23",
+        "license": "CC BY 4.0"
+    }
+}

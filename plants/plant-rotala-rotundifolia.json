@@ -1,0 +1,290 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-rotala-rotundifolia",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "rotala-rotundifolia",
+    "seoTitle": "Rotala rotundifolia Care Guide | PlantSolve",
+    "metaDescription": "Rotala rotundifolia care guide: emersed and submerged forms, light, CO2, red coloration, wabi-kusa use, propagation, and troubleshooting for stems.",
+    "quickAnswer": "Rotala rotundifolia is a fast-growing amphibious stem plant. For wabi-kusa (emersed), keep it in 70-90% humidity under bright light. For aquariums (submerged), provide medium-high light, iron, and CO2 to encourage pink or red foliage. Moving the plant between environments can cause temporary leaf melt-back while it adapts.",
+    "featuredImage": "/assets/images/rotala-rotundifolia.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "aquatic-stem-plant",
+        "wabi-kusa",
+        "emersed-growth",
+        "amphibious-plant",
+        "beginner-friendly",
+        "red-plant"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online: Rotala L. (Lythraceae)",
+            "url": "https://powo.science.kew.org/",
+            "doi": ""
+        },
+        {
+            "title": "Rotala rotundifolia: aquatic plant profile and cultivation notes",
+            "url": "https://tropica.com/en/plants/",
+            "doi": ""
+        },
+        {
+            "title": "Aquatic Plants and Their Emersed Growth Forms",
+            "url": "https://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Rotala rotundifolia",
+        "family": "Lythraceae",
+        "origin": "Tropical and subtropical Asia (India, Southeast Asia, southern China and Japan); widely cultivated worldwide through the aquarium trade",
+        "type": "Aquatic Herb (amphibious, upright stem plant)",
+        "nativeClimate": "Warm, humid wetlands, rice paddies, ditches and shallow stream margins that alternate between flooded and exposed conditions through the monsoon cycle",
+        "commonUses": [
+            "Aquascape midground and background stem plant",
+            "Wabi-kusa vertical accent",
+            "Paludarium and riparium planting",
+            "Colour accent in planted tanks"
+        ],
+        "taxonType": "species"
+    },
+    "care": {
+        "difficulty": "easy",
+        "placement": "Emersed: plant cuttings 1-2 cm deep into a moist substrate ball or terrarium floor, off-centre on the top or rear, so the upright stems do not shade the carpet. Submerged: plant in loose groups of 5-8 stems, spaced 2-3 cm apart in the midground or background, with the lowest leaves removed from the buried section.",
+        "watering": "Emersed: keep the substrate evenly moist (never dry, never waterlogged) with a 1-2 cm water reservoir wicking from below, and 85-95% humidity for the first 3-4 weeks, then 70-90%. Submerged: fully underwater in soft to moderately hard water.",
+        "soil": "Nutrient-rich, moisture-retentive substrate such as aquasoil blended with fine akadama and rinsed peat-free coir (for example 60/30/10 by volume). Inert gravel works only with root tabs or liquid fertilization.",
+        "pruning": "Emersed: pinch tips every 2-3 weeks to encourage side shoots and keep stems compact, and replant the cuttings. Submerged: top the stems to the desired height every 2-3 weeks, replant the tops and remove debris so it does not shade the lower stems.",
+        "toxicity": "non-toxic",
+        "toxicityNote": "No significant toxicity to pets, fish, shrimp or snails is documented, though the species has not been formally tested. Wash hands after extended handling. Dispose of trimmings in household waste, not natural waterways, because the plant can establish in the wild in warm regions and may be regulated locally; check the rules where you live.",
+        "bestFor": "Wabi-kusa vertical accents and low-tech to medium-tech aquascapes that need a fast, forgiving stem plant with strong colour potential"
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "Submerged: 20-40 cm (8-16 in) before topping, trimmable to 10-15 cm; emersed: 8-20 cm (3-8 in)",
+        "matureSpread": "Grows in clumps that branch with pinching; 5-10 cm (2-4 in) per stem group, filling out with side shoots",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer to autumn under strong light in emersed conditions; small pink flower spikes at the leaf axils that are rare in submerged growth",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "20-28\u00b0C (68-82\u00b0F)",
+            "survivable": "15-32\u00b0C (59-90\u00b0F)"
+        },
+        "humidity": {
+            "recommended": "70-90%",
+            "survivable": "50-100%"
+        },
+        "soilPH": {
+            "recommended": "5.5-6.8",
+            "survivable": "5.0-7.5"
+        }
+    },
+    "lighting": {
+        "description": "Emersed growth does well under 6500K full-spectrum LED at roughly 80-150 PPFD at the leaf surface for 8-10 hours daily. Submerged plants need medium to high light (about 50-100 PPFD at the substrate) for compact growth and pink to red colour. Colour intensifies with stronger light, iron availability and CO2; in low light, stems stretch, lower leaves drop and the plant stays green.",
+        "sunlightHours": "8-10 hours daily",
+        "intensity": "medium",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "medium",
+        "phosphateDemand": "low",
+        "potassiumDemand": "medium",
+        "micronutrientNotes": "Responds strongly to iron and trace elements for red colouration. Keep TDS low in emersed setups (below about 150 ppm in the reservoir) to avoid salt crusting on the substrate surface. Pale new growth usually indicates iron or nitrogen deficiency, while excess nitrogen in strong light can suppress red tones.",
+        "fertilizerFrequency": "Aquasoil feeds for roughly 2-3 months. After that, dose a liquid aquatic fertilizer at about 1/4 of the labelled rate in the reservoir every 2 weeks (emersed), or follow a low-tech to medium-tech weekly dosing schedule (submerged).",
+        "organicOptions": "Rinsed peat-free coir and small amounts of aged leaf litter in the substrate give mild nutrient buffering; avoid raw manure or fresh compost, which fuels algae and mold."
+    },
+    "troubleshooting": [
+        {
+            "symptom": "Leaves turn translucent, melt or drop within 1-3 weeks of planting",
+            "diagnosis": "Normal conversion shock when submerged-grown or tissue-culture stock moves to emersed conditions (or the reverse). Old leaves are shed so the plant can produce leaves adapted to the new medium.",
+            "treatment": "Keep humidity at 85-95% with a lid or cloche, mist lightly once or twice daily, trim dead leaves and keep the stem bases in moist substrate. New growth normally appears from the nodes within 1-3 weeks.",
+            "prevention": "Buy emersed-grown stock for wabi-kusa and terrariums, rinse off tissue-culture gel completely and avoid sudden swings in humidity or light after planting.",
+            "confidence": 0.92,
+            "evidence": []
+        },
+        {
+            "symptom": "Stems stay green and lower leaves drop in the submerged form",
+            "diagnosis": "Insufficient light, low iron or crowded stems that shade their own lower sections.",
+            "treatment": "Raise light to about 50-100 PPFD at the substrate, top the stems and replant the tops, and dose chelated iron with trace elements. Add CO2 if growth stays weak.",
+            "prevention": "Top every 2-3 weeks, plant in spaced groups rather than dense bunches and keep nutrient dosing consistent.",
+            "confidence": 0.88,
+            "evidence": []
+        },
+        {
+            "symptom": "Brown, crispy leaf edges or dried tips in emersed growth",
+            "diagnosis": "Humidity too low or substrate drying out between waterings.",
+            "treatment": "Raise humidity toward 70-90% with a partial lid, mist more often and make sure the reservoir stays 1-2 cm deep so the substrate wicks moisture continuously.",
+            "prevention": "Harden plants off gradually over 2-3 weeks rather than removing the lid all at once.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Pale or yellowing new growth with green veins",
+            "diagnosis": "Iron or micronutrient deficiency, or nutrient depletion in aquasoil after 2-3 months.",
+            "treatment": "Dose a dilute liquid fertilizer containing chelated iron and trace elements (about 1/4 of the labelled rate) every 2 weeks and confirm pH is below about 7.0.",
+            "prevention": "Refresh or top-dress the substrate every 3-6 months and avoid hard, alkaline water.",
+            "confidence": 0.86,
+            "evidence": []
+        },
+        {
+            "symptom": "Stems with large gaps between leaves (leggy growth) in emersed culture",
+            "diagnosis": "Insufficient light intensity, or light placed too far from the plant.",
+            "treatment": "Lower the light or raise intensity toward 120-150 PPFD, pinch the tips and replant the cuttings to restore dense growth.",
+            "prevention": "Pinch tips every 2-3 weeks and keep the light within the recommended range from the start.",
+            "confidence": 0.88,
+            "evidence": []
+        },
+        {
+            "symptom": "White fuzzy mold on the substrate or sphagnum around the stem bases",
+            "diagnosis": "Stagnant air, over-wet substrate or decaying leaves from conversion melt-back.",
+            "treatment": "Remove dead tissue, spot-treat with a cotton swab dampened with 3% hydrogen peroxide, increase ventilation and reduce misting.",
+            "prevention": "Vent enclosed containers daily, keep the substrate moist rather than saturated and use clean tools.",
+            "confidence": 0.88,
+            "evidence": []
+        },
+        {
+            "symptom": "Green or brush algae on submerged leaves",
+            "diagnosis": "Excess light duration or nutrient imbalance, often combined with slow plant growth.",
+            "treatment": "Reduce the photoperiod to 6-8 hours, trim heavily affected leaves, perform a 30-50% water change and improve flow.",
+            "prevention": "Keep fast-growing stems well pruned, dose fertilizer consistently and avoid overly intense lighting without CO2.",
+            "confidence": 0.84,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Emersed",
+            "definition": "Growing with the leaves and most of the stem above the waterline while the roots stay in moist or wet substrate."
+        },
+        {
+            "term": "Submerged",
+            "definition": "Growing fully underwater, usually with thinner, more delicate leaves than the emersed form."
+        },
+        {
+            "term": "Amphibious plant",
+            "definition": "A species able to grow both underwater and above water, often producing different leaf forms in each medium."
+        },
+        {
+            "term": "Heterophylly",
+            "definition": "The production of leaves of different shape or texture on one plant depending on the growing conditions, such as narrow submerged leaves versus rounded emersed leaves."
+        },
+        {
+            "term": "Topping",
+            "definition": "Cutting the top of a stem to the desired height and replanting it, which encourages side shoots and creates new plants."
+        },
+        {
+            "term": "Node",
+            "definition": "The point on a stem where leaves and roots emerge and where new shoots form when cuttings are planted."
+        },
+        {
+            "term": "Melt-back",
+            "definition": "The loss of old leaves after a change in growing medium, followed by regrowth of leaves adapted to the new conditions."
+        },
+        {
+            "term": "PPFD",
+            "definition": "Photosynthetic photon flux density, the amount of usable light (in \u00b5mol/m\u00b2/s) reaching the plant surface."
+        },
+        {
+            "term": "Hardening off",
+            "definition": "The gradual reduction of humidity and protection so that a plant adapts to normal ambient conditions."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Rotala rotundifolia: Emersed vs. Submerged Growth Forms",
+        "headers": [
+            "Species / Form",
+            "Light",
+            "Growth Form",
+            "Emersed Suitability"
+        ],
+        "rows": [
+            [
+                "Rotala rotundifolia (emersed form)",
+                "Medium to high: 80-150 PPFD, 6500K, 8-10 h",
+                "Upright stems 8-20 cm with rounded, thick, glossy leaves; pink tones in strong light",
+                "Excellent: ideal vertical accent for wabi-kusa balls and paludariums"
+            ],
+            [
+                "Rotala rotundifolia (submerged form)",
+                "Medium to high: 50-100 PPFD at substrate; CO2 helps",
+                "Tall stems 20-40 cm with narrow, linear leaves; pink to red tops in strong light",
+                "Converts readily from submerged to emersed with 1-3 weeks of melt-back"
+            ],
+            [
+                "Hydrocotyle tripartita (for comparison)",
+                "Medium",
+                "Creeping stolons; fast carpet, 5-10 cm emersed",
+                "Excellent: carpeting partner that covers the ball flanks beneath Rotala"
+            ],
+            [
+                "Anubias nana (for comparison)",
+                "Low to medium",
+                "Slow-growing rhizomatous epiphyte, 5-15 cm",
+                "Good: very tolerant of emersed growth when the rhizome is kept above the substrate"
+            ]
+        ]
+    },
+    "content": "<h2>Overview of Rotala rotundifolia</h2><p><strong>Rotala rotundifolia</strong> (family Lythraceae) is a fast-growing, amphibious stem plant native to wetlands and paddies across tropical and subtropical Asia. It is one of the most popular stem plants in the aquarium hobby and a reliable vertical accent in wabi-kusa and paludarium builds. Because it naturally lives through flooded and exposed seasons, it switches readily between submerged and emersed life. Trade names are often confused: stock sold as <em>Rotala</em> 'Indica' or 'H'ra' may be a different species or cultivar, so treat the care parameters below as applying to plants commonly sold as Rotala rotundifolia. For the full build process see <a href=\"/topics/how-to-make-wabi-kusa\">how to make a wabi-kusa</a>.</p><h2>Emersed (Terrestrial) Form</h2><p>Grown above water, Rotala rotundifolia produces thicker, rounder to oval, glossy leaves on upright stems 8-20 cm tall, often with a bronze to pink tint under strong light. This is the form you want for wabi-kusa. It roots readily from the nodes, but it needs 85-95% humidity for the first 3-4 weeks after planting and 70-90% afterwards for compact growth. Under strong light and stable conditions, emersed plants may produce small pink flower spikes.</p><ul><li><strong>Light:</strong> 6500K full-spectrum LED at roughly 80-150 PPFD for 8-10 hours daily. Too much light dries the substrate surface quickly.</li><li><strong>Substrate:</strong> aquasoil, akadama and coir (for example 60/30/10 <em>by volume</em>). See the <a href=\"/topics/wabi-kusa-substrate-recipe\">wabi-kusa substrate recipe</a> for variations.</li><li><strong>Water:</strong> a 1-2 cm reservoir of dechlorinated or RO water that wicks upward; keep the substrate damp, never dripping.</li><li><strong>Temperature:</strong> 20-28\u00b0C (68-82\u00b0F), tolerating 15-32\u00b0C.</li></ul><h2>Submerged Form</h2><p>Underwater, the plant produces narrow, linear to lance-shaped leaves in whorls along tall, slender stems. It is easy in low-tech tanks, where it stays green to light pink, but vivid pink to red tops need medium to high light (about 50-100 PPFD at the substrate), chelated iron, a nutrient-rich substrate and ideally CO2. Plant loose groups of 5-8 stems 2-3 cm apart, remove the lowest leaves from the buried section and top the stems every 2-3 weeks so light reaches the lower growth.</p><h2>Converting Between Emersed and Submerged</h2><p>Rotala rotundifolia changes leaf shape when the growing medium changes, so some melt-back is expected.</p><ol><li><strong>Submerged to emersed:</strong> plant trimmed stems into moist substrate and keep humidity at 85-95% with a lid. Old narrow leaves melt within 1-3 weeks, followed by rounder emersed leaves from the nodes.</li><li><strong>Emersed to submerged:</strong> plant trimmed stems in groups, flood slowly and provide good light. The emersed leaves yellow and drop, and narrow submerged leaves form over 2-4 weeks.</li><li><strong>Tip:</strong> buying plants already grown in the form you want (emersed for wabi-kusa, submerged or tissue culture for tanks) shortens the transition considerably.</li></ol><h2>Using Rotala rotundifolia in Wabi-Kusa</h2><p>Place Rotala off-centre on the top or rear of the ball as the vertical focal point, with a creeping filler such as <a href=\"/plants/hydrocotyle-tripartita\">Hydrocotyle tripartita</a> around the base and an epiphyte such as <a href=\"/plants/anubias-nana\">Anubias nana</a> attached to the sphagnum wrap or a stone. Keep the palette to 2-4 species and trim the stems regularly so they do not shade the carpet. Check the <a href=\"/topics/wabi-kusa-plants\">wabi-kusa plants guide</a> for further species and the <a href=\"/topics/wabi-kusa-lighting-and-humidity\">lighting and humidity guide</a> for environmental targets.</p><h2>Colour: How to Get Pink and Red Rotala</h2><p>Red colouration is a response to light and nutrients. To encourage it, provide the upper end of the light range (120-150 PPFD emersed, or 80-100 PPFD submerged), keep iron and trace elements available, avoid high nitrogen and add CO2 in submerged tanks. Emersed stems usually show warmer bronze to pink tints than submerged ones. If the stems stay green, check light distance and iron first.</p><h2>Propagation</h2><p>Propagation is simple: cut a stem with at least 2-3 nodes and push the base 1-2 cm into moist substrate. Roots form at the nodes within 1-2 weeks, and side shoots develop after pinching. Tops cut during pruning can be replanted immediately, so every trimming becomes a new plant. Lateral shoots can also be removed and replanted.</p><h2>Pruning and Maintenance</h2><ul><li>Pinch emersed stem tips every 2-3 weeks to prevent stretching and encourage side shoots.</li><li>Top submerged stems every 2-3 weeks and replant the tops in groups.</li><li>Remove yellow or melting leaves promptly to prevent mold in humid containers (see the <a href=\"/topics/wabi-kusa-mold-prevention\">mold prevention guide</a>).</li><li>Replace reservoir water every 1-2 weeks and fertilize lightly once the aquasoil is depleted (about 2-3 months).</li></ul><h2>Vivarium and Paludarium Integration</h2><p>In paludariums and humid vivaria, Rotala rotundifolia grows well at the waterline and on the land portion in moist substrate, where it tolerates splashing and shallow flooding. In enclosed setups, ensure good airflow and prune dense stems so the lower layers do not rot. Do not release it into warm outdoor ponds or waterways, where it can escape and become invasive, and check local regulations.</p><h2>Troubleshooting Summary</h2><table><thead><tr><th>Symptom</th><th>Likely Cause</th><th>Quick Fix</th></tr></thead><tbody><tr><td>Leaves melting after planting</td><td>Emersed or submerged conversion</td><td>Maintain high humidity and trim dead leaves</td></tr><tr><td>Green, leggy stems</td><td>Low light or low iron</td><td>Raise light, top stems and dose chelated iron</td></tr><tr><td>Brown, crispy edges</td><td>Humidity too low</td><td>Raise humidity and keep the reservoir filled</td></tr><tr><td>Pale new growth</td><td>Iron or nutrient deficiency</td><td>Dilute fertilizer with chelated iron</td></tr><tr><td>White fuzzy mold</td><td>Stagnant air or excess moisture</td><td>Spot-treat with 3% hydrogen peroxide and ventilate</td></tr></tbody></table><h2>Related Resources</h2><p>Build with it in our <a href=\"/topics/how-to-make-wabi-kusa\">wabi-kusa tutorial</a>, choose companion species in the <a href=\"/topics/wabi-kusa-plants\">wabi-kusa plants guide</a>, mix the medium with the <a href=\"/topics/wabi-kusa-substrate-recipe\">substrate recipe</a> and dial in conditions with the <a href=\"/topics/wabi-kusa-lighting-and-humidity\">lighting and humidity guide</a>. Companion plant profiles: <a href=\"/plants/hydrocotyle-tripartita\">Hydrocotyle tripartita</a> and <a href=\"/plants/anubias-nana\">Anubias nana</a>.</p>",
+    "faq": [
+        {
+            "question": "Is Rotala rotundifolia good for beginners?",
+            "answer": "Yes. It roots readily, grows fast and tolerates a wide range of temperatures (15-32\u00b0C survivable) and both emersed and submerged conditions. The main learning curve is the first 1-3 weeks of leaf melt-back after changing growth form, and regular pinching or topping to keep it compact."
+        },
+        {
+            "question": "Can Rotala rotundifolia grow emersed in a wabi-kusa?",
+            "answer": "Yes, it is one of the best vertical accents for wabi-kusa. Keep humidity at 85-95% for the first 3-4 weeks, provide 80-150 PPFD of 6500K light for 8-10 hours daily, and use a moist, nutrient-rich substrate with a 1-2 cm water reservoir. Harden it off gradually afterwards."
+        },
+        {
+            "question": "Does Rotala rotundifolia need CO2 underwater?",
+            "answer": "It will survive and grow without CO2 in low-tech tanks, staying green to light pink and growing more slowly. Vivid pink to red tops, compact growth and dense bunches generally need medium to high light (about 50-100 PPFD at the substrate), iron and CO2."
+        },
+        {
+            "question": "Why is my Rotala rotundifolia not turning red?",
+            "answer": "Red colouration depends on strong light, available iron and trace elements, and balanced nitrogen. Raise light intensity toward the upper end of the range, dose chelated iron, avoid excess nitrogen and add CO2 in submerged tanks. Emersed plants colour more easily than submerged ones."
+        },
+        {
+            "question": "Why are the leaves melting after I planted it?",
+            "answer": "Plants sold in a different growth form (submerged, emersed or tissue culture) shed their old leaves when moved. This is normal. Maintain high humidity, remove dead tissue and new leaves adapted to the new medium usually appear within 1-3 weeks."
+        },
+        {
+            "question": "How do I propagate Rotala rotundifolia?",
+            "answer": "Cut stems with at least 2-3 nodes and push the base 1-2 cm into moist substrate. Roots form at the nodes within 1-2 weeks. Tops cut during pruning can be replanted directly, and side shoots can be removed and replanted to fill gaps."
+        },
+        {
+            "question": "How often should I trim Rotala rotundifolia?",
+            "answer": "Pinch emersed stem tips every 2-3 weeks to keep growth compact and encourage side shoots. Submerged stems should be topped every 2-3 weeks. Replant healthy cuttings to build density or fill gaps elsewhere."
+        },
+        {
+            "question": "Is Rotala rotundifolia safe for shrimp, fish and pets?",
+            "answer": "No significant toxicity is documented for aquarium animals or common pets, and it is widely kept with shrimp and fish. As a precaution, rinse new stock thoroughly and avoid releasing trimmings into natural waterways."
+        },
+        {
+            "question": "What substrate is best for Rotala rotundifolia in wabi-kusa?",
+            "answer": "A moisture-retentive, nutrient-rich mix such as 60% aquasoil, 30% fine akadama and 10% rinsed peat-free coir by volume works well. Keep it damp rather than waterlogged, and refer to the substrate recipe guide for alternatives."
+        }
+    ],
+    "canonicalUrl": "https://www.plantsolve.com/plants/rotala-rotundifolia/",
+    "relatedEntitySlugs": [
+        "plants:anubias-nana",
+        "topics:how-to-make-wabi-kusa",
+        "topics:wabi-kusa-lighting-and-humidity",
+        "topics:wabi-kusa-mold-prevention",
+        "topics:wabi-kusa-plants",
+        "topics:wabi-kusa-substrate-recipe"
+    ],
+    "commonName": "Rotala rotundifolia",
+    "contentText": "Overview of Rotala rotundifolia Rotala rotundifolia (family Lythraceae) is a fast-growing, amphibious stem plant native to wetlands and paddies across tropical and subtropical Asia. It is one of the most popular stem plants in the aquarium hobby and a reliable vertical accent in wabi-kusa and paludarium builds. Because it naturally lives through flooded and exposed seasons, it switches readily between submerged and emersed life. Trade names are often confused: stock sold as Rotala 'Indica' or 'H'ra' may be a different species or cultivar, so treat the care parameters below as applying to plants commonly sold as Rotala rotundifolia. For the full build process see how to make a wabi-kusa . Emersed (Terrestrial) Form Grown above water, Rotala rotundifolia produces thicker, rounder to oval, glossy leaves on upright stems 8-20 cm tall, often with a bronze to pink tint under strong light. This is the form you want for wabi-kusa. It roots readily from the nodes, but it needs 85-95% humidity for the first 3-4 weeks after planting and 70-90% afterwards for compact growth. Under strong light and stable conditions, emersed plants may produce small pink flower spikes. Light: 6500K full-spectrum LED at roughly 80-150 PPFD for 8-10 hours daily. Too much light dries the substrate surface quickly. Substrate: aquasoil, akadama and coir (for example 60/30/10 by volume ). See the wabi-kusa substrate recipe for variations. Water: a 1-2 cm reservoir of dechlorinated or RO water that wicks upward; keep the substrate damp, never dripping. Temperature: 20-28\u00b0C (68-82\u00b0F), tolerating 15-32\u00b0C. Submerged Form Underwater, the plant produces narrow, linear to lance-shaped leaves in whorls along tall, slender stems. It is easy in low-tech tanks, where it stays green to light pink, but vivid pink to red tops need medium to high light (about 50-100 PPFD at the substrate), chelated iron, a nutrient-rich substrate and ideally CO2. Plant loose groups of 5-8 stems 2-3 cm apart, remove the lowest leaves from the buried section and top the stems every 2-3 weeks so light reaches the lower growth. Converting Between Emersed and Submerged Rotala rotundifolia changes leaf shape when the growing medium changes, so some melt-back is expected. Submerged to emersed: plant trimmed stems into moist substrate and keep humidity at 85-95% with a lid. Old narrow leaves melt within 1-3 weeks, followed by rounder emersed leaves from the nodes. Emersed to submerged: plant trimmed stems in groups, flood slowly and provide good light. The emersed leaves yellow and drop, and narrow submerged leaves form over 2-4 weeks. Tip: buying plants already grown in the form you want (emersed for wabi-kusa, submerged or tissue culture for tanks) shortens the transition considerably. Using Rotala rotundifolia in Wabi-Kusa Place Rotala off-centre on the top or rear of the ball as the vertical focal point, with a creeping filler such as Hydrocotyle tripartita around the base and an epiphyte such as Anubias nana attached to the sphagnum wrap or a stone. Keep the palette to 2-4 species and trim the stems regularly so they do not shade the carpet. Check the wabi-kusa plants guide for further species and the lighting and humidity guide for environmental targets. Colour: How to Get Pink and Red Rotala Red colouration is a response to light and nutrients. To encourage it, provide the upper end of the light range (120-150 PPFD emersed, or 80-100 PPFD submerged), keep iron and trace elements available, avoid high nitrogen and add CO2 in submerged tanks. Emersed stems usually show warmer bronze to pink tints than submerged ones. If the stems stay green, check light distance and iron first. Propagation Propagation is simple: cut a stem with at least 2-3 nodes and push the base 1-2 cm into moist substrate. Roots form at the nodes within 1-2 weeks, and side shoots develop after pinching. Tops cut during pruning can be replanted immediately, so every trimming becomes a new plant. Lateral shoots can also be removed and replanted. Pruning and Maintenance Pinch emersed stem tips every 2-3 weeks to prevent stretching and encourage side shoots. Top submerged stems every 2-3 weeks and replant the tops in groups. Remove yellow or melting leaves promptly to prevent mold in humid containers (see the mold prevention guide ). Replace reservoir water every 1-2 weeks and fertilize lightly once the aquasoil is depleted (about 2-3 months). Vivarium and Paludarium Integration In paludariums and humid vivaria, Rotala rotundifolia grows well at the waterline and on the land portion in moist substrate, where it tolerates splashing and shallow flooding. In enclosed setups, ensure good airflow and prune dense stems so the lower layers do not rot. Do not release it into warm outdoor ponds or waterways, where it can escape and become invasive, and check local regulations. Troubleshooting Summary Symptom Likely Cause Quick Fix Leaves melting after planting Emersed or submerged conversion Maintain high humidity and trim dead leaves Green, leggy stems Low light or low iron Raise light, top stems and dose chelated iron Brown, crispy edges Humidity too low Raise humidity and keep the reservoir filled Pale new growth Iron or nutrient deficiency Dilute fertilizer with chelated iron White fuzzy mold Stagnant air or excess moisture Spot-treat with 3% hydrogen peroxide and ventilate Related Resources Build with it in our wabi-kusa tutorial , choose companion species in the wabi-kusa plants guide , mix the medium with the substrate recipe and dial in conditions with the lighting and humidity guide . Companion plant profiles: Hydrocotyle tripartita and Anubias nana .",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/rotala-rotundifolia/",
+        "lastReviewed": "2026-10-03",
+        "license": "CC BY 4.0"
+    }
+}

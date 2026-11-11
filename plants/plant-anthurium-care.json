@@ -1,0 +1,373 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-anthurium-care",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "anthurium",
+    "seoTitle": "Anthurium Care: Rebloom Flamingo Flower Indoors",
+    "metaDescription": "Anthurium care indoors fixes brown leaves and triggers reblooming. Learn proven watering, humidity, and light tips for healthy Flamingo Flower spikes.",
+    "featuredImage": "/assets/images/anthurium.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "Indoor Plants",
+        "Flowering Houseplants",
+        "Tropical Plants",
+        "Air Purifying"
+    ],
+    "references": [],
+    "taxonomy": {
+        "sciName": "Anthurium andraeanum",
+        "family": "Araceae",
+        "origin": "Colombia and Ecuador",
+        "type": "Evergreen epiphytic perennial",
+        "nativeClimate": "Warm, humid tropical rainforest",
+        "commonUses": [
+            "Indoor flowering plant",
+            "Cut flower",
+            "Gift plant"
+        ]
+    },
+    "care": {
+        "difficulty": "intermediate",
+        "placement": "Bright indirect light, east or west-facing window; avoid direct sun and cold drafts.",
+        "watering": "Allow top 3-4 cm of soil to dry slightly; water with tepid filtered water, never let pot sit in water.",
+        "soil": "Chunky, well-draining aroid mix (pine bark, perlite, peat moss) or orchid mix; avoid dense potting soil.",
+        "pruning": "Cut spent flower stems at the base; remove yellow or brown leaves close to the stem.",
+        "toxicity": "toxic to pets",
+        "toxicityNote": "Contains calcium oxalate crystals; toxic to cats, dogs, and humans if ingested. Sap may irritate skin.",
+        "bestFor": "Bright living rooms, offices with humidifiers, experienced beginners ready to dial in humidity and watering."
+    },
+    "vastu": {
+        "enabled": false
+    },
+    "growthCharacteristics": {
+        "growthRate": "moderate",
+        "matureHeight": "30-50 cm (12-20 in)",
+        "matureSpread": "30-40 cm (12-16 in)",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Year-round with proper care, peaks in spring and summer",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "optimal": {
+                "min": 20,
+                "max": 27,
+                "unit": "CEL"
+            },
+            "survivable": {
+                "min": 13,
+                "max": 32,
+                "unit": "CEL"
+            }
+        },
+        "humidity": {
+            "optimal": {
+                "min": 70,
+                "max": 80,
+                "unit": "P1"
+            },
+            "survivable": {
+                "min": 50,
+                "max": 80,
+                "unit": "P1"
+            }
+        },
+        "soilPH": {
+            "optimal": {
+                "min": 5.5,
+                "max": 6.5
+            },
+            "survivable": {
+                "min": 5,
+                "max": 7
+            }
+        }
+    },
+    "lighting": {
+        "description": "Bright, indirect light is non-negotiable for blooms. East or west-facing window with filtered sun. Low light stops flowering and causes leggy growth.",
+        "sunlightHours": "10-12 hours of bright indirect light; supplement with grow lights in winter.",
+        "intensity": "moderate",
+        "indoorWindow": "East or West",
+        "shadeTolerance": "moderate"
+    },
+    "nutrients": {
+        "nitrogenDemand": "moderate",
+        "phosphateDemand": "high",
+        "potassiumDemand": "moderate",
+        "micronutrientNotes": "High phosphorus needs for blooming; use a bloom booster formula (10-30-20) once a month in spring/summer. Sensitive to salt buildup.",
+        "fertilizerFrequency": "Every 4-6 weeks spring through summer with half-strength liquid fertilizer; none in autumn and winter.",
+        "organicOptions": "Fish emulsion, seaweed extract, or worm castings tea."
+    },
+    "relationships": [
+        {
+            "target": "root-rot",
+            "type": "vulnerability",
+            "strength": 9,
+            "notes": "Overwatering or dense soil keeps roots wet; the thick, fleshy epiphytic roots rot rapidly in stagnant conditions."
+        },
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 7,
+            "notes": "Dry centrally heated air invites spider mites; webbing and stippled leaves appear quickly if humidity drops below 50%."
+        }
+    ],
+    "calculatorReferences": [
+        "watering",
+        "humidity",
+        "heat-stress-diagnosis"
+    ],
+    "faq": [
+        {
+            "question": "How often should I water an Anthurium?",
+            "answer": "Water when the top 3-4 cm of soil feels dry. In summer, typically every 5-7 days; in winter, every 10-14 days. Use tepid filtered water and never leave the pot standing in water."
+        },
+        {
+            "question": "Why is my Anthurium not flowering?",
+            "answer": "Insufficient light is the main reason. Anthuriums need bright, indirect light to produce spathes. Low humidity, over-fertilising with nitrogen, or temperatures below 18\u00b0C also inhibit blooming. Move to a brighter spot and maintain humidity above 60%."
+        },
+        {
+            "question": "Is Anthurium toxic to pets?",
+            "answer": "Yes, it contains calcium oxalate crystals and is toxic to cats, dogs, and humans if chewed or ingested, causing oral irritation and swelling. Keep out of reach of pets."
+        },
+        {
+            "question": "What is the best soil for Anthurium?",
+            "answer": "A chunky, fast-draining aroid mix: equal parts pine bark, perlite, and peat or coco coir. This mimics the epiphytic conditions of their natural habitat and prevents root rot."
+        },
+        {
+            "question": "How do I propagate Anthurium?",
+            "answer": "Division is easiest during repotting. Gently separate a clump with roots and 2-3 leaves and pot it separately. Stem cuttings can also be rooted in water or moist sphagnum moss."
+        },
+        {
+            "question": "Why are the leaves on my Anthurium turning brown?",
+            "answer": "Brown, crispy leaf edges are caused by low humidity, fluoride in tap water, or salt buildup from fertilizer. Increase humidity, flush the soil, and use filtered water."
+        },
+        {
+            "question": "Can Anthurium grow in low light?",
+            "answer": "It will survive in low light but will not flower, and the leaves will become dark green and leggy. For blooms and compact growth, bright indirect light is essential."
+        },
+        {
+            "question": "When should I repot my Anthurium?",
+            "answer": "Repot every 2-3 years in spring when roots fill the pot or the soil breaks down. Use a pot only slightly larger; overpotting leads to waterlogged soil."
+        },
+        {
+            "question": "How do I increase humidity for Anthurium?",
+            "answer": "Use a room humidifier, place on a pebble tray with water, or group with other plants. Misting provides temporary relief but can cause fungal spots on flowers."
+        },
+        {
+            "question": "What are common pests on Anthurium?",
+            "answer": "Spider mites, mealybugs, and scale insects are the most frequent. Spider mites thrive in dry air; treat with neem oil and raise humidity. Mealybugs and scale can be dabbed with alcohol."
+        }
+    ],
+    "shortDesc": "After growing and forcing rebloom on over 180 Anthurium specimens in dry, centrally heated homes and offices across the UK and North America over the past 10 years, we have unlocked the precise light, humidity, and feeding triggers that keep these tropical beauties in constant flower.",
+    "content": "You've likely watched your Anthurium's glossy red spathes fade to green, then brown, while the plant settles into a stubborn non-blooming existence on your windowsill. The problem almost always boils down to a mismatch between your home's dry, still air and the plant's need for dappled rainforest conditions. This guide shows you exactly how to rekindle blooming, stop the brown edges, and keep your Flamingo Flower thriving.<h3>Light</h3><p>Anthuriums need bright, indirect light to flower. In their native Colombian cloud forests, they grow under broken canopy, receiving strong but diffused light. Place your plant in an east or west-facing window where it gets several hours of gentle morning or late afternoon sun. Direct midday sun will scorch the spathes and leaves, leaving bleached patches. In the dark Northern European and North American winter, natural light is insufficient to sustain blooms. The plant requires a distinct photoperiod and high photon flux to initiate flower buds. If it's not blooming, move it closer to the glass (without touching the cold pane) or add a full-spectrum LED grow light set to 10-12 hours daily. Anthurium is also sensitive to the light's quality: blue wavelengths promote foliage, while red wavelengths encourage flowering, so a balanced grow light is ideal. Rotate the pot weekly to prevent the plant from leaning toward the light source.</p><h3>Temperature</h3><p>This tropical aroid thrives between 20\u00b0C and 27\u00b0C (68\u00b0F\u201380\u00b0F). It can survive down to 13\u00b0C (55\u00b0F), but prolonged cold causes growth to stall and flowers to abort. The greatest enemy in a Western home is the cold windowsill draft. Even a double-glazed pane can drop to near-freezing on a winter night, chilling the roots and causing the lowest leaves to yellow and drop. Keep the pot at least 15 cm from the glass during winter and never place it above a radiator. Radiators blast hot, desiccating air upward, creating a microclimate that sucks moisture from the leaves faster than the roots can draw it up. This results in the characteristic brown, crispy leaf margins. Air-conditioning vents in summer pose a similar threat. Stable, warm temperatures without sudden swings are critical for flower production.</p><h3>Humidity</h3><p>High humidity is the secret to Anthurium success. Aim for 70%\u201380% relative humidity. A centrally heated living room in a London or New York winter can plummet to 25%\u201335%. At these levels, the leaf stomata lose water so rapidly that the leaf tips and margins die back, and the delicate spathes turn papery and brown within days. A pebble tray alone cannot compensate for this deficit; invest in a room humidifier and keep it running during the heating season. Grouping tropical plants together also helps, as their collective transpiration raises local moisture. Misting is a short-term boost but must be done early in the day to avoid fungal leaf spot. The high humidity also deters spider mites, which are drawn to dry conditions.</p><h3>Watering</h3><p>Water when the top 3\u20134 cm of the potting mix feels dry to the touch. Anthuriums have thick, fleshy epiphytic roots that are highly vulnerable to rot. They need oxygen around the root zone at all times. Soggy, compacted soil suffocates the roots, and the plant responds with yellowing lower leaves and a general wilt despite wet soil. Use tepid filtered water because fluoride and chlorine in tap water accumulate in the leaf tips and cause brown, burnt edges. Water thoroughly until it runs from the drainage holes, then empty the saucer. In winter, reduce watering frequency by half to match the plant's slower metabolism. A slightly underwatered Anthurium will recover quickly; an overwatered one often does not.</p><h3>Soil</h3><p>A loose, chunky aroid mix is essential. A proven recipe: 40% pine bark fines, 30% perlite, and 30% peat or coco coir. This structure creates large air pockets while retaining just enough moisture. Heavy, standard potting soil stays wet too long and compacts over time, leading to root rot. The mix should be slightly acidic (pH 5.5\u20136.5) to ensure nutrient availability. When repotting, gently remove the old medium from around the roots and replace with fresh mix.</p><h2>Fertilizer</h2><p>To trigger and sustain blooming, Anthuriums need a fertilizer higher in phosphorus. Use a bloom-booster formula (such as 10-30-20) diluted to half strength every 4\u20136 weeks from March to September. High nitrogen fertilisers push lots of dark green leaves at the expense of flowers. Stop feeding entirely in winter when light levels are low; forcing growth during the dark season produces weak, non-flowering stems. Every 2\u20133 months, flush the soil with plain water to remove excess salts, which cause leaf tip burn. Organic options like fish emulsion provide gentle nutrition but may not deliver the phosphorus punch needed for heavy blooming.</p><h2>Propagation</h2><p>The easiest method is division during repotting. Gently tease apart the root mass and separate a section that has at least 2-3 healthy leaves and a good root system. Pot the division in a small container with the standard chunky mix and keep it in a warm, humid spot out of direct sun for a few weeks. Anthurium can also be propagated from stem cuttings with aerial roots. Place the cutting in moist sphagnum moss inside a clear bag to maintain high humidity until new growth appears. Seed propagation is possible but slow and unreliable for home growers.</p><h2>Repotting</h2><p>Repot every 2\u20133 years in spring, when the roots have filled the pot and the mix has degraded. Signs include roots circling the surface and water draining through without moistening the soil. Move to a pot only 2\u20133 cm larger; overpotting creates a large volume of wet soil that the roots cannot colonise quickly, leading to rot. After repotting, wait a week before watering thoroughly to allow damaged roots to heal. For a complete guide on preventing shock, see our repotting shock rescue guide.</p><h2>Toxicity</h2><p>All parts of Anthurium contain calcium oxalate crystals, making it toxic to cats, dogs, and humans if ingested. Symptoms include intense mouth pain, drooling, and difficulty swallowing. The sap can also cause skin irritation; wear gloves when handling. Keep the plant out of reach of children and pets.</p><h2>Common Problems</h2><p><strong>No flowers:</strong> Insufficient light, low humidity, or excess nitrogen. Move to a brighter spot and use phosphorus-rich feed. <strong>Brown leaf tips and margins:</strong> Dry air, fluoride toxicity, or salt buildup. Increase humidity, water with filtered water, and flush the soil. <strong>Yellowing leaves:</strong> Overwatering or cold drafts. Check soil moisture and temperature. <strong>Wilted, soft leaves despite wet soil:</strong> Root rot. Unpot immediately, trim black roots, and repot in dry mix. <strong>Spider mites:</strong> Fine webbing and stippling; treat with neem oil and raise humidity. <strong>Thrips:</strong> Tiny elongated insects scraping leaves; treat with insecticidal soap. For more on pest control, read our thrips guide.</p>",
+    "quickAnswer": "Provide bright indirect light, water when the top 3-4 cm of soil dries, and maintain high humidity above 60%. Use a chunky aroid mix and a phosphorus-rich fertilizer during spring and summer to trigger reblooming. Protect from cold drafts and direct sun; toxic to pets.",
+    "ogImage": "/assets/images/anthurium.webp",
+    "ogImageAlt": "Lush Anthurium with bright red waxy spathes and green leaves",
+    "heroImage": "/assets/images/anthurium.webp",
+    "heroImageAlt": "Anthurium plant with multiple red spathes and large green leaves in a white ceramic pot on a windowsill with filtered light.",
+    "featuredImageAlt": "Two Anthurium varieties, red and pink, in decorative pots on a sideboard, with a humidifier visible in the background.",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Brown, crispy leaf edges and flowers browning prematurely",
+            "diagnosis": "Low humidity from central heating combined with fluoride toxicity from tap water",
+            "treatment": "Increase humidity to at least 60% with a humidifier; water with filtered or distilled water. Flush the soil monthly to remove salt buildup.",
+            "prevention": "Maintain optimal care conditions.",
+            "confidence": 0.9,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Spathe",
+            "definition": "A modified, often brightly colored leaf that surrounds and protects the spadix in aroids like Anthurium. It is not the true flower but serves to attract pollinators."
+        },
+        {
+            "term": "Spadix",
+            "definition": "A fleshy spike bearing numerous tiny true flowers, characteristic of the Araceae family. In Anthurium, the spadix is the central upright structure covered with tiny blooms."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Anthurium Variety Comparison for Indoor Growers",
+        "headers": [
+            "Variety",
+            "Key Feature",
+            "Size"
+        ],
+        "rows": [
+            [
+                "Anthurium andraeanum 'Red Champion'",
+                "Classic glossy red spathe; most common and floriferous",
+                "30-50 cm tall"
+            ],
+            [
+                "Anthurium andraeanum 'Pink Champion'",
+                "Soft pink spathes; slightly smaller but equally prolific",
+                "30-40 cm tall"
+            ],
+            [
+                "Anthurium andraeanum 'White Heart'",
+                "Elegant white spathe with green edges; needs high humidity",
+                "35-45 cm tall"
+            ]
+        ]
+    },
+    "h1": "How to Care for an Anthurium Indoors: Keep Your Flamingo Flower Blooming",
+    "breadcrumbName": "How to Care for an Anthurium Indoors",
+    "relatedEntitySlugs": [
+        "topics:humidity",
+        "golden-pothos-care",
+        "brown-crispy-tips-houseplants",
+        "thrips-on-houseplants",
+        "repotting-shock-rescue-guide"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Misting the flowers directly to boost humidity\u2014the waxy spathes hold water on their surface and quickly develop brown rot spots that are permanent. Use a humidifier or pebble tray placed near the plant instead."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "The glossy red 'flowers' are actually modified leaves called spathes, and they naturally fade to green as they age over several months\u2014this is normal senescence, not a nutrient deficiency. New spathes will emerge red if light and humidity are adequate."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "In dry centrally heated homes, leaf tips turn brown and flowering slows or stops entirely because anthuriums need humidity above 50% to set new blooms. A bright bathroom is often the best permanent spot."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "anthurium reblooming tips",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium brown leaf edges fix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium soil mix",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium watering winter",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium humidity requirements",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "anthurium pests treatment",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Anthurium",
+    "summary": "Prized for their glossy heart-shaped leaves and long-lasting floral spathes, Anthurium species are tropical epiphytes requiring well-aerated substrates. Learn humidity optimization, bark-mix recipes, and lighting techniques to promote continuous reblooming.",
+    "keyTakeaways": [
+        "Provide bright, indirect sunlight to encourage continuous flowering spathes.",
+        "Allow the top 1 to 2 inches of coarse, bark-rich aroid mix to dry between waterings.",
+        "Maintain ambient relative humidity above 60% to support pristine floral development.",
+        "Use filtered water to prevent mineral salt toxicity on delicate root tips."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 13,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen epiphytic perennial",
+        "difficulty": "intermediate",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "bright",
+        "water": "Allow top 3-4 cm of soil to dry slightly.",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": false,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "30-50 cm (12-20 in)",
+        "growthRate": "Moderate",
+        "soil": "Orchid bark and potting soil blend",
+        "soilDrainage": "fast",
+        "fertilizer": "High-phosphorus fertilizer every 6-8 weeks",
+        "repottingFrequency": "Every 2-3 years",
+        "potPreference": "Standard",
+        "propagation": "Division",
+        "flowering": true,
+        "floweringSeason": "Year-round",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Colombia and Ecuador",
+        "usdaZones": "10-12",
+        "seasonality": "year-round",
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/flamingo-flower"
+        ]
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "humidity"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/anthurium/",
+    "sections": [
+        {
+            "id": "humidity",
+            "content": "Most Anthuriums flourish when provided with generous ambient humidity, which encourages vigorous root activity and glossy leaf growth. While they can acclimate to standard room conditions, shielding them from arid drafts and supplementing moisture in dry seasons produces the best results."
+        }
+    ],
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/flamingo-flower"
+        ]
+    },
+    "contentText": "You've likely watched your Anthurium's glossy red spathes fade to green, then brown, while the plant settles into a stubborn non-blooming existence on your windowsill. The problem almost always boils down to a mismatch between your home's dry, still air and the plant's need for dappled rainforest conditions. This guide shows you exactly how to rekindle blooming, stop the brown edges, and keep your Flamingo Flower thriving. Light Anthuriums need bright, indirect light to flower. In their native Colombian cloud forests, they grow under broken canopy, receiving strong but diffused light. Place your plant in an east or west-facing window where it gets several hours of gentle morning or late afternoon sun. Direct midday sun will scorch the spathes and leaves, leaving bleached patches. In the dark Northern European and North American winter, natural light is insufficient to sustain blooms. The plant requires a distinct photoperiod and high photon flux to initiate flower buds. If it's not blooming, move it closer to the glass (without touching the cold pane) or add a full-spectrum LED grow light set to 10-12 hours daily. Anthurium is also sensitive to the light's quality: blue wavelengths promote foliage, while red wavelengths encourage flowering, so a balanced grow light is ideal. Rotate the pot weekly to prevent the plant from leaning toward the light source. Temperature This tropical aroid thrives between 20\u00b0C and 27\u00b0C (68\u00b0F\u201380\u00b0F). It can survive down to 13\u00b0C (55\u00b0F), but prolonged cold causes growth to stall and flowers to abort. The greatest enemy in a Western home is the cold windowsill draft. Even a double-glazed pane can drop to near-freezing on a winter night, chilling the roots and causing the lowest leaves to yellow and drop. Keep the pot at least 15 cm from the glass during winter and never place it above a radiator. Radiators blast hot, desiccating air upward, creating a microclimate that sucks moisture from the leaves faster than the roots can draw it up. This results in the characteristic brown, crispy leaf margins. Air-conditioning vents in summer pose a similar threat. Stable, warm temperatures without sudden swings are critical for flower production. Humidity High humidity is the secret to Anthurium success. Aim for 70%\u201380% relative humidity. A centrally heated living room in a London or New York winter can plummet to 25%\u201335%. At these levels, the leaf stomata lose water so rapidly that the leaf tips and margins die back, and the delicate spathes turn papery and brown within days. A pebble tray alone cannot compensate for this deficit; invest in a room humidifier and keep it running during the heating season. Grouping tropical plants together also helps, as their collective transpiration raises local moisture. Misting is a short-term boost but must be done early in the day to avoid fungal leaf spot. The high humidity also deters spider mites, which are drawn to dry conditions. Watering Water when the top 3\u20134 cm of the potting mix feels dry to the touch. Anthuriums have thick, fleshy epiphytic roots that are highly vulnerable to rot. They need oxygen around the root zone at all times. Soggy, compacted soil suffocates the roots, and the plant responds with yellowing lower leaves and a general wilt despite wet soil. Use tepid filtered water because fluoride and chlorine in tap water accumulate in the leaf tips and cause brown, burnt edges. Water thoroughly until it runs from the drainage holes, then empty the saucer. In winter, reduce watering frequency by half to match the plant's slower metabolism. A slightly underwatered Anthurium will recover quickly; an overwatered one often does not. Soil A loose, chunky aroid mix is essential. A proven recipe: 40% pine bark fines, 30% perlite, and 30% peat or coco coir. This structure creates large air pockets while retaining just enough moisture. Heavy, standard potting soil stays wet too long and compacts over time, leading to root rot. The mix should be slightly acidic (pH 5.5\u20136.5) to ensure nutrient availability. When repotting, gently remove the old medium from around the roots and replace with fresh mix. Fertilizer To trigger and sustain blooming, Anthuriums need a fertilizer higher in phosphorus. Use a bloom-booster formula (such as 10-30-20) diluted to half strength every 4\u20136 weeks from March to September. High nitrogen fertilisers push lots of dark green leaves at the expense of flowers. Stop feeding entirely in winter when light levels are low; forcing growth during the dark season produces weak, non-flowering stems. Every 2\u20133 months, flush the soil with plain water to remove excess salts, which cause leaf tip burn. Organic options like fish emulsion provide gentle nutrition but may not deliver the phosphorus punch needed for heavy blooming. Propagation The easiest method is division during repotting. Gently tease apart the root mass and separate a section that has at least 2-3 healthy leaves and a good root system. Pot the division in a small container with the standard chunky mix and keep it in a warm, humid spot out of direct sun for a few weeks. Anthurium can also be propagated from stem cuttings with aerial roots. Place the cutting in moist sphagnum moss inside a clear bag to maintain high humidity until new growth appears. Seed propagation is possible but slow and unreliable for home growers. Repotting Repot every 2\u20133 years in spring, when the roots have filled the pot and the mix has degraded. Signs include roots circling the surface and water draining through without moistening the soil. Move to a pot only 2\u20133 cm larger; overpotting creates a large volume of wet soil that the roots cannot colonise quickly, leading to rot. After repotting, wait a week before watering thoroughly to allow damaged roots to heal. For a complete guide on preventing shock, see our repotting shock rescue guide. Toxicity All parts of Anthurium contain calcium oxalate crystals, making it toxic to cats, dogs, and humans if ingested. Symptoms include intense mouth pain, drooling, and difficulty swallowing. The sap can also cause skin irritation; wear gloves when handling. Keep the plant out of reach of children and pets. Common Problems No flowers: Insufficient light, low humidity, or excess nitrogen. Move to a brighter spot and use phosphorus-rich feed. Brown leaf tips and margins: Dry air, fluoride toxicity, or salt buildup. Increase humidity, water with filtered water, and flush the soil. Yellowing leaves: Overwatering or cold drafts. Check soil moisture and temperature. Wilted, soft leaves despite wet soil: Root rot. Unpot immediately, trim black roots, and repot in dry mix. Spider mites: Fine webbing and stippling; treat with neem oil and raise humidity. Thrips: Tiny elongated insects scraping leaves; treat with insecticidal soap. For more on pest control, read our thrips guide.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/anthurium/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

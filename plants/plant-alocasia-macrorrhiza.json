@@ -1,0 +1,337 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-alocasia-macrorrhiza",
+    "entityType": "plant",
+    "status": "published",
+    "slug": "alocasia-macrorrhiza",
+    "seoTitle": "Giant Elephant Ear Care: Light, Watering & Pest Guide",
+    "metaDescription": "Giant Elephant Ear needs bright light and careful watering indoors. Find out how to stop drooping leaves and prevent spider mites on Alocasia macrorrhiza.",
+    "featuredImage": "/assets/images/alocasia-macrorrhiza.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "indoor-plants",
+        "statement-foliage",
+        "toxic-to-pets",
+        "high-light",
+        "pest-prone"
+    ],
+    "references": [
+        {
+            "title": "Plants of the World Online - Alocasia macrorrhizos",
+            "source": "Royal Botanic Gardens, Kew",
+            "url": "https://powo.science.kew.org/"
+        },
+        {
+            "title": "Elephant Ear Care",
+            "source": "University of Florida IFAS Extension",
+            "url": "https://edis.ifas.ufl.edu/"
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Alocasia macrorrhizos",
+        "family": "Araceae",
+        "origin": "Southeast Asia",
+        "type": "Evergreen tuberous perennial",
+        "nativeClimate": "Tropical rainforest understory",
+        "commonUses": [
+            "Massive floor displays",
+            "Sunrooms",
+            "Tropical patio corners"
+        ]
+    },
+    "care": {
+        "difficulty": "advanced",
+        "placement": "Requires immense amounts of bright light to support its massive leaves. Needs huge floor space.",
+        "watering": "Keep the soil evenly moist but never soggy. Highly prone to root rot if overwatered.",
+        "soil": "A rich, moisture-retaining, extremely chunky aroid mix.",
+        "pruning": "Cut dead, drooping leaves cleanly at the base of the stem to redirect energy to the tuber.",
+        "toxicity": "toxic",
+        "toxicityNote": "Toxic to cats and dogs. Contains insoluble calcium oxalates; causes severe oral pain and swelling.",
+        "bestFor": "Plant owners with massive amounts of space, high ceilings, and a rigorous pest-control routine."
+    },
+    "vastu": {
+        "enabled": false,
+        "direction": "",
+        "benefits": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "6-10 feet indoors",
+        "matureSpread": "4-6 feet wide",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "Summer (produces a spathe and spadix, similar to a peace lily)",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+            "survivable": "60\u00b0F - 90\u00b0F (15\u00b0C - 32\u00b0C)"
+        },
+        "humidity": {
+            "recommended": "60% - 80%",
+            "survivable": "40% - 90%"
+        },
+        "soilPH": {
+            "recommended": "5.5 - 6.5",
+            "survivable": "5.0 - 7.5"
+        }
+    },
+    "lighting": {
+        "description": "To push out 3-foot wide leaves, it requires an immense amount of solar energy. Needs bright, indirect light and several hours of direct morning sun. Low light will result in small, drooping leaves.",
+        "sunlightHours": "6-8 hours indirect + 2-3 hours direct",
+        "intensity": "high",
+        "indoorWindow": "South or East-facing window.",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "high",
+        "phosphateDemand": "low",
+        "potassiumDemand": "high",
+        "micronutrientNotes": "An incredibly heavy feeder. It requires massive amounts of nitrogen to grow its giant leaves.",
+        "fertilizerFrequency": "Every two weeks during spring and summer with a strong liquid fertilizer.",
+        "organicOptions": "Heavy top-dressing of worm castings and compost."
+    },
+    "relationships": [
+        {
+            "target": "spider-mites",
+            "type": "vulnerability",
+            "strength": 10,
+            "notes": "Alocasias are absolute magnets for spider mites. The massive leaves provide acres of breeding ground."
+        }
+    ],
+    "calculatorReferences": [
+        "calculator-watering"
+    ],
+    "faq": [
+        {
+            "question": "Why is my Giant Elephant Ear drooping?",
+            "answer": "Massive drooping leaves usually indicate that the plant is either extremely thirsty or severely overwatered. Check the soil. If it is bone dry, it simply lacks the water pressure (turgor) to hold the heavy leaves up. If it is wet, the roots have rotted, and the plant is collapsing."
+        },
+        {
+            "question": "Why does my Alocasia drop an old leaf every time a new one grows?",
+            "answer": "This is entirely normal for Alocasias. The plant is recycling the nutrients from the oldest, lowest leaf to fuel the massive energy required to unfurl the new leaf. As the plant matures and gets more light, it will eventually be able to hold more leaves simultaneously."
+        },
+        {
+            "question": "What is the dusty webbing on the undersides of the leaves?",
+            "answer": "That is a severe spider mite infestation. Alocasias are incredibly prone to them. You must wipe down the massive leaves with insecticidal soap and increase the humidity immediately."
+        },
+        {
+            "question": "Why are water drops falling from the tips of the leaves?",
+            "answer": "This is called guttation. It happens when the plant has absorbed plenty of water and the environment is humid. It is completely harmless, but be careful as the water drops can damage wooden floors."
+        },
+        {
+            "question": "Is the Elephant Ear plant toxic to pets?",
+            "answer": "Yes. It contains calcium oxalate crystals. Chewing on the massive stems or leaves will cause severe burning in the mouth, drooling, and vomiting for cats and dogs."
+        }
+    ],
+    "shortDesc": "The Giant Elephant Ear is a prehistoric-looking plant that can reach the ceiling indoors. It requires massive amounts of light, fertilizer, and water, and is a major magnet for spider mites.",
+    "content": "<h2>Overview</h2><p>The Giant Elephant Ear (<em>Alocasia macrorrhizos</em>), also known as the Giant Taro, is the ultimate statement plant. While other houseplants sit quietly on a desk, this plant commands the entire room. Native to the tropical rainforests of Southeast Asia, it features massive, arrow-shaped, glossy green leaves with deeply prominent veins. A single leaf can easily grow to be 3 feet long and 2 feet wide.</p><p>However, bringing a jungle giant into your living room comes with significant challenges. To push out leaves of that size, the plant acts as a massive biological engine. It requires intense sunlight, huge amounts of water, and heavy fertilization. Furthermore, Alocasias are infamous in the houseplant community for being the ultimate magnet for spider mites. Growing a Giant Elephant Ear successfully requires dedicated space, vigilance, and a rigorous feeding schedule.</p><h3>Light Requirements: Fueling the Giant</h3><p>You cannot grow a 6-foot tall plant in a dark corner. The Giant Elephant Ear requires massive amounts of bright, indirect light, and it highly appreciates several hours of direct morning sun. A large south-facing or east-facing window is mandatory.</p><p>If the plant does not receive enough light, the massive stems will stretch out (etiolate), become weak, and snap under the weight of the leaves. Additionally, the plant will likely refuse to hold more than one or two leaves at a time, instantly killing off the old leaf the moment a new one attempts to emerge.</p><h3>Watering: The Fine Line</h3><p>Because the leaves are so large, they transpire (sweat) massive amounts of water into the air every day. Therefore, the plant is very thirsty. You must keep the soil evenly moist, watering thoroughly when the top 1 to 2 inches of soil feel dry. Do not let the pot dry out completely, or the massive leaves will droop dramatically and collapse onto the floor.</p><p>However, despite its thirst, it is grown from a thick, potato-like rhizome/tuber that is highly susceptible to rot. If you water too frequently and the soil turns to mud, the tuber will rot and the entire plant will die within days. Proper drainage is the only thing standing between a thirsty plant and a rotting one.</p><h3>Temperature and Humidity</h3><p>This is a true tropical that despises the cold. Maintain temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). If exposed to a cold draft below 55\u00b0F (12\u00b0C), the plant will assume winter has arrived and may intentionally drop all its leaves and go dormant until spring.</p><p>Humidity is critical. It demands humidity levels above 60%. If the air is too dry, the edges of the giant leaves will crisp up, and the dry air will create the perfect breeding ground for spider mites.</p><h3>Soil and Potting</h3><p>You must use a very chunky, well-draining aroid mix. Combine high-quality potting soil with 30% coarse perlite and 20% orchid bark. Because it grows so rapidly, it will outgrow its pot quickly. You will likely need to repot it into a larger, very heavy pot every single spring. A heavy ceramic or terracotta pot is highly recommended to prevent the top-heavy plant from tipping over.</p><h2>The Spider Mite Magnet</h2><p>There is a running joke among botanists: if you want to know if you have spider mites in your house, buy an Alocasia. Spider mites love the massive, thin leaves. They look like tiny grains of moving dust and leave fine webbing near the stem joints. They suck the sap out of the leaves, causing them to turn yellow and speckled. You must preemptively wipe down the massive leaves with a damp cloth every two weeks, and treat immediately with insecticidal soap if you see any signs of webbing.</p><h2>Toxicity</h2><p>The Giant Elephant Ear is highly toxic. It is packed with insoluble calcium oxalate crystals. If chewed by pets or children, it causes immediate, intense burning and swelling of the lips, tongue, and throat, along with severe vomiting. Its sheer size usually deters pets, but caution is still required.</p>",
+    "quickAnswer": "The Giant Elephant Ear requires massive amounts of light and water to support its huge leaves. It is highly prone to spider mites, so you must wipe the leaves frequently and keep humidity high to discourage infestations and keep foliage looking its best.",
+    "ogImage": "/assets/images/alocasia-macrorrhiza.webp",
+    "ogImageAlt": "Massive, glossy green leaves of the Giant Elephant Ear plant",
+    "heroImage": "/assets/images/alocasia-macrorrhiza.webp",
+    "heroImageAlt": "Close up of the deeply prominent veins on an Alocasia macrorrhiza leaf",
+    "featuredImageAlt": "A towering Giant Elephant Ear plant dominating a bright living room",
+    "category": "Indoor Plants",
+    "publishedAt": "2026-06-01",
+    "updatedAt": "2026-07-20",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Why is my Giant Elephant Ear drooping?",
+            "diagnosis": "Either severe underwatering or overwatering-induced root rot",
+            "treatment": "Check soil moisture: if dry to the touch, water thoroughly; if wet, stop watering and allow soil to dry. If root rot is suspected, unpot, trim damaged roots, and repot in fresh, well-draining mix.",
+            "prevention": "Maintain consistently moist but not waterlogged soil; water when the top 2 inches feel dry; use a pot with drainage holes and a chunky aroid mix.",
+            "confidence": 0.9,
+            "evidence": []
+        },
+        {
+            "symptom": "Why does my Alocasia drop an old leaf every time a new one grows?",
+            "diagnosis": "Normal leaf senescence \u2013 the plant recycles nutrients to support new growth",
+            "treatment": "No action needed; this is a natural process. To minimise leaf loss, ensure the plant receives bright indirect light and regular feeding during the growing season.",
+            "prevention": "Provide adequate light, humidity, and balanced fertilizer to support more leaves simultaneously.",
+            "confidence": 0.95,
+            "evidence": []
+        },
+        {
+            "symptom": "Why are water drops falling from the tips of the leaves?",
+            "diagnosis": "Guttation \u2013 harmless exudation of excess water",
+            "treatment": "This is harmless; you can gently wipe the droplets if they are causing surface damage. However, reduce watering slightly if the plant is consistently guttating excessively.",
+            "prevention": "Water only when the top inch of soil is dry; avoid overwatering; improve air circulation to reduce guttation frequency.",
+            "confidence": 0.95,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Guttation",
+            "definition": "The exudation of drops of xylem sap on the tips or edges of leaves of some vascular plants. Often mistaken for the plant 'crying'."
+        },
+        {
+            "term": "Dormancy",
+            "definition": "A period in a plant's life cycle when growth, development, and physical activity are temporarily stopped, usually triggered by cold or dark conditions."
+        }
+    ],
+    "comparisonTable": {
+        "title": "Large Indoor Plant Comparison",
+        "headers": [
+            "Plant",
+            "Leaf Shape",
+            "Light Need"
+        ],
+        "rows": [
+            [
+                "Alocasia Macrorrhiza",
+                "Arrow-shaped, upright",
+                "Very High"
+            ],
+            [
+                "Bird of Paradise",
+                "Banana-like, split",
+                "Direct Sun"
+            ],
+            [
+                "Monstera Deliciosa",
+                "Heart-shaped, fenestrated",
+                "Bright Indirect"
+            ]
+        ]
+    },
+    "h1": "Giant Elephant Ear Care: Fixing Drooping Leaves & Spider Mites",
+    "breadcrumbName": "Giant Elephant Ear Care",
+    "relatedEntitySlugs": [
+        "topics:watering",
+        "bird-of-paradise",
+        "spider-mites-on-houseplants"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Underestimating its size and then pruning aggressively when it outgrows its space\u2014removing mature leaves deprives the plant of photosynthetic energy and stunts the very large-leaf production that makes it impressive. Plan for a dedicated corner before buying."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Water droplets collecting at leaf tips (guttation) is the plant's way of shedding excess moisture, not a sign of disease\u2014but it does signal you should reduce watering frequency. If left on furniture it stains, so position it carefully."
+        },
+        {
+            "type": "environment",
+            "title": "Real Home Conditions",
+            "content": "Near heating vents, leaf margins develop wide brown crispy bands and the whole plant droops despite wet soil\u2014the hot dry air draws moisture out of the leaves faster than roots can replace it. It also leans dramatically toward any light source and needs weekly rotation."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "giant taro plant",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "elephant ear plant care indoor",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia dropping leaves",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "giant alocasia",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "alocasia spider mites",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Alocasia Macrorrhiza",
+    "summary": "Alocasia macrorrhizos is a magnificent, fast-growing aroid capable of producing huge upright leaves indoors. Discover heavy nutrient and water requirements, light placement, and spider mite management for this dramatic tropical specimen.",
+    "keyTakeaways": [
+        "Provide bright indirect light or filtered sun to support giant upright leaves.",
+        "Keep the substrate consistently moist during active warm-season growth.",
+        "Maintain 60\u201380% humidity to prevent marginal browning on large leaf blades.",
+        "Feed with a balanced liquid fertilizer every 2 weeks during peak summer growth."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 11,
+    "lastReviewed": "2026-07-27",
+    "plantHero": {
+        "plantType": "Evergreen tuberous perennial",
+        "difficulty": "advanced",
+        "light": "Bright indirect",
+        "lightMin": "medium",
+        "lightMax": "full",
+        "water": "Moderate",
+        "drynessThreshold": 50,
+        "droughtTolerance": "low",
+        "dormancyShift": true,
+        "humidity": "60-80%",
+        "temperature": "65\u00b0F - 85\u00b0F (18\u00b0C - 29\u00b0C)",
+        "matureSize": "6-10 feet indoors",
+        "growthRate": "Fast",
+        "soil": "Rich, well-draining loam",
+        "soilDrainage": "good",
+        "fertilizer": "Heavy feeder; fertilize every 2-3 weeks",
+        "repottingFrequency": "Every 1-2 years",
+        "potPreference": "Large, stable pot",
+        "propagation": "Division of offsets",
+        "flowering": true,
+        "floweringSeason": "Spring-Summer",
+        "petSafety": "toxic",
+        "petSafetyNote": null,
+        "nativeRegion": "Southeast Asia",
+        "usdaZones": "9-11",
+        "seasonality": "warm-season",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "AU",
+            "NZ",
+            "IN"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "watering"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/alocasia-macrorrhiza/",
+    "petSafe": {
+        "cat": false,
+        "dog": false,
+        "sources": [
+            "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/elephant-ears-colocasia-esculenta"
+        ]
+    },
+    "contentText": "Overview The Giant Elephant Ear ( Alocasia macrorrhizos ), also known as the Giant Taro, is the ultimate statement plant. While other houseplants sit quietly on a desk, this plant commands the entire room. Native to the tropical rainforests of Southeast Asia, it features massive, arrow-shaped, glossy green leaves with deeply prominent veins. A single leaf can easily grow to be 3 feet long and 2 feet wide. However, bringing a jungle giant into your living room comes with significant challenges. To push out leaves of that size, the plant acts as a massive biological engine. It requires intense sunlight, huge amounts of water, and heavy fertilization. Furthermore, Alocasias are infamous in the houseplant community for being the ultimate magnet for spider mites. Growing a Giant Elephant Ear successfully requires dedicated space, vigilance, and a rigorous feeding schedule. Light Requirements: Fueling the Giant You cannot grow a 6-foot tall plant in a dark corner. The Giant Elephant Ear requires massive amounts of bright, indirect light, and it highly appreciates several hours of direct morning sun. A large south-facing or east-facing window is mandatory. If the plant does not receive enough light, the massive stems will stretch out (etiolate), become weak, and snap under the weight of the leaves. Additionally, the plant will likely refuse to hold more than one or two leaves at a time, instantly killing off the old leaf the moment a new one attempts to emerge. Watering: The Fine Line Because the leaves are so large, they transpire (sweat) massive amounts of water into the air every day. Therefore, the plant is very thirsty. You must keep the soil evenly moist, watering thoroughly when the top 1 to 2 inches of soil feel dry. Do not let the pot dry out completely, or the massive leaves will droop dramatically and collapse onto the floor. However, despite its thirst, it is grown from a thick, potato-like rhizome/tuber that is highly susceptible to rot. If you water too frequently and the soil turns to mud, the tuber will rot and the entire plant will die within days. Proper drainage is the only thing standing between a thirsty plant and a rotting one. Temperature and Humidity This is a true tropical that despises the cold. Maintain temperatures between 65\u00b0F and 85\u00b0F (18\u00b0C - 29\u00b0C). If exposed to a cold draft below 55\u00b0F (12\u00b0C), the plant will assume winter has arrived and may intentionally drop all its leaves and go dormant until spring. Humidity is critical. It demands humidity levels above 60%. If the air is too dry, the edges of the giant leaves will crisp up, and the dry air will create the perfect breeding ground for spider mites. Soil and Potting You must use a very chunky, well-draining aroid mix. Combine high-quality potting soil with 30% coarse perlite and 20% orchid bark. Because it grows so rapidly, it will outgrow its pot quickly. You will likely need to repot it into a larger, very heavy pot every single spring. A heavy ceramic or terracotta pot is highly recommended to prevent the top-heavy plant from tipping over. The Spider Mite Magnet There is a running joke among botanists: if you want to know if you have spider mites in your house, buy an Alocasia. Spider mites love the massive, thin leaves. They look like tiny grains of moving dust and leave fine webbing near the stem joints. They suck the sap out of the leaves, causing them to turn yellow and speckled. You must preemptively wipe down the massive leaves with a damp cloth every two weeks, and treat immediately with insecticidal soap if you see any signs of webbing. Toxicity The Giant Elephant Ear is highly toxic. It is packed with insoluble calcium oxalate crystals. If chewed by pets or children, it causes immediate, intense burning and swelling of the lips, tongue, and throat, along with severe vomiting. Its sheer size usually deters pets, but caution is still required.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/alocasia-macrorrhiza/",
+        "lastReviewed": "2026-07-27",
+        "license": "CC BY 4.0"
+    }
+}

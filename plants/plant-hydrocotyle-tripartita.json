@@ -1,0 +1,561 @@
+{
+    "schemaVersion": "2.0.0",
+    "id": "plant-hydrocotyle-tripartita",
+    "entityType": "plant",
+    "primaryDomain": "aquatic",
+    "status": "published",
+    "slug": "hydrocotyle-tripartita",
+    "seoTitle": "Hydrocotyle Tripartita 'Japan' Care: Carpeting, Trimming & Wabi-Kusa | PlantSolve",
+    "metaDescription": "Care guide for Hydrocotyle tripartita (Japan): carpeting tips, trimming layered runners, submersed vs emergent Wabi-Kusa culture, lighting, and nutrient dosing.",
+    "featuredImage": "/assets/images/hydrocotyle-tripartita.webp",
+    "schemaType": [
+        "Taxon",
+        "Article",
+        "WebPage",
+        "FAQPage"
+    ],
+    "taxonomyTags": [
+        "aquatic-plants",
+        "freshwater-plants",
+        "carpeting-plants",
+        "wabi-kusa",
+        "paludarium",
+        "aquascaping"
+    ],
+    "references": [
+        {
+            "title": "Hydrocotyle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hydrocotyle",
+            "doi": ""
+        }
+    ],
+    "taxonomy": {
+        "sciName": "Hydrocotyle tripartita",
+        "family": "Araliaceae",
+        "genus": "Hydrocotyle",
+        "species": "tripartita",
+        "origin": "Southeast Asia and Australia/Oceania (wet riverbanks, muddy stream margins, and damp ditches)",
+        "type": "Aquatic Herb",
+        "nativeClimate": "Tropical to subtropical wetlands",
+        "commonUses": [
+            "Aquarium carpet",
+            "Wabi-kusa",
+            "Paludarium shoreline cover"
+        ],
+        "taxonType": "species"
+    },
+    "scientificName": "Hydrocotyle tripartita",
+    "commonNames": [
+        "Hydrocotyle 'Japan'",
+        "Mini Pennywort",
+        "Three-Part Pennywort",
+        "Japanese Pennywort"
+    ],
+    "family": "Araliaceae",
+    "genus": "Hydrocotyle",
+    "species": "tripartita",
+    "origin": "Southeast Asia and Australia/Oceania (wet riverbanks, muddy stream margins, and damp ditches)",
+    "growthHabit": "Fast-growing creeping stoloniferous herb with delicate tripartite clover-like leaves, forming dense low mats submersed or creeping carpets emergently in high humidity",
+    "care": {
+        "difficulty": "easy",
+        "placement": "Foreground carpet, trailing midground or emergent shoreline",
+        "watering": "Submersed, or emergent with constantly wet substrate and high humidity",
+        "soil": "Nutrient-rich aquasoil, wabi-kusa substrate or wet moss",
+        "pruning": "Trim every 1\u20132 weeks to prevent lower layers dying off",
+        "toxicity": "non-toxic",
+        "toxicityNote": "Not known to be harmful to fish, shrimp or snails.",
+        "bestFor": "Aquascapers and wabi-kusa builders who want a fast, soft carpet that works both underwater and above the waterline."
+    },
+    "vastu": {
+        "enabled": false,
+        "directions": [],
+        "rooms": [],
+        "light": [],
+        "purposes": [],
+        "difficulty": "none",
+        "petFriendly": true,
+        "indoorSuitable": true,
+        "notes": "Not applicable to Vastu Shastra principles as it is an aquatic plant.",
+        "sourceUrl": ""
+    },
+    "growthCharacteristics": {
+        "growthRate": "fast",
+        "matureHeight": "1-5 cm",
+        "matureSpread": "Spreading",
+        "lifeCycle": "Perennial",
+        "floweringSeason": "rare",
+        "containerFriendly": "yes",
+        "indoorCapable": "yes"
+    },
+    "parameters": {
+        "temperature": {
+            "recommended": "20-28\u00b0C (68-82\u00b0F)",
+            "survivable": "18-30\u00b0C"
+        },
+        "humidity": {
+            "recommended": "High for emergent growth",
+            "survivable": "Moderate"
+        },
+        "soilPH": {
+            "recommended": "6.0-7.5",
+            "survivable": "5.5-8.0"
+        }
+    },
+    "lighting": {
+        "description": "Medium to high light for flat carpeting; low light causes leggy growth.",
+        "sunlightHours": "8 hours daily (artificial aquarium light)",
+        "intensity": "80-200 PPFD",
+        "indoorWindow": "Not recommended for aquariums (algae risk)",
+        "shadeTolerance": "low"
+    },
+    "nutrients": {
+        "nitrogenDemand": "high",
+        "phosphateDemand": "medium",
+        "potassiumDemand": "high",
+        "micronutrientNotes": "Heavy consumer of potassium, nitrate and iron; pale new leaves indicate iron or nitrogen deficiency, pinholes indicate potassium starvation.",
+        "fertilizerFrequency": "Regular liquid fertilizer dosing, with root tabs under the carpet if needed.",
+        "organicOptions": "Nutrient-rich aquasoil or wabi-kusa substrate."
+    },
+    "relationships": [
+        {
+            "target": "light",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "Controls whether growth is flat and dense or tall and leggy."
+        },
+        {
+            "target": "trimming",
+            "type": "requirement",
+            "strength": 9,
+            "notes": "Regular trimming prevents lower layers from yellowing and detaching."
+        },
+        {
+            "target": "potassium",
+            "type": "requirement",
+            "strength": 8,
+            "notes": "Potassium starvation causes pinholes in leaves."
+        }
+    ],
+    "calculatorReferences": [
+        "paludarium-land-to-water-ratio-calculator"
+    ],
+    "faq": [
+        {
+            "question": "How do I plant Hydrocotyle tripartita from tissue culture?",
+            "answer": "Rinse off all gel, divide the cup into small portions and plant them shallowly in a nutrient-rich substrate with good light. Expect some melting while the plant adjusts. New growth should appear within one to two weeks."
+        },
+        {
+            "question": "How does Hydrocotyle 'Japan' behave under high light vs low light?",
+            "answer": "Under high light (up to about 200 PPFD) it stays flat, creeping and densely lobed. Under low light it grows taller and leggier as it stretches toward the light."
+        },
+        {
+            "question": "Can Hydrocotyle tripartita grow without injected CO2?",
+            "answer": "Yes. It grows without CO2 under moderate light with regular nutrients, though the carpet will be slower and less dense. CO2 gives tighter, faster carpeting."
+        },
+        {
+            "question": "Can I wrap Hydrocotyle around wabi-kusa substrate balls?",
+            "answer": "Yes. Runners root into damp substrate and cover mud balls quickly. Keep humidity high and the surface moist until it anchors."
+        },
+        {
+            "question": "Can Hydrocotyle tripartita be used as a floating plant?",
+            "answer": "It can float temporarily, but it is not a true floating plant and tends to grow leggy and weak that way. Plant it in substrate or on hardscape for best results."
+        },
+        {
+            "question": "How often should I trim Hydrocotyle tripartita?",
+            "answer": "Every 1\u20132 weeks in a high-growth tank, or every 2\u20133 weeks in slower setups. Regular trimming prevents lower layers from yellowing and detaching."
+        },
+        {
+            "question": "Why is my Hydrocotyle carpet turning yellow underneath?",
+            "answer": "Upper layers shade the lower ones. Trim and thin the carpet so light reaches the base, and check iron, nitrate and potassium levels."
+        },
+        {
+            "question": "What nutrients does Hydrocotyle tripartita need most?",
+            "answer": "It is a heavy consumer of potassium, nitrate and iron. Pale new leaves suggest iron or nitrogen deficiency, while pinholes point to potassium shortage."
+        },
+        {
+            "question": "Is Hydrocotyle 'Japan' safe for shrimp and nano fish?",
+            "answer": "Yes. Its fine mat gives shrimp a foraging surface and nano-fish fry a place to hide, and it is not harmful to tank inhabitants."
+        },
+        {
+            "question": "How do I propagate Hydrocotyle tripartita?",
+            "answer": "Snip a runner with 2\u20133 leaves and nodal roots, then press it into damp substrate or wet moss. It will root and spread."
+        },
+        {
+            "question": "Can Hydrocotyle tripartita grow in a paludarium?",
+            "answer": "Yes. It crosses the waterline easily, covers wet rock and forms natural ramps for semi-aquatic animals."
+        },
+        {
+            "question": "What water parameters suit Hydrocotyle tripartita?",
+            "answer": "pH 6.0\u20137.5, GH 3\u20138, KH 1\u20136, TDS 100\u2013220 ppm and 20\u201328\u00b0C (68\u201382\u00b0F). It tolerates soft to moderately hard water."
+        }
+    ],
+    "shortDesc": "Hydrocotyle tripartita 'Japan' is a fast, creeping pennywort for aquarium carpets and emergent wabi-kusa builds.",
+    "content": "<h2>Hydrocotyle tripartita 'Japan' Care at a Glance</h2><ul><li><strong>Light:</strong> 80\u2013200 PPFD. Low light makes it tall and leggy; strong light keeps it flat, creeping and densely lobed.</li><li><strong>Water:</strong> pH 6.0\u20137.5, GH 3\u20138, KH 1\u20136, TDS 100\u2013220 ppm, 20\u201328\u00b0C (68\u201382\u00b0F).</li><li><strong>Nutrients:</strong> Heavy feeder of potassium (K<sup>+</sup>), nitrate (NO<sub>3</sub><sup>\u2212</sup>) and iron (Fe).</li><li><strong>Maintenance:</strong> Trim regularly so the lower layers do not suffocate, yellow and detach.</li><li><strong>Propagation:</strong> Snip a runner with 2\u20133 leaves and nodal roots and press it into damp substrate.</li><li><strong>Best uses:</strong> Submersed foreground carpets, trailing midground bushes and emergent wabi-kusa or paludarium cover.</li></ul><h2>What Is Hydrocotyle tripartita 'Japan'?</h2><p>Hydrocotyle tripartita, sold in the hobby as Hydrocotyle 'Japan', Mini Pennywort or Three-Part Pennywort, is a fast-growing creeping stoloniferous herb in the family Araliaceae. Its small, delicate, clover-like leaves are deeply lobed into three parts, and it spreads by thin runners that root at the nodes. In the wild it grows on wet riverbanks, muddy stream margins and damp ditches across Southeast Asia and Australia/Oceania, so it handles both submersed and emergent life.</p><p>That amphibious habit is its main strength. It makes a soft, airy carpet in a planted tank, and it crosses the waterline without fuss in a <a href=\"/topics/how-to-make-wabi-kusa\">wabi-kusa</a> or paludarium, where it drapes over wet rock and covers mud balls.</p><ul><li>Forms compact foreground carpets or trailing midground bushes underwater.</li><li>Runs as an emergent creeper across shorelines, stone and moss.</li><li>Trims easily with curved aquascaping scissors and regrows quickly.</li></ul><h2>Growth Habit: Submersed vs Emergent</h2><h3>Submersed Culture</h3><p>Under moderate-to-high light and CO<sub>2</sub>, Hydrocotyle 'Japan' forms a compact, dense carpet or a trailing midground bush. Each runner roots as it travels, so the carpet knits itself to the substrate within a few weeks once established. Under weaker light the petioles stretch upward and the plant turns leggy rather than flat.</p><h3>Emergent Culture (Wabi-Kusa and Paludarium)</h3><p>Emergent growth is where this plant is exceptionally fast. The runner crosses the waterline smoothly, covers wabi-kusa mud balls, drapes over wet dragon stone and forms marginal transition ramps along the shore. For the build itself, see <a href=\"/topics/how-to-make-wabi-kusa\">how to make a wabi-kusa</a> and the <a href=\"/topics/wabi-kusa-substrate-recipe\">wabi-kusa substrate recipe</a>. If you are deciding how to lay out the shoreline, compare <a href=\"/topics/riparium-vs-paludarium\">riparium vs paludarium</a> designs and read about the <a href=\"/topics/paludarium-water-land-barrier\">paludarium water-land barrier</a>.</p><h2>Water and Environmental Parameters</h2><table><thead><tr><th>Parameter</th><th>Recommended Range</th></tr></thead><tbody><tr><td>pH</td><td>6.0\u20137.5</td></tr><tr><td>TDS</td><td>100\u2013220 ppm</td></tr><tr><td>GH</td><td>3\u20138</td></tr><tr><td>KH</td><td>1\u20136</td></tr><tr><td>Temperature</td><td>20\u201328\u00b0C (68\u201382\u00b0F)</td></tr><tr><td>Light</td><td>80\u2013200 PPFD</td></tr></tbody></table><p>The plant tolerates soft to moderately hard water. It is not fussy about pH inside this window, but very hard, alkaline water can lock out iron and slow new growth.</p><h2>Light and CO<sub>2</sub> Behavior</h2><p>Light is the main control over shape. Around 80 PPFD the plant grows taller and leggier, reaching for the surface. Toward 200 PPFD it stays flat, creeping and densely lobed. Injected CO<sub>2</sub> speeds up carpeting and gives tighter growth, but the plant can be grown without it if light is kept moderate and nutrients are consistent; expect slower, less dense coverage. Emergent plants get CO<sub>2</sub> from the air, which is a large reason they grow so quickly. Humidity and lamp guidance for emergent setups is covered in <a href=\"/topics/wabi-kusa-lighting-and-humidity\">wabi-kusa lighting and humidity</a>.</p><h2>Nutrition and Deficiency Signs</h2><p>Hydrocotyle tripartita is a heavy consumer of potassium, nitrate and iron. Underdosing shows up quickly on new growth.</p><ul><li><strong>Pale yellowish new leaves:</strong> iron and/or nitrogen deficiency.</li><li><strong>Pinholes in leaves:</strong> potassium starvation.</li><li><strong>Yellow, soft older leaves low in the carpet:</strong> usually shading and age rather than a nutrient problem; see trimming below.</li></ul><p>Dose a complete liquid fertilizer with extra potassium and chelated iron, or use a nutrient-rich substrate with root tabs under the carpet. Emergent plants on wabi-kusa balls draw nutrients from the substrate and a light misting of dilute fertilizer.</p><h2>Trimming and Carpet Maintenance</h2><h3>Why Layering Causes Problems</h3><p>This plant grows in dense horizontal tiers. The top layer shades the one beneath it, and without regular pruning the lower layers suffocate, turn yellow and detach, then float up or rot and feed algae.</p><h3>How to Trim</h3><ol><li>Use curved aquascaping scissors and cut the carpet back to a uniform height.</li><li>Remove the cuttings from the tank so they do not decay on the carpet.</li><li>Thin the thickest patches so light reaches the base.</li><li>Trim every 1\u20132 weeks in high-growth tanks, or about every 2\u20133 weeks in slower setups.</li><li>Dose fertilizer after trimming to support regrowth.</li></ol><h3>Propagation</h3><p>Propagate by stolon division. Snip any runner section with 2\u20133 leaves and adventitious nodal roots and press it into damp ADA Amazonia, wabi-kusa substrate or wet moss. Pairing it with <a href=\"/topics/paludarium-moss\">paludarium moss</a> helps new runners anchor on rock and wood.</p><h2>Fauna and Bioactive Integration</h2><p>The fine mat is an excellent foraging canopy for dwarf shrimp (Neocaridina and Caridina) and a safe nursery for nano-fish fry. In paludariums it provides soft grazing ground and natural egress ramps for semi-aquatic animals such as vampire crabs. Size the water and land areas with the <a href=\"/calculators/paludarium-land-to-water-ratio-calculator\">paludarium land-to-water ratio calculator</a>.</p><h2>Hydrocotyle 'Japan' vs Other Carpeting Plants</h2><p>Compared with Micranthemum 'Monte Carlo' and Glossostigma, Hydrocotyle 'Japan' is easier to keep and far better for amphibious use, but it grows taller and needs more trimming to stay flat. See the comparison table below.</p><table><thead><tr><th>Feature</th><th>Hydrocotyle 'Japan'</th><th>Monte Carlo</th><th>Glossostigma</th><th>Best Application</th></tr></thead><tbody><tr><td>Difficulty</td><td>Easy to moderate</td><td>Moderate</td><td>Demanding</td><td>Hydrocotyle for beginners</td></tr><tr><td>Emergent growth</td><td>Excellent</td><td>Good</td><td>Fair</td><td>Hydrocotyle for wabi-kusa</td></tr><tr><td>Carpet height</td><td>Taller, needs trimming</td><td>Low</td><td>Very low</td><td>Glossostigma for tight lawns</td></tr></tbody></table><h2>Companion Plants and Hardscape</h2><p>Pair Hydrocotyle 'Japan' with epiphytes such as <a href=\"/plants/bucephalandra\">Bucephalandra</a> and <a href=\"/plants/anubias-nana\">Anubias nana</a> on wood or stone. Their slower growth contrasts well with the runner, and the pennywort fills gaps between mounted plants. Keep runners trimmed away from the leaves of slow plants so they are not shaded.</p><h2>Common Problems</h2><p>Most issues come from low light, thick unpruned layers or too little potassium and iron. Check the troubleshooting section for symptom-by-symptom fixes.</p><ul><li>Lower layer detaching: trim and thin more often.</li><li>Leggy vertical growth: raise light or reduce shading.</li><li>Pinholes or pale new leaves: increase potassium, nitrate and iron.</li></ul>",
+    "quickAnswer": "Hydrocotyle tripartita 'Japan' grows best at 80\u2013200 PPFD, where it stays flat and dense instead of tall and leggy. Trim regularly so the lower layers do not suffocate, yellow and detach. It suits both high-tech aquarium carpets and emergent wabi-kusa balls.",
+    "ogImage": "/assets/images/hydrocotyle-tripartita.webp",
+    "ogImageAlt": "Hydrocotyle tripartita 'Japan' carpet in a planted aquarium",
+    "heroImage": "/assets/images/hydrocotyle-tripartita.webp",
+    "heroImageAlt": "Hydrocotyle tripartita 'Japan' carpet in a planted aquarium",
+    "featuredImageAlt": "Hydrocotyle tripartita 'Japan' carpet in a planted aquarium",
+    "category": "Aquatic Plants",
+    "publishedAt": "2026-10-04",
+    "updatedAt": "2026-10-04",
+    "author": "PlantSolve Editorial Team",
+    "troubleshooting": [
+        {
+            "symptom": "Lower carpet layer detaching and floating",
+            "diagnosis": "Dense upper tiers shade the lower layers, which die and release from the substrate.",
+            "treatment": "Trim the carpet back, remove loose debris and thin thick patches so light reaches the base.",
+            "prevention": "Trim every 1\u20132 weeks and keep the carpet low and thin.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Vertical leggy growth",
+            "diagnosis": "Light too low, so petioles stretch toward the surface.",
+            "treatment": "Raise light toward 120\u2013200 PPFD, trim tall stems and replant the tops as new runners.",
+            "prevention": "Keep PPFD in the 80\u2013200 range and avoid shading by floating plants or hardscape.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Yellowing or chlorosis of leaf margins",
+            "diagnosis": "Iron, nitrogen or potassium deficiency, or very hard alkaline water limiting iron uptake.",
+            "treatment": "Dose chelated iron, nitrate and potassium; check KH and pH are within range.",
+            "prevention": "Dose a complete fertilizer on a schedule and test nitrate regularly.",
+            "confidence": 0.85,
+            "evidence": []
+        },
+        {
+            "symptom": "Melting after planting tissue culture",
+            "diagnosis": "Transition stress from the sealed cup to open water; old leaves die while new growth adapts.",
+            "treatment": "Rinse off gel, split into small portions, plant shallowly with good light, nutrients and CO2 if available, and wait for new growth.",
+            "prevention": "Provide stable parameters and avoid heavy trimming during the first weeks.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Black algae on older foliage",
+            "diagnosis": "Poor flow, fluctuating CO2 and decaying old leaves provide a foothold for algae.",
+            "treatment": "Trim off affected foliage, improve circulation and stabilise CO2 and nutrients.",
+            "prevention": "Prune old leaves regularly and keep nutrients balanced.",
+            "confidence": 0.75,
+            "evidence": []
+        },
+        {
+            "symptom": "Runners failing to anchor to rock",
+            "diagnosis": "Surface too smooth or dry, or runner moved by flow before roots form.",
+            "treatment": "Pin runners with thread, rubber band or moss and keep the surface wet or humid.",
+            "prevention": "Use rough rock or moss and keep water movement gentle until anchored.",
+            "confidence": 0.8,
+            "evidence": []
+        },
+        {
+            "symptom": "Stunted, curled leaves",
+            "diagnosis": "Nutrient shortage, especially potassium or iron, or excessive flow or light shock.",
+            "treatment": "Raise fertilizer levels, check water parameters and reduce harsh flow.",
+            "prevention": "Dose consistently and adjust light gradually.",
+            "confidence": 0.75,
+            "evidence": []
+        },
+        {
+            "symptom": "Dried leaf tips in emergent setups",
+            "diagnosis": "Low humidity, drafts or substrate drying out.",
+            "treatment": "Increase humidity, mist or cover the container, and keep the substrate wet. See wabi-kusa humidity guidance.",
+            "prevention": "Maintain high humidity and consistent moisture.",
+            "confidence": 0.85,
+            "evidence": []
+        }
+    ],
+    "glossaryTerms": [
+        {
+            "term": "Stolon",
+            "definition": "A creeping horizontal stem that roots at its nodes to form new plants; Hydrocotyle spreads by stolons."
+        },
+        {
+            "term": "Wabi-kusa",
+            "definition": "A Japanese style of growing plants in a ball of substrate, often emergently, as a living centerpiece."
+        },
+        {
+            "term": "PPFD",
+            "definition": "Photosynthetic photon flux density, the amount of usable light reaching the plants, measured in \u00b5mol/m\u00b2/s."
+        },
+        {
+            "term": "Emergent",
+            "definition": "Growth with leaves above the waterline, in air with high humidity."
+        }
+    ],
+    "referenceTables": [
+        {
+            "title": "Cultivation Parameter Matrix",
+            "headers": [
+                "Parameter",
+                "Submersed Carpet",
+                "Emergent / Wabi-Kusa",
+                "Critical Threshold"
+            ],
+            "rows": [
+                [
+                    "Light",
+                    "80-200 PPFD",
+                    "Strong lamp over the setup, about 80-200 PPFD at leaf level",
+                    "Under 80 PPFD causes leggy growth"
+                ],
+                [
+                    "Temperature",
+                    "20-28\u00b0C (68-82\u00b0F)",
+                    "20-28\u00b0C (68-82\u00b0F)",
+                    "Above 28\u00b0C slows growth"
+                ],
+                [
+                    "pH",
+                    "6.0-7.5",
+                    "6.0-7.5 in substrate water",
+                    "Outside 6.0-7.5 reduces nutrient uptake"
+                ],
+                [
+                    "Hardness",
+                    "GH 3-8, KH 1-6, TDS 100-220 ppm",
+                    "Soft to moderately hard water",
+                    "Very hard water limits iron"
+                ],
+                [
+                    "Humidity",
+                    "N/A (aquatic)",
+                    "High, substrate kept wet",
+                    "Dry air causes dried leaf tips"
+                ],
+                [
+                    "Nutrients",
+                    "K, NO3, Fe regularly dosed",
+                    "Wet nutrient-rich substrate and dilute misting",
+                    "Pinholes mean potassium shortage"
+                ]
+            ]
+        },
+        {
+            "title": "Hydrocotyle tripartita vs Micranthemum 'Monte Carlo' vs Glossostigma",
+            "headers": [
+                "Feature",
+                "Hydrocotyle 'Japan'",
+                "Monte Carlo",
+                "Glossostigma",
+                "Best Application"
+            ],
+            "rows": [
+                [
+                    "Difficulty",
+                    "Easy to moderate",
+                    "Moderate",
+                    "Demanding",
+                    "Hydrocotyle for beginners"
+                ],
+                [
+                    "Light need",
+                    "Medium to high",
+                    "Medium to high",
+                    "High",
+                    "Glossostigma for high-tech lawns"
+                ],
+                [
+                    "Carpet height",
+                    "Taller, needs trimming",
+                    "Low",
+                    "Very low",
+                    "Glossostigma for tight lawns"
+                ],
+                [
+                    "Emergent growth",
+                    "Excellent",
+                    "Good",
+                    "Fair",
+                    "Hydrocotyle for wabi-kusa"
+                ],
+                [
+                    "Runner speed",
+                    "Fast",
+                    "Moderate",
+                    "Moderate to fast",
+                    "Hydrocotyle for fast coverage"
+                ]
+            ]
+        }
+    ],
+    "comparisonTable": {
+        "title": "Hydrocotyle Species Comparison",
+        "headers": [
+            "Feature",
+            "Hydrocotyle tripartita",
+            "Hydrocotyle leucocephala",
+            "Hydrocotyle verticillata"
+        ],
+        "rows": [
+            [
+                "Leaf shape",
+                "Small, three-lobed, clover-like",
+                "Larger, rounded",
+                "Round, peltate, on upright stalks"
+            ],
+            [
+                "Growth habit",
+                "Low creeping carpet",
+                "Trailing or floating stems",
+                "Upright to trailing"
+            ],
+            [
+                "Best use",
+                "Foreground carpet and wabi-kusa",
+                "Midground and floating cover",
+                "Background and riparium"
+            ],
+            [
+                "Maintenance",
+                "Frequent trimming to stay flat",
+                "Moderate",
+                "Moderate"
+            ],
+            [
+                "Light need",
+                "Medium to high",
+                "Low to high",
+                "Low to high"
+            ]
+        ]
+    },
+    "h1": "Hydrocotyle tripartita 'Japan' Care Guide: Carpet, Trimming & Emergent Growth",
+    "breadcrumbName": "Hydrocotyle tripartita",
+    "relatedEntitySlugs": [
+        "plants:anubias-nana",
+        "plants:bucephalandra",
+        "topics:how-to-make-wabi-kusa",
+        "topics:paludarium-moss",
+        "topics:paludarium-water-land-barrier",
+        "topics:riparium-vs-paludarium",
+        "topics:wabi-kusa-lighting-and-humidity",
+        "topics:wabi-kusa-substrate-recipe"
+    ],
+    "expertInsights": [
+        {
+            "type": "mistake",
+            "title": "Biggest Owner Mistake",
+            "content": "Letting the carpet grow untrimmed. The top layer shades the lower layers, which turn yellow and detach, and the carpet breaks apart from underneath."
+        },
+        {
+            "type": "hidden_truth",
+            "title": "What Nobody Tells You",
+            "content": "Light decides the shape. The same plant is flat and dense at high light and tall and leggy at low light, so raise light before blaming nutrients."
+        },
+        {
+            "type": "environment",
+            "title": "Real Setup Conditions",
+            "content": "In wabi-kusa and paludarium builds it grows faster out of the water than in it, so keep emergent runners trimmed and well anchored."
+        }
+    ],
+    "searchIntents": [
+        {
+            "text": "hydrocotyle tripartita",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "hydrocotyle japan",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "mini pennywort",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        },
+        {
+            "text": "japanese pennywort",
+            "type": "alias",
+            "source": "bing",
+            "approved": true
+        }
+    ],
+    "commonName": "Hydrocotyle 'Japan'",
+    "aliases": [
+        "Hydrocotyle 'Japan'",
+        "Mini Pennywort",
+        "Three-Part Pennywort",
+        "Japanese Pennywort"
+    ],
+    "summary": "Hydrocotyle tripartita 'Japan' is a fast-growing creeping pennywort for submersed aquarium carpets and emergent wabi-kusa or paludarium builds. This guide covers light, nutrients, trimming and troubleshooting.",
+    "keyTakeaways": [
+        "Provide 80\u2013200 PPFD to keep growth flat and dense instead of leggy.",
+        "Trim every 1\u20132 weeks so lower layers do not suffocate and detach.",
+        "Dose potassium, nitrate and iron; pinholes mean potassium, pale new leaves mean iron or nitrogen.",
+        "Propagate by pressing 2\u20133 leaf runner sections with nodal roots into damp substrate or moss.",
+        "Use it emergent on wabi-kusa balls and wet rock, or submersed as a foreground carpet."
+    ],
+    "confidenceLevel": "medium",
+    "readingTime": 7,
+    "lastReviewed": "2026-10-04",
+    "plantHero": {
+        "plantType": "Aquatic Herb",
+        "difficulty": "beginner",
+        "light": "Medium to high light",
+        "lightMin": "80 PPFD",
+        "lightMax": "200 PPFD",
+        "water": "Submersed in aquarium water, or emergent with constantly wet substrate",
+        "drynessThreshold": null,
+        "droughtTolerance": null,
+        "dormancyShift": false,
+        "humidity": "High when emergent",
+        "temperature": "20-28\u00b0C (68-82\u00b0F)",
+        "matureSize": "1-5 cm tall, spreading",
+        "growthRate": "Fast",
+        "soil": "Nutrient-rich aquasoil or wabi-kusa substrate",
+        "soilDrainage": null,
+        "fertilizer": "Liquid fertilizer with potassium, nitrate and iron",
+        "repottingFrequency": "Not applicable",
+        "potPreference": "Planted in substrate or on hardscape",
+        "propagation": "Stolon division",
+        "flowering": false,
+        "floweringSeason": "Rare",
+        "petSafety": "safe",
+        "petSafetyNote": null,
+        "nativeRegion": "Southeast Asia and Australia/Oceania",
+        "usdaZones": "9-11",
+        "seasonality": "year-round",
+        "sources": []
+    },
+    "geo": {
+        "targetAudience": [
+            "US",
+            "CA",
+            "GB",
+            "DE",
+            "FR",
+            "AU"
+        ],
+        "unitSystems": [
+            "metric",
+            "imperial"
+        ]
+    },
+    "structuredData": {
+        "suppressHowTo": true,
+        "aboutEntities": [
+            "carpeting plants"
+        ]
+    },
+    "canonicalUrl": "https://www.plantsolve.com/plants/hydrocotyle-tripartita/",
+    "petSafe": {
+        "cat": null,
+        "dog": null,
+        "sources": [],
+        "note": "Aquatic plant; limited pet exposure and no definitive toxicity confirmation."
+    },
+    "contentText": "Hydrocotyle tripartita 'Japan' Care at a Glance Light: 80\u2013200 PPFD. Low light makes it tall and leggy; strong light keeps it flat, creeping and densely lobed. Water: pH 6.0\u20137.5, GH 3\u20138, KH 1\u20136, TDS 100\u2013220 ppm, 20\u201328\u00b0C (68\u201382\u00b0F). Nutrients: Heavy feeder of potassium (K + ), nitrate (NO 3 \u2212 ) and iron (Fe). Maintenance: Trim regularly so the lower layers do not suffocate, yellow and detach. Propagation: Snip a runner with 2\u20133 leaves and nodal roots and press it into damp substrate. Best uses: Submersed foreground carpets, trailing midground bushes and emergent wabi-kusa or paludarium cover. What Is Hydrocotyle tripartita 'Japan'? Hydrocotyle tripartita, sold in the hobby as Hydrocotyle 'Japan', Mini Pennywort or Three-Part Pennywort, is a fast-growing creeping stoloniferous herb in the family Araliaceae. Its small, delicate, clover-like leaves are deeply lobed into three parts, and it spreads by thin runners that root at the nodes. In the wild it grows on wet riverbanks, muddy stream margins and damp ditches across Southeast Asia and Australia/Oceania, so it handles both submersed and emergent life. That amphibious habit is its main strength. It makes a soft, airy carpet in a planted tank, and it crosses the waterline without fuss in a wabi-kusa or paludarium, where it drapes over wet rock and covers mud balls. Forms compact foreground carpets or trailing midground bushes underwater. Runs as an emergent creeper across shorelines, stone and moss. Trims easily with curved aquascaping scissors and regrows quickly. Growth Habit: Submersed vs Emergent Submersed Culture Under moderate-to-high light and CO 2 , Hydrocotyle 'Japan' forms a compact, dense carpet or a trailing midground bush. Each runner roots as it travels, so the carpet knits itself to the substrate within a few weeks once established. Under weaker light the petioles stretch upward and the plant turns leggy rather than flat. Emergent Culture (Wabi-Kusa and Paludarium) Emergent growth is where this plant is exceptionally fast. The runner crosses the waterline smoothly, covers wabi-kusa mud balls, drapes over wet dragon stone and forms marginal transition ramps along the shore. For the build itself, see how to make a wabi-kusa and the wabi-kusa substrate recipe . If you are deciding how to lay out the shoreline, compare riparium vs paludarium designs and read about the paludarium water-land barrier . Water and Environmental Parameters Parameter Recommended Range pH 6.0\u20137.5 TDS 100\u2013220 ppm GH 3\u20138 KH 1\u20136 Temperature 20\u201328\u00b0C (68\u201382\u00b0F) Light 80\u2013200 PPFD The plant tolerates soft to moderately hard water. It is not fussy about pH inside this window, but very hard, alkaline water can lock out iron and slow new growth. Light and CO 2 Behavior Light is the main control over shape. Around 80 PPFD the plant grows taller and leggier, reaching for the surface. Toward 200 PPFD it stays flat, creeping and densely lobed. Injected CO 2 speeds up carpeting and gives tighter growth, but the plant can be grown without it if light is kept moderate and nutrients are consistent; expect slower, less dense coverage. Emergent plants get CO 2 from the air, which is a large reason they grow so quickly. Humidity and lamp guidance for emergent setups is covered in wabi-kusa lighting and humidity . Nutrition and Deficiency Signs Hydrocotyle tripartita is a heavy consumer of potassium, nitrate and iron. Underdosing shows up quickly on new growth. Pale yellowish new leaves: iron and/or nitrogen deficiency. Pinholes in leaves: potassium starvation. Yellow, soft older leaves low in the carpet: usually shading and age rather than a nutrient problem; see trimming below. Dose a complete liquid fertilizer with extra potassium and chelated iron, or use a nutrient-rich substrate with root tabs under the carpet. Emergent plants on wabi-kusa balls draw nutrients from the substrate and a light misting of dilute fertilizer. Trimming and Carpet Maintenance Why Layering Causes Problems This plant grows in dense horizontal tiers. The top layer shades the one beneath it, and without regular pruning the lower layers suffocate, turn yellow and detach, then float up or rot and feed algae. How to Trim Use curved aquascaping scissors and cut the carpet back to a uniform height. Remove the cuttings from the tank so they do not decay on the carpet. Thin the thickest patches so light reaches the base. Trim every 1\u20132 weeks in high-growth tanks, or about every 2\u20133 weeks in slower setups. Dose fertilizer after trimming to support regrowth. Propagation Propagate by stolon division. Snip any runner section with 2\u20133 leaves and adventitious nodal roots and press it into damp ADA Amazonia, wabi-kusa substrate or wet moss. Pairing it with paludarium moss helps new runners anchor on rock and wood. Fauna and Bioactive Integration The fine mat is an excellent foraging canopy for dwarf shrimp (Neocaridina and Caridina) and a safe nursery for nano-fish fry. In paludariums it provides soft grazing ground and natural egress ramps for semi-aquatic animals such as vampire crabs. Size the water and land areas with the paludarium land-to-water ratio calculator . Hydrocotyle 'Japan' vs Other Carpeting Plants Compared with Micranthemum 'Monte Carlo' and Glossostigma, Hydrocotyle 'Japan' is easier to keep and far better for amphibious use, but it grows taller and needs more trimming to stay flat. See the comparison table below. Feature Hydrocotyle 'Japan' Monte Carlo Glossostigma Best Application Difficulty Easy to moderate Moderate Demanding Hydrocotyle for beginners Emergent growth Excellent Good Fair Hydrocotyle for wabi-kusa Carpet height Taller, needs trimming Low Very low Glossostigma for tight lawns Companion Plants and Hardscape Pair Hydrocotyle 'Japan' with epiphytes such as Bucephalandra and Anubias nana on wood or stone. Their slower growth contrasts well with the runner, and the pennywort fills gaps between mounted plants. Keep runners trimmed away from the leaves of slow plants so they are not shaded. Common Problems Most issues come from low light, thick unpruned layers or too little potassium and iron. Check the troubleshooting section for symptom-by-symptom fixes. Lower layer detaching: trim and thin more often. Leggy vertical growth: raise light or reduce shading. Pinholes or pale new leaves: increase potassium, nitrate and iron.",
+    "citation": {
+        "source": "PlantSolve",
+        "canonicalUrl": "https://www.plantsolve.com/plants/hydrocotyle-tripartita/",
+        "lastReviewed": "2026-10-04",
+        "license": "CC BY 4.0"
+    }
+}
